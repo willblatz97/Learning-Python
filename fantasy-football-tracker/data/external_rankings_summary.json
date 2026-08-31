@@ -1,0 +1,13 @@
+{
+  "player_id_mappings": 4677,
+  "ranking_rows": 1591,
+  "ranking_types": [
+    "do",
+    "dsf",
+    "ro"
+  ],
+  "scrape_dates": [
+    "2026-08-28"
+  ],
+  "source": "dynastyprocess/data (FantasyPros consensus mirror)"
+}

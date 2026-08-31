@@ -61881,10 +61881,10 @@
     "hashtag": "#chrisbraswell-NFL-TB-43",
     "height": "75",
     "high_school": "Saint Frances Academy (MD)",
-    "injury_body_part": "Undisclosed",
+    "injury_body_part": null,
     "injury_notes": null,
     "injury_start_date": null,
-    "injury_status": "Questionable",
+    "injury_status": null,
     "kalshi_id": "42fd6d3b-da06-4b17-949a-3ab56741837f",
     "last_name": "Braswell",
     "metadata": {
@@ -90326,7 +90326,7 @@
       "genius_id": "1483900",
       "rookie_year": "2024"
     },
-    "news_updated": 1787974242241,
+    "news_updated": 1788190813108,
     "number": 31,
     "oddsjam_id": "60C765BD35D6",
     "opta_id": null,
@@ -126842,7 +126842,7 @@
       "genius_id": "1500212",
       "rookie_year": "2025"
     },
-    "news_updated": 1785371714556,
+    "news_updated": 1788190813109,
     "number": 33,
     "oddsjam_id": "50D3055A655AA64C",
     "opta_id": null,
@@ -133580,7 +133580,7 @@
       "genius_id": "1499063",
       "rookie_year": "2025"
     },
-    "news_updated": 1787040343774,
+    "news_updated": 1788190813125,
     "number": 47,
     "oddsjam_id": "A8D93A77935FE134",
     "opta_id": null,
@@ -160466,7 +160466,7 @@
       "genius_id": "1785444",
       "rookie_year": "2025"
     },
-    "news_updated": 1753317632414,
+    "news_updated": 1788191112917,
     "number": 42,
     "oddsjam_id": "AF4247BE1B583B54",
     "opta_id": null,
@@ -715567,7 +715567,7 @@
       "genius_id": "1398586",
       "rookie_year": "2023"
     },
-    "news_updated": 1787807460056,
+    "news_updated": 1788190811400,
     "number": 0,
     "oddsjam_id": "DA5A17B9EDF4",
     "opta_id": null,
