@@ -24,14 +24,14 @@ No opponent starter injury/practice flags currently detected.
 
 ## 18-Team Chopped — Surviving the Chamber
 Team: Masta’s
-Projected rank 17/18 — lineup proxy 134.65; projected chop line 134.12; safety margin +0.53
+Projected rank 13/18 — lineup proxy 150.55; projected chop line 134.12; safety margin +16.43
 
 ### Lineup actions
-- CHANGE FLEX: Greg Dulcich (12.2) -> Myles Price (14.6); delta 2.4; injury clear
+No lineup changes clear the current action threshold.
 
 ### Your injury / practice watch
-- Malik Nabers — QUESTIONABLE; best legal bench option: Myles Price
-- Tucker Kraft — QUESTIONABLE; best legal bench option: none
+- Malik Nabers — QUESTIONABLE; best legal bench option: Barion Brown
+- Tucker Kraft — QUESTIONABLE; best legal bench option: Greg Dulcich
 - Cameron Dicker — QUESTIONABLE; best legal bench option: none
 
 ### Chop-field injury leverage

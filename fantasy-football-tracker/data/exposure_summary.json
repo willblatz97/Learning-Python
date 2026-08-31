@@ -400,15 +400,6 @@
     },
     {
       "free_agent_leagues": 1,
-      "full_name": "Jack Bech",
-      "my_leagues": "1",
-      "nfl_team": "LV",
-      "player_id": "12483",
-      "position": "WR",
-      "rostered_leagues": "3"
-    },
-    {
-      "free_agent_leagues": 1,
       "full_name": "Jacoby Brissett",
       "my_leagues": "0",
       "nfl_team": "ARI",
@@ -451,6 +442,15 @@
       "player_id": "12484",
       "position": "WR",
       "rostered_leagues": "3"
+    },
+    {
+      "free_agent_leagues": 1,
+      "full_name": "Jaydon Blue",
+      "my_leagues": "0",
+      "nfl_team": "",
+      "player_id": "12457",
+      "position": "RB",
+      "rostered_leagues": "3"
     }
   ],
   "opponent_roster_ids": {
@@ -472,7 +472,7 @@
   "pre_draft_league_ids": [
     "1359546418284494848"
   ],
-  "snapshot_utc": "2026-08-31T16:33:43+00:00",
+  "snapshot_utc": "2026-08-31T16:43:45+00:00",
   "top_nfl_team_exposure": [
     {
       "nfl_team": "DAL",
@@ -523,10 +523,10 @@
       "unique_players_owned": 5
     },
     {
-      "nfl_team": "MIA",
-      "players_owned": "De'Von Achane | Greg Dulcich | Malik Washington",
-      "players_started": "De'Von Achane | Greg Dulcich",
-      "roster_slots_across_leagues": 5,
+      "nfl_team": "DET",
+      "players_owned": "Amon-Ra St. Brown | Isiah Pacheco | Jacob Saylors",
+      "players_started": "Amon-Ra St. Brown | Jacob Saylors",
+      "roster_slots_across_leagues": 3,
       "starting_slots_across_leagues": 2,
       "unique_players_owned": 3
     },
@@ -535,6 +535,14 @@
       "players_owned": "Jameis Winston | Malik Nabers",
       "players_started": "Malik Nabers",
       "roster_slots_across_leagues": 3,
+      "starting_slots_across_leagues": 2,
+      "unique_players_owned": 2
+    },
+    {
+      "nfl_team": "MIN",
+      "players_owned": "Aaron Jones | Myles Price",
+      "players_started": "Aaron Jones | Myles Price",
+      "roster_slots_across_leagues": 2,
       "starting_slots_across_leagues": 2,
       "unique_players_owned": 2
     },
@@ -555,18 +563,10 @@
       "unique_players_owned": 3
     },
     {
-      "nfl_team": "GB",
-      "players_owned": "Jayden Reed | Luke Musgrave | Tucker Kraft",
-      "players_started": "Tucker Kraft",
-      "roster_slots_across_leagues": 3,
-      "starting_slots_across_leagues": 1,
-      "unique_players_owned": 3
-    },
-    {
-      "nfl_team": "LV",
-      "players_owned": "Ashton Jeanty | Jack Bech | Kirk Cousins",
-      "players_started": "Ashton Jeanty",
-      "roster_slots_across_leagues": 3,
+      "nfl_team": "MIA",
+      "players_owned": "De'Von Achane | Greg Dulcich | Malik Washington",
+      "players_started": "De'Von Achane",
+      "roster_slots_across_leagues": 5,
       "starting_slots_across_leagues": 1,
       "unique_players_owned": 3
     }
@@ -637,15 +637,6 @@
     },
     {
       "exposure_pct": 40.0,
-      "full_name": "Greg Dulcich",
-      "leagues_owned": 2,
-      "leagues_started": 1,
-      "nfl_team": "MIA",
-      "player_id": "8172",
-      "position": "TE"
-    },
-    {
-      "exposure_pct": 40.0,
       "full_name": "Luther Burden",
       "leagues_owned": 2,
       "leagues_started": 1,
@@ -670,6 +661,15 @@
       "nfl_team": "JAX",
       "player_id": "12544",
       "position": "RB"
+    },
+    {
+      "exposure_pct": 40.0,
+      "full_name": "Greg Dulcich",
+      "leagues_owned": 2,
+      "leagues_started": 0,
+      "nfl_team": "MIA",
+      "player_id": "8172",
+      "position": "TE"
     },
     {
       "exposure_pct": 40.0,

@@ -22,10 +22,10 @@ FAAB remaining: 1000 / 1000
 ### Adds
 1. Samaje Perine (RB CIN) — WATCH 45.6 — ECR 262.41 — FAAB 20-50 — return-scoring league candidate injected before final ranking | return role KR +2.87 pts/g | offense+return dual role
 2. Justice Hill (RB BAL) — WATCH 45.4 — ECR 236.52 — FAAB 20-50 — return-scoring league candidate injected before final ranking | return role KR +0.22 pts/g | offense+return dual role
-3. Jacob Saylors (RB DET) — WATCH 44.0 — ECR 333.0 — FAAB 0-20 — return-scoring league candidate injected before final ranking | return role KR +8.15 pts/g | offense+return dual role
-4. Evan Engram (TE DEN) — WATCH 43.3 — ECR 253.98 — FAAB 0-20 — consensus ECR 253.98 | rostered in most comparable leagues | depth-chart starter | thin TE depth on your roster
-5. Malik Davis (RB DAL) — WATCH 41.7 — ECR 273.91 — FAAB 0-20 — consensus ECR 273.91 | rostered in most comparable leagues | primary backup | 1 recent cross-league add(s) | thin RB depth on your roster | return role KR +0.17 pts/g | offense+return dual role
-6. Kaelon Black (RB SF) — WATCH 41.6 — ECR 237.76 — FAAB 0-20 — consensus ECR 237.76 | rostered in most comparable leagues | primary backup | thin RB depth on your roster
+3. Evan Engram (TE DEN) — WATCH 43.3 — ECR 253.98 — FAAB 0-20 — consensus ECR 253.98 | rostered in most comparable leagues | depth-chart starter | thin TE depth on your roster
+4. Will Shipley (RB PHI) — WATCH 39.9 — ECR 310.44 — FAAB 0-20 — return-scoring league candidate injected before final ranking | return role KR +5.55 pts/g | offense+return dual role
+5. LeQuint Allen Jr. (RB JAX) — WATCH 39.7 — ECR 262.4 — FAAB 0-20 — return-scoring league candidate injected before final ranking | return role KR +1.08 pts/g | offense+return dual role
+6. Ty Johnson (RB BUF) — WATCH 39.6 — ECR 259.3 — FAAB 0-20 — return-scoring league candidate injected before final ranking | return role KR +0.39 pts/g | offense+return dual role
 
 ### Recommended cuts
 No recommended cuts from the current roster-value model.

@@ -15965,7 +15965,7 @@
       "genius_id": "1399222",
       "rookie_year": "2023"
     },
-    "news_updated": 1788131159577,
+    "news_updated": 1788194113438,
     "number": 44,
     "oddsjam_id": "D0E9A49430D5",
     "opta_id": null,
@@ -67530,7 +67530,7 @@
       "genius_id": "1463991",
       "rookie_year": "2024"
     },
-    "news_updated": 1786917016917,
+    "news_updated": 1788193813727,
     "number": 6,
     "oddsjam_id": "6A241803B996",
     "opta_id": null,
@@ -124775,7 +124775,7 @@
       "genius_id": "1504824",
       "rookie_year": "2025"
     },
-    "news_updated": 1788131759485,
+    "news_updated": 1788193813740,
     "number": 95,
     "oddsjam_id": "793E65311C30E8F3",
     "opta_id": null,
@@ -383442,10 +383442,10 @@
     "hashtag": "#lucaspatrick-NFL-NYG-62",
     "height": "75",
     "high_school": "Brentwood (TN)",
-    "injury_body_part": "Knee",
+    "injury_body_part": null,
     "injury_notes": null,
     "injury_start_date": null,
-    "injury_status": "Questionable",
+    "injury_status": null,
     "kalshi_id": "99998145-af75-467d-b229-5f05658c56d4",
     "last_name": "Patrick",
     "metadata": {
@@ -660694,7 +660694,7 @@
       "genius_id": "1080504",
       "rookie_year": "2022"
     },
-    "news_updated": 1787633743334,
+    "news_updated": 1788193811704,
     "number": 22,
     "oddsjam_id": "1E940316EDB9",
     "opta_id": null,
@@ -676271,7 +676271,7 @@
       "genius_id": "1077396",
       "rookie_year": "2022"
     },
-    "news_updated": 1788131159588,
+    "news_updated": 1788193813726,
     "number": 6,
     "oddsjam_id": "2B0483CA383A",
     "opta_id": null,
@@ -676504,10 +676504,10 @@
     "hashtag": "#chancecampbell-NFL-PHI-59",
     "height": "74",
     "high_school": "Calvert Hall (MD)",
-    "injury_body_part": "Hamstring",
+    "injury_body_part": null,
     "injury_notes": null,
     "injury_start_date": null,
-    "injury_status": "Questionable",
+    "injury_status": null,
     "kalshi_id": "d99f031c-5237-4a4c-9666-c257d8079da9",
     "last_name": "Campbell",
     "metadata": {

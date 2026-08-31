@@ -10,7 +10,7 @@ Current KR/PR role + 2025 return baseline. Dual-role status uses Sleeper offensi
 - 12-Team 2-Keeper — League Is Rigged V2: KR 0.0 pts/yd; PR 0.0 pts/yd; return TD 6.0 pts
 
 ## Primary returners with offensive role
-- Jacob Saylors (RB DET) — KR; offensive depth RB 3; proj return yds 81.5/g; HIGH confidence
+- Jacob Saylors (RB DET) — KR; offensive depth RB 3; proj return yds 81.5/g; HIGH confidence; yours: 18-Team Chopped — Surviving the Chamber
 - Malik Washington (WR MIA) — KR+PR; offensive depth SWR 1; proj return yds 72.1/g; HIGH confidence; yours: 10-Team Dynasty — Dynasty V2 | 10-Team Redraft — Big Tiger Takeover
 - Jaylin Noel (WR HOU) — KR+PR; offensive depth SWR 3; proj return yds 66.7/g; HIGH confidence
 - Ray Davis (RB BUF) — KR; offensive depth RB 3; proj return yds 55.5/g; HIGH confidence
@@ -31,9 +31,9 @@ Current KR/PR role + 2025 return baseline. Dual-role status uses Sleeper offensi
 ### 18-Team Chopped — Surviving the Chamber
 - KaVontae Turpin — +12.46 return pts/g (KR+PR, HIGH) — OWNED
 - Chimere Dike — +11.68 return pts/g (KR+PR, HIGH) — OWNED
-- Myles Price — +11.1 return pts/g (KR+PR, HIGH) — BENCH
+- Myles Price — +11.1 return pts/g (KR+PR, HIGH) — START
 - Luke McCaffrey — +8.54 return pts/g (KR+PR, HIGH) — FA
-- Jacob Saylors — +8.15 return pts/g (KR + OFF, HIGH) — FA
+- Jacob Saylors — +8.15 return pts/g (KR + OFF, HIGH) — START
 - Devin Duvernay — +7.65 return pts/g (KR+PR, HIGH) — FA
 - Marvin Mims Jr. — +7.4 return pts/g (KR+PR, HIGH) — OWNED
 - Malik Washington — +7.21 return pts/g (KR+PR + OFF, HIGH) — OWNED

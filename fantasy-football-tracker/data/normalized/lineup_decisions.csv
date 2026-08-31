@@ -12,10 +12,11 @@ league_id,league,slot,action,starter_id,starter,starter_pos,starter_score,starte
 1370453762442797056,18-Team Chopped — Surviving the Chamber,QB,HOLD,6770,Joe Burrow,QB,23.45,0.0,,,TB,6768,Tua Tagovailoa,QB,12.21,0.0,,-11.24,season-long ECR proxy
 1370453762442797056,18-Team Chopped — Surviving the Chamber,RB,HOLD,6813,Jonathan Taylor,RB,22.44,0.0,,,BAL,9225,Tank Bigsby,RB,14.12,0.38,KR,-8.32,season-long ECR proxy
 1370453762442797056,18-Team Chopped — Surviving the Chamber,RB,HOLD,4199,Aaron Jones,RB,16.36,0.0,,,GB,9225,Tank Bigsby,RB,14.12,0.38,KR,-2.24,season-long ECR proxy
-1370453762442797056,18-Team Chopped — Surviving the Chamber,WR,MONITOR,11632,Malik Nabers,WR,19.35,0.0,,QUESTIONABLE,DAL,13075,Myles Price,WR,14.6,11.1,KR+PR,-4.75,season-long ECR proxy
-1370453762442797056,18-Team Chopped — Surviving the Chamber,WR,HOLD,11628,Marvin Harrison,WR,19.78,0.0,,,LAC,13075,Myles Price,WR,14.6,11.1,KR+PR,-5.18,season-long ECR proxy
-1370453762442797056,18-Team Chopped — Surviving the Chamber,TE,MONITOR,9484,Tucker Kraft,TE,15.72,0.0,,QUESTIONABLE,MIN,,,,,,,,season-long ECR proxy
-1370453762442797056,18-Team Chopped — Surviving the Chamber,FLEX,CHANGE,8172,Greg Dulcich,TE,12.2,0.0,,,LV,13075,Myles Price,WR,14.6,11.1,KR+PR,2.4,season-long ECR proxy
+1370453762442797056,18-Team Chopped — Surviving the Chamber,WR,MONITOR,11632,Malik Nabers,WR,19.35,0.0,,QUESTIONABLE,DAL,13533,Barion Brown,WR,8.47,2.32,KR+PR,-10.88,season-long ECR proxy
+1370453762442797056,18-Team Chopped — Surviving the Chamber,WR,HOLD,11628,Marvin Harrison,WR,19.78,0.0,,,LAC,13533,Barion Brown,WR,8.47,2.32,KR+PR,-11.31,season-long ECR proxy
+1370453762442797056,18-Team Chopped — Surviving the Chamber,TE,MONITOR,9484,Tucker Kraft,TE,15.72,0.0,,QUESTIONABLE,MIN,8172,Greg Dulcich,TE,12.2,0.0,,-3.52,season-long ECR proxy
+1370453762442797056,18-Team Chopped — Surviving the Chamber,FLEX,HOLD,13075,Myles Price,WR,14.6,11.1,KR+PR,,GB,9225,Tank Bigsby,RB,14.12,0.38,KR,-0.48,season-long ECR proxy + league return scoring
+1370453762442797056,18-Team Chopped — Surviving the Chamber,FLEX,HOLD,11237,Jacob Saylors,RB,13.5,8.15,KR,,NO,9225,Tank Bigsby,RB,14.12,0.38,KR,0.62,season-long ECR proxy + league return scoring
 1370453762442797056,18-Team Chopped — Surviving the Chamber,K,MONITOR,8259,Cameron Dicker,K,5.35,0.0,,QUESTIONABLE,ARI,,,,,,,,season-long ECR proxy
 1370218620990263296,12-Team Dynasty — One League to Rule Them All,QB,HOLD,6770,Joe Burrow,QB,25.17,0.0,,,TB,1166,Kirk Cousins,QB,14.51,0.0,,-10.66,season-long ECR proxy
 1370218620990263296,12-Team Dynasty — One League to Rule Them All,RB,HOLD,12507,Omarion Hampton,RB,21.52,0.0,,,ARI,4035,Alvin Kamara,RB,9.08,0.0,,-12.44,season-long ECR proxy
