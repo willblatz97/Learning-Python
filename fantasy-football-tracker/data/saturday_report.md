@@ -4,7 +4,7 @@ Weekly consensus has not refreshed for the 2026 season yet, so current scores ar
 
 ## 10-Team Redraft — Big Tiger Takeover
 Team: Pinkman
-Opponent: Sutton My Face — lineup proxy 172.77 vs 181.43; margin -8.66
+Opponent: Sutton My Face — lineup proxy 172.66 vs 181.23; margin -8.57
 
 ### Lineup actions
 - LEAN CHANGE QB: Justin Herbert (21.37) -> Jayden Daniels (22.42); delta 1.05; injury clear
@@ -43,7 +43,7 @@ No lineup changes clear the current action threshold.
 
 ## 12-Team Dynasty — One League to Rule Them All
 Team: Nazgûl Nation
-Opponent: sneekyn33ks — lineup proxy 194.72 vs 193.00; margin +1.72
+Opponent: sneekyn33ks — lineup proxy 194.62 vs 193.00; margin +1.62
 
 ### Lineup actions
 No lineup changes clear the current action threshold.
@@ -63,7 +63,7 @@ No lineup changes clear the current action threshold.
 
 ## 10-Team Dynasty — Dynasty V2
 Team: Route 66ers
-Opponent: zthompson1533 — lineup proxy 187.06 vs 180.61; margin +6.45
+Opponent: zthompson1533 — lineup proxy 186.96 vs 180.40; margin +6.56
 
 ### Lineup actions
 No lineup changes clear the current action threshold.
@@ -78,4 +78,4 @@ No lineup changes clear the current action threshold.
 
 ### Opponent injury leverage
 - Ja'Marr Chase — QUESTIONABLE; current lineup score 20.80
-- Breece Hall — QUESTIONABLE; current lineup score 17.68
+- Breece Hall — QUESTIONABLE; current lineup score 17.57

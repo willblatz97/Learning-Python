@@ -26,10 +26,10 @@
           "starter_score": "18.56"
         }
       ],
-      "my_lineup_score": 187.06,
-      "opponent_or_chop_line": 180.61,
+      "my_lineup_score": 186.96,
+      "opponent_or_chop_line": 180.4,
       "opponent_or_chop_rank": "zthompson1533",
-      "projected_margin": 6.45,
+      "projected_margin": 6.56,
       "recommended_changes": [],
       "team": "Route 66ers",
       "type": "dynasty"
@@ -44,10 +44,10 @@
           "best_bench_pos": "WR",
           "best_bench_return_points": 0.0,
           "best_bench_return_roles": null,
-          "best_bench_score": "16.76",
+          "best_bench_score": "16.66",
           "league": "12-Team Dynasty \u2014 One League to Rule Them All",
           "league_id": "1370218620990263296",
-          "score_delta": -0.23,
+          "score_delta": -0.33,
           "score_source": "season-long ECR proxy",
           "slot": "WR",
           "starter": "Luther Burden",
@@ -66,10 +66,10 @@
           "best_bench_pos": "WR",
           "best_bench_return_points": 0.0,
           "best_bench_return_roles": null,
-          "best_bench_score": "16.76",
+          "best_bench_score": "16.66",
           "league": "12-Team Dynasty \u2014 One League to Rule Them All",
           "league_id": "1370218620990263296",
-          "score_delta": -2.8,
+          "score_delta": -2.9,
           "score_source": "season-long ECR proxy + injury ripple",
           "slot": "WR",
           "starter": "Emeka Egbuka",
@@ -82,10 +82,10 @@
           "starter_score": "19.56"
         }
       ],
-      "my_lineup_score": 194.72,
+      "my_lineup_score": 194.62,
       "opponent_or_chop_line": 193.0,
       "opponent_or_chop_rank": "sneekyn33ks",
-      "projected_margin": 1.72,
+      "projected_margin": 1.62,
       "recommended_changes": [],
       "team": "Nazg\u00fbl Nation",
       "type": "dynasty"
@@ -225,8 +225,8 @@
           "best_bench_score": "15.47",
           "league": "10-Team Redraft \u2014 Big Tiger Takeover",
           "league_id": "1389740418316374016",
-          "score_delta": -3.67,
-          "score_source": "season-long ECR proxy + OL health",
+          "score_delta": -3.56,
+          "score_source": "season-long ECR proxy + OL health + game-time weather",
           "slot": "FLEX",
           "starter": "Kenneth Walker",
           "starter_id": "8151",
@@ -235,13 +235,13 @@
           "starter_pos": "RB",
           "starter_return_points": 0.0,
           "starter_return_roles": null,
-          "starter_score": "19.14"
+          "starter_score": "19.03"
         }
       ],
-      "my_lineup_score": 172.77,
-      "opponent_or_chop_line": 181.43,
+      "my_lineup_score": 172.66,
+      "opponent_or_chop_line": 181.23,
       "opponent_or_chop_rank": "Sutton My Face",
-      "projected_margin": -8.66,
+      "projected_margin": -8.57,
       "recommended_changes": [
         {
           "action": "LEAN CHANGE",
@@ -272,7 +272,7 @@
   },
   "return_scoring_integrated": true,
   "season": 2026,
-  "snapshot_utc": "2026-08-31T17:37:18+00:00",
+  "snapshot_utc": "2026-08-31T17:49:05+00:00",
   "week": 1,
   "weekly_consensus_current": false
 }

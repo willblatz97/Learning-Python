@@ -3,7 +3,7 @@
 Projection mode: **PRESEASON / SEASON-LONG PROXY** · Usage: **2025 CONTEXT ONLY**
 
 ## 10-Team Redraft — Big Tiger Takeover
-- TRAILING — projection 172.77 · margin -8.66
+- TRAILING — projection 172.66 · margin -8.57
 - Action: LEAN CHANGE — QB: Justin Herbert -> Jayden Daniels (+1.05)
 - Waiver: KC Concepcion · MEDIUM · FAAB 3-7
 - Trade posture: PLAYOFF / RECOVERY PUSH
@@ -19,7 +19,7 @@ Projection mode: **PRESEASON / SEASON-LONG PROXY** · Usage: **2025 CONTEXT ONLY
 - Rebuild targets: none
 
 ## 12-Team Dynasty — One League to Rule Them All
-- TOSS-UP — projection 194.72 · margin 1.72
+- TOSS-UP — projection 194.62 · margin 1.62
 - Action: MONITOR — Luther Burden QUESTIONABLE; backup Courtland Sutton
 - Waiver: Jalon Daniels · WATCH · FAAB 0-1
 - Trade posture: DUAL TRACK — evaluate push and rebuild
@@ -27,7 +27,7 @@ Projection mode: **PRESEASON / SEASON-LONG PROXY** · Usage: **2025 CONTEXT ONLY
 - Rebuild targets: Fernando Mendoza, Jaxson Dart, Kenyon Sadiq, Jeremiyah Love, Jordyn Tyson
 
 ## 10-Team Dynasty — Dynasty V2
-- FAVORED — projection 187.06 · margin 6.45
+- FAVORED — projection 186.96 · margin 6.56
 - Action: MONITOR — Zay Flowers QUESTIONABLE; backup Luther Burden
 - Waiver: Kayshon Boutte · WATCH · FAAB 0-1
 - Trade posture: DUAL TRACK — evaluate push and rebuild
