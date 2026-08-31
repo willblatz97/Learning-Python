@@ -36,6 +36,8 @@ jobs:
         run: python fantasy-football-tracker/build_waivers.py
       - name: Refine waiver board with consensus and lineup eligibility
         run: python fantasy-football-tracker/refine_waivers_v2.py
+      - name: Finalize waiver board with roster context
+        run: python fantasy-football-tracker/finalize_waivers.py
       - name: Commit refreshed data
         run: |
           git config user.name "fantasy-tracker-bot"
