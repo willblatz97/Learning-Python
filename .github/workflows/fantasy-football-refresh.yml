@@ -26,6 +26,8 @@ jobs:
           python-version: '3.12'
       - name: Pull and normalize Sleeper data
         run: python fantasy-football-tracker/refresh_sleeper.py
+      - name: Build ownership and exposure analysis
+        run: python fantasy-football-tracker/build_exposure.py
       - name: Commit refreshed data
         run: |
           git config user.name "fantasy-tracker-bot"
@@ -34,6 +36,6 @@ jobs:
           if git diff --cached --quiet; then
             echo "No data changes"
           else
-            git commit -m "Refresh Sleeper fantasy data"
+            git commit -m "Refresh Sleeper fantasy data and exposure analysis"
             git push
           fi
