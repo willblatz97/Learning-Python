@@ -1,0 +1,49 @@
+league_id,league,league_type,player_id,player,position,nfl_team,roster_state,cut_score,cut_tier,depth_chart_order,injury_status,external_rostered_leagues,recent_adds,recent_drops,reasons,league_rank
+1389740418316374016,10-Team Redraft — Big Tiger Takeover,redraft,12527,Ashton Jeanty,RB,LV,START,0.0,HOLD,1,Questionable,3,1,1,starter protected | strong cross-league market demand,1
+1389740418316374016,10-Team Redraft — Big Tiger Takeover,redraft,11533,Brandon Aubrey,K,DAL,START,0.0,HOLD,1,,1,0,0,starter protected,2
+1389740418316374016,10-Team Redraft — Big Tiger Takeover,redraft,10219,Chris Rodriguez,RB,JAX,BENCH,0.0,HOLD,2,,3,1,1,strong cross-league market demand,3
+1389740418316374016,10-Team Redraft — Big Tiger Takeover,redraft,5872,Deebo Samuel,WR,SF,BENCH,0.0,HOLD,2,,3,0,0,strong cross-league market demand,4
+1389740418316374016,10-Team Redraft — Big Tiger Takeover,redraft,8146,Garrett Wilson,WR,NYJ,START,0.0,HOLD,1,,3,0,0,starter protected | strong cross-league market demand,5
+1389740418316374016,10-Team Redraft — Big Tiger Takeover,redraft,7564,Ja'Marr Chase,WR,CIN,START,0.0,HOLD,1,Questionable,3,0,0,starter protected | strong cross-league market demand,6
+1389740418316374016,10-Team Redraft — Big Tiger Takeover,redraft,12533,Jacory Croskey-Merritt,RB,WAS,BENCH,0.0,HOLD,1,Questionable,3,0,0,strong cross-league market demand,7
+1389740418316374016,10-Team Redraft — Big Tiger Takeover,redraft,8110,Jake Ferguson,TE,DAL,START,0.0,HOLD,1,,3,0,0,starter protected | strong cross-league market demand,8
+1389740418316374016,10-Team Redraft — Big Tiger Takeover,redraft,11566,Jayden Daniels,QB,WAS,BENCH,0.0,HOLD,1,,3,0,0,strong cross-league market demand,9
+1389740418316374016,10-Team Redraft — Big Tiger Takeover,redraft,6797,Justin Herbert,QB,LAC,START,0.0,HOLD,1,,3,0,0,starter protected | strong cross-league market demand,10
+1389740418316374016,10-Team Redraft — Big Tiger Takeover,redraft,11632,Malik Nabers,WR,NYG,START,0.0,HOLD,1,Questionable,3,0,0,starter protected | strong cross-league market demand,11
+1389740418316374016,10-Team Redraft — Big Tiger Takeover,redraft,11610,Malik Washington,WR,MIA,BENCH,0.0,HOLD,1,,3,1,0,strong cross-league market demand,12
+1370453762442797056,18-Team Chopped — Surviving the Chamber,chopped,13533,Barion Brown,WR,NO,BENCH,46.0,ONLY IF NEEDED,5,,0,1,0,buried on depth chart | little cross-league market demand,1
+1370453762442797056,18-Team Chopped — Surviving the Chamber,chopped,13075,Myles Price,WR,MIN,BENCH,46.0,ONLY IF NEEDED,5,,0,1,0,buried on depth chart | little cross-league market demand,2
+1370453762442797056,18-Team Chopped — Surviving the Chamber,chopped,12483,Jack Bech,WR,LV,BENCH,29.0,HOLD,4,,2,0,0,buried on depth chart | strong cross-league market demand,3
+1370453762442797056,18-Team Chopped — Surviving the Chamber,chopped,12497,Tory Horton,WR,SEA,BENCH,29.0,HOLD,4,Questionable,2,0,0,buried on depth chart | strong cross-league market demand,4
+1370453762442797056,18-Team Chopped — Surviving the Chamber,chopped,9225,Tank Bigsby,RB,PHI,BENCH,5.0,HOLD,2,,2,1,1,strong cross-league market demand,5
+1370453762442797056,18-Team Chopped — Surviving the Chamber,chopped,9753,Zach Charbonnet,RB,SEA,BENCH,5.0,HOLD,2,PUP,2,0,0,strong cross-league market demand,6
+1370453762442797056,18-Team Chopped — Surviving the Chamber,chopped,4199,Aaron Jones,RB,MIN,START,0.0,HOLD,2,,3,0,0,starter protected | strong cross-league market demand,7
+1370453762442797056,18-Team Chopped — Surviving the Chamber,chopped,8259,Cameron Dicker,K,LAC,START,0.0,HOLD,1,Questionable,1,0,0,starter protected,8
+1370453762442797056,18-Team Chopped — Surviving the Chamber,chopped,8172,Greg Dulcich,TE,MIA,START,0.0,HOLD,1,,2,1,1,starter protected | strong cross-league market demand,9
+1370453762442797056,18-Team Chopped — Surviving the Chamber,chopped,6770,Joe Burrow,QB,CIN,START,0.0,HOLD,1,,3,0,0,starter protected | strong cross-league market demand,10
+1370453762442797056,18-Team Chopped — Surviving the Chamber,chopped,6813,Jonathan Taylor,RB,IND,START,0.0,HOLD,1,,3,0,0,starter protected | strong cross-league market demand,11
+1370453762442797056,18-Team Chopped — Surviving the Chamber,chopped,11632,Malik Nabers,WR,NYG,START,0.0,HOLD,1,Questionable,3,0,0,starter protected | strong cross-league market demand,12
+1370218620990263296,12-Team Dynasty — One League to Rule Them All,dynasty,9502,Tank Dell,WR,HOU,IR,75.0,SAFE CUT,5,IR,1,0,2,buried on depth chart | surplus WR depth | inactive,1
+1370218620990263296,12-Team Dynasty — One League to Rule Them All,dynasty,4950,Christian Kirk,WR,SF,IR,59.0,CUTTABLE,8,IR,2,0,0,buried on depth chart | strong cross-league market demand | surplus WR depth | inactive,2
+1370218620990263296,12-Team Dynasty — One League to Rule Them All,dynasty,13353,Chris Brazzell,WR,CAR,TAXI,42.0,ONLY IF NEEDED,7,IR,1,0,0,buried on depth chart | surplus WR depth | young dynasty asset protected | inactive,3
+1370218620990263296,12-Team Dynasty — One League to Rule Them All,dynasty,13342,John Michael Gyllenborg,TE,KC,TAXI,42.0,ONLY IF NEEDED,3,IR,0,0,0,little cross-league market demand | surplus TE depth | young dynasty asset protected | inactive,4
+1370218620990263296,12-Team Dynasty — One League to Rule Them All,dynasty,9481,Luke Musgrave,TE,GB,IR,38.0,HOLD,3,PUP,0,0,0,little cross-league market demand | surplus TE depth,5
+1370218620990263296,12-Team Dynasty — One League to Rule Them All,dynasty,9757,Kendre Miller,RB,NO,BENCH,33.0,HOLD,3,,1,0,0,surplus RB depth,6
+1370218620990263296,12-Team Dynasty — One League to Rule Them All,dynasty,11435,Emanuel Wilson,RB,SEA,BENCH,23.0,HOLD,3,Questionable,2,0,0,strong cross-league market demand | surplus RB depth,7
+1370218620990263296,12-Team Dynasty — One League to Rule Them All,dynasty,6826,Cole Kmet,TE,CHI,BENCH,20.0,HOLD,2,,1,1,0,surplus TE depth,8
+1370218620990263296,12-Team Dynasty — One League to Rule Them All,dynasty,4035,Alvin Kamara,RB,NO,BENCH,19.0,HOLD,2,Questionable,2,0,0,strong cross-league market demand | surplus RB depth,9
+1370218620990263296,12-Team Dynasty — One League to Rule Them All,dynasty,1166,Kirk Cousins,QB,LV,BENCH,19.0,HOLD,2,,1,0,0,roster-value hold,10
+1370218620990263296,12-Team Dynasty — One League to Rule Them All,dynasty,2306,Jameis Winston,QB,NYG,BENCH,16.0,HOLD,2,,1,1,0,roster-value hold,11
+1370218620990263296,12-Team Dynasty — One League to Rule Them All,dynasty,8205,Isiah Pacheco,RB,DET,BENCH,13.0,HOLD,2,Questionable,2,0,0,strong cross-league market demand | surplus RB depth,12
+1366076769534251008,10-Team Dynasty — Dynasty V2,dynasty,13353,Chris Brazzell,WR,CAR,TAXI,42.0,ONLY IF NEEDED,7,IR,1,0,0,buried on depth chart | surplus WR depth | young dynasty asset protected | inactive,1
+1366076769534251008,10-Team Dynasty — Dynasty V2,dynasty,12544,LeQuint Allen,RB,JAX,BENCH,21.0,HOLD,3,Questionable,1,0,0,surplus RB depth | young dynasty asset protected,2
+1366076769534251008,10-Team Dynasty — Dynasty V2,dynasty,12492,Pat Bryant,WR,DEN,BENCH,21.0,HOLD,4,,2,0,0,buried on depth chart | strong cross-league market demand | surplus WR depth | young dynasty asset protected,3
+1366076769534251008,10-Team Dynasty — Dynasty V2,dynasty,7527,Mac Jones,QB,SF,BENCH,19.0,HOLD,2,,1,0,0,roster-value hold,4
+1366076769534251008,10-Team Dynasty — Dynasty V2,dynasty,7571,Rashod Bateman,WR,BAL,BENCH,13.0,HOLD,2,,2,0,0,strong cross-league market demand | surplus WR depth,5
+1366076769534251008,10-Team Dynasty — Dynasty V2,dynasty,13282,Jack Endries,TE,CIN,TAXI,11.0,HOLD,5,,1,0,0,buried on depth chart | surplus TE depth | young dynasty asset protected,6
+1366076769534251008,10-Team Dynasty — Dynasty V2,dynasty,10219,Chris Rodriguez,RB,JAX,BENCH,3.0,HOLD,2,,3,1,1,strong cross-league market demand | surplus RB depth,7
+1366076769534251008,10-Team Dynasty — Dynasty V2,dynasty,10222,Jayden Reed,WR,GB,BENCH,3.0,HOLD,2,,3,0,0,strong cross-league market demand | surplus WR depth,8
+1366076769534251008,10-Team Dynasty — Dynasty V2,dynasty,12474,Woody Marks,RB,HOU,BENCH,1.0,HOLD,2,,2,0,0,strong cross-league market demand | surplus RB depth | young dynasty asset protected,9
+1366076769534251008,10-Team Dynasty — Dynasty V2,dynasty,7547,Amon-Ra St. Brown,WR,DET,START,0.0,HOLD,1,,3,0,0,starter protected | strong cross-league market demand | surplus WR depth,10
+1366076769534251008,10-Team Dynasty — Dynasty V2,dynasty,13272,Carson Beck,QB,ARI,TAXI,0.0,HOLD,2,Questionable,1,0,0,young dynasty asset protected,11
+1366076769534251008,10-Team Dynasty — Dynasty V2,dynasty,7594,Chuba Hubbard,RB,CAR,BENCH,0.0,HOLD,1,Questionable,3,0,0,strong cross-league market demand | surplus RB depth,12
