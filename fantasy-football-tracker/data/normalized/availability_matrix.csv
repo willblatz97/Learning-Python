@@ -43,6 +43,7 @@ player_id,full_name,position,nfl_team,active,status,injury_status,practice_parti
 11435,Emanuel Wilson,RB,SEA,True,Active,Questionable,,RB,3,FA,OWNED,BENCH,OWNED,PREDRAFT,1,3,1,0,0,False,True
 13337,Emmett Johnson,RB,KC,True,Active,,,RB,2,FA,OWNED,OWNED,TAXI,PREDRAFT,1,3,1,0,0,False,True
 8205,Isiah Pacheco,RB,DET,True,Active,Questionable,,RB,2,FA,OWNED,BENCH,OWNED,PREDRAFT,1,3,1,0,0,False,True
+8800,Malik Davis,RB,DAL,True,Active,,,RB,2,FA,BENCH,OWNED,OWNED,PREDRAFT,1,3,1,0,0,False,True
 9225,Tank Bigsby,RB,PHI,True,Active,,,RB,2,FA,BENCH,OWNED,OWNED,PREDRAFT,1,3,1,0,0,False,True
 12474,Woody Marks,RB,HOU,True,Active,,,RB,2,FA,OWNED,OWNED,BENCH,PREDRAFT,1,3,1,0,0,False,True
 9753,Zach Charbonnet,RB,SEA,True,Active,PUP,,RB,2,FA,IR,OWNED,OWNED,PREDRAFT,1,3,1,0,0,False,True
@@ -284,7 +285,6 @@ PHI,Philadelphia Eagles,DEF,PHI,True,,,,,,START,FA,FA,FA,PREDRAFT,3,1,1,1,0,True
 4018,Joe Mixon,RB,,True,Active,Questionable,,,,FA,OWNED,OWNED,FA,PREDRAFT,2,2,0,0,0,True,True
 13414,Kaelon Black,RB,SF,True,Active,,,RB,2,FA,FA,OWNED,OWNED,PREDRAFT,2,2,0,0,0,True,True
 11647,Kimani Vidal,RB,LAC,True,Active,,,RB,3,FA,OWNED,OPP,FA,PREDRAFT,2,2,0,0,1,True,True
-8800,Malik Davis,RB,DAL,True,Active,,,RB,2,FA,FA,OWNED,OWNED,PREDRAFT,2,2,0,0,0,True,True
 12495,Ollie Gordon,RB,MIA,True,Active,Questionable,,RB,3,FA,FA,OWNED,OWNED,PREDRAFT,2,2,0,0,0,True,True
 9506,Sean Tucker,RB,TB,True,Active,,,RB,3,FA,OWNED,OPP,FA,PREDRAFT,2,2,0,0,1,True,True
 11589,Trey Benson,RB,ARI,True,Inactive,IR,,RB,5,FA,FA,OWNED,OWNED,PREDRAFT,2,2,0,0,0,True,True
@@ -521,8 +521,8 @@ SEA,Seattle Seahawks,DEF,SEA,True,,,,,,OWNED,FA,FA,FA,PREDRAFT,3,1,0,0,0,True,Tr
 12441,Chase Williams,CB,,True,Active,,,,,FA,FA,FA,FA,PREDRAFT,4,0,0,0,0,True,False
 4107,Chidobe Awuzie,CB,BAL,True,Active,,,RCB,1,FA,FA,FA,FA,PREDRAFT,4,0,0,0,0,True,False
 11938,Chigozie Anusiem,CB,LV,True,Inactive,IR,,DB,,FA,FA,FA,FA,PREDRAFT,4,0,0,0,0,True,False
-5105,Chris Campbell,CB,,True,Active,,,,,FA,FA,FA,FA,PREDRAFT,4,0,0,0,0,True,False
 5350,Chris Campbell,CB,,True,Active,,,,,FA,FA,FA,FA,PREDRAFT,4,0,0,0,0,True,False
+5105,Chris Campbell,CB,,True,Active,,,,,FA,FA,FA,FA,PREDRAFT,4,0,0,0,0,True,False
 869,Chris Harris,CB,,True,Active,,,,,FA,FA,FA,FA,PREDRAFT,4,0,0,0,0,True,False
 5815,Chris Jones,CB,,True,Active,,,,,FA,FA,FA,FA,PREDRAFT,4,0,0,0,0,True,False
 5508,Chris Lammons,CB,,True,Active,Questionable,,,,FA,FA,FA,FA,PREDRAFT,4,0,0,0,0,True,False
@@ -946,7 +946,7 @@ SEA,Seattle Seahawks,DEF,SEA,True,,,,,,OWNED,FA,FA,FA,PREDRAFT,3,1,0,0,0,True,Tr
 1779,Mitchell White,CB,,True,Active,,,,,FA,FA,FA,FA,PREDRAFT,4,0,0,0,0,True,False
 11317,Montrae Braswell,CB,,True,Active,,,,,FA,FA,FA,FA,PREDRAFT,4,0,0,0,0,True,False
 1145,Morris Claiborne,CB,,True,Active,,,,,FA,FA,FA,FA,PREDRAFT,4,0,0,0,0,True,False
-13874,Mory Bamba,CB,NYJ,True,Active,Questionable,,,,FA,FA,FA,FA,PREDRAFT,4,0,0,0,0,True,False
+13874,Mory Bamba,CB,NYJ,True,Active,,,,,FA,FA,FA,FA,PREDRAFT,4,0,0,0,0,True,False
 2799,Mylan Hicks,CB,,True,Active,,,,,FA,FA,FA,FA,PREDRAFT,4,0,0,0,0,True,False
 11515,Myles Brooks,CB,,True,Active,,,,,FA,FA,FA,FA,PREDRAFT,4,0,0,0,0,True,False
 12236,Myles Jones,CB,,True,Active,,,,,FA,FA,FA,FA,PREDRAFT,4,0,0,0,0,True,False
@@ -1214,8 +1214,8 @@ SEA,Seattle Seahawks,DEF,SEA,True,,,,,,OWNED,FA,FA,FA,PREDRAFT,3,1,0,0,0,True,Tr
 12377,Anthony Averett,DB,,True,Active,,,,,FA,FA,FA,FA,PREDRAFT,4,0,0,0,0,True,False
 11321,Anthony Cook,DB,,True,Active,,,,,FA,FA,FA,FA,PREDRAFT,4,0,0,0,0,True,False
 2719,Anthony Harris,DB,,True,Active,,,,,FA,FA,FA,FA,PREDRAFT,4,0,0,0,0,True,False
-11036,Anthony Johnson,DB,CHI,True,Active,,,,,FA,FA,FA,FA,PREDRAFT,4,0,0,0,0,True,False
 11112,Anthony Johnson,DB,,True,Active,,,,,FA,FA,FA,FA,PREDRAFT,4,0,0,0,0,True,False
+11036,Anthony Johnson,DB,CHI,True,Active,,,,,FA,FA,FA,FA,PREDRAFT,4,0,0,0,0,True,False
 1298,Anthony Levine,DB,BAL,True,Active,,,,,FA,FA,FA,FA,PREDRAFT,4,0,0,0,0,True,False
 5687,Anthony Sherrils,DB,,True,Active,,,,,FA,FA,FA,FA,PREDRAFT,4,0,0,0,0,True,False
 6917,Antoine Brooks,DB,,True,Active,,,,,FA,FA,FA,FA,PREDRAFT,4,0,0,0,0,True,False
@@ -2804,8 +2804,8 @@ WAS,WAS,DEF,WAS,True,,,,,,FA,FA,FA,FA,PREDRAFT,4,0,0,0,0,True,False
 13622,Monkell Goodwine,DL,,True,Active,,,,,FA,FA,FA,FA,PREDRAFT,4,0,0,0,0,True,False
 8291,Myjai Sanders,DL,,True,Active,,,,,FA,FA,FA,FA,PREDRAFT,4,0,0,0,0,True,False
 12602,Mykel Williams,DL,SF,True,Active,PUP,,RDE,1,FA,FA,FA,FA,PREDRAFT,4,0,0,0,0,True,False
-12195,Myles Murphy,DL,,True,Active,,,,,FA,FA,FA,FA,PREDRAFT,4,0,0,0,0,True,False
 10875,Myles Murphy,DL,CIN,True,Active,Questionable,,LDE,1,FA,FA,FA,FA,PREDRAFT,4,0,0,0,0,True,False
+12195,Myles Murphy,DL,,True,Active,,,,,FA,FA,FA,FA,PREDRAFT,4,0,0,0,0,True,False
 8338,Myron Tagovailoa-Amosa,DL,,True,Inactive,,,,,FA,FA,FA,FA,PREDRAFT,4,0,0,0,0,True,False
 7450,Nasir Player,DL,,True,Active,,,,,FA,FA,FA,FA,PREDRAFT,4,0,0,0,0,True,False
 12155,Nate Lynn,DL,NYJ,True,Active,,,,,FA,FA,FA,FA,PREDRAFT,4,0,0,0,0,True,False
@@ -3874,8 +3874,8 @@ WAS,WAS,DEF,WAS,True,,,,,,FA,FA,FA,FA,PREDRAFT,4,0,0,0,0,True,False
 13388,CJ Allen,LB,IND,True,Active,,,MLB,1,FA,FA,FA,FA,PREDRAFT,4,0,0,0,0,True,False
 13971,Caden Fordham,LB,TB,True,Active,,,LILB,3,FA,FA,FA,FA,PREDRAFT,4,0,0,0,0,True,False
 7447,Cale Garrett,LB,,True,Active,,,,,FA,FA,FA,FA,PREDRAFT,4,0,0,0,0,True,False
-7846,Caleb Johnson,LB,,True,Active,,,,,FA,FA,FA,FA,PREDRAFT,4,0,0,0,0,True,False
 11303,Caleb Johnson,LB,,True,Active,,,,,FA,FA,FA,FA,PREDRAFT,4,0,0,0,0,True,False
+7846,Caleb Johnson,LB,,True,Active,,,,,FA,FA,FA,FA,PREDRAFT,4,0,0,0,0,True,False
 8599,Caliph Brice,LB,,True,Active,,,,,FA,FA,FA,FA,PREDRAFT,4,0,0,0,0,True,False
 7902,Calvin Bundage,LB,,True,Active,,,,,FA,FA,FA,FA,PREDRAFT,4,0,0,0,0,True,False
 4643,Calvin Munson,LB,,True,Active,,,,,FA,FA,FA,FA,PREDRAFT,4,0,0,0,0,True,False
@@ -3996,8 +3996,8 @@ WAS,WAS,DEF,WAS,True,,,,,,FA,FA,FA,FA,PREDRAFT,4,0,0,0,0,True,False
 12645,David Walker,LB,TB,True,Active,,,LOLB,3,FA,FA,FA,FA,PREDRAFT,4,0,0,0,0,True,False
 5673,Davin Bellamy,LB,,True,Active,,,,,FA,FA,FA,FA,PREDRAFT,4,0,0,0,0,True,False
 6912,Davion Taylor,LB,,True,Active,,,,,FA,FA,FA,FA,PREDRAFT,4,0,0,0,0,True,False
-7493,De'Jon Harris,LB,,True,Active,,,,,FA,FA,FA,FA,PREDRAFT,4,0,0,0,0,True,False
 7504,De'Jon Harris,LB,,True,Active,,,,,FA,FA,FA,FA,PREDRAFT,4,0,0,0,0,True,False
+7493,De'Jon Harris,LB,,True,Active,,,,,FA,FA,FA,FA,PREDRAFT,4,0,0,0,0,True,False
 8641,De'Shaan Dixon,LB,,True,Active,,,,,FA,FA,FA,FA,PREDRAFT,4,0,0,0,0,True,False
 3276,De'Vondre Campbell,LB,,True,Active,,,,,FA,FA,FA,FA,PREDRAFT,4,0,0,0,0,True,False
 11170,DeAndre Square,LB,,True,Active,,,,,FA,FA,FA,FA,PREDRAFT,4,0,0,0,0,True,False
@@ -4541,7 +4541,7 @@ WAS,WAS,DEF,WAS,True,,,,,,FA,FA,FA,FA,PREDRAFT,4,0,0,0,0,True,False
 967,Robert Quinn,LB,,True,Active,,,,,FA,FA,FA,FA,PREDRAFT,4,0,0,0,0,True,False
 5726,Robert Spillane,LB,NE,True,Active,,,LILB,1,FA,FA,FA,FA,PREDRAFT,4,0,0,0,0,True,False
 4834,Rodney Butler,LB,,True,Active,,,,,FA,FA,FA,FA,PREDRAFT,4,0,0,0,0,True,False
-8517,Rodney Thomas,LB,SEA,True,Active,Questionable,,,,FA,FA,FA,FA,PREDRAFT,4,0,0,0,0,True,False
+8517,Rodney Thomas,LB,SEA,True,Active,,,,,FA,FA,FA,FA,PREDRAFT,4,0,0,0,0,True,False
 13361,Romello Height,LB,SF,True,Active,Questionable,,LDE,3,FA,FA,FA,FA,PREDRAFT,4,0,0,0,0,True,False
 7330,Romeo Finley,LB,,True,Inactive,,,,,FA,FA,FA,FA,PREDRAFT,4,0,0,0,0,True,False
 3502,Romeo Okwara,LB,,True,Active,,,,,FA,FA,FA,FA,PREDRAFT,4,0,0,0,0,True,False
@@ -5562,8 +5562,8 @@ WAS,WAS,DEF,WAS,True,,,,,,FA,FA,FA,FA,PREDRAFT,4,0,0,0,0,True,False
 8233,Mataeo Durant,RB,,True,Active,,,,,FA,FA,FA,FA,PREDRAFT,4,0,0,0,0,True,False
 12288,Mathieu Severance,RB,,True,Active,,,,,FA,FA,FA,FA,PREDRAFT,4,0,0,0,0,True,False
 4455,Matt Breida,RB,,True,Active,,,,,FA,FA,FA,FA,PREDRAFT,4,0,0,0,0,True,False
-6352,Matt Colburn,RB,,True,Active,,,,,FA,FA,FA,FA,PREDRAFT,4,0,0,0,0,True,False
 6385,Matt Colburn,RB,,True,Active,,,,,FA,FA,FA,FA,PREDRAFT,4,0,0,0,0,True,False
+6352,Matt Colburn,RB,,True,Active,,,,,FA,FA,FA,FA,PREDRAFT,4,0,0,0,0,True,False
 8218,Max Borghi,RB,,True,Active,,,,,FA,FA,FA,FA,PREDRAFT,4,0,0,0,0,True,False
 8085,Mekhi Sargent,RB,,True,Active,,,,,FA,FA,FA,FA,PREDRAFT,4,0,0,0,0,True,False
 2320,Melvin Gordon,RB,,True,Active,,,,,FA,FA,FA,FA,PREDRAFT,4,0,0,0,0,True,False
@@ -5640,8 +5640,8 @@ WAS,WAS,DEF,WAS,True,,,,,,FA,FA,FA,FA,PREDRAFT,4,0,0,0,0,True,False
 13416,Roman Hemby,RB,LV,True,Active,,,,,FA,FA,FA,FA,PREDRAFT,4,0,0,0,0,True,False
 3883,Romar Morris,RB,,True,Active,,,,,FA,FA,FA,FA,PREDRAFT,4,0,0,0,0,True,False
 11182,Ronald Awatt,RB,,True,Active,,,,,FA,FA,FA,FA,PREDRAFT,4,0,0,0,0,True,False
-4955,Ronald Jones,RB,,True,Active,,,,,FA,FA,FA,FA,PREDRAFT,4,0,0,0,0,True,False
 5052,Ronald Jones,RB,,True,Active,,,,,FA,FA,FA,FA,PREDRAFT,4,0,0,0,0,True,False
+4955,Ronald Jones,RB,,True,Active,,,,,FA,FA,FA,FA,PREDRAFT,4,0,0,0,0,True,False
 11413,Ronnie Brown,RB,,True,Active,,,,,FA,FA,FA,FA,PREDRAFT,4,0,0,0,0,True,False
 8195,Ronnie Rivers,RB,LAR,True,Active,,,RB,3,FA,FA,FA,FA,PREDRAFT,4,0,0,0,0,True,False
 2981,Ross Scheuerman,RB,,True,Active,,,,,FA,FA,FA,FA,PREDRAFT,4,0,0,0,0,True,False
@@ -6579,7 +6579,7 @@ WAS,WAS,DEF,WAS,True,,,,,,FA,FA,FA,FA,PREDRAFT,4,0,0,0,0,True,False
 5223,Caleb Scott,WR,TEN,True,Active,,,,,FA,FA,FA,FA,PREDRAFT,4,0,0,0,0,True,False
 8125,Calvin Austin,WR,NYG,True,Inactive,IR,,PR,7,FA,FA,FA,FA,PREDRAFT,4,0,0,0,0,True,False
 8251,Calvin Jackson,WR,,True,Active,,,,,FA,FA,FA,FA,PREDRAFT,4,0,0,0,0,True,False
-12906,Cam Camper,WR,NYJ,True,Active,Questionable,,,,FA,FA,FA,FA,PREDRAFT,4,0,0,0,0,True,False
+12906,Cam Camper,WR,NYJ,True,Active,,,,,FA,FA,FA,FA,PREDRAFT,4,0,0,0,0,True,False
 12086,Cam Johnson,WR,,True,Active,,,,,FA,FA,FA,FA,PREDRAFT,4,0,0,0,0,True,False
 5432,Cam Sims,WR,,True,Active,,,,,FA,FA,FA,FA,PREDRAFT,4,0,0,0,0,True,False
 2938,Cam Worthy,WR,,True,Active,,,,,FA,FA,FA,FA,PREDRAFT,4,0,0,0,0,True,False
@@ -6603,8 +6603,8 @@ WAS,WAS,DEF,WAS,True,,,,,,FA,FA,FA,FA,PREDRAFT,4,0,0,0,0,True,False
 8198,Charleston Rambo,WR,,True,Inactive,,,,,FA,FA,FA,FA,PREDRAFT,4,0,0,0,0,True,False
 10228,Charlie Jones,WR,,True,Active,,,,,FA,FA,FA,FA,PREDRAFT,4,0,0,0,0,True,False
 6886,Chase Claypool,WR,,True,Inactive,,,,,FA,FA,FA,FA,PREDRAFT,4,0,0,0,0,True,False
-11554,Chase Cota,WR,,True,Active,,,,,FA,FA,FA,FA,PREDRAFT,4,0,0,0,0,True,False
 11347,Chase Cota,WR,,True,Active,,,,,FA,FA,FA,FA,PREDRAFT,4,0,0,0,0,True,False
+11554,Chase Cota,WR,,True,Active,,,,,FA,FA,FA,FA,PREDRAFT,4,0,0,0,0,True,False
 13410,Chase Roberts,WR,LV,True,Active,Questionable,,,,FA,FA,FA,FA,PREDRAFT,4,0,0,0,0,True,False
 3582,Chester Rogers,WR,,True,Active,,,,,FA,FA,FA,FA,PREDRAFT,4,0,0,0,0,True,False
 12100,Chris Autman-Bell,WR,,True,Active,,,,,FA,FA,FA,FA,PREDRAFT,4,0,0,0,0,True,False
@@ -6621,8 +6621,8 @@ WAS,WAS,DEF,WAS,True,,,,,,FA,FA,FA,FA,PREDRAFT,4,0,0,0,0,True,False
 7175,Chris Rowland,WR,,True,Active,,,,,FA,FA,FA,FA,PREDRAFT,4,0,0,0,0,True,False
 13043,Chris Tyree,WR,,True,Active,,,,,FA,FA,FA,FA,PREDRAFT,4,0,0,0,0,True,False
 5241,Christian Blake,WR,,True,Active,,,,,FA,FA,FA,FA,PREDRAFT,4,0,0,0,0,True,False
-11284,Cody Chrest,WR,,True,Active,,,,,FA,FA,FA,FA,PREDRAFT,4,0,0,0,0,True,False
 11523,Cody Chrest,WR,,True,Active,,,,,FA,FA,FA,FA,PREDRAFT,4,0,0,0,0,True,False
+11284,Cody Chrest,WR,,True,Active,,,,,FA,FA,FA,FA,PREDRAFT,4,0,0,0,0,True,False
 3355,Cody Core,WR,,True,Active,,,,,FA,FA,FA,FA,PREDRAFT,4,0,0,0,0,True,False
 4420,Cody Hollister,WR,,True,Active,,,,,FA,FA,FA,FA,PREDRAFT,4,0,0,0,0,True,False
 2004,Cody Latimer,WR,,True,Inactive,,,,,FA,FA,FA,FA,PREDRAFT,4,0,0,0,0,True,False
@@ -7034,8 +7034,8 @@ WAS,WAS,DEF,WAS,True,,,,,,FA,FA,FA,FA,PREDRAFT,4,0,0,0,0,True,False
 4330,JoJo Natson,WR,,True,Active,,,,,FA,FA,FA,FA,PREDRAFT,4,0,0,0,0,True,False
 7370,JoJo Ward,WR,,True,Active,,,,,FA,FA,FA,FA,PREDRAFT,4,0,0,0,0,True,False
 12777,Joaquin Davis,WR,,True,Active,,,,,FA,FA,FA,FA,PREDRAFT,4,0,0,0,0,True,False
-6692,Joe Horn,WR,,True,Active,,,,,FA,FA,FA,FA,PREDRAFT,4,0,0,0,0,True,False
 6686,Joe Horn,WR,,True,Active,,,,,FA,FA,FA,FA,PREDRAFT,4,0,0,0,0,True,False
+6692,Joe Horn,WR,,True,Active,,,,,FA,FA,FA,FA,PREDRAFT,4,0,0,0,0,True,False
 6913,Joe Reed,WR,,True,Active,,,,,FA,FA,FA,FA,PREDRAFT,4,0,0,0,0,True,False
 6727,Joe Walker,WR,,True,Active,,,,,FA,FA,FA,FA,PREDRAFT,4,0,0,0,0,True,False
 2238,John Brown,WR,,True,Active,,,,,FA,FA,FA,FA,PREDRAFT,4,0,0,0,0,True,False
