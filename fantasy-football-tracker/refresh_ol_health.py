@@ -4,6 +4,7 @@ import csv
 import gzip
 import io
 import json
+import re
 import sqlite3
 from collections import defaultdict
 from datetime import datetime, timezone
@@ -26,6 +27,12 @@ OL_SLOTS = ("LT", "LG", "C", "RG", "RT")
 def team_fix(v):
     x = str(v or "").strip().upper()
     return TEAM_FIX.get(x, x)
+
+
+def name_key(v):
+    s = re.sub(r"[^a-z0-9 ]+", " ", str(v or "").lower())
+    parts = [x for x in s.split() if x not in {"jr", "sr", "ii", "iii", "iv"}]
+    return "".join(parts)
 
 
 def fetch_bytes(url: str) -> bytes | None:
@@ -95,10 +102,7 @@ def ol_slot(row: dict) -> str | None:
     for value in (abb, slot):
         if value in OL_SLOTS:
             return value
-    aliases = {
-        "LEFT TACKLE": "LT", "LEFT GUARD": "LG", "CENTER": "C",
-        "RIGHT GUARD": "RG", "RIGHT TACKLE": "RT",
-    }
+    aliases = {"LEFT TACKLE": "LT", "LEFT GUARD": "LG", "CENTER": "C", "RIGHT GUARD": "RG", "RIGHT TACKLE": "RT"}
     return aliases.get(name)
 
 
@@ -109,7 +113,9 @@ def status_bucket(player: dict, official: dict | None) -> tuple[str, float, str]
     official_status = str((official or {}).get("report_status") or (official or {}).get("game_status") or "").strip().lower()
     official_practice = str((official or {}).get("practice_status") or (official or {}).get("practice_participation") or "").strip().lower()
     blob = " | ".join(x for x in [sleeper, status, practice, official_status, official_practice] if x)
-    if any(x in blob for x in ["injured reserve", "reserve/injured", "ir", "pup", "physically unable", "out"]):
+    if any(x in blob for x in ["injured reserve", "reserve/injured", "pup", "physically unable", "out"]):
+        return "UNAVAILABLE", 1.0, blob
+    if sleeper == "ir" or status == "ir":
         return "UNAVAILABLE", 1.0, blob
     if "doubt" in blob:
         return "DOUBTFUL", 0.75, blob
@@ -135,15 +141,23 @@ def main():
         if gsis and gsis not in {"NA", "None"}: gsis_to_sleeper[gsis] = sid
         if espn and espn not in {"NA", "None"}: espn_to_sleeper[espn] = sid
 
-    # Optional official weekly report: absent before the 2026 report pipeline opens.
+    # Offensive linemen are not consistently covered by the public ffverse ID bridge.
+    # Sleeper's own player database gives us a deterministic same-team name fallback.
+    sleeper_name_map = {}
+    for sid, p in players.items():
+        team = team_fix(p.get("team"))
+        full = p.get("full_name") or f"{p.get('first_name','')} {p.get('last_name','')}".strip()
+        nk = name_key(full)
+        if team and nk:
+            sleeper_name_map[(team, nk)] = str(sid)
+
     official = {}
     for r in injuries:
         gsis = str(r.get("gsis_id") or r.get("player_id") or "").strip()
         if not gsis: continue
         week = integer(r.get("week"), 0)
         old = official.get(gsis)
-        if old is None or week >= integer(old.get("week"), 0):
-            official[gsis] = r
+        if old is None or week >= integer(old.get("week"), 0): official[gsis] = r
 
     max_dt = {}
     for r in depth:
@@ -157,34 +171,33 @@ def main():
         if not slot: continue
         team = team_fix(r.get("team"))
         sid = gsis_to_sleeper.get(str(r.get("gsis_id") or "").strip()) or espn_to_sleeper.get(str(r.get("espn_id") or "").strip())
-        candidates[(team, slot)].append((integer(r.get("pos_rank")), sid, r))
+        id_source = "public id bridge" if sid else None
+        if not sid:
+            sid = sleeper_name_map.get((team, name_key(r.get("player_name"))))
+            if sid: id_source = "Sleeper team+name fallback"
+        candidates[(team, slot)].append((integer(r.get("pos_rank")), sid, id_source, r))
 
     detailed, teams = [], []
     all_teams = sorted({team_fix(r.get("team")) for r in latest if team_fix(r.get("team"))})
     for team in all_teams:
-        slot_info = {}
-        total_risk = 0.0
-        edge_risk = 0.0
-        interior_risk = 0.0
-        unavailable = at_risk = healthy = 0
+        slot_info = {}; total_risk = edge_risk = interior_risk = 0.0; unavailable = at_risk = healthy = 0
         for slot in OL_SLOTS:
             options = sorted(candidates.get((team, slot), []), key=lambda x: x[0])
             if options:
-                rank, sid, row = options[0]
+                rank, sid, id_source, row = options[0]
                 p = players.get(str(sid), {}) if sid else {}
                 gsis = str(row.get("gsis_id") or "").strip()
                 bucket, risk, detail = status_bucket(p, official.get(gsis))
                 name = p.get("full_name") or row.get("player_name")
-                # If source cannot map a listed starter, treat it as uncertainty, not an injury.
-                if not sid:
-                    risk = max(risk, 0.15); bucket = "UNMAPPED" if bucket == "HEALTHY" else bucket
+                if not sid and risk == 0:
+                    # Missing metadata must never masquerade as an injury penalty.
+                    bucket, risk, detail = "UNMAPPED", 0.0, "listed starter; Sleeper metadata not mapped"
             else:
-                rank, sid, row = None, None, {}
-                p = {}; name = None; bucket, risk, detail = "MISSING", 0.35, "no explicit starter in latest depth chart"
+                rank, sid, id_source, row = None, None, None, {}
+                p = {}; name = None; bucket, risk, detail = "MISSING", 0.2, "no explicit starter in latest depth chart"
 
             weight = 1.2 if slot in {"LT", "RT"} else 1.0
-            weighted = risk * weight
-            total_risk += weighted
+            weighted = risk * weight; total_risk += weighted
             if slot in {"LT", "RT"}: edge_risk += weighted
             else: interior_risk += weighted
             if risk >= 0.75: unavailable += 1
@@ -193,49 +206,38 @@ def main():
             slot_info[slot] = {"name": name, "sid": sid, "bucket": bucket, "risk": risk}
             detailed.append({
                 "snapshot_utc": ts, "source_dt": max_dt.get(team), "team": team, "slot": slot,
-                "starter": name, "sleeper_id": sid, "depth_rank": rank, "health_bucket": bucket,
-                "risk_weight": round(risk, 2), "status_detail": detail,
-                "official_injury_report_available": str(bool(injuries)),
+                "starter": name, "sleeper_id": sid, "id_source": id_source, "depth_rank": rank, "health_bucket": bucket,
+                "risk_weight": round(risk, 2), "status_detail": detail, "official_injury_report_available": str(bool(injuries)),
             })
 
-        # 5 positions, with tackles carrying 20% extra leverage: max weighted risk 5.4.
         health_score = round(max(0.0, 100.0 * (1.0 - total_risk / 5.4)), 1)
         pass_penalty = round(max(-2.0, -(edge_risk * 0.65 + interior_risk * 0.25)), 2)
         run_penalty = round(max(-1.6, -(interior_risk * 0.45 + edge_risk * 0.2)), 2)
-        if health_score >= 90: grade = "HEALTHY"
-        elif health_score >= 75: grade = "MINOR CONCERN"
-        elif health_score >= 55: grade = "DEGRADED"
-        else: grade = "MAJOR CONCERN"
+        grade = "HEALTHY" if health_score >= 90 else "MINOR CONCERN" if health_score >= 75 else "DEGRADED" if health_score >= 55 else "MAJOR CONCERN"
         concern_names = [f"{s} {slot_info[s]['name'] or '?'} ({slot_info[s]['bucket']})" for s in OL_SLOTS if slot_info[s]["risk"] > 0]
         teams.append({
-            "snapshot_utc": ts, "source_dt": max_dt.get(team), "team": team,
-            "ol_health_score": health_score, "ol_grade": grade, "healthy_starters": healthy,
-            "at_risk_starters": at_risk, "unavailable_starters": unavailable,
+            "snapshot_utc": ts, "source_dt": max_dt.get(team), "team": team, "ol_health_score": health_score, "ol_grade": grade,
+            "healthy_starters": healthy, "at_risk_starters": at_risk, "unavailable_starters": unavailable,
             "pass_game_adjustment": pass_penalty, "run_game_adjustment": run_penalty,
-            "lt": slot_info["LT"]["name"], "lg": slot_info["LG"]["name"], "c": slot_info["C"]["name"],
-            "rg": slot_info["RG"]["name"], "rt": slot_info["RT"]["name"],
-            "concerns": " | ".join(concern_names) if concern_names else "none",
-            "official_injury_report_available": str(bool(injuries)),
+            "lt": slot_info["LT"]["name"], "lg": slot_info["LG"]["name"], "c": slot_info["C"]["name"], "rg": slot_info["RG"]["name"], "rt": slot_info["RT"]["name"],
+            "concerns": " | ".join(concern_names) if concern_names else "none", "official_injury_report_available": str(bool(injuries)),
         })
 
     teams.sort(key=lambda r: (float(r["ol_health_score"]), r["team"]))
-    write_csv("ol_starters.csv", detailed); write_csv("ol_health.csv", teams)
-    replace_table("ol_starters", detailed); replace_table("ol_health", teams)
+    write_csv("ol_starters.csv", detailed); write_csv("ol_health.csv", teams); replace_table("ol_starters", detailed); replace_table("ol_health", teams)
+    mapped = sum(1 for r in detailed if r.get("sleeper_id"))
     summary = {
-        "snapshot_utc": ts, "teams": len(teams), "depth_source": DEPTH_URL,
-        "official_injury_source": INJURY_URL if injuries else None,
-        "official_injury_report_available": bool(injuries),
-        "major_concern_teams": [r["team"] for r in teams if r["ol_grade"] == "MAJOR CONCERN"],
-        "degraded_teams": [r["team"] for r in teams if r["ol_grade"] == "DEGRADED"],
-        "note": "Current depth-chart starters plus Sleeper injury designations are always available. Official 2026 injury-report data is automatically layered in when the nflverse season asset appears.",
+        "snapshot_utc": ts, "teams": len(teams), "starter_rows": len(detailed), "mapped_starters": mapped,
+        "mapping_rate": round(mapped / len(detailed), 4) if detailed else 0.0, "depth_source": DEPTH_URL,
+        "official_injury_source": INJURY_URL if injuries else None, "official_injury_report_available": bool(injuries),
+        "major_concern_teams": [r["team"] for r in teams if r["ol_grade"] == "MAJOR CONCERN"], "degraded_teams": [r["team"] for r in teams if r["ol_grade"] == "DEGRADED"],
+        "note": "Current depth-chart starters plus Sleeper injury designations are always available. Offensive-line IDs use public IDs first and a same-team Sleeper name fallback. Unmapped metadata carries zero injury penalty. Official 2026 injury-report data is automatically layered in when available.",
     }
     (ROOT / "data" / "ol_health_summary.json").write_text(json.dumps(summary, indent=2, sort_keys=True), encoding="utf-8")
-    lines = ["# Offensive Line Health", "", summary["note"], "", "## Lowest current health scores"]
-    for r in teams[:12]:
-        lines.append(f"- {r['team']} — {r['ol_health_score']} {r['ol_grade']} — pass {float(r['pass_game_adjustment']):+.2f}, run {float(r['run_game_adjustment']):+.2f} — {r['concerns']}")
+    lines = ["# Offensive Line Health", "", summary["note"], "", f"Starter mapping: {mapped}/{len(detailed)} ({summary['mapping_rate']:.1%})", "", "## Lowest current health scores"]
+    for r in teams[:12]: lines.append(f"- {r['team']} — {r['ol_health_score']} {r['ol_grade']} — pass {float(r['pass_game_adjustment']):+.2f}, run {float(r['run_game_adjustment']):+.2f} — {r['concerns']}")
     (ROOT / "data" / "ol_health_report.md").write_text("\n".join(lines), encoding="utf-8")
     print(json.dumps(summary, indent=2))
 
 
-if __name__ == "__main__":
-    main()
+if __name__ == "__main__": main()
