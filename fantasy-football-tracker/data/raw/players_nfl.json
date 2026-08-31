@@ -117147,7 +117147,7 @@
       "rookie_year": "2025",
       "source_id": "3992e590-8f40-11ec-9f33-1965c9c46e44"
     },
-    "news_updated": 1788112556124,
+    "news_updated": 1788197112069,
     "number": 20,
     "oddsjam_id": "31DA4D7ACB326276",
     "opta_id": null,
@@ -139067,7 +139067,7 @@
       "genius_id": "1499467",
       "rookie_year": "2025"
     },
-    "news_updated": 1788035149103,
+    "news_updated": 1788196813760,
     "number": 9,
     "oddsjam_id": "7E789FE640466F97",
     "opta_id": null,
@@ -177780,7 +177780,7 @@
       "rookie_year": "2026",
       "source_id": "7a008ea0-851f-11ec-b344-83aa305ae234"
     },
-    "news_updated": 1788017146594,
+    "news_updated": 1788196812262,
     "number": 31,
     "oddsjam_id": null,
     "opta_id": null,
@@ -550667,7 +550667,7 @@
       "genius_id": "1011724",
       "rookie_year": "2019"
     },
-    "news_updated": 1786304130577,
+    "news_updated": 1788196813756,
     "number": 2,
     "oddsjam_id": "33F5A3A7BCBA",
     "opta_id": null,
@@ -632271,10 +632271,10 @@
     "hashtag": "#buddyjohnson-NFL-LV-59",
     "height": "74",
     "high_school": "Kimball (TX)",
-    "injury_body_part": "Shoulder",
+    "injury_body_part": null,
     "injury_notes": null,
     "injury_start_date": null,
-    "injury_status": "Questionable",
+    "injury_status": null,
     "kalshi_id": "e3580fcb-615b-41cb-b640-2a489ce76a8a",
     "last_name": "Johnson",
     "metadata": {
@@ -708148,10 +708148,10 @@
     "hashtag": "#kaderkohou-NFL-FA-26",
     "height": "70",
     "high_school": "Trinity (TX)",
-    "injury_body_part": "Knee",
+    "injury_body_part": null,
     "injury_notes": null,
     "injury_start_date": null,
-    "injury_status": "Questionable",
+    "injury_status": null,
     "kalshi_id": "e678a80a-b07e-4be0-aacd-a8afe5613f74",
     "last_name": "Kohou",
     "metadata": {
