@@ -115,7 +115,8 @@ def replace_table(name: str, rs: list[dict]):
         con.execute(f'DROP TABLE IF EXISTS "{name}"')
         if rs:
             fs = list(rs[0])
-            con.execute(f'CREATE TABLE "{name}" ({", ".join(f"chr" for chr in [f"\"{c}\" TEXT" for c in fs])})')
+            cols_def = ", ".join(f'"{c}" TEXT' for c in fs)
+            con.execute(f'CREATE TABLE "{name}" ({cols_def})')
             qs = ",".join("?" for _ in fs)
             cols = ",".join(f'"{c}"' for c in fs)
             con.executemany(
