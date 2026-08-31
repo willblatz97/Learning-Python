@@ -225,23 +225,23 @@
           "best_bench_score": "15.25",
           "league": "10-Team Redraft \u2014 Big Tiger Takeover",
           "league_id": "1389740418316374016",
-          "score_delta": -4.01,
+          "score_delta": -3.89,
           "score_source": "season-long ECR proxy + OL health",
-          "slot": "WR",
-          "starter": "Malik Nabers",
-          "starter_id": "11632",
+          "slot": "FLEX",
+          "starter": "Kenneth Walker",
+          "starter_id": "8151",
           "starter_injury": "QUESTIONABLE",
-          "starter_nfl_opponent": "DAL",
-          "starter_pos": "WR",
+          "starter_nfl_opponent": "DEN",
+          "starter_pos": "RB",
           "starter_return_points": 0.0,
           "starter_return_roles": null,
-          "starter_score": "19.26"
+          "starter_score": "19.14"
         }
       ],
-      "my_lineup_score": 173.04,
+      "my_lineup_score": 172.57,
       "opponent_or_chop_line": 181.12,
       "opponent_or_chop_rank": "Sutton My Face",
-      "projected_margin": -8.08,
+      "projected_margin": -8.55,
       "recommended_changes": [
         {
           "action": "LEAN CHANGE",
@@ -272,7 +272,7 @@
   },
   "return_scoring_integrated": true,
   "season": 2026,
-  "snapshot_utc": "2026-08-31T16:53:41+00:00",
+  "snapshot_utc": "2026-08-31T16:56:16+00:00",
   "week": 1,
   "weekly_consensus_current": false
 }

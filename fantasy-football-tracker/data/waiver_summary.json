@@ -391,19 +391,30 @@
           "reasons": "consensus ECR 138.51 protected | strong cross-league market demand"
         },
         {
-          "consensus_ecr": "29.62",
+          "consensus_ecr": "1.55",
           "cut_score": "0",
           "cut_tier": "HOLD",
-          "nfl_team": "NYJ",
-          "player": "Garrett Wilson",
+          "nfl_team": "CIN",
+          "player": "Ja'Marr Chase",
           "position": "WR",
-          "reasons": "consensus ECR 29.62 protected | starter protected | strong cross-league market demand"
+          "reasons": "consensus ECR 1.55 protected | starter protected | strong cross-league market demand"
         }
       ],
       "faab_remaining": 100,
       "league": "10-Team Redraft \u2014 Big Tiger Takeover",
       "recommended_cuts": [],
       "top_adds": [
+        {
+          "consensus_ecr": "118.1",
+          "faab_high": "7",
+          "faab_low": "3",
+          "nfl_team": "CLE",
+          "player": "KC Concepcion",
+          "position": "WR",
+          "priority": "MEDIUM",
+          "reasons": "consensus ECR 118.1 | rostered in most comparable leagues | depth-chart starter | thin WR depth on your roster",
+          "waiver_score": "62.8"
+        },
         {
           "consensus_ecr": "134.2",
           "faab_high": "7",
@@ -467,8 +478,8 @@
           "player": "Tre Tucker",
           "position": "WR",
           "priority": "SPECULATIVE",
-          "reasons": "consensus ECR 162.97 | rostered in most comparable leagues | depth-chart starter",
-          "waiver_score": "51.9"
+          "reasons": "consensus ECR 162.97 | rostered in most comparable leagues | depth-chart starter | thin WR depth on your roster",
+          "waiver_score": "54.1"
         },
         {
           "consensus_ecr": "211.73",
@@ -480,17 +491,6 @@
           "priority": "SPECULATIVE",
           "reasons": "consensus ECR 211.73 | rostered in most comparable leagues | depth-chart starter | 1 recent cross-league add(s) | thin TE depth on your roster",
           "waiver_score": "50.2"
-        },
-        {
-          "consensus_ecr": "239.93",
-          "faab_high": "3",
-          "faab_low": "1",
-          "nfl_team": "TB",
-          "player": "Cade Otton",
-          "position": "TE",
-          "priority": "WATCH",
-          "reasons": "consensus ECR 239.93 | rostered in most comparable leagues | depth-chart starter | 1 recent cross-league add(s) | thin TE depth on your roster",
-          "waiver_score": "49.6"
         }
       ],
       "type": "redraft"
@@ -504,6 +504,6 @@
   "skipped_predraft_leagues": [
     "1359546418284494848"
   ],
-  "snapshot_utc": "2026-08-31T16:53:41+00:00",
+  "snapshot_utc": "2026-08-31T16:56:16+00:00",
   "week": 1
 }

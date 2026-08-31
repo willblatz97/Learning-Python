@@ -3,10 +3,10 @@ league_id,league,slot,action,starter_id,starter,starter_pos,starter_score,starte
 1389740418316374016,10-Team Redraft — Big Tiger Takeover,RB,MONITOR,12527,Ashton Jeanty,RB,19.26,0.0,,QUESTIONABLE,MIA,10219,Chris Rodriguez,RB,15.22,0.0,,-4.04,season-long ECR proxy
 1389740418316374016,10-Team Redraft — Big Tiger Takeover,RB,HOLD,12512,Quinshon Judkins,RB,20.08,0.0,,,JAX,10219,Chris Rodriguez,RB,15.22,0.0,,-4.86,season-long ECR proxy
 1389740418316374016,10-Team Redraft — Big Tiger Takeover,WR,MONITOR,7564,Ja'Marr Chase,WR,21.03,0.0,,QUESTIONABLE,TB,5872,Deebo Samuel,WR,15.25,0.0,,-5.78,season-long ECR proxy
-1389740418316374016,10-Team Redraft — Big Tiger Takeover,WR,MONITOR,11632,Malik Nabers,WR,19.26,0.0,,QUESTIONABLE,DAL,5872,Deebo Samuel,WR,15.25,0.0,,-4.01,season-long ECR proxy + OL health
+1389740418316374016,10-Team Redraft — Big Tiger Takeover,WR,HOLD,12526,Tetairoa McMillan,WR,21.33,0.0,,,CHI,5872,Deebo Samuel,WR,15.25,0.0,,-6.08,season-long ECR proxy
 1389740418316374016,10-Team Redraft — Big Tiger Takeover,TE,HOLD,8110,Jake Ferguson,TE,16.31,0.0,,,NYG,,,,,,,,season-long ECR proxy + OL health
-1389740418316374016,10-Team Redraft — Big Tiger Takeover,FLEX,HOLD,12526,Tetairoa McMillan,WR,21.33,0.0,,,CHI,5872,Deebo Samuel,WR,15.25,0.0,,-6.08,season-long ECR proxy
-1389740418316374016,10-Team Redraft — Big Tiger Takeover,FLEX,HOLD,8146,Garrett Wilson,WR,21.11,0.0,,,TEN,5872,Deebo Samuel,WR,15.25,0.0,,-5.86,season-long ECR proxy
+1389740418316374016,10-Team Redraft — Big Tiger Takeover,FLEX,HOLD,7543,Travis Etienne,RB,20.76,0.0,,,DET,5872,Deebo Samuel,WR,15.25,0.0,,-5.51,season-long ECR proxy
+1389740418316374016,10-Team Redraft — Big Tiger Takeover,FLEX,MONITOR,8151,Kenneth Walker,RB,19.14,0.0,,QUESTIONABLE,DEN,5872,Deebo Samuel,WR,15.25,0.0,,-3.89,season-long ECR proxy + OL health
 1389740418316374016,10-Team Redraft — Big Tiger Takeover,K,HOLD,11533,Brandon Aubrey,K,8.29,0.0,,,NYG,,,,,,,,season-long ECR proxy
 1389740418316374016,10-Team Redraft — Big Tiger Takeover,DEF,HOLD,PHI,Philadelphia Eagles,DEF,5.0,0.0,,,WAS,,,,,,,,season-long ECR proxy
 1370453762442797056,18-Team Chopped — Surviving the Chamber,QB,HOLD,6770,Joe Burrow,QB,23.45,0.0,,,TB,6768,Tua Tagovailoa,QB,12.21,0.0,,-11.24,season-long ECR proxy

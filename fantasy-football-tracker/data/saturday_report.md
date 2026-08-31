@@ -4,7 +4,7 @@ Weekly consensus has not refreshed for the 2026 season yet, so current scores ar
 
 ## 10-Team Redraft — Big Tiger Takeover
 Team: Pinkman
-Opponent: Sutton My Face — lineup proxy 173.04 vs 181.12; margin -8.08
+Opponent: Sutton My Face — lineup proxy 172.57 vs 181.12; margin -8.55
 
 ### Lineup actions
 - LEAN CHANGE QB: Justin Herbert (21.37) -> Jayden Daniels (22.42); delta 1.05; injury clear
@@ -12,7 +12,7 @@ Opponent: Sutton My Face — lineup proxy 173.04 vs 181.12; margin -8.08
 ### Your injury / practice watch
 - Ashton Jeanty — QUESTIONABLE; best legal bench option: Chris Rodriguez
 - Ja'Marr Chase — QUESTIONABLE; best legal bench option: Deebo Samuel
-- Malik Nabers — QUESTIONABLE; best legal bench option: Deebo Samuel
+- Kenneth Walker — QUESTIONABLE; best legal bench option: Deebo Samuel
 
 ### Opponent threats
 - Drake London (WR ATL) — 22.39 vs PIT

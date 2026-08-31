@@ -467,12 +467,12 @@
     ]
   },
   "players_faced_in_multiple_leagues": 6,
-  "players_owned_in_multiple_leagues": 14,
-  "players_started_in_multiple_leagues": 6,
+  "players_owned_in_multiple_leagues": 12,
+  "players_started_in_multiple_leagues": 4,
   "pre_draft_league_ids": [
     "1359546418284494848"
   ],
-  "snapshot_utc": "2026-08-31T16:53:41+00:00",
+  "snapshot_utc": "2026-08-31T16:56:16+00:00",
   "top_nfl_team_exposure": [
     {
       "nfl_team": "DAL",
@@ -495,14 +495,6 @@
       "players_owned": "Cole Kmet | D'Andre Swift | Luther Burden",
       "players_started": "D'Andre Swift | Luther Burden",
       "roster_slots_across_leagues": 5,
-      "starting_slots_across_leagues": 3,
-      "unique_players_owned": 3
-    },
-    {
-      "nfl_team": "NYJ",
-      "players_owned": "Garrett Wilson | Geno Smith | Omar Cooper",
-      "players_started": "Garrett Wilson | Geno Smith",
-      "roster_slots_across_leagues": 4,
       "starting_slots_across_leagues": 3,
       "unique_players_owned": 3
     },
@@ -531,12 +523,12 @@
       "unique_players_owned": 3
     },
     {
-      "nfl_team": "NYG",
-      "players_owned": "Jameis Winston | Malik Nabers",
-      "players_started": "Malik Nabers",
+      "nfl_team": "NYJ",
+      "players_owned": "Garrett Wilson | Geno Smith | Omar Cooper",
+      "players_started": "Garrett Wilson | Geno Smith",
       "roster_slots_across_leagues": 3,
       "starting_slots_across_leagues": 2,
-      "unique_players_owned": 2
+      "unique_players_owned": 3
     },
     {
       "nfl_team": "MIN",
@@ -569,6 +561,14 @@
       "roster_slots_across_leagues": 5,
       "starting_slots_across_leagues": 1,
       "unique_players_owned": 3
+    },
+    {
+      "nfl_team": "NO",
+      "players_owned": "Alvin Kamara | Barion Brown | Devaughn Vele | Kendre Miller | Travis Etienne",
+      "players_started": "Travis Etienne",
+      "roster_slots_across_leagues": 5,
+      "starting_slots_across_leagues": 1,
+      "unique_players_owned": 5
     }
   ],
   "top_owned_exposure": [
@@ -598,24 +598,6 @@
       "nfl_team": "CHI",
       "player_id": "6790",
       "position": "RB"
-    },
-    {
-      "exposure_pct": 40.0,
-      "full_name": "Garrett Wilson",
-      "leagues_owned": 2,
-      "leagues_started": 2,
-      "nfl_team": "NYJ",
-      "player_id": "8146",
-      "position": "WR"
-    },
-    {
-      "exposure_pct": 40.0,
-      "full_name": "Malik Nabers",
-      "leagues_owned": 2,
-      "leagues_started": 2,
-      "nfl_team": "NYG",
-      "player_id": "11632",
-      "position": "WR"
     },
     {
       "exposure_pct": 40.0,
@@ -751,7 +733,25 @@
       "nfl_team": "LAC",
       "player_id": "6797",
       "position": "QB"
+    },
+    {
+      "exposure_pct": 20.0,
+      "full_name": "Aaron Jones",
+      "leagues_owned": 1,
+      "leagues_started": 1,
+      "nfl_team": "MIN",
+      "player_id": "4199",
+      "position": "RB"
+    },
+    {
+      "exposure_pct": 20.0,
+      "full_name": "Ashton Jeanty",
+      "leagues_owned": 1,
+      "leagues_started": 1,
+      "nfl_team": "LV",
+      "player_id": "12527",
+      "position": "RB"
     }
   ],
-  "unique_players_owned": 77
+  "unique_players_owned": 79
 }

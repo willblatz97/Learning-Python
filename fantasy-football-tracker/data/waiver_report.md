@@ -6,12 +6,12 @@ Consensus-enhanced board. FAAB is a range, not a precise bid.
 FAAB remaining: 100 / 100
 
 ### Adds
-1. Juwan Johnson (TE NO) — MEDIUM 62.1 — ECR 134.2 — FAAB 3-7 — consensus ECR 134.2 | rostered in most comparable leagues | depth-chart starter | thin TE depth on your roster
-2. Brenton Strange (TE JAX) — SPECULATIVE 56.1 — ECR 159.0 — FAAB 3-7 — consensus ECR 159 | rostered in most comparable leagues | depth-chart starter | thin TE depth on your roster
-3. Chig Okonkwo (TE WAS) — SPECULATIVE 56.1 — ECR 160.38 — FAAB 3-7 — consensus ECR 160.38 | rostered in most comparable leagues | depth-chart starter | thin TE depth on your roster
-4. T.J. Hockenson (TE MIN) — SPECULATIVE 56.1 — ECR 190.29 — FAAB 3-7 — consensus ECR 190.29 | rostered in most comparable leagues | depth-chart starter | thin TE depth on your roster
-5. Dalton Schultz (TE HOU) — SPECULATIVE 54.1 — ECR 163.71 — FAAB 1-3 — consensus ECR 163.71 | rostered in most comparable leagues | depth-chart starter | thin TE depth on your roster
-6. Tre Tucker (WR LV) — SPECULATIVE 51.9 — ECR 162.97 — FAAB 1-3 — consensus ECR 162.97 | rostered in most comparable leagues | depth-chart starter
+1. KC Concepcion (WR CLE) — MEDIUM 62.8 — ECR 118.1 — FAAB 3-7 — consensus ECR 118.1 | rostered in most comparable leagues | depth-chart starter | thin WR depth on your roster
+2. Juwan Johnson (TE NO) — MEDIUM 62.1 — ECR 134.2 — FAAB 3-7 — consensus ECR 134.2 | rostered in most comparable leagues | depth-chart starter | thin TE depth on your roster
+3. Brenton Strange (TE JAX) — SPECULATIVE 56.1 — ECR 159.0 — FAAB 3-7 — consensus ECR 159 | rostered in most comparable leagues | depth-chart starter | thin TE depth on your roster
+4. Chig Okonkwo (TE WAS) — SPECULATIVE 56.1 — ECR 160.38 — FAAB 3-7 — consensus ECR 160.38 | rostered in most comparable leagues | depth-chart starter | thin TE depth on your roster
+5. T.J. Hockenson (TE MIN) — SPECULATIVE 56.1 — ECR 190.29 — FAAB 3-7 — consensus ECR 190.29 | rostered in most comparable leagues | depth-chart starter | thin TE depth on your roster
+6. Dalton Schultz (TE HOU) — SPECULATIVE 54.1 — ECR 163.71 — FAAB 1-3 — consensus ECR 163.71 | rostered in most comparable leagues | depth-chart starter | thin TE depth on your roster
 
 ### Recommended cuts
 No recommended cuts from the current roster-value model.
