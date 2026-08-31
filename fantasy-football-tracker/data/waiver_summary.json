@@ -262,6 +262,39 @@
       "recommended_cuts": [],
       "top_adds": [
         {
+          "consensus_ecr": "262.41",
+          "faab_high": "50",
+          "faab_low": "20",
+          "nfl_team": "CIN",
+          "player": "Samaje Perine",
+          "position": "RB",
+          "priority": "WATCH",
+          "reasons": "return-scoring league candidate injected before final ranking | return role KR +2.87 pts/g | offense+return dual role",
+          "waiver_score": "45.6"
+        },
+        {
+          "consensus_ecr": "236.52",
+          "faab_high": "50",
+          "faab_low": "20",
+          "nfl_team": "BAL",
+          "player": "Justice Hill",
+          "position": "RB",
+          "priority": "WATCH",
+          "reasons": "return-scoring league candidate injected before final ranking | return role KR +0.22 pts/g | offense+return dual role",
+          "waiver_score": "45.4"
+        },
+        {
+          "consensus_ecr": "333.0",
+          "faab_high": "20",
+          "faab_low": "0",
+          "nfl_team": "DET",
+          "player": "Jacob Saylors",
+          "position": "RB",
+          "priority": "WATCH",
+          "reasons": "return-scoring league candidate injected before final ranking | return role KR +8.15 pts/g | offense+return dual role",
+          "waiver_score": "44.0"
+        },
+        {
           "consensus_ecr": "253.98",
           "faab_high": "20",
           "faab_low": "0",
@@ -295,59 +328,26 @@
           "waiver_score": "41.6"
         },
         {
-          "consensus_ecr": "265.87",
+          "consensus_ecr": "310.44",
           "faab_high": "20",
           "faab_low": "0",
-          "nfl_team": "LAR",
-          "player": "Colby Parkinson",
-          "position": "TE",
-          "priority": "WATCH",
-          "reasons": "consensus ECR 265.87 | rostered in most comparable leagues | primary backup | thin TE depth on your roster",
-          "waiver_score": "37.6"
-        },
-        {
-          "consensus_ecr": "293.7",
-          "faab_high": "20",
-          "faab_low": "0",
-          "nfl_team": "PIT",
-          "player": "Darnell Washington",
-          "position": "TE",
-          "priority": "WATCH",
-          "reasons": "consensus ECR 293.7 | rostered in most comparable leagues | primary backup | thin TE depth on your roster",
-          "waiver_score": "35.6"
-        },
-        {
-          "consensus_ecr": "299.27",
-          "faab_high": "20",
-          "faab_low": "0",
-          "nfl_team": "LV",
-          "player": "Michael Mayer",
-          "position": "TE",
-          "priority": "WATCH",
-          "reasons": "consensus ECR 299.27 | rostered in most comparable leagues | primary backup | thin TE depth on your roster",
-          "waiver_score": "35.6"
-        },
-        {
-          "consensus_ecr": "320.61",
-          "faab_high": "20",
-          "faab_low": "0",
-          "nfl_team": "CHI",
-          "player": "Cole Kmet",
-          "position": "TE",
-          "priority": "WATCH",
-          "reasons": "consensus ECR 320.61 | rostered in most comparable leagues | primary backup | 1 recent cross-league add(s) | thin TE depth on your roster",
-          "waiver_score": "33.4"
-        },
-        {
-          "consensus_ecr": "272.34",
-          "faab_high": "20",
-          "faab_low": "0",
-          "nfl_team": "IND",
-          "player": "DJ Giddens",
+          "nfl_team": "PHI",
+          "player": "Will Shipley",
           "position": "RB",
           "priority": "WATCH",
-          "reasons": "consensus ECR 272.34 | rostered in most comparable leagues | thin RB depth on your roster",
-          "waiver_score": "32.9"
+          "reasons": "return-scoring league candidate injected before final ranking | return role KR +5.55 pts/g | offense+return dual role",
+          "waiver_score": "39.9"
+        },
+        {
+          "consensus_ecr": "262.4",
+          "faab_high": "20",
+          "faab_low": "0",
+          "nfl_team": "JAX",
+          "player": "LeQuint Allen Jr.",
+          "position": "RB",
+          "priority": "WATCH",
+          "reasons": "return-scoring league candidate injected before final ranking | return role KR +1.08 pts/g | offense+return dual role",
+          "waiver_score": "39.7"
         }
       ],
       "type": "chopped"
@@ -504,6 +504,6 @@
   "skipped_predraft_leagues": [
     "1359546418284494848"
   ],
-  "snapshot_utc": "2026-08-31T16:30:22+00:00",
+  "snapshot_utc": "2026-08-31T16:33:43+00:00",
   "week": 1
 }

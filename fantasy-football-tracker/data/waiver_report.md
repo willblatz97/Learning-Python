@@ -20,12 +20,12 @@ No recommended cuts from the current roster-value model.
 FAAB remaining: 1000 / 1000
 
 ### Adds
-1. Evan Engram (TE DEN) — WATCH 43.3 — ECR 253.98 — FAAB 0-20 — consensus ECR 253.98 | rostered in most comparable leagues | depth-chart starter | thin TE depth on your roster
-2. Malik Davis (RB DAL) — WATCH 41.7 — ECR 273.91 — FAAB 0-20 — consensus ECR 273.91 | rostered in most comparable leagues | primary backup | 1 recent cross-league add(s) | thin RB depth on your roster | return role KR +0.17 pts/g | offense+return dual role
-3. Kaelon Black (RB SF) — WATCH 41.6 — ECR 237.76 — FAAB 0-20 — consensus ECR 237.76 | rostered in most comparable leagues | primary backup | thin RB depth on your roster
-4. Colby Parkinson (TE LAR) — WATCH 37.6 — ECR 265.87 — FAAB 0-20 — consensus ECR 265.87 | rostered in most comparable leagues | primary backup | thin TE depth on your roster
-5. Darnell Washington (TE PIT) — WATCH 35.6 — ECR 293.7 — FAAB 0-20 — consensus ECR 293.7 | rostered in most comparable leagues | primary backup | thin TE depth on your roster
-6. Michael Mayer (TE LV) — WATCH 35.6 — ECR 299.27 — FAAB 0-20 — consensus ECR 299.27 | rostered in most comparable leagues | primary backup | thin TE depth on your roster
+1. Samaje Perine (RB CIN) — WATCH 45.6 — ECR 262.41 — FAAB 20-50 — return-scoring league candidate injected before final ranking | return role KR +2.87 pts/g | offense+return dual role
+2. Justice Hill (RB BAL) — WATCH 45.4 — ECR 236.52 — FAAB 20-50 — return-scoring league candidate injected before final ranking | return role KR +0.22 pts/g | offense+return dual role
+3. Jacob Saylors (RB DET) — WATCH 44.0 — ECR 333.0 — FAAB 0-20 — return-scoring league candidate injected before final ranking | return role KR +8.15 pts/g | offense+return dual role
+4. Evan Engram (TE DEN) — WATCH 43.3 — ECR 253.98 — FAAB 0-20 — consensus ECR 253.98 | rostered in most comparable leagues | depth-chart starter | thin TE depth on your roster
+5. Malik Davis (RB DAL) — WATCH 41.7 — ECR 273.91 — FAAB 0-20 — consensus ECR 273.91 | rostered in most comparable leagues | primary backup | 1 recent cross-league add(s) | thin RB depth on your roster | return role KR +0.17 pts/g | offense+return dual role
+6. Kaelon Black (RB SF) — WATCH 41.6 — ECR 237.76 — FAAB 0-20 — consensus ECR 237.76 | rostered in most comparable leagues | primary backup | thin RB depth on your roster
 
 ### Recommended cuts
 No recommended cuts from the current roster-value model.
