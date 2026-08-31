@@ -1,0 +1,79 @@
+{
+  "baseline_stats_source": "https://github.com/nflverse/nflverse-data/releases/download/stats_player/stats_player_week_2025.csv",
+  "depth_chart_source": "https://github.com/nflverse/nflverse-data/releases/download/depth_charts/depth_charts_2026.csv.gz",
+  "depth_chart_teams": 32,
+  "latest_depth_dates": [
+    "2026-08-31T14:44:50Z"
+  ],
+  "league_scoring": [
+    {
+      "individual_return_td_points": 6.0,
+      "kr_points_per_yard": 0.0,
+      "league": "10-Team Redraft \u2014 Big Tiger Takeover",
+      "league_id": "1389740418316374016",
+      "pr_points_per_yard": 0.0,
+      "return_yards_enabled": "False",
+      "status": "in_season"
+    },
+    {
+      "individual_return_td_points": 8.0,
+      "kr_points_per_yard": 0.1,
+      "league": "18-Team Chopped \u2014 Surviving the Chamber",
+      "league_id": "1370453762442797056",
+      "pr_points_per_yard": 0.1,
+      "return_yards_enabled": "True",
+      "status": "in_season"
+    },
+    {
+      "individual_return_td_points": 6.0,
+      "kr_points_per_yard": 0.0,
+      "league": "12-Team Dynasty \u2014 One League to Rule Them All",
+      "league_id": "1370218620990263296",
+      "pr_points_per_yard": 0.0,
+      "return_yards_enabled": "False",
+      "status": "in_season"
+    },
+    {
+      "individual_return_td_points": 6.0,
+      "kr_points_per_yard": 0.0,
+      "league": "10-Team Dynasty \u2014 Dynasty V2",
+      "league_id": "1366076769534251008",
+      "pr_points_per_yard": 0.0,
+      "return_yards_enabled": "False",
+      "status": "in_season"
+    },
+    {
+      "individual_return_td_points": 6.0,
+      "kr_points_per_yard": 0.0,
+      "league": "12-Team 2-Keeper \u2014 League Is Rigged V2",
+      "league_id": "1359546418284494848",
+      "pr_points_per_yard": 0.0,
+      "return_yards_enabled": "False",
+      "status": "pre_draft"
+    }
+  ],
+  "leagues_with_individual_return_scoring": [
+    "10-Team Redraft \u2014 Big Tiger Takeover",
+    "18-Team Chopped \u2014 Surviving the Chamber",
+    "12-Team Dynasty \u2014 One League to Rule Them All",
+    "10-Team Dynasty \u2014 Dynasty V2",
+    "12-Team 2-Keeper \u2014 League Is Rigged V2"
+  ],
+  "return_role_labels_detected": [
+    "KR|Kick Returner",
+    "PR|Punt Returner"
+  ],
+  "returners_mapped_to_sleeper": 136,
+  "returners_unmatched": 2,
+  "roster_id_bridge_source": "https://github.com/nflverse/nflverse-data/releases/download/rosters/roster_2026.csv",
+  "snapshot_utc": "2026-08-31T16:23:17+00:00",
+  "stat_return_columns_detected": [
+    "punt_returns",
+    "punt_return_yards",
+    "kickoff_returns",
+    "kickoff_return_yards",
+    "pt_returned",
+    "pt_return_yards",
+    "pt_return_tds"
+  ]
+}
