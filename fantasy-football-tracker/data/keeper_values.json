@@ -1,0 +1,372 @@
+{
+  "all_keeper_values": [
+    {
+      "idp_projection_proxy": null,
+      "is_my_roster": "True",
+      "keeper_cost_source": "known override (pre-draft)",
+      "keeper_round": 14,
+      "keeper_value_score": 82.0,
+      "league_id": "1359546418284494848",
+      "market_round": 4,
+      "nfl_team": "NE",
+      "player": "Drake Maye",
+      "player_id": "11564",
+      "position": "QB",
+      "redraft_ecr": 37.67,
+      "roster_id": "1",
+      "round_surplus": 10
+    }
+  ],
+  "keeper_pick_collision_flags": [],
+  "league": "12-Team 2-Keeper \u2014 League Is Rigged V2",
+  "league_id": "1359546418284494848",
+  "my_future_pick_inventory": [
+    {
+      "original_roster_id": "1",
+      "round": 1,
+      "season": 2026,
+      "source": "own"
+    },
+    {
+      "original_roster_id": "1",
+      "round": 2,
+      "season": 2026,
+      "source": "own"
+    },
+    {
+      "original_roster_id": "1",
+      "round": 3,
+      "season": 2026,
+      "source": "own"
+    },
+    {
+      "original_roster_id": "1",
+      "round": 4,
+      "season": 2026,
+      "source": "own"
+    },
+    {
+      "original_roster_id": "1",
+      "round": 5,
+      "season": 2026,
+      "source": "own"
+    },
+    {
+      "original_roster_id": "1",
+      "round": 6,
+      "season": 2026,
+      "source": "own"
+    },
+    {
+      "original_roster_id": "4",
+      "round": 6,
+      "season": 2026,
+      "source": "acquired"
+    },
+    {
+      "original_roster_id": "1",
+      "round": 8,
+      "season": 2026,
+      "source": "own"
+    },
+    {
+      "original_roster_id": "1",
+      "round": 9,
+      "season": 2026,
+      "source": "own"
+    },
+    {
+      "original_roster_id": "1",
+      "round": 10,
+      "season": 2026,
+      "source": "own"
+    },
+    {
+      "original_roster_id": "1",
+      "round": 11,
+      "season": 2026,
+      "source": "own"
+    },
+    {
+      "original_roster_id": "1",
+      "round": 12,
+      "season": 2026,
+      "source": "own"
+    },
+    {
+      "original_roster_id": "1",
+      "round": 13,
+      "season": 2026,
+      "source": "own"
+    },
+    {
+      "original_roster_id": "1",
+      "round": 14,
+      "season": 2026,
+      "source": "own"
+    },
+    {
+      "original_roster_id": "1",
+      "round": 15,
+      "season": 2026,
+      "source": "own"
+    },
+    {
+      "original_roster_id": "1",
+      "round": 16,
+      "season": 2026,
+      "source": "own"
+    },
+    {
+      "original_roster_id": "1",
+      "round": 17,
+      "season": 2026,
+      "source": "own"
+    },
+    {
+      "original_roster_id": "1",
+      "round": 1,
+      "season": 2027,
+      "source": "own"
+    },
+    {
+      "original_roster_id": "1",
+      "round": 2,
+      "season": 2027,
+      "source": "own"
+    },
+    {
+      "original_roster_id": "1",
+      "round": 3,
+      "season": 2027,
+      "source": "own"
+    },
+    {
+      "original_roster_id": "1",
+      "round": 4,
+      "season": 2027,
+      "source": "own"
+    },
+    {
+      "original_roster_id": "1",
+      "round": 5,
+      "season": 2027,
+      "source": "own"
+    },
+    {
+      "original_roster_id": "1",
+      "round": 6,
+      "season": 2027,
+      "source": "own"
+    },
+    {
+      "original_roster_id": "1",
+      "round": 7,
+      "season": 2027,
+      "source": "own"
+    },
+    {
+      "original_roster_id": "1",
+      "round": 8,
+      "season": 2027,
+      "source": "own"
+    },
+    {
+      "original_roster_id": "1",
+      "round": 9,
+      "season": 2027,
+      "source": "own"
+    },
+    {
+      "original_roster_id": "1",
+      "round": 10,
+      "season": 2027,
+      "source": "own"
+    },
+    {
+      "original_roster_id": "1",
+      "round": 11,
+      "season": 2027,
+      "source": "own"
+    },
+    {
+      "original_roster_id": "1",
+      "round": 12,
+      "season": 2027,
+      "source": "own"
+    },
+    {
+      "original_roster_id": "1",
+      "round": 13,
+      "season": 2027,
+      "source": "own"
+    },
+    {
+      "original_roster_id": "1",
+      "round": 14,
+      "season": 2027,
+      "source": "own"
+    },
+    {
+      "original_roster_id": "1",
+      "round": 15,
+      "season": 2027,
+      "source": "own"
+    },
+    {
+      "original_roster_id": "1",
+      "round": 16,
+      "season": 2027,
+      "source": "own"
+    },
+    {
+      "original_roster_id": "1",
+      "round": 17,
+      "season": 2027,
+      "source": "own"
+    },
+    {
+      "original_roster_id": "1",
+      "round": 1,
+      "season": 2028,
+      "source": "own"
+    },
+    {
+      "original_roster_id": "1",
+      "round": 2,
+      "season": 2028,
+      "source": "own"
+    },
+    {
+      "original_roster_id": "1",
+      "round": 3,
+      "season": 2028,
+      "source": "own"
+    },
+    {
+      "original_roster_id": "1",
+      "round": 4,
+      "season": 2028,
+      "source": "own"
+    },
+    {
+      "original_roster_id": "1",
+      "round": 5,
+      "season": 2028,
+      "source": "own"
+    },
+    {
+      "original_roster_id": "1",
+      "round": 6,
+      "season": 2028,
+      "source": "own"
+    },
+    {
+      "original_roster_id": "1",
+      "round": 7,
+      "season": 2028,
+      "source": "own"
+    },
+    {
+      "original_roster_id": "1",
+      "round": 8,
+      "season": 2028,
+      "source": "own"
+    },
+    {
+      "original_roster_id": "1",
+      "round": 9,
+      "season": 2028,
+      "source": "own"
+    },
+    {
+      "original_roster_id": "1",
+      "round": 10,
+      "season": 2028,
+      "source": "own"
+    },
+    {
+      "original_roster_id": "1",
+      "round": 11,
+      "season": 2028,
+      "source": "own"
+    },
+    {
+      "original_roster_id": "1",
+      "round": 12,
+      "season": 2028,
+      "source": "own"
+    },
+    {
+      "original_roster_id": "1",
+      "round": 13,
+      "season": 2028,
+      "source": "own"
+    },
+    {
+      "original_roster_id": "1",
+      "round": 14,
+      "season": 2028,
+      "source": "own"
+    },
+    {
+      "original_roster_id": "1",
+      "round": 15,
+      "season": 2028,
+      "source": "own"
+    },
+    {
+      "original_roster_id": "1",
+      "round": 16,
+      "season": 2028,
+      "source": "own"
+    },
+    {
+      "original_roster_id": "1",
+      "round": 17,
+      "season": 2028,
+      "source": "own"
+    }
+  ],
+  "my_keeper_values": [
+    {
+      "idp_projection_proxy": null,
+      "is_my_roster": "True",
+      "keeper_cost_source": "known override (pre-draft)",
+      "keeper_round": 14,
+      "keeper_value_score": 82.0,
+      "league_id": "1359546418284494848",
+      "market_round": 4,
+      "nfl_team": "NE",
+      "player": "Drake Maye",
+      "player_id": "11564",
+      "position": "QB",
+      "redraft_ecr": 37.67,
+      "roster_id": "1",
+      "round_surplus": 10
+    }
+  ],
+  "my_roster_id": "1",
+  "rules": {
+    "free_agent_keeper_round": 7,
+    "future_pick_trading": true,
+    "keeper_cost_model": "fixed_round_face_value",
+    "keeper_round_stays_fixed": true,
+    "known_keeper_costs": {
+      "Drake Maye": 14
+    },
+    "league": "12-Team 2-Keeper \u2014 League Is Rigged V2",
+    "lineup_model": {
+      "idp_slots": {
+        "DB": 1,
+        "DL": 1,
+        "LB": 1
+      },
+      "uses_team_defense": false
+    },
+    "max_keepers": 2,
+    "notes": "Keepers retain their face-value draft round in future seasons. A free-agent pickup becomes a Round 7 keeper. Drake Maye is a Round 14 keeper. Future draft picks are tradable and should be treated as trade currency. The league uses individual defensive players: 1 DL, 1 LB, and 1 DB, with no team-defense slot."
+  },
+  "status": "pre_draft",
+  "valuation_note": "Round surplus = locked keeper round minus estimated 12-team market round. Positive surplus means the player is cheaper to keep than his market draft cost. IDP players use this league's scoring-based IDP proxy when available."
+}
