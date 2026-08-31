@@ -6,9 +6,17 @@
     "keeper_round_stays_fixed": true,
     "free_agent_keeper_round": 7,
     "future_pick_trading": true,
+    "lineup_model": {
+      "uses_team_defense": false,
+      "idp_slots": {
+        "DL": 1,
+        "LB": 1,
+        "DB": 1
+      }
+    },
     "known_keeper_costs": {
       "Drake Maye": 14
     },
-    "notes": "Keepers retain their face-value draft round in future seasons. A free-agent pickup becomes a Round 7 keeper. Drake Maye is a Round 14 keeper. Future draft picks are tradable and should be treated as trade currency."
+    "notes": "Keepers retain their face-value draft round in future seasons. A free-agent pickup becomes a Round 7 keeper. Drake Maye is a Round 14 keeper. Future draft picks are tradable and should be treated as trade currency. The league uses individual defensive players: 1 DL, 1 LB, and 1 DB, with no team-defense slot."
   }
 }
