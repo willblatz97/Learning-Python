@@ -28,6 +28,8 @@ jobs:
         run: python fantasy-football-tracker/refresh_sleeper.py
       - name: Build ownership and exposure analysis
         run: python fantasy-football-tracker/build_exposure.py
+      - name: Normalize league lifecycle states
+        run: python fantasy-football-tracker/normalize_league_state.py
       - name: Commit refreshed data
         run: |
           git config user.name "fantasy-tracker-bot"
