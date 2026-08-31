@@ -7,6 +7,7 @@ on:
     paths:
       - 'fantasy-football-tracker/*.py'
       - 'fantasy-football-tracker/config.json'
+      - 'fantasy-football-tracker/keeper_rules.json'
       - 'fantasy-football-tracker/README.md'
       - '.github/workflows/fantasy-football-refresh.yml'
   schedule:
@@ -38,6 +39,10 @@ jobs:
         run: python fantasy-football-tracker/normalize_league_state.py
       - name: Build current usage and snap intelligence
         run: python fantasy-football-tracker/refresh_usage_intelligence.py
+      - name: Build League Is Rigged IDP intelligence
+        run: python fantasy-football-tracker/refresh_idp_intelligence.py
+      - name: Build keeper values and future-pick inventory
+        run: python fantasy-football-tracker/build_keeper_values.py
       - name: Build offensive line health intelligence
         run: python fantasy-football-tracker/refresh_ol_health.py
       - name: Build offensive and defensive injury ripples
@@ -50,6 +55,8 @@ jobs:
         run: python fantasy-football-tracker/build_waivers.py
       - name: Refine waiver board with consensus and lineup eligibility
         run: python fantasy-football-tracker/refine_waivers_v2.py
+      - name: Apply keeper economics and IDP value to waivers
+        run: python fantasy-football-tracker/apply_keeper_waivers.py
       - name: Inject all return-yard waiver candidates
         run: python fantasy-football-tracker/inject_return_waivers.py
       - name: Apply current usage trends to waiver board
@@ -62,6 +69,8 @@ jobs:
         run: python fantasy-football-tracker/finalize_waivers.py
       - name: Build Saturday lineup and matchup board
         run: python fantasy-football-tracker/build_saturday.py
+      - name: Apply League Is Rigged IDP scoring to Saturday player scores
+        run: python fantasy-football-tracker/apply_idp_saturday.py
       - name: Apply current usage trends to Saturday player scores
         run: python fantasy-football-tracker/apply_usage_saturday.py
       - name: Apply offensive line health to Saturday player scores
