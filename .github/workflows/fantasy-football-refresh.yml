@@ -5,7 +5,9 @@ on:
   push:
     branches: [main]
     paths:
-      - 'fantasy-football-tracker/**'
+      - 'fantasy-football-tracker/*.py'
+      - 'fantasy-football-tracker/config.json'
+      - 'fantasy-football-tracker/README.md'
       - '.github/workflows/fantasy-football-refresh.yml'
   schedule:
     - cron: '0 22 * * 2'
