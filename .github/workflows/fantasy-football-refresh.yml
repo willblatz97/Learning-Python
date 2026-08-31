@@ -83,6 +83,8 @@ jobs:
         run: python fantasy-football-tracker/apply_return_saturday.py
       - name: Add opponent threats and injury leverage
         run: python fantasy-football-tracker/finalize_saturday.py
+      - name: Build projected finish and playoff outlook
+        run: python fantasy-football-tracker/build_projected_finish.py
       - name: Build playoff-push and rebuild trade targets
         run: python fantasy-football-tracker/build_trade_targets.py
       - name: Build unified fantasy command center
