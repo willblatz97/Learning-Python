@@ -1,67 +1,87 @@
-# Fantasy Football Tracker Foundation
+# Fantasy Football Tracker / War Room
 
-Automated Sleeper data foundation for Sleeper user **blatzzy** and five 2026 leagues.
+Automated multi-league fantasy system for Sleeper user **blatzzy** and five 2026 leagues.
+
+## Front doors
+
+- **Visual War Room:** `data/war_room.html`
+- **Mobile / GitHub War Room:** `data/war_room.md`
+- **Command Center:** `data/command_center.md`
+- **Tuesday waiver board:** generated from the shared database and scoring engine
+- **Saturday lineup board:** generated from the same shared database and scoring engine
+- **Trade Target Board:** `data/trade_targets.md`
+- **Injury Ripple Report:** `data/injury_ripple_report.md`
+
+The chat reports are the concise action layer. The War Room is the deeper visual layer.
 
 ## Configured leagues
 
-- 1389740418316374016
-- 1370453762442797056
-- 1370218620990263296
-- 1366076769534251008
-- 1359546418284494848
+- 1389740418316374016 — 10-Team Redraft / Big Tiger Takeover
+- 1370453762442797056 — 18-Team Chopped / Surviving the Chamber
+- 1370218620990263296 — 12-Team Dynasty / One League to Rule Them All
+- 1366076769534251008 — 10-Team Dynasty / Dynasty V2
+- 1359546418284494848 — 12-Team 2-Keeper / League Is Rigged V2
 
 ## Refresh cadence
 
-GitHub Actions refreshes Sleeper data twice weekly:
+GitHub Actions refreshes the complete intelligence stack twice weekly:
 
 - Tuesday before the waiver/cut report
 - Saturday before the lineup/matchup report
 
 A manual workflow dispatch is also supported.
 
-## Data pulled
+## Intelligence stack
 
-For the account and every configured league, the ingestion job pulls as much public Sleeper data as is useful for the foundation:
+The pipeline currently combines:
 
-- NFL season/state metadata
-- Sleeper account identity
-- 2026 leagues attached to the account
-- league metadata and status
-- complete scoring settings
-- roster-position configuration
-- waiver/FAAB/playoff/general league settings
-- league users / team names
-- all rosters and roster settings
-- starters, reserve and taxi assignments
-- player ownership across every roster
-- player NFL team, position, injury/practice/depth-chart fields
-- traded future picks
-- league drafts
-- draft picks and player metadata
-- current/adjacent-week matchups
-- current/recent transactions, adds, drops, waiver budget and trades
-- complete Sleeper NFL player dictionary
+- Sleeper league settings, scoring, rosters, ownership, starters, matchups and transactions
+- current consensus rankings / projections when available
+- player exposure across every league
+- current snap and usage trends, with prior-year usage blocked from altering current-season scores
+- offensive-line starter health
+- game-time weather
+- kick and punt return roles with league-specific return scoring
+- offensive injury opportunity redistribution
+- defensive injury matchup ripples for CB, safety, linebacker, edge and interior defensive line
+- start/sit and matchup recomputation after projection adjustments
+- chopped-league cutoff / survival analysis
+- playoff-push and rebuild trade-target models
 
-## Output layout
+## Injury ripple philosophy
 
-`data/raw/` contains direct Sleeper API responses.
+The injury engine does more than downgrade the injured player. It follows the fantasy consequences.
 
-`data/normalized/` contains analysis-ready CSV tables:
+Examples include RB1 injury -> RB2 workload, WR1 injury -> WR2/WR3/TE target share, QB1 injury -> backup relevance plus pass-catcher efficiency risk, CB1 injury -> projected WR1 coverage improvement, safety injury -> WR/TE deep-middle improvement, linebacker injury -> TE/RB improvement, edge injury -> reduced QB pressure, and interior-DL injury -> rushing improvement.
 
-- `leagues.csv`
-- `owners.csv`
-- `rosters.csv`
-- `ownership.csv`
-- `traded_picks.csv`
-- `drafts.csv`
-- `draft_picks.csv`
-- `matchups.csv`
-- `transactions.csv`
+Soft Questionable/DNP/Limited designations are damped until official weekly injury reports exist. OUT/IR/PUP remain high-impact signals. CB1-to-WR1 effects are treated as matchup leverage unless a confirmed shadow assignment is available.
 
-`data/fantasy_tracker.sqlite` mirrors the normalized tables for querying and future report generation.
+## Trade philosophy
+
+Trade targets are not simply a list of the best players in the league. The engine weighs:
+
+- your positional weakness
+- current fantasy usefulness
+- redraft versus dynasty market value
+- age curve
+- likely acquisition cost
+- seller positional surplus
+- seller record once the season develops
+- win-now value arbitrage for contenders
+- youth / long-term value arbitrage for rebuilders
+
+Dynasty leagues stay on a dual-track push/rebuild board early in the season. Once record and roster strength provide enough evidence, the model can emphasize one direction.
+
+## Data layout
+
+`data/raw/` contains direct API/source responses.
+
+`data/normalized/` contains analysis-ready CSV tables and derived intelligence layers.
+
+`data/fantasy_tracker.sqlite` is the shared query layer.
 
 `data/summary.json` provides the latest account/league sanity check.
 
 ## Design rule
 
-Sleeper player ID and league ID are the permanent keys. Player information is normalized once and referenced across all five leagues so cross-league ownership, exposure, availability, injury impact, start/sit, waiver and chopped-league analysis can share one foundation.
+Sleeper player ID and league ID are the permanent keys. Player information is normalized once and referenced across all leagues so ownership, exposure, availability, injury impact, trade value, start/sit, waivers, returns, weather, OL health and chopped-league analysis share one source of truth.
