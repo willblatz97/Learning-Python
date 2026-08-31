@@ -295,17 +295,6 @@
           "waiver_score": "43.3"
         },
         {
-          "consensus_ecr": "273.91",
-          "faab_high": "20",
-          "faab_low": "0",
-          "nfl_team": "DAL",
-          "player": "Malik Davis",
-          "position": "RB",
-          "priority": "WATCH",
-          "reasons": "consensus ECR 273.91 | rostered in most comparable leagues | primary backup | 2 recent cross-league add(s) | return role KR +0.17 pts/g | offense+return dual role",
-          "waiver_score": "41.3"
-        },
-        {
           "consensus_ecr": "310.44",
           "faab_high": "20",
           "faab_low": "0",
@@ -348,6 +337,17 @@
           "priority": "WATCH",
           "reasons": "consensus ECR 237.76 | rostered in most comparable leagues | primary backup",
           "waiver_score": "39.4"
+        },
+        {
+          "consensus_ecr": "337.3",
+          "faab_high": "20",
+          "faab_low": "0",
+          "nfl_team": "BAL",
+          "player": "Rasheen Ali",
+          "position": "RB",
+          "priority": "WATCH",
+          "reasons": "return-scoring league candidate injected before final ranking | return role KR +5.09 pts/g | offense+return dual role",
+          "waiver_score": "39.1"
         }
       ],
       "type": "chopped"
@@ -416,17 +416,6 @@
           "waiver_score": "62.1"
         },
         {
-          "consensus_ecr": "118.1",
-          "faab_high": "7",
-          "faab_low": "3",
-          "nfl_team": "CLE",
-          "player": "KC Concepcion",
-          "position": "WR",
-          "priority": "SPECULATIVE",
-          "reasons": "consensus ECR 118.1 | rostered in most comparable leagues | depth-chart starter",
-          "waiver_score": "60.6"
-        },
-        {
           "consensus_ecr": "159.0",
           "faab_high": "7",
           "faab_low": "3",
@@ -491,6 +480,17 @@
           "priority": "SPECULATIVE",
           "reasons": "consensus ECR 211.73 | rostered in most comparable leagues | depth-chart starter | 1 recent cross-league add(s) | thin TE depth on your roster",
           "waiver_score": "50.2"
+        },
+        {
+          "consensus_ecr": "239.93",
+          "faab_high": "3",
+          "faab_low": "1",
+          "nfl_team": "TB",
+          "player": "Cade Otton",
+          "position": "TE",
+          "priority": "WATCH",
+          "reasons": "consensus ECR 239.93 | rostered in most comparable leagues | depth-chart starter | 1 recent cross-league add(s) | thin TE depth on your roster",
+          "waiver_score": "49.6"
         }
       ],
       "type": "redraft"
@@ -504,6 +504,6 @@
   "skipped_predraft_leagues": [
     "1359546418284494848"
   ],
-  "snapshot_utc": "2026-08-31T16:51:49+00:00",
+  "snapshot_utc": "2026-08-31T16:53:41+00:00",
   "week": 1
 }

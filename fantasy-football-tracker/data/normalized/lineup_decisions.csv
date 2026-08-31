@@ -1,39 +1,39 @@
 league_id,league,slot,action,starter_id,starter,starter_pos,starter_score,starter_return_points,starter_return_roles,starter_injury,starter_nfl_opponent,best_bench_id,best_bench,best_bench_pos,best_bench_score,best_bench_return_points,best_bench_return_roles,score_delta,score_source
-1389740418316374016,10-Team Redraft — Big Tiger Takeover,QB,LEAN CHANGE,6797,Justin Herbert,QB,21.37,0.0,,,ARI,11566,Jayden Daniels,QB,22.24,0.0,,0.87,season-long ECR proxy + OL health
-1389740418316374016,10-Team Redraft — Big Tiger Takeover,RB,MONITOR,12527,Ashton Jeanty,RB,19.06,0.0,,QUESTIONABLE,MIA,10219,Chris Rodriguez,RB,15.02,0.0,,-4.04,season-long ECR proxy + OL health
-1389740418316374016,10-Team Redraft — Big Tiger Takeover,RB,HOLD,12512,Quinshon Judkins,RB,19.88,0.0,,,JAX,10219,Chris Rodriguez,RB,15.02,0.0,,-4.86,season-long ECR proxy + OL health
-1389740418316374016,10-Team Redraft — Big Tiger Takeover,WR,MONITOR,7564,Ja'Marr Chase,WR,20.89,0.0,,QUESTIONABLE,TB,5872,Deebo Samuel,WR,15.15,0.0,,-5.74,season-long ECR proxy + OL health
-1389740418316374016,10-Team Redraft — Big Tiger Takeover,WR,MONITOR,11632,Malik Nabers,WR,19.21,0.0,,QUESTIONABLE,DAL,5872,Deebo Samuel,WR,15.15,0.0,,-4.06,season-long ECR proxy + OL health
-1389740418316374016,10-Team Redraft — Big Tiger Takeover,TE,HOLD,8110,Jake Ferguson,TE,16.3,0.0,,,NYG,,,,,,,,season-long ECR proxy + OL health
-1389740418316374016,10-Team Redraft — Big Tiger Takeover,FLEX,HOLD,12526,Tetairoa McMillan,WR,21.19,0.0,,,CHI,5872,Deebo Samuel,WR,15.15,0.0,,-6.04,season-long ECR proxy + OL health
-1389740418316374016,10-Team Redraft — Big Tiger Takeover,FLEX,HOLD,8146,Garrett Wilson,WR,20.97,0.0,,,TEN,5872,Deebo Samuel,WR,15.15,0.0,,-5.82,season-long ECR proxy + OL health
+1389740418316374016,10-Team Redraft — Big Tiger Takeover,QB,LEAN CHANGE,6797,Justin Herbert,QB,21.37,0.0,,,ARI,11566,Jayden Daniels,QB,22.42,0.0,,1.05,season-long ECR proxy + OL health
+1389740418316374016,10-Team Redraft — Big Tiger Takeover,RB,MONITOR,12527,Ashton Jeanty,RB,19.26,0.0,,QUESTIONABLE,MIA,10219,Chris Rodriguez,RB,15.22,0.0,,-4.04,season-long ECR proxy
+1389740418316374016,10-Team Redraft — Big Tiger Takeover,RB,HOLD,12512,Quinshon Judkins,RB,20.08,0.0,,,JAX,10219,Chris Rodriguez,RB,15.22,0.0,,-4.86,season-long ECR proxy
+1389740418316374016,10-Team Redraft — Big Tiger Takeover,WR,MONITOR,7564,Ja'Marr Chase,WR,21.03,0.0,,QUESTIONABLE,TB,5872,Deebo Samuel,WR,15.25,0.0,,-5.78,season-long ECR proxy
+1389740418316374016,10-Team Redraft — Big Tiger Takeover,WR,MONITOR,11632,Malik Nabers,WR,19.26,0.0,,QUESTIONABLE,DAL,5872,Deebo Samuel,WR,15.25,0.0,,-4.01,season-long ECR proxy + OL health
+1389740418316374016,10-Team Redraft — Big Tiger Takeover,TE,HOLD,8110,Jake Ferguson,TE,16.31,0.0,,,NYG,,,,,,,,season-long ECR proxy + OL health
+1389740418316374016,10-Team Redraft — Big Tiger Takeover,FLEX,HOLD,12526,Tetairoa McMillan,WR,21.33,0.0,,,CHI,5872,Deebo Samuel,WR,15.25,0.0,,-6.08,season-long ECR proxy
+1389740418316374016,10-Team Redraft — Big Tiger Takeover,FLEX,HOLD,8146,Garrett Wilson,WR,21.11,0.0,,,TEN,5872,Deebo Samuel,WR,15.25,0.0,,-5.86,season-long ECR proxy
 1389740418316374016,10-Team Redraft — Big Tiger Takeover,K,HOLD,11533,Brandon Aubrey,K,8.29,0.0,,,NYG,,,,,,,,season-long ECR proxy
 1389740418316374016,10-Team Redraft — Big Tiger Takeover,DEF,HOLD,PHI,Philadelphia Eagles,DEF,5.0,0.0,,,WAS,,,,,,,,season-long ECR proxy
-1370453762442797056,18-Team Chopped — Surviving the Chamber,QB,HOLD,6770,Joe Burrow,QB,23.19,0.0,,,TB,6768,Tua Tagovailoa,QB,11.95,0.0,,-11.24,season-long ECR proxy + OL health
-1370453762442797056,18-Team Chopped — Surviving the Chamber,RB,HOLD,6813,Jonathan Taylor,RB,22.24,0.0,,,BAL,9225,Tank Bigsby,RB,13.92,0.38,KR,-8.32,season-long ECR proxy + OL health
-1370453762442797056,18-Team Chopped — Surviving the Chamber,RB,HOLD,4199,Aaron Jones,RB,16.16,0.0,,,GB,9225,Tank Bigsby,RB,13.92,0.38,KR,-2.24,season-long ECR proxy + OL health
-1370453762442797056,18-Team Chopped — Surviving the Chamber,WR,MONITOR,11632,Malik Nabers,WR,19.21,0.0,,QUESTIONABLE,DAL,13533,Barion Brown,WR,8.33,2.32,KR+PR,-10.88,season-long ECR proxy + OL health
-1370453762442797056,18-Team Chopped — Surviving the Chamber,WR,HOLD,11628,Marvin Harrison,WR,19.64,0.0,,,LAC,13533,Barion Brown,WR,8.33,2.32,KR+PR,-11.31,season-long ECR proxy + OL health
-1370453762442797056,18-Team Chopped — Surviving the Chamber,TE,MONITOR,9484,Tucker Kraft,TE,15.59,0.0,,QUESTIONABLE,MIN,8172,Greg Dulcich,TE,12.07,0.0,,-3.52,season-long ECR proxy + OL health
-1370453762442797056,18-Team Chopped — Surviving the Chamber,FLEX,HOLD,13075,Myles Price,WR,14.46,11.1,KR+PR,,GB,9225,Tank Bigsby,RB,13.92,0.38,KR,-0.54,season-long ECR proxy + OL health + league return scoring
-1370453762442797056,18-Team Chopped — Surviving the Chamber,FLEX,HOLD,11237,Jacob Saylors,RB,13.3,8.15,KR,,NO,9225,Tank Bigsby,RB,13.92,0.38,KR,0.62,season-long ECR proxy + OL health + league return scoring
+1370453762442797056,18-Team Chopped — Surviving the Chamber,QB,HOLD,6770,Joe Burrow,QB,23.45,0.0,,,TB,6768,Tua Tagovailoa,QB,12.21,0.0,,-11.24,season-long ECR proxy
+1370453762442797056,18-Team Chopped — Surviving the Chamber,RB,HOLD,6813,Jonathan Taylor,RB,22.44,0.0,,,BAL,9225,Tank Bigsby,RB,14.12,0.38,KR,-8.32,season-long ECR proxy
+1370453762442797056,18-Team Chopped — Surviving the Chamber,RB,HOLD,4199,Aaron Jones,RB,16.36,0.0,,,GB,9225,Tank Bigsby,RB,14.12,0.38,KR,-2.24,season-long ECR proxy
+1370453762442797056,18-Team Chopped — Surviving the Chamber,WR,MONITOR,11632,Malik Nabers,WR,19.26,0.0,,QUESTIONABLE,DAL,13533,Barion Brown,WR,8.47,2.32,KR+PR,-10.79,season-long ECR proxy + OL health
+1370453762442797056,18-Team Chopped — Surviving the Chamber,WR,HOLD,11628,Marvin Harrison,WR,19.78,0.0,,,LAC,13533,Barion Brown,WR,8.47,2.32,KR+PR,-11.31,season-long ECR proxy
+1370453762442797056,18-Team Chopped — Surviving the Chamber,TE,MONITOR,9484,Tucker Kraft,TE,15.72,0.0,,QUESTIONABLE,MIN,8172,Greg Dulcich,TE,12.2,0.0,,-3.52,season-long ECR proxy
+1370453762442797056,18-Team Chopped — Surviving the Chamber,FLEX,HOLD,13075,Myles Price,WR,14.6,11.1,KR+PR,,GB,9225,Tank Bigsby,RB,14.12,0.38,KR,-0.48,season-long ECR proxy + league return scoring
+1370453762442797056,18-Team Chopped — Surviving the Chamber,FLEX,HOLD,11237,Jacob Saylors,RB,13.5,8.15,KR,,NO,9225,Tank Bigsby,RB,14.12,0.38,KR,0.62,season-long ECR proxy + league return scoring
 1370453762442797056,18-Team Chopped — Surviving the Chamber,K,MONITOR,8259,Cameron Dicker,K,5.35,0.0,,QUESTIONABLE,ARI,,,,,,,,season-long ECR proxy
-1370218620990263296,12-Team Dynasty — One League to Rule Them All,QB,HOLD,6770,Joe Burrow,QB,24.91,0.0,,,TB,1166,Kirk Cousins,QB,14.25,0.0,,-10.66,season-long ECR proxy + OL health
-1370218620990263296,12-Team Dynasty — One League to Rule Them All,RB,HOLD,12507,Omarion Hampton,RB,21.32,0.0,,,ARI,4035,Alvin Kamara,RB,8.88,0.0,,-12.44,season-long ECR proxy + OL health
-1370218620990263296,12-Team Dynasty — One League to Rule Them All,RB,HOLD,9224,Chase Brown,RB,20.84,0.0,,,TB,4035,Alvin Kamara,RB,8.88,0.0,,-11.96,season-long ECR proxy + OL health
-1370218620990263296,12-Team Dynasty — One League to Rule Them All,WR,MONITOR,12519,Luther Burden,WR,16.85,0.0,,QUESTIONABLE,CAR,5045,Courtland Sutton,WR,16.38,0.0,,-0.47,season-long ECR proxy + OL health
-1370218620990263296,12-Team Dynasty — One League to Rule Them All,WR,MONITOR,12514,Emeka Egbuka,WR,19.22,0.0,,QUESTIONABLE,CIN,5045,Courtland Sutton,WR,16.38,0.0,,-2.84,season-long ECR proxy + OL health
-1370218620990263296,12-Team Dynasty — One League to Rule Them All,WR,HOLD,9487,Parker Washington,WR,18.69,0.0,,,CLE,5045,Courtland Sutton,WR,16.38,0.0,,-2.31,season-long ECR proxy + OL health
-1370218620990263296,12-Team Dynasty — One League to Rule Them All,TE,HOLD,8110,Jake Ferguson,TE,16.05,0.0,,,NYG,11603,AJ Barner,TE,14.29,0.0,,-1.76,season-long ECR proxy + OL health
-1370218620990263296,12-Team Dynasty — One League to Rule Them All,FLEX,HOLD,11584,Bucky Irving,RB,19.83,0.0,,,CIN,5045,Courtland Sutton,WR,16.38,0.0,,-3.45,season-long ECR proxy + OL health
-1370218620990263296,12-Team Dynasty — One League to Rule Them All,FLEX,HOLD,6790,D'Andre Swift,RB,17.97,0.0,,,CAR,5045,Courtland Sutton,WR,16.38,0.0,,-1.59,season-long ECR proxy + OL health
-1370218620990263296,12-Team Dynasty — One League to Rule Them All,SUPER_FLEX,HOLD,1373,Geno Smith,QB,16.97,0.0,,,TEN,5045,Courtland Sutton,WR,16.38,0.0,,-0.59,season-long ECR proxy + OL health
-1366076769534251008,10-Team Dynasty — Dynasty V2,QB,HOLD,11566,Jayden Daniels,QB,24.48,0.0,,,PHI,7527,Mac Jones,QB,16.86,0.0,,-7.62,season-long ECR proxy + OL health
-1366076769534251008,10-Team Dynasty — Dynasty V2,RB,HOLD,9226,De'Von Achane,RB,21.48,0.0,,,LV,11583,Jonathon Brooks,RB,14.96,0.0,,-6.52,season-long ECR proxy + OL health
-1366076769534251008,10-Team Dynasty — Dynasty V2,RB,HOLD,6790,D'Andre Swift,RB,17.97,0.0,,,CAR,11583,Jonathon Brooks,RB,14.96,0.0,,-3.01,season-long ECR proxy + OL health
-1366076769534251008,10-Team Dynasty — Dynasty V2,WR,HOLD,7547,Amon-Ra St. Brown,WR,22.15,0.0,,,NO,12519,Luther Burden,WR,16.85,0.0,,-5.3,season-long ECR proxy + OL health
-1366076769534251008,10-Team Dynasty — Dynasty V2,WR,HOLD,12526,Tetairoa McMillan,WR,21.39,0.0,,,CHI,12519,Luther Burden,WR,16.85,0.0,,-4.54,season-long ECR proxy + OL health
-1366076769534251008,10-Team Dynasty — Dynasty V2,TE,HOLD,8110,Jake Ferguson,TE,16.05,0.0,,,NYG,8172,Greg Dulcich,TE,12.59,0.0,,-3.46,season-long ECR proxy + OL health
-1366076769534251008,10-Team Dynasty — Dynasty V2,FLEX,HOLD,8146,Garrett Wilson,WR,20.37,0.0,,,TEN,12519,Luther Burden,WR,16.85,0.0,,-3.52,season-long ECR proxy + OL health
-1366076769534251008,10-Team Dynasty — Dynasty V2,FLEX,MONITOR,9997,Zay Flowers,WR,18.22,0.0,,QUESTIONABLE,IND,12519,Luther Burden,WR,16.85,0.0,,-1.37,season-long ECR proxy + OL health
-1366076769534251008,10-Team Dynasty — Dynasty V2,SUPER_FLEX,HOLD,3294,Dak Prescott,QB,23.32,0.0,,,NYG,7527,Mac Jones,QB,16.86,0.0,,-6.46,season-long ECR proxy + OL health
+1370218620990263296,12-Team Dynasty — One League to Rule Them All,QB,HOLD,6770,Joe Burrow,QB,25.17,0.0,,,TB,1166,Kirk Cousins,QB,14.51,0.0,,-10.66,season-long ECR proxy
+1370218620990263296,12-Team Dynasty — One League to Rule Them All,RB,HOLD,12507,Omarion Hampton,RB,21.42,0.0,,,ARI,4035,Alvin Kamara,RB,9.08,0.0,,-12.34,season-long ECR proxy + OL health
+1370218620990263296,12-Team Dynasty — One League to Rule Them All,RB,HOLD,9224,Chase Brown,RB,21.04,0.0,,,TB,4035,Alvin Kamara,RB,9.08,0.0,,-11.96,season-long ECR proxy
+1370218620990263296,12-Team Dynasty — One League to Rule Them All,WR,MONITOR,12519,Luther Burden,WR,16.99,0.0,,QUESTIONABLE,CAR,5045,Courtland Sutton,WR,16.48,0.0,,-0.51,season-long ECR proxy
+1370218620990263296,12-Team Dynasty — One League to Rule Them All,WR,MONITOR,12514,Emeka Egbuka,WR,19.36,0.0,,QUESTIONABLE,CIN,5045,Courtland Sutton,WR,16.48,0.0,,-2.88,season-long ECR proxy
+1370218620990263296,12-Team Dynasty — One League to Rule Them All,WR,HOLD,9487,Parker Washington,WR,18.83,0.0,,,CLE,5045,Courtland Sutton,WR,16.48,0.0,,-2.35,season-long ECR proxy
+1370218620990263296,12-Team Dynasty — One League to Rule Them All,TE,HOLD,8110,Jake Ferguson,TE,16.06,0.0,,,NYG,11603,AJ Barner,TE,14.42,0.0,,-1.64,season-long ECR proxy + OL health
+1370218620990263296,12-Team Dynasty — One League to Rule Them All,FLEX,HOLD,11584,Bucky Irving,RB,20.03,0.0,,,CIN,5045,Courtland Sutton,WR,16.48,0.0,,-3.55,season-long ECR proxy
+1370218620990263296,12-Team Dynasty — One League to Rule Them All,FLEX,HOLD,6790,D'Andre Swift,RB,18.17,0.0,,,CAR,5045,Courtland Sutton,WR,16.48,0.0,,-1.69,season-long ECR proxy
+1370218620990263296,12-Team Dynasty — One League to Rule Them All,SUPER_FLEX,HOLD,1373,Geno Smith,QB,17.23,0.0,,,TEN,5045,Courtland Sutton,WR,16.48,0.0,,-0.75,season-long ECR proxy
+1366076769534251008,10-Team Dynasty — Dynasty V2,QB,HOLD,11566,Jayden Daniels,QB,24.66,0.0,,,PHI,7527,Mac Jones,QB,17.04,0.0,,-7.62,season-long ECR proxy + OL health
+1366076769534251008,10-Team Dynasty — Dynasty V2,RB,HOLD,9226,De'Von Achane,RB,21.68,0.0,,,LV,11583,Jonathon Brooks,RB,15.16,0.0,,-6.52,season-long ECR proxy
+1366076769534251008,10-Team Dynasty — Dynasty V2,RB,HOLD,6790,D'Andre Swift,RB,18.17,0.0,,,CAR,11583,Jonathon Brooks,RB,15.16,0.0,,-3.01,season-long ECR proxy
+1366076769534251008,10-Team Dynasty — Dynasty V2,WR,HOLD,7547,Amon-Ra St. Brown,WR,22.29,0.0,,,NO,12519,Luther Burden,WR,16.99,0.0,,-5.3,season-long ECR proxy
+1366076769534251008,10-Team Dynasty — Dynasty V2,WR,HOLD,12526,Tetairoa McMillan,WR,21.53,0.0,,,CHI,12519,Luther Burden,WR,16.99,0.0,,-4.54,season-long ECR proxy
+1366076769534251008,10-Team Dynasty — Dynasty V2,TE,HOLD,8110,Jake Ferguson,TE,16.06,0.0,,,NYG,8172,Greg Dulcich,TE,12.72,0.0,,-3.34,season-long ECR proxy + OL health
+1366076769534251008,10-Team Dynasty — Dynasty V2,FLEX,HOLD,8146,Garrett Wilson,WR,20.51,0.0,,,TEN,12519,Luther Burden,WR,16.99,0.0,,-3.52,season-long ECR proxy
+1366076769534251008,10-Team Dynasty — Dynasty V2,FLEX,MONITOR,9997,Zay Flowers,WR,18.36,0.0,,QUESTIONABLE,IND,12519,Luther Burden,WR,16.99,0.0,,-1.37,season-long ECR proxy
+1366076769534251008,10-Team Dynasty — Dynasty V2,SUPER_FLEX,HOLD,3294,Dak Prescott,QB,23.32,0.0,,,NYG,7527,Mac Jones,QB,17.04,0.0,,-6.28,season-long ECR proxy + OL health
