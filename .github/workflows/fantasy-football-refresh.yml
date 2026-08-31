@@ -26,12 +26,16 @@ jobs:
           python-version: '3.12'
       - name: Pull and normalize Sleeper data
         run: python fantasy-football-tracker/refresh_sleeper.py
+      - name: Pull current consensus rankings
+        run: python fantasy-football-tracker/refresh_external_rankings.py
       - name: Build ownership and exposure analysis
         run: python fantasy-football-tracker/build_exposure.py
       - name: Normalize league lifecycle states
         run: python fantasy-football-tracker/normalize_league_state.py
       - name: Build Tuesday waiver and cut board
         run: python fantasy-football-tracker/build_waivers.py
+      - name: Refine waiver board with consensus and lineup eligibility
+        run: python fantasy-football-tracker/refine_waivers_v2.py
       - name: Commit refreshed data
         run: |
           git config user.name "fantasy-tracker-bot"
