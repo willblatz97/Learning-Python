@@ -66,7 +66,7 @@
   "returners_mapped_to_sleeper": 136,
   "returners_unmatched": 2,
   "roster_id_bridge_source": "https://github.com/nflverse/nflverse-data/releases/download/rosters/roster_2026.csv",
-  "snapshot_utc": "2026-08-31T16:50:49+00:00",
+  "snapshot_utc": "2026-08-31T16:52:40+00:00",
   "stat_return_columns_detected": [
     "punt_returns",
     "punt_return_yards",

@@ -472,15 +472,15 @@
   "pre_draft_league_ids": [
     "1359546418284494848"
   ],
-  "snapshot_utc": "2026-08-31T16:50:40+00:00",
+  "snapshot_utc": "2026-08-31T16:51:49+00:00",
   "top_nfl_team_exposure": [
     {
       "nfl_team": "DAL",
-      "players_owned": "Brandon Aubrey | Dak Prescott | Jake Ferguson | Malik Davis",
+      "players_owned": "Brandon Aubrey | Dak Prescott | Jake Ferguson",
       "players_started": "Brandon Aubrey | Dak Prescott | Jake Ferguson",
-      "roster_slots_across_leagues": 6,
+      "roster_slots_across_leagues": 5,
       "starting_slots_across_leagues": 5,
-      "unique_players_owned": 4
+      "unique_players_owned": 3
     },
     {
       "nfl_team": "CIN",
@@ -753,5 +753,5 @@
       "position": "QB"
     }
   ],
-  "unique_players_owned": 77
+  "unique_players_owned": 76
 }
