@@ -58,15 +58,6 @@
     },
     {
       "free_agent_leagues": 1,
-      "full_name": "Baker Mayfield",
-      "my_leagues": "0",
-      "nfl_team": "TB",
-      "player_id": "4892",
-      "position": "QB",
-      "rostered_leagues": "3"
-    },
-    {
-      "free_agent_leagues": 1,
       "full_name": "Braelon Allen",
       "my_leagues": "0",
       "nfl_team": "NYJ",
@@ -451,6 +442,15 @@
       "player_id": "12457",
       "position": "RB",
       "rostered_leagues": "3"
+    },
+    {
+      "free_agent_leagues": 1,
+      "full_name": "Jaylen Wright",
+      "my_leagues": "0",
+      "nfl_team": "MIA",
+      "player_id": "11643",
+      "position": "RB",
+      "rostered_leagues": "3"
     }
   ],
   "opponent_roster_ids": {
@@ -472,7 +472,7 @@
   "pre_draft_league_ids": [
     "1359546418284494848"
   ],
-  "snapshot_utc": "2026-08-31T16:56:16+00:00",
+  "snapshot_utc": "2026-08-31T17:11:07+00:00",
   "top_nfl_team_exposure": [
     {
       "nfl_team": "DAL",

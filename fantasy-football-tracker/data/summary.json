@@ -1,5 +1,5 @@
 {
-  "all_ownership_rows": 1079,
+  "all_ownership_rows": 1080,
   "configured_leagues": 5,
   "league_names": {
     "1359546418284494848": "League Is Rigged V2",
@@ -33,6 +33,6 @@
   "owned_player_rows": 92,
   "sleeper_user_id": "779583277362245632",
   "sleeper_username": "blatzzy",
-  "snapshot_utc": "2026-08-31T16:56:16+00:00",
-  "transactions_rows": 93
+  "snapshot_utc": "2026-08-31T17:11:07+00:00",
+  "transactions_rows": 94
 }
