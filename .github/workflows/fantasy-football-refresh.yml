@@ -34,6 +34,8 @@ jobs:
         run: python fantasy-football-tracker/build_exposure.py
       - name: Normalize league lifecycle states
         run: python fantasy-football-tracker/normalize_league_state.py
+      - name: Build return-role and return-scoring intelligence
+        run: python fantasy-football-tracker/refresh_return_intelligence.py
       - name: Build Tuesday waiver and cut board
         run: python fantasy-football-tracker/build_waivers.py
       - name: Refine waiver board with consensus and lineup eligibility
