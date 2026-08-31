@@ -3,15 +3,15 @@
 Projection mode: **PRESEASON / SEASON-LONG PROXY** · Usage: **2025 CONTEXT ONLY**
 
 ## 10-Team Redraft — Big Tiger Takeover
-- TRAILING — projection 173.02 · margin -8.8
+- TRAILING — projection 172.77 · margin -8.66
 - Action: LEAN CHANGE — QB: Justin Herbert -> Jayden Daniels (+1.05)
 - Waiver: KC Concepcion · MEDIUM · FAAB 3-7
 - Trade posture: PLAYOFF / RECOVERY PUSH
-- Push targets: Carnell Tate, Parker Washington, Jalen Hurts, Bhayshul Tuten, Caleb Williams
+- Push targets: Carnell Tate, Mike Evans, Jalen Hurts, Bhayshul Tuten, Caleb Williams
 - Rebuild targets: none
 
 ## 18-Team Chopped — Surviving the Chamber
-- COMFORTABLE — projection 150.46 · margin 15.84
+- COMFORTABLE — projection 150.46 · margin 16.12
 - Action: MONITOR — Malik Nabers QUESTIONABLE; backup Barion Brown
 - Waiver: Samaje Perine · WATCH · FAAB 20-50
 - Trade posture: Not active yet
@@ -19,15 +19,15 @@ Projection mode: **PRESEASON / SEASON-LONG PROXY** · Usage: **2025 CONTEXT ONLY
 - Rebuild targets: none
 
 ## 12-Team Dynasty — One League to Rule Them All
-- TOSS-UP — projection 195.25 · margin 1.72
+- TOSS-UP — projection 194.72 · margin 1.72
 - Action: MONITOR — Luther Burden QUESTIONABLE; backup Courtland Sutton
 - Waiver: Jalon Daniels · WATCH · FAAB 0-1
 - Trade posture: DUAL TRACK — evaluate push and rebuild
-- Push targets: Davante Adams, DJ Moore, Bhayshul Tuten, Jaylen Warren, Justin Herbert
-- Rebuild targets: Fernando Mendoza, Jaxson Dart, Kenyon Sadiq, Jeremiyah Love, Makai Lemon
+- Push targets: DJ Moore, Davante Adams, Bhayshul Tuten, Jaylen Warren, Justin Herbert
+- Rebuild targets: Fernando Mendoza, Jaxson Dart, Kenyon Sadiq, Jeremiyah Love, Jordyn Tyson
 
 ## 10-Team Dynasty — Dynasty V2
-- FAVORED — projection 187.66 · margin 6.92
+- FAVORED — projection 187.06 · margin 6.45
 - Action: MONITOR — Zay Flowers QUESTIONABLE; backup Luther Burden
 - Waiver: Kayshon Boutte · WATCH · FAAB 0-1
 - Trade posture: DUAL TRACK — evaluate push and rebuild

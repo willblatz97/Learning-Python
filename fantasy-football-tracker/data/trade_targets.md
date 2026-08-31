@@ -4,12 +4,12 @@ This board favors actionable value: roster need + seller surplus + market arbitr
 
 ## 10-Team Redraft — Big Tiger Takeover
 - Posture: **PLAYOFF / RECOVERY PUSH** — record 0-0
-- Push targets: Carnell Tate (WR, Team feliciano); Parker Washington (WR, My Step-Burrow Is Brown); Jalen Hurts (QB, Sutton My Face); Bhayshul Tuten (RB, Downs Kids); Caleb Williams (QB, Felic loves jared)
+- Push targets: Carnell Tate (WR, Team feliciano); Mike Evans (WR, Team feliciano); Jalen Hurts (QB, Sutton My Face); Bhayshul Tuten (RB, Downs Kids); Caleb Williams (QB, Felic loves jared)
 
 ## 12-Team Dynasty — One League to Rule Them All
 - Posture: **DUAL TRACK — evaluate push and rebuild** — record 0-0
-- Push targets: Davante Adams (WR, Brandopoly); DJ Moore (WR, Brandopoly); Bhayshul Tuten (RB, The J-Squad); Jaylen Warren (RB, Spoonfed7); Justin Herbert (QB, scarberryt)
-- Rebuild targets: Fernando Mendoza (QB, age 22.0, Sauron’s Commisioner); Jaxson Dart (QB, age 23.0, Brandopoly); Kenyon Sadiq (TE, age 21.0, Sauron’s Commisioner); Jeremiyah Love (RB, age 21.0, Sauron’s Commisioner); Makai Lemon (WR, age 22.0, Jimb083)
+- Push targets: DJ Moore (WR, Brandopoly); Davante Adams (WR, Brandopoly); Bhayshul Tuten (RB, The J-Squad); Jaylen Warren (RB, Spoonfed7); Justin Herbert (QB, scarberryt)
+- Rebuild targets: Fernando Mendoza (QB, age 22.0, Sauron’s Commisioner); Jaxson Dart (QB, age 23.0, Brandopoly); Kenyon Sadiq (TE, age 21.0, Sauron’s Commisioner); Jeremiyah Love (RB, age 21.0, Sauron’s Commisioner); Jordyn Tyson (WR, age 22.0, Sauron’s Commisioner)
 
 ## 10-Team Dynasty — Dynasty V2
 - Posture: **DUAL TRACK — evaluate push and rebuild** — record 0-0

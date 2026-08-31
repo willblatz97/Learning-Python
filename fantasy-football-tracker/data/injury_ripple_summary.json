@@ -1,9 +1,11 @@
 {
   "max_player_adjustment": 2.25,
   "negative_players": 3,
-  "note": "Defensive coverage effects use current depth-chart roles. CB1-to-WR1 is a projected matchup leverage signal unless a confirmed shadow assignment is available later.",
+  "note": "Soft Questionable/DNP/Limited signals are damped until official weekly injury reports exist. Defensive CB1-to-WR1 is matchup leverage, not a confirmed shadow assignment.",
+  "official_injury_reports": false,
   "players_affected": 81,
   "positive_players": 78,
   "raw_ripple_events": 90,
-  "snapshot_utc": "2026-08-31T17:16:05+00:00"
+  "snapshot_utc": "2026-08-31T17:18:32+00:00",
+  "soft_flag_weight": 0.2
 }

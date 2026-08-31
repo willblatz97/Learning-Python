@@ -4,7 +4,7 @@ Weekly consensus has not refreshed for the 2026 season yet, so current scores ar
 
 ## 10-Team Redraft — Big Tiger Takeover
 Team: Pinkman
-Opponent: Sutton My Face — lineup proxy 173.02 vs 181.82; margin -8.80
+Opponent: Sutton My Face — lineup proxy 172.77 vs 181.43; margin -8.66
 
 ### Lineup actions
 - LEAN CHANGE QB: Justin Herbert (21.37) -> Jayden Daniels (22.42); delta 1.05; injury clear
@@ -15,8 +15,8 @@ Opponent: Sutton My Face — lineup proxy 173.02 vs 181.82; margin -8.80
 - Kenneth Walker — QUESTIONABLE; best legal bench option: Deebo Samuel
 
 ### Opponent threats
-- Drake London (WR ATL) — 22.57 vs PIT
-- Jalen Hurts (QB PHI) — 22.54 vs WAS
+- Drake London (WR ATL) — 22.47 vs PIT
+- Jalen Hurts (QB PHI) — 22.43 vs WAS
 - De'Von Achane (RB MIA) — 22.01 vs LV
 
 ### Opponent injury leverage
@@ -24,7 +24,7 @@ No opponent starter injury/practice flags currently detected.
 
 ## 18-Team Chopped — Surviving the Chamber
 Team: Masta’s
-Projected rank 13/18 — lineup proxy 150.46; projected chop line 134.62; safety margin +15.84
+Projected rank 13/18 — lineup proxy 150.46; projected chop line 134.34; safety margin +16.12
 
 ### Lineup actions
 No lineup changes clear the current action threshold.
@@ -43,7 +43,7 @@ No lineup changes clear the current action threshold.
 
 ## 12-Team Dynasty — One League to Rule Them All
 Team: Nazgûl Nation
-Opponent: sneekyn33ks — lineup proxy 195.25 vs 193.53; margin +1.72
+Opponent: sneekyn33ks — lineup proxy 194.72 vs 193.00; margin +1.72
 
 ### Lineup actions
 No lineup changes clear the current action threshold.
@@ -54,16 +54,16 @@ No lineup changes clear the current action threshold.
 
 ### Opponent threats
 - Lamar Jackson (QB BAL) — 24.77 vs IND
-- Jared Goff (QB DET) — 23.15 vs NO
+- Jared Goff (QB DET) — 23.04 vs NO
 - Jonathan Taylor (RB IND) — 21.48 vs BAL
 
 ### Opponent injury leverage
-- Zay Flowers — QUESTIONABLE; current lineup score 18.81
+- Zay Flowers — QUESTIONABLE; current lineup score 18.56
 - Christian McCaffrey — QUESTIONABLE; current lineup score 17.42
 
 ## 10-Team Dynasty — Dynasty V2
 Team: Route 66ers
-Opponent: zthompson1533 — lineup proxy 187.66 vs 180.74; margin +6.92
+Opponent: zthompson1533 — lineup proxy 187.06 vs 180.61; margin +6.45
 
 ### Lineup actions
 No lineup changes clear the current action threshold.
@@ -74,7 +74,7 @@ No lineup changes clear the current action threshold.
 ### Opponent threats
 - Joe Burrow (QB CIN) — 25.17 vs TB
 - Trevor Lawrence (QB JAX) — 24.16 vs CLE
-- Drake London (WR ATL) — 22.07 vs PIT
+- Drake London (WR ATL) — 21.97 vs PIT
 
 ### Opponent injury leverage
 - Ja'Marr Chase — QUESTIONABLE; current lineup score 20.80
