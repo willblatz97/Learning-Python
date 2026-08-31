@@ -1,0 +1,14 @@
+{
+  "1359546418284494848": {
+    "league": "12-Team 2-Keeper — League Is Rigged V2",
+    "max_keepers": 2,
+    "keeper_cost_model": "fixed_round_face_value",
+    "keeper_round_stays_fixed": true,
+    "free_agent_keeper_round": 7,
+    "future_pick_trading": true,
+    "known_keeper_costs": {
+      "Drake Maye": 14
+    },
+    "notes": "Keepers retain their face-value draft round in future seasons. A free-agent pickup becomes a Round 7 keeper. Drake Maye is a Round 14 keeper. Future draft picks are tradable and should be treated as trade currency."
+  }
+}
