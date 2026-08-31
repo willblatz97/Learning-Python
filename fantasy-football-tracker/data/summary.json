@@ -1,0 +1,38 @@
+{
+  "all_ownership_rows": 1078,
+  "configured_leagues": 5,
+  "league_names": {
+    "1359546418284494848": "League Is Rigged V2",
+    "1366076769534251008": "Dynasty V2",
+    "1370218620990263296": "One League to Rule Them All",
+    "1370453762442797056": "Surviving the Chamber",
+    "1389740418316374016": "Big Tiger Takeover"
+  },
+  "leagues_found": 5,
+  "matchup_rows": 100,
+  "my_roster_ids": {
+    "1359546418284494848": 1,
+    "1366076769534251008": 1,
+    "1370218620990263296": 3,
+    "1370453762442797056": 1,
+    "1389740418316374016": 4
+  },
+  "my_rosters_found": 5,
+  "nfl_state": {
+    "display_week": 1,
+    "league_create_season": "2026",
+    "league_season": "2026",
+    "leg": 1,
+    "previous_season": "2025",
+    "season": "2026",
+    "season_has_scores": true,
+    "season_start_date": "2026-09-09",
+    "season_type": "regular",
+    "week": 1
+  },
+  "owned_player_rows": 91,
+  "sleeper_user_id": "779583277362245632",
+  "sleeper_username": "blatzzy",
+  "snapshot_utc": "2026-08-31T15:30:59+00:00",
+  "transactions_rows": 90
+}

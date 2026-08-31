@@ -1,0 +1,60 @@
+[
+  {
+    "created": 1785702445156,
+    "creators": [
+      "996104610009952256"
+    ],
+    "draft_id": "1389740418316374017",
+    "draft_order": {
+      "1008988929109843968": 8,
+      "1262108133212311552": 7,
+      "594991759398850560": 2,
+      "779583277362245632": 4,
+      "996104610009952256": 5,
+      "996120449870385152": 10,
+      "996120627872493568": 1,
+      "996128808304558080": 6,
+      "996322180944277504": 3,
+      "997245852273930240": 9
+    },
+    "last_message_id": "1397367529235587072",
+    "last_message_time": 1787520890105,
+    "last_picked": 1787520850012,
+    "league_id": "1389740418316374016",
+    "metadata": {
+      "description": "",
+      "name": "Big Tiger Takeover",
+      "scoring_type": "ppr",
+      "show_team_names": "0"
+    },
+    "season": "2026",
+    "season_type": "regular",
+    "settings": {
+      "alpha_sort": 0,
+      "autopause_enabled": 0,
+      "autopause_end_time": 840,
+      "autopause_start_time": 120,
+      "autostart": 0,
+      "cpu_autopick": 1,
+      "enforce_position_limits": 1,
+      "nomination_timer": 60,
+      "pick_timer": 30,
+      "player_type": 0,
+      "reversal_round": 0,
+      "rounds": 15,
+      "slots_bn": 5,
+      "slots_def": 1,
+      "slots_flex": 2,
+      "slots_k": 1,
+      "slots_qb": 1,
+      "slots_rb": 2,
+      "slots_te": 1,
+      "slots_wr": 2,
+      "teams": 10
+    },
+    "sport": "nfl",
+    "start_time": 1787518871810,
+    "status": "complete",
+    "type": "snake"
+  }
+]

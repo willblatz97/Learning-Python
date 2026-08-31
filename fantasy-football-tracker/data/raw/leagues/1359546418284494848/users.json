@@ -1,0 +1,167 @@
+[
+  {
+    "avatar": null,
+    "display_name": "Stutterboyzzzz",
+    "is_bot": false,
+    "is_owner": null,
+    "league_id": "1359546418284494848",
+    "metadata": {
+      "allow_pn": "on",
+      "mention_pn": "on"
+    },
+    "settings": null,
+    "user_id": "609154836893601792"
+  },
+  {
+    "avatar": "73a0b1b438b4ab4e42214a2aa28bc35b",
+    "display_name": "zthompson1533",
+    "is_bot": false,
+    "is_owner": null,
+    "league_id": "1359546418284494848",
+    "metadata": {
+      "allow_pn": "on",
+      "mention_pn": "on"
+    },
+    "settings": null,
+    "user_id": "770802446909222912"
+  },
+  {
+    "avatar": "b319fdf8b7b5b0359d3c78622ba4d70c",
+    "display_name": "Blatzzy",
+    "is_bot": false,
+    "is_owner": true,
+    "league_id": "1359546418284494848",
+    "metadata": {
+      "allow_pn": "on",
+      "archived": "off",
+      "avatar": "https://sleepercdn.com/uploads/e2572b9c123ef5cdb7be25304930aae7.jpg",
+      "mention_pn": "on",
+      "team_name": "Lagrange 66ers"
+    },
+    "settings": null,
+    "user_id": "779583277362245632"
+  },
+  {
+    "avatar": "6b73e4fbf51742568178c095ccbd366a",
+    "display_name": "manson1",
+    "is_bot": false,
+    "is_owner": null,
+    "league_id": "1359546418284494848",
+    "metadata": {
+      "allow_pn": "on",
+      "allow_sms": "on",
+      "avatar": "https://sleepercdn.com/uploads/8e00c639b395eb5454c777abd1c03602.jpg",
+      "mention_pn": "on",
+      "team_name": "Njigbas in paris"
+    },
+    "settings": null,
+    "user_id": "779583497248550912"
+  },
+  {
+    "avatar": "55885da7c90ce2e22e4d58d78ffff4f1",
+    "display_name": "GOOBERTON",
+    "is_bot": false,
+    "is_owner": null,
+    "league_id": "1359546418284494848",
+    "metadata": {
+      "allow_pn": "on",
+      "mention_pn": "on"
+    },
+    "settings": null,
+    "user_id": "854202549119594496"
+  },
+  {
+    "avatar": "fce08e431ff4d785441b2f2772609044",
+    "display_name": "taybasco",
+    "is_bot": false,
+    "is_owner": null,
+    "league_id": "1359546418284494848",
+    "metadata": {
+      "allow_pn": "on",
+      "mention_pn": "on",
+      "team_name": "League is rigged"
+    },
+    "settings": null,
+    "user_id": "860386640982589440"
+  },
+  {
+    "avatar": "b319fdf8b7b5b0359d3c78622ba4d70c",
+    "display_name": "jblatz",
+    "is_bot": false,
+    "is_owner": null,
+    "league_id": "1359546418284494848",
+    "metadata": {
+      "allow_pn": "on",
+      "mention_pn": "on"
+    },
+    "settings": null,
+    "user_id": "861663770647339008"
+  },
+  {
+    "avatar": "82aec8e811b839b8ec25d7b458afd57b",
+    "display_name": "liamblatz",
+    "is_bot": false,
+    "is_owner": null,
+    "league_id": "1359546418284494848",
+    "metadata": {
+      "allow_pn": "on",
+      "mention_pn": "on"
+    },
+    "settings": null,
+    "user_id": "872239354578415616"
+  },
+  {
+    "avatar": "e7af4deab0289b4f5505646424895246",
+    "display_name": "Saxis",
+    "is_bot": false,
+    "is_owner": null,
+    "league_id": "1359546418284494848",
+    "metadata": {
+      "allow_pn": "on",
+      "mention_pn": "on"
+    },
+    "settings": null,
+    "user_id": "1128436496693874688"
+  },
+  {
+    "avatar": "4f4090e5e9c3941414db40a871e3e909",
+    "display_name": "alenhart85",
+    "is_bot": false,
+    "is_owner": null,
+    "league_id": "1359546418284494848",
+    "metadata": {
+      "allow_pn": "on",
+      "mention_pn": "on"
+    },
+    "settings": null,
+    "user_id": "1129803532904914944"
+  },
+  {
+    "avatar": "c16f86edb4f6ee356af48e9edca95c68",
+    "display_name": "2kyle",
+    "is_bot": false,
+    "is_owner": null,
+    "league_id": "1359546418284494848",
+    "metadata": {
+      "allow_pn": "on",
+      "allow_sms": "on",
+      "mention_pn": "on"
+    },
+    "settings": null,
+    "user_id": "1262823409977393152"
+  },
+  {
+    "avatar": "51385ba57cd089261f6de9ce483b8716",
+    "display_name": "tylercatlett1",
+    "is_bot": false,
+    "is_owner": null,
+    "league_id": "1359546418284494848",
+    "metadata": {
+      "allow_pn": "on",
+      "allow_sms": "on",
+      "mention_pn": "on"
+    },
+    "settings": null,
+    "user_id": "1266474061580480512"
+  }
+]

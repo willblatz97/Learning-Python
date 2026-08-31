@@ -1,0 +1,60 @@
+[
+  {
+    "created": 1780060591889,
+    "creators": [
+      "779583277362245632"
+    ],
+    "draft_id": "1366076770662518784",
+    "draft_order": {
+      "1126612181929336832": 10,
+      "1127380007921328128": 1,
+      "1128535741111402496": 8,
+      "609154836893601792": 3,
+      "770802446909222912": 9,
+      "779583277362245632": 7,
+      "779583497248550912": 4,
+      "854202549119594496": 5,
+      "861663770647339008": 6,
+      "996120627872493568": 2
+    },
+    "last_message_id": "1393769323859816448",
+    "last_message_time": 1786663011092,
+    "last_picked": 1786662999223,
+    "league_id": "1366076769534251008",
+    "metadata": {
+      "description": "",
+      "league_type": "2",
+      "name": "Dynasty V2",
+      "scoring_type": "dynasty_2qb",
+      "show_team_names": "0"
+    },
+    "season": "2026",
+    "season_type": "regular",
+    "settings": {
+      "alpha_sort": 0,
+      "autopause_enabled": 1,
+      "autopause_end_time": 660,
+      "autopause_start_time": 180,
+      "autostart": 0,
+      "cpu_autopick": 1,
+      "enforce_position_limits": 1,
+      "nomination_timer": 60,
+      "pick_timer": 14400,
+      "player_type": 0,
+      "reversal_round": 0,
+      "rounds": 31,
+      "slots_bn": 16,
+      "slots_flex": 2,
+      "slots_qb": 1,
+      "slots_rb": 2,
+      "slots_super_flex": 1,
+      "slots_te": 1,
+      "slots_wr": 2,
+      "teams": 10
+    },
+    "sport": "nfl",
+    "start_time": 1785708018111,
+    "status": "complete",
+    "type": "snake"
+  }
+]

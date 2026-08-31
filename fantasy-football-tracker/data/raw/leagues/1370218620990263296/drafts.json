@@ -1,0 +1,62 @@
+[
+  {
+    "created": 1781048086547,
+    "creators": [
+      "978483609717858304"
+    ],
+    "draft_id": "1370218623456526336",
+    "draft_order": {
+      "1087855749369339904": 2,
+      "1225654710162182144": 12,
+      "1241249556683821056": 11,
+      "1241276722213564416": 5,
+      "1369507540269809664": 1,
+      "214141231750443008": 4,
+      "458310882858889216": 7,
+      "725564023889817600": 10,
+      "779583277362245632": 3,
+      "895461742359175168": 9,
+      "978483609717858304": 8,
+      "998103180779155456": 6
+    },
+    "last_message_id": "1378108669756973056",
+    "last_message_time": 1782929220193,
+    "last_picked": 1782929219020,
+    "league_id": "1370218620990263296",
+    "metadata": {
+      "description": "",
+      "league_type": "2",
+      "name": "One League to Rule Them All",
+      "scoring_type": "dynasty_2qb",
+      "show_team_names": "0"
+    },
+    "season": "2026",
+    "season_type": "regular",
+    "settings": {
+      "alpha_sort": 0,
+      "autopause_enabled": 1,
+      "autopause_end_time": 660,
+      "autopause_start_time": 300,
+      "autostart": 1,
+      "cpu_autopick": 1,
+      "enforce_position_limits": 1,
+      "nomination_timer": 60,
+      "pick_timer": 28800,
+      "player_type": 0,
+      "reversal_round": 3,
+      "rounds": 30,
+      "slots_bn": 15,
+      "slots_flex": 2,
+      "slots_qb": 1,
+      "slots_rb": 2,
+      "slots_super_flex": 1,
+      "slots_te": 1,
+      "slots_wr": 3,
+      "teams": 12
+    },
+    "sport": "nfl",
+    "start_time": 1781388069343,
+    "status": "complete",
+    "type": "snake"
+  }
+]

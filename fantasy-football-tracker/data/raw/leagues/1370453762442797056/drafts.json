@@ -1,0 +1,68 @@
+[
+  {
+    "created": 1781104148070,
+    "creators": [
+      "779583277362245632"
+    ],
+    "draft_id": "1370453762451185664",
+    "draft_order": {
+      "1126612181929336832": 2,
+      "1127380007921328128": 3,
+      "1128436496693874688": 17,
+      "1135263834127753216": 11,
+      "1262823409977393152": 10,
+      "1264073315803217920": 14,
+      "1265369037945184256": 16,
+      "1266474061580480512": 4,
+      "609154836893601792": 12,
+      "739882929580335104": 6,
+      "770802446909222912": 9,
+      "779583277362245632": 5,
+      "779583497248550912": 15,
+      "860386640982589440": 8,
+      "861663770647339008": 13,
+      "996120627872493568": 1,
+      "997317930117337088": 18,
+      "997348618057125888": 7
+    },
+    "last_message_id": "1397393591986323456",
+    "last_message_time": 1787527103949,
+    "last_picked": 1787527102989,
+    "league_id": "1370453762442797056",
+    "metadata": {
+      "description": "",
+      "league_type": "3",
+      "name": "Surviving the Chamber",
+      "scoring_type": "ppr",
+      "show_team_names": "0"
+    },
+    "season": "2026",
+    "season_type": "regular",
+    "settings": {
+      "alpha_sort": 0,
+      "autopause_enabled": 0,
+      "autopause_end_time": 840,
+      "autopause_start_time": 120,
+      "autostart": 0,
+      "cpu_autopick": 1,
+      "enforce_position_limits": 1,
+      "nomination_timer": 60,
+      "pick_timer": 60,
+      "player_type": 0,
+      "reversal_round": 0,
+      "rounds": 15,
+      "slots_bn": 6,
+      "slots_flex": 2,
+      "slots_k": 1,
+      "slots_qb": 1,
+      "slots_rb": 2,
+      "slots_te": 1,
+      "slots_wr": 2,
+      "teams": 18
+    },
+    "sport": "nfl",
+    "start_time": 1787522414876,
+    "status": "complete",
+    "type": "snake"
+  }
+]

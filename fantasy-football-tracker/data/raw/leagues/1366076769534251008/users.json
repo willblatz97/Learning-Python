@@ -1,0 +1,139 @@
+[
+  {
+    "avatar": null,
+    "display_name": "Stutterboyzzzz",
+    "is_bot": false,
+    "is_owner": null,
+    "league_id": "1366076769534251008",
+    "metadata": {
+      "allow_pn": "on",
+      "allow_sms": "on",
+      "mention_pn": "on"
+    },
+    "settings": null,
+    "user_id": "609154836893601792"
+  },
+  {
+    "avatar": "73a0b1b438b4ab4e42214a2aa28bc35b",
+    "display_name": "zthompson1533",
+    "is_bot": false,
+    "is_owner": null,
+    "league_id": "1366076769534251008",
+    "metadata": {
+      "allow_pn": "on",
+      "mention_pn": "on"
+    },
+    "settings": null,
+    "user_id": "770802446909222912"
+  },
+  {
+    "avatar": "b319fdf8b7b5b0359d3c78622ba4d70c",
+    "display_name": "Blatzzy",
+    "is_bot": false,
+    "is_owner": true,
+    "league_id": "1366076769534251008",
+    "metadata": {
+      "allow_pn": "on",
+      "archived": "off",
+      "avatar": "https://sleepercdn.com/uploads/44149b61ec74392e9ef619504dbd10ba.jpg",
+      "mention_pn": "on",
+      "team_name": "Route 66ers"
+    },
+    "settings": null,
+    "user_id": "779583277362245632"
+  },
+  {
+    "avatar": "6b73e4fbf51742568178c095ccbd366a",
+    "display_name": "manson1",
+    "is_bot": false,
+    "is_owner": null,
+    "league_id": "1366076769534251008",
+    "metadata": {
+      "allow_pn": "on",
+      "avatar": "https://sleepercdn.com/uploads/07d6b57a2fc0dfc422d0514815d0e904.jpg",
+      "mention_pn": "on",
+      "team_name": "Manson"
+    },
+    "settings": null,
+    "user_id": "779583497248550912"
+  },
+  {
+    "avatar": "55885da7c90ce2e22e4d58d78ffff4f1",
+    "display_name": "GOOBERTON",
+    "is_bot": false,
+    "is_owner": null,
+    "league_id": "1366076769534251008",
+    "metadata": {
+      "allow_pn": "on",
+      "mention_pn": "on"
+    },
+    "settings": null,
+    "user_id": "854202549119594496"
+  },
+  {
+    "avatar": "b319fdf8b7b5b0359d3c78622ba4d70c",
+    "display_name": "jblatz",
+    "is_bot": false,
+    "is_owner": null,
+    "league_id": "1366076769534251008",
+    "metadata": {
+      "allow_pn": "on",
+      "mention_pn": "on"
+    },
+    "settings": null,
+    "user_id": "861663770647339008"
+  },
+  {
+    "avatar": "b319fdf8b7b5b0359d3c78622ba4d70c",
+    "display_name": "Felici42",
+    "is_bot": false,
+    "is_owner": null,
+    "league_id": "1366076769534251008",
+    "metadata": {
+      "allow_pn": "on",
+      "mention_pn": "on"
+    },
+    "settings": null,
+    "user_id": "996120627872493568"
+  },
+  {
+    "avatar": "f0edbf4278f53f9425db175073df6584",
+    "display_name": "cburt31",
+    "is_bot": false,
+    "is_owner": null,
+    "league_id": "1366076769534251008",
+    "metadata": {
+      "allow_pn": "on",
+      "mention_pn": "on"
+    },
+    "settings": null,
+    "user_id": "1126612181929336832"
+  },
+  {
+    "avatar": "e7af4deab0289b4f5505646424895246",
+    "display_name": "ArogersAchilles",
+    "is_bot": false,
+    "is_owner": null,
+    "league_id": "1366076769534251008",
+    "metadata": {
+      "allow_pn": "on",
+      "allow_sms": "on",
+      "mention_pn": "on"
+    },
+    "settings": null,
+    "user_id": "1127380007921328128"
+  },
+  {
+    "avatar": "ca248a632cd211a5c2085339da807645",
+    "display_name": "TheANT2",
+    "is_bot": false,
+    "is_owner": null,
+    "league_id": "1366076769534251008",
+    "metadata": {
+      "allow_pn": "on",
+      "mention_pn": "on"
+    },
+    "settings": null,
+    "user_id": "1128535741111402496"
+  }
+]

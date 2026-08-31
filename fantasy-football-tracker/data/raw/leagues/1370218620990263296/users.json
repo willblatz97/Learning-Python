@@ -1,0 +1,174 @@
+[
+  {
+    "avatar": "58a6f64a56193aec96cd5c24db496768",
+    "display_name": "TmillerTMG",
+    "is_bot": false,
+    "is_owner": null,
+    "league_id": "1370218620990263296",
+    "metadata": {
+      "allow_pn": "on",
+      "archived": "off",
+      "mention_pn": "on",
+      "team_name": "The J-Squad"
+    },
+    "settings": null,
+    "user_id": "214141231750443008"
+  },
+  {
+    "avatar": null,
+    "display_name": "RoboJVB",
+    "is_bot": false,
+    "is_owner": null,
+    "league_id": "1370218620990263296",
+    "metadata": {
+      "allow_pn": "on",
+      "mention_pn": "on"
+    },
+    "settings": null,
+    "user_id": "458310882858889216"
+  },
+  {
+    "avatar": null,
+    "display_name": "Shaboomaboom",
+    "is_bot": false,
+    "is_owner": null,
+    "league_id": "1370218620990263296",
+    "metadata": {
+      "allow_pn": "on",
+      "mention_pn": "on"
+    },
+    "settings": null,
+    "user_id": "725564023889817600"
+  },
+  {
+    "avatar": "b319fdf8b7b5b0359d3c78622ba4d70c",
+    "display_name": "Blatzzy",
+    "is_bot": false,
+    "is_owner": null,
+    "league_id": "1370218620990263296",
+    "metadata": {
+      "allow_pn": "on",
+      "archived": "off",
+      "avatar": "https://sleepercdn.com/uploads/f84547f4a60852d6aba5bb3db5c7f54d.jpg",
+      "mention_pn": "on",
+      "team_name": "Nazg\u00fbl Nation"
+    },
+    "settings": null,
+    "user_id": "779583277362245632"
+  },
+  {
+    "avatar": "bf7329c6b9bb6b660ceeacd8246f5883",
+    "display_name": "sabatz",
+    "is_bot": false,
+    "is_owner": null,
+    "league_id": "1370218620990263296",
+    "metadata": {
+      "allow_pn": "on",
+      "archived": "off",
+      "avatar": "https://sleepercdn.com/uploads/bf7329c6b9bb6b660ceeacd8246f5883.jpg",
+      "mention_pn": "on",
+      "team_name": "Sabatz",
+      "user_message_pn": "off"
+    },
+    "settings": null,
+    "user_id": "895461742359175168"
+  },
+  {
+    "avatar": "041b71dba0af1a1b0568217fe5b713fb",
+    "display_name": "extraguacam",
+    "is_bot": false,
+    "is_owner": true,
+    "league_id": "1370218620990263296",
+    "metadata": {
+      "allow_pn": "on",
+      "avatar": "https://sleepercdn.com/uploads/626b9f4c8a968f1ca04f56ce1909b101.jpg",
+      "mention_pn": "on",
+      "team_name": "Sauron\u2019s Commisioner"
+    },
+    "settings": null,
+    "user_id": "978483609717858304"
+  },
+  {
+    "avatar": "d945568a93af5aa9ccbbc0ed7d0ae89a",
+    "display_name": "scarberryt",
+    "is_bot": false,
+    "is_owner": null,
+    "league_id": "1370218620990263296",
+    "metadata": {
+      "allow_pn": "on",
+      "allow_sms": "on",
+      "mention_pn": "on"
+    },
+    "settings": null,
+    "user_id": "998103180779155456"
+  },
+  {
+    "avatar": "2eefa36a36ef9515eb92c98955fc9823",
+    "display_name": "Jimb083",
+    "is_bot": false,
+    "is_owner": null,
+    "league_id": "1370218620990263296",
+    "metadata": {
+      "allow_pn": "on",
+      "archived": "off",
+      "avatar": "https://sleepercdn.com/uploads/a2db76217142ad5b29671de5cca78f3e.jpg",
+      "mention_pn": "on",
+      "user_message_pn": "off"
+    },
+    "settings": null,
+    "user_id": "1087855749369339904"
+  },
+  {
+    "avatar": "7572250c2fb084c434fed0e82229e183",
+    "display_name": "Spoonfed7",
+    "is_bot": false,
+    "is_owner": null,
+    "league_id": "1370218620990263296",
+    "metadata": {
+      "allow_pn": "on",
+      "mention_pn": "on"
+    },
+    "settings": null,
+    "user_id": "1225654710162182144"
+  },
+  {
+    "avatar": "d22e52781a5d7a94bcbf2aa70e748382",
+    "display_name": "sneekyn33ks",
+    "is_bot": false,
+    "is_owner": null,
+    "league_id": "1370218620990263296",
+    "metadata": {
+      "allow_pn": "on",
+      "mention_pn": "on"
+    },
+    "settings": null,
+    "user_id": "1241249556683821056"
+  },
+  {
+    "avatar": "d22e52781a5d7a94bcbf2aa70e748382",
+    "display_name": "Brandopoly",
+    "is_bot": false,
+    "is_owner": null,
+    "league_id": "1370218620990263296",
+    "metadata": {
+      "allow_pn": "on",
+      "mention_pn": "on"
+    },
+    "settings": null,
+    "user_id": "1241276722213564416"
+  },
+  {
+    "avatar": "c26ebe78cf1155a40b55ff994726316d",
+    "display_name": "AltoidGG",
+    "is_bot": false,
+    "is_owner": null,
+    "league_id": "1370218620990263296",
+    "metadata": {
+      "allow_pn": "on",
+      "mention_pn": "on",
+      "team_name": "Average at Best"
+    },
+    "settings": null,
+    "user_id": "1369507540269809664"
+  }
+]

@@ -1,0 +1,156 @@
+[
+  {
+    "avatar": "320f9195b391718105e27b8cc9d40277",
+    "display_name": "JPizzleTheMac",
+    "is_bot": false,
+    "is_owner": false,
+    "league_id": "1389740418316374016",
+    "metadata": {
+      "allow_pn": "on",
+      "mention_pn": "on",
+      "team_name": "Mac Daddys"
+    },
+    "settings": null,
+    "user_id": "594991759398850560"
+  },
+  {
+    "avatar": "b319fdf8b7b5b0359d3c78622ba4d70c",
+    "display_name": "Blatzzy",
+    "is_bot": false,
+    "is_owner": false,
+    "league_id": "1389740418316374016",
+    "metadata": {
+      "allow_pn": "on",
+      "archived": "off",
+      "avatar": "https://sleepercdn.com/uploads/343eb78006d0db1c4daec2c9d3599eb3.jpg",
+      "mention_pn": "on",
+      "team_name": "Pinkman"
+    },
+    "settings": null,
+    "user_id": "779583277362245632"
+  },
+  {
+    "avatar": "b3338675f635c2c1f42b469621d38ec6",
+    "display_name": "bfmirr",
+    "is_bot": false,
+    "is_owner": true,
+    "league_id": "1389740418316374016",
+    "metadata": {
+      "allow_pn": "on",
+      "allow_sms": "on",
+      "mention_pn": "on",
+      "team_name": "The Herban Legends"
+    },
+    "settings": null,
+    "user_id": "996104610009952256"
+  },
+  {
+    "avatar": "15d7cf259bc30eab8f6120f45f652fb6",
+    "display_name": "Voltinus",
+    "is_bot": false,
+    "is_owner": false,
+    "league_id": "1389740418316374016",
+    "metadata": {
+      "allow_pn": "on",
+      "allow_sms": "on",
+      "archived": "off",
+      "avatar": "https://sleepercdn.com/uploads/91e5fb34f204d25b9bbeb6bfc791d167.jpg",
+      "mention_pn": "on",
+      "team_name": "Purdy Cooked"
+    },
+    "settings": null,
+    "user_id": "996120449870385152"
+  },
+  {
+    "avatar": "b319fdf8b7b5b0359d3c78622ba4d70c",
+    "display_name": "Felici42",
+    "is_bot": false,
+    "is_owner": false,
+    "league_id": "1389740418316374016",
+    "metadata": {
+      "allow_pn": "on",
+      "allow_sms": "on",
+      "mention_pn": "on",
+      "team_name": "Team feliciano"
+    },
+    "settings": null,
+    "user_id": "996120627872493568"
+  },
+  {
+    "avatar": "89318c950a38413ef13648acf0638f78",
+    "display_name": "Yurtty",
+    "is_bot": false,
+    "is_owner": false,
+    "league_id": "1389740418316374016",
+    "metadata": {
+      "allow_pn": "on",
+      "allow_sms": "on",
+      "avatar": "https://sleepercdn.com/uploads/4e730dfaa68ecf60ede43a366177fa06.jpg",
+      "mention_pn": "on",
+      "team_name": "Hurts Locker"
+    },
+    "settings": null,
+    "user_id": "996128808304558080"
+  },
+  {
+    "avatar": "15d7cf259bc30eab8f6120f45f652fb6",
+    "display_name": "BennDerova",
+    "is_bot": false,
+    "is_owner": false,
+    "league_id": "1389740418316374016",
+    "metadata": {
+      "allow_pn": "on",
+      "allow_sms": "on",
+      "avatar": "https://sleepercdn.com/uploads/f0d859bc853bf1f1240540b58c37bd53.jpg",
+      "mention_pn": "on",
+      "team_name": "My Step-Burrow Is Brown"
+    },
+    "settings": null,
+    "user_id": "996322180944277504"
+  },
+  {
+    "avatar": "8eb8f8bf999945d523f2c4033f70473e",
+    "display_name": "Aberm01",
+    "is_bot": false,
+    "is_owner": false,
+    "league_id": "1389740418316374016",
+    "metadata": {
+      "allow_pn": "on",
+      "allow_sms": "on",
+      "avatar": "https://sleepercdn.com/uploads/355f3a37b9403ec606c44f611a6b0a9d.jpg",
+      "mention_pn": "on",
+      "team_name": "Felic loves jared"
+    },
+    "settings": null,
+    "user_id": "997245852273930240"
+  },
+  {
+    "avatar": "b3338675f635c2c1f42b469621d38ec6",
+    "display_name": "DavidsFortune",
+    "is_bot": false,
+    "is_owner": false,
+    "league_id": "1389740418316374016",
+    "metadata": {
+      "allow_pn": "on",
+      "allow_sms": "on",
+      "mention_pn": "on",
+      "team_name": "Downs Kids"
+    },
+    "settings": null,
+    "user_id": "1008988929109843968"
+  },
+  {
+    "avatar": "7d07c3b0c36e848942f20dc7f9c1ab9a",
+    "display_name": "pumorris",
+    "is_bot": false,
+    "is_owner": null,
+    "league_id": "1389740418316374016",
+    "metadata": {
+      "allow_pn": "on",
+      "mention_pn": "on",
+      "team_name": "Sutton My Face"
+    },
+    "settings": null,
+    "user_id": "1262108133212311552"
+  }
+]
