@@ -36,14 +36,20 @@ jobs:
         run: python fantasy-football-tracker/normalize_league_state.py
       - name: Build return-role and return-scoring intelligence
         run: python fantasy-football-tracker/refresh_return_intelligence.py
+      - name: Refine returners with offensive depth context
+        run: python fantasy-football-tracker/refine_return_intelligence.py
       - name: Build Tuesday waiver and cut board
         run: python fantasy-football-tracker/build_waivers.py
       - name: Refine waiver board with consensus and lineup eligibility
         run: python fantasy-football-tracker/refine_waivers_v2.py
+      - name: Apply league return scoring to waiver board
+        run: python fantasy-football-tracker/apply_return_waivers.py
       - name: Finalize waiver board with roster context
         run: python fantasy-football-tracker/finalize_waivers.py
       - name: Build Saturday lineup and matchup board
         run: python fantasy-football-tracker/build_saturday.py
+      - name: Apply league return scoring to Saturday lineups
+        run: python fantasy-football-tracker/apply_return_saturday.py
       - name: Add opponent threats and injury leverage
         run: python fantasy-football-tracker/finalize_saturday.py
       - name: Commit refreshed data
