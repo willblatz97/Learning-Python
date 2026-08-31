@@ -7,7 +7,7 @@ Projection mode: **PRESEASON / SEASON-LONG PROXY** · Usage: **2025 CONTEXT ONLY
 - Action: LEAN CHANGE — QB: Justin Herbert -> Jayden Daniels (+1.05)
 - Waiver: KC Concepcion · MEDIUM · FAAB 3-7
 - Trade posture: PLAYOFF / RECOVERY PUSH
-- Push targets: A.J. Brown, Jonathan Taylor, Amon-Ra St. Brown, Jaxon Smith-Njigba, Jahmyr Gibbs
+- Push targets: Carnell Tate, Parker Washington, Jalen Hurts, Bhayshul Tuten, Caleb Williams
 - Rebuild targets: none
 
 ## 18-Team Chopped — Surviving the Chamber
@@ -23,16 +23,16 @@ Projection mode: **PRESEASON / SEASON-LONG PROXY** · Usage: **2025 CONTEXT ONLY
 - Action: MONITOR — Luther Burden QUESTIONABLE; backup Courtland Sutton
 - Waiver: Jalon Daniels · WATCH · FAAB 0-1
 - Trade posture: DUAL TRACK — evaluate push and rebuild
-- Push targets: Jaxon Smith-Njigba, Amon-Ra St. Brown, Josh Allen, CeeDee Lamb, Lamar Jackson
-- Rebuild targets: Fernando Mendoza, Jaxson Dart, Caleb Williams, Ty Simpson, Drake Maye
+- Push targets: Davante Adams, DJ Moore, Bhayshul Tuten, Jaylen Warren, Justin Herbert
+- Rebuild targets: Fernando Mendoza, Jaxson Dart, Kenyon Sadiq, Jeremiyah Love, Makai Lemon
 
 ## 10-Team Dynasty — Dynasty V2
 - FAVORED — projection 187.66 · margin 6.92
 - Action: MONITOR — Zay Flowers QUESTIONABLE; backup Luther Burden
 - Waiver: Kayshon Boutte · WATCH · FAAB 0-1
 - Trade posture: DUAL TRACK — evaluate push and rebuild
-- Push targets: Josh Allen, Lamar Jackson, Jahmyr Gibbs, Bijan Robinson, Jaxon Smith-Njigba
-- Rebuild targets: Fernando Mendoza, Jaxson Dart, Caleb Williams, Ty Simpson, Drake Maye
+- Push targets: DJ Moore, David Montgomery, Christian Watson, Bhayshul Tuten, Jalen Hurts
+- Rebuild targets: Fernando Mendoza, Jaxson Dart, Jordyn Tyson, Jeremiyah Love, Kenyon Sadiq
 
 ## 12-Team 2-Keeper — League Is Rigged V2
 - PREDRAFT — projection — · margin —
