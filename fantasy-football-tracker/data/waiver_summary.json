@@ -273,6 +273,17 @@
           "waiver_score": "43.3"
         },
         {
+          "consensus_ecr": "273.91",
+          "faab_high": "20",
+          "faab_low": "0",
+          "nfl_team": "DAL",
+          "player": "Malik Davis",
+          "position": "RB",
+          "priority": "WATCH",
+          "reasons": "consensus ECR 273.91 | rostered in most comparable leagues | primary backup | 1 recent cross-league add(s) | thin RB depth on your roster | return role KR +0.17 pts/g | offense+return dual role",
+          "waiver_score": "41.7"
+        },
+        {
           "consensus_ecr": "237.76",
           "faab_high": "20",
           "faab_low": "0",
@@ -293,17 +304,6 @@
           "priority": "WATCH",
           "reasons": "consensus ECR 265.87 | rostered in most comparable leagues | primary backup | thin TE depth on your roster",
           "waiver_score": "37.6"
-        },
-        {
-          "consensus_ecr": "273.91",
-          "faab_high": "20",
-          "faab_low": "0",
-          "nfl_team": "DAL",
-          "player": "Malik Davis",
-          "position": "RB",
-          "priority": "WATCH",
-          "reasons": "consensus ECR 273.91 | rostered in most comparable leagues | primary backup | 1 recent cross-league add(s) | thin RB depth on your roster",
-          "waiver_score": "37.4"
         },
         {
           "consensus_ecr": "293.7",
@@ -504,6 +504,6 @@
   "skipped_predraft_leagues": [
     "1359546418284494848"
   ],
-  "snapshot_utc": "2026-08-31T16:23:09+00:00",
+  "snapshot_utc": "2026-08-31T16:30:22+00:00",
   "week": 1
 }

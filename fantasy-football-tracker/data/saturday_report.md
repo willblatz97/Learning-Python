@@ -27,10 +27,10 @@ Team: Masta’s
 Projected rank 17/18 — lineup proxy 134.65; projected chop line 134.12; safety margin +0.53
 
 ### Lineup actions
-- LEAN CHANGE FLEX: Greg Dulcich (12.2) -> Tank Bigsby (13.74); delta 1.54; injury clear
+- CHANGE FLEX: Greg Dulcich (12.2) -> Myles Price (14.6); delta 2.4; injury clear
 
 ### Your injury / practice watch
-- Malik Nabers — QUESTIONABLE; best legal bench option: Jack Bech
+- Malik Nabers — QUESTIONABLE; best legal bench option: Myles Price
 - Tucker Kraft — QUESTIONABLE; best legal bench option: none
 - Cameron Dicker — QUESTIONABLE; best legal bench option: none
 

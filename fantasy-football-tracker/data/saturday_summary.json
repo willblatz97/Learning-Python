@@ -8,7 +8,9 @@
           "best_bench": "Luther Burden",
           "best_bench_id": "12519",
           "best_bench_pos": "WR",
-          "best_bench_score": 16.99,
+          "best_bench_return_points": 0.0,
+          "best_bench_return_roles": null,
+          "best_bench_score": "16.99",
           "league": "10-Team Dynasty \u2014 Dynasty V2",
           "league_id": "1366076769534251008",
           "score_delta": -1.37,
@@ -19,7 +21,9 @@
           "starter_injury": "QUESTIONABLE",
           "starter_nfl_opponent": "IND",
           "starter_pos": "WR",
-          "starter_score": 18.36
+          "starter_return_points": 0.0,
+          "starter_return_roles": null,
+          "starter_score": "18.36"
         }
       ],
       "my_lineup_score": 187.04,
@@ -38,7 +42,9 @@
           "best_bench": "Courtland Sutton",
           "best_bench_id": "5045",
           "best_bench_pos": "WR",
-          "best_bench_score": 16.52,
+          "best_bench_return_points": 0.0,
+          "best_bench_return_roles": null,
+          "best_bench_score": "16.52",
           "league": "12-Team Dynasty \u2014 One League to Rule Them All",
           "league_id": "1370218620990263296",
           "score_delta": -0.47,
@@ -49,14 +55,18 @@
           "starter_injury": "QUESTIONABLE",
           "starter_nfl_opponent": "CAR",
           "starter_pos": "WR",
-          "starter_score": 16.99
+          "starter_return_points": 0.0,
+          "starter_return_roles": null,
+          "starter_score": "16.99"
         },
         {
           "action": "MONITOR",
           "best_bench": "Courtland Sutton",
           "best_bench_id": "5045",
           "best_bench_pos": "WR",
-          "best_bench_score": 16.52,
+          "best_bench_return_points": 0.0,
+          "best_bench_return_roles": null,
+          "best_bench_score": "16.52",
           "league": "12-Team Dynasty \u2014 One League to Rule Them All",
           "league_id": "1370218620990263296",
           "score_delta": -2.84,
@@ -67,7 +77,9 @@
           "starter_injury": "QUESTIONABLE",
           "starter_nfl_opponent": "CIN",
           "starter_pos": "WR",
-          "starter_score": 19.36
+          "starter_return_points": 0.0,
+          "starter_return_roles": null,
+          "starter_score": "19.36"
         }
       ],
       "my_lineup_score": 194.52,
@@ -83,13 +95,15 @@
       "monitors": [
         {
           "action": "MONITOR",
-          "best_bench": "Jack Bech",
-          "best_bench_id": "12483",
+          "best_bench": "Myles Price",
+          "best_bench_id": "13075",
           "best_bench_pos": "WR",
-          "best_bench_score": 9.77,
+          "best_bench_return_points": 11.1,
+          "best_bench_return_roles": "KR+PR",
+          "best_bench_score": 14.6,
           "league": "18-Team Chopped \u2014 Surviving the Chamber",
           "league_id": "1370453762442797056",
-          "score_delta": -9.58,
+          "score_delta": -4.75,
           "score_source": "season-long ECR proxy",
           "slot": "WR",
           "starter": "Malik Nabers",
@@ -97,13 +111,17 @@
           "starter_injury": "QUESTIONABLE",
           "starter_nfl_opponent": "DAL",
           "starter_pos": "WR",
-          "starter_score": 19.35
+          "starter_return_points": 0.0,
+          "starter_return_roles": null,
+          "starter_score": "19.35"
         },
         {
           "action": "MONITOR",
           "best_bench": null,
           "best_bench_id": null,
           "best_bench_pos": null,
+          "best_bench_return_points": null,
+          "best_bench_return_roles": null,
           "best_bench_score": null,
           "league": "18-Team Chopped \u2014 Surviving the Chamber",
           "league_id": "1370453762442797056",
@@ -115,13 +133,17 @@
           "starter_injury": "QUESTIONABLE",
           "starter_nfl_opponent": "MIN",
           "starter_pos": "TE",
-          "starter_score": 15.72
+          "starter_return_points": 0.0,
+          "starter_return_roles": null,
+          "starter_score": "15.72"
         },
         {
           "action": "MONITOR",
           "best_bench": null,
           "best_bench_id": null,
           "best_bench_pos": null,
+          "best_bench_return_points": null,
+          "best_bench_return_roles": null,
           "best_bench_score": null,
           "league": "18-Team Chopped \u2014 Surviving the Chamber",
           "league_id": "1370453762442797056",
@@ -133,7 +155,9 @@
           "starter_injury": "QUESTIONABLE",
           "starter_nfl_opponent": "ARI",
           "starter_pos": "K",
-          "starter_score": 5.35
+          "starter_return_points": 0.0,
+          "starter_return_roles": null,
+          "starter_score": "5.35"
         }
       ],
       "my_lineup_score": 134.65,
@@ -142,14 +166,16 @@
       "projected_margin": 0.53,
       "recommended_changes": [
         {
-          "action": "LEAN CHANGE",
-          "best_bench": "Tank Bigsby",
-          "best_bench_id": "9225",
-          "best_bench_pos": "RB",
-          "best_bench_score": 13.74,
+          "action": "CHANGE",
+          "best_bench": "Myles Price",
+          "best_bench_id": "13075",
+          "best_bench_pos": "WR",
+          "best_bench_return_points": 11.1,
+          "best_bench_return_roles": "KR+PR",
+          "best_bench_score": 14.6,
           "league": "18-Team Chopped \u2014 Surviving the Chamber",
           "league_id": "1370453762442797056",
-          "score_delta": 1.54,
+          "score_delta": 2.4,
           "score_source": "season-long ECR proxy",
           "slot": "FLEX",
           "starter": "Greg Dulcich",
@@ -157,7 +183,9 @@
           "starter_injury": "",
           "starter_nfl_opponent": "LV",
           "starter_pos": "TE",
-          "starter_score": 12.2
+          "starter_return_points": 0.0,
+          "starter_return_roles": null,
+          "starter_score": "12.2"
         }
       ],
       "team": "Masta\u2019s",
@@ -171,7 +199,9 @@
           "best_bench": "Chris Rodriguez",
           "best_bench_id": "10219",
           "best_bench_pos": "RB",
-          "best_bench_score": 15.22,
+          "best_bench_return_points": 0.0,
+          "best_bench_return_roles": null,
+          "best_bench_score": "15.22",
           "league": "10-Team Redraft \u2014 Big Tiger Takeover",
           "league_id": "1389740418316374016",
           "score_delta": -4.04,
@@ -182,14 +212,18 @@
           "starter_injury": "QUESTIONABLE",
           "starter_nfl_opponent": "MIA",
           "starter_pos": "RB",
-          "starter_score": 19.26
+          "starter_return_points": 0.0,
+          "starter_return_roles": null,
+          "starter_score": "19.26"
         },
         {
           "action": "MONITOR",
           "best_bench": "Deebo Samuel",
           "best_bench_id": "5872",
           "best_bench_pos": "WR",
-          "best_bench_score": 15.29,
+          "best_bench_return_points": 0.0,
+          "best_bench_return_roles": null,
+          "best_bench_score": "15.29",
           "league": "10-Team Redraft \u2014 Big Tiger Takeover",
           "league_id": "1389740418316374016",
           "score_delta": -5.74,
@@ -200,14 +234,18 @@
           "starter_injury": "QUESTIONABLE",
           "starter_nfl_opponent": "TB",
           "starter_pos": "WR",
-          "starter_score": 21.03
+          "starter_return_points": 0.0,
+          "starter_return_roles": null,
+          "starter_score": "21.03"
         },
         {
           "action": "MONITOR",
           "best_bench": "Deebo Samuel",
           "best_bench_id": "5872",
           "best_bench_pos": "WR",
-          "best_bench_score": 15.29,
+          "best_bench_return_points": 0.0,
+          "best_bench_return_roles": null,
+          "best_bench_score": "15.29",
           "league": "10-Team Redraft \u2014 Big Tiger Takeover",
           "league_id": "1389740418316374016",
           "score_delta": -4.06,
@@ -218,7 +256,9 @@
           "starter_injury": "QUESTIONABLE",
           "starter_nfl_opponent": "DAL",
           "starter_pos": "WR",
-          "starter_score": 19.35
+          "starter_return_points": 0.0,
+          "starter_return_roles": null,
+          "starter_score": "19.35"
         }
       ],
       "my_lineup_score": 173.51,
@@ -231,7 +271,9 @@
           "best_bench": "Jayden Daniels",
           "best_bench_id": "11566",
           "best_bench_pos": "QB",
-          "best_bench_score": 22.5,
+          "best_bench_return_points": 0.0,
+          "best_bench_return_roles": null,
+          "best_bench_score": "22.5",
           "league": "10-Team Redraft \u2014 Big Tiger Takeover",
           "league_id": "1389740418316374016",
           "score_delta": 0.87,
@@ -242,15 +284,18 @@
           "starter_injury": "",
           "starter_nfl_opponent": "ARI",
           "starter_pos": "QB",
-          "starter_score": 21.63
+          "starter_return_points": 0.0,
+          "starter_return_roles": null,
+          "starter_score": "21.63"
         }
       ],
       "team": "Pinkman",
       "type": "redraft"
     }
   },
+  "return_scoring_integrated": true,
   "season": 2026,
-  "snapshot_utc": "2026-08-31T16:23:09+00:00",
+  "snapshot_utc": "2026-08-31T16:30:22+00:00",
   "week": 1,
   "weekly_consensus_current": false
 }
