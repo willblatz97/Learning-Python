@@ -9,7 +9,7 @@
     "1389740418316374016": "Big Tiger Takeover"
   },
   "leagues_found": 5,
-  "matchup_rows": 100,
+  "matchup_rows": 700,
   "my_roster_ids": {
     "1359546418284494848": 1,
     "1366076769534251008": 1,
@@ -33,6 +33,6 @@
   "owned_player_rows": 92,
   "sleeper_user_id": "779583277362245632",
   "sleeper_username": "blatzzy",
-  "snapshot_utc": "2026-08-31T17:49:05+00:00",
+  "snapshot_utc": "2026-08-31T18:01:47+00:00",
   "transactions_rows": 94
 }
