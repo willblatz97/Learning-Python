@@ -8,9 +8,7 @@ on:
       - 'fantasy-football-tracker/**'
       - '.github/workflows/fantasy-football-refresh.yml'
   schedule:
-    # Tuesday before the evening waiver report (UTC; shifts by one hour around DST)
     - cron: '0 22 * * 2'
-    # Saturday before the morning lineup report
     - cron: '0 13 * * 6'
 
 permissions:
@@ -40,6 +38,8 @@ jobs:
         run: python fantasy-football-tracker/refresh_usage_intelligence.py
       - name: Build offensive line health intelligence
         run: python fantasy-football-tracker/refresh_ol_health.py
+      - name: Build offensive and defensive injury ripples
+        run: python fantasy-football-tracker/refresh_injury_ripples.py
       - name: Build return-role and return-scoring intelligence
         run: python fantasy-football-tracker/refresh_return_intelligence.py
       - name: Refine returners with offensive depth context
@@ -52,6 +52,8 @@ jobs:
         run: python fantasy-football-tracker/inject_return_waivers.py
       - name: Apply current usage trends to waiver board
         run: python fantasy-football-tracker/apply_usage_waivers.py
+      - name: Apply injury-created opportunity to waiver board
+        run: python fantasy-football-tracker/apply_injury_ripples_waivers.py
       - name: Apply league return scoring to waiver board
         run: python fantasy-football-tracker/apply_return_waivers.py
       - name: Finalize waiver board with roster context
@@ -64,12 +66,18 @@ jobs:
         run: python fantasy-football-tracker/apply_ol_saturday.py
       - name: Replace legacy weather with game-time forecast adjustments
         run: python fantasy-football-tracker/apply_weather_saturday.py
+      - name: Apply offensive and defensive injury ripples
+        run: python fantasy-football-tracker/apply_injury_ripples_saturday.py
       - name: Apply league return scoring to Saturday lineups
         run: python fantasy-football-tracker/apply_return_saturday.py
       - name: Add opponent threats and injury leverage
         run: python fantasy-football-tracker/finalize_saturday.py
+      - name: Build playoff-push and rebuild trade targets
+        run: python fantasy-football-tracker/build_trade_targets.py
       - name: Build unified fantasy command center
         run: python fantasy-football-tracker/build_command_center.py
+      - name: Build visual fantasy war room
+        run: python fantasy-football-tracker/build_war_room.py
       - name: Commit refreshed data
         run: |
           git config user.name "fantasy-tracker-bot"
