@@ -1,0 +1,39 @@
+name: Fantasy Football Sleeper Refresh
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - 'fantasy-football-tracker/**'
+      - '.github/workflows/fantasy-football-refresh.yml'
+  schedule:
+    # Tuesday before the evening waiver report (UTC; shifts by one hour around DST)
+    - cron: '0 22 * * 2'
+    # Saturday before the morning lineup report
+    - cron: '0 13 * * 6'
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Pull and normalize Sleeper data
+        run: python fantasy-football-tracker/refresh_sleeper.py
+      - name: Commit refreshed data
+        run: |
+          git config user.name "fantasy-tracker-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add fantasy-football-tracker/data
+          if git diff --cached --quiet; then
+            echo "No data changes"
+          else
+            git commit -m "Refresh Sleeper fantasy data"
+            git push
+          fi
