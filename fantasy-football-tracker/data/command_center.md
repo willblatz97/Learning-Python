@@ -4,25 +4,25 @@ Projection mode: **PRESEASON / SEASON-LONG PROXY**
 Usage: **2025 CONTEXT ONLY**
 
 ## 10-Team Redraft — Big Tiger Takeover
-- **TRAILING** — Pinkman — projection 172.57 vs 181.12 (Sutton My Face); margin -8.55
+- **TRAILING** — Pinkman — projection 173.02 vs 181.82 (Sutton My Face); margin -8.80
 - **Action:** LEAN CHANGE — QB: Justin Herbert -> Jayden Daniels (+1.05)
 - **Waiver:** KC Concepcion (WR) — MEDIUM — FAAB 3-7 — consensus ECR 118.1 | rostered in most comparable leagues | depth-chart starter | thin WR depth on your roster
 - **Injury decisions:** 3 starter monitor(s)
 
 ## 18-Team Chopped — Surviving the Chamber
-- **COMFORTABLE** — Masta’s — projection 150.46 vs 134.12 (Projected rank 13/18); margin +16.34
+- **COMFORTABLE** — Masta’s — projection 150.46 vs 134.62 (Projected rank 13/18); margin +15.84
 - **Action:** MONITOR — Malik Nabers QUESTIONABLE; backup Barion Brown
 - **Waiver:** Samaje Perine (RB) — WATCH — FAAB 20-50 — return-scoring league candidate injected before final ranking | return role KR +2.87 pts/g | offense+return dual role
 - **Injury decisions:** 3 starter monitor(s)
 
 ## 12-Team Dynasty — One League to Rule Them All
-- **TOSS-UP** — Nazgûl Nation — projection 194.3 vs 192.58 (sneekyn33ks); margin +1.72
+- **TOSS-UP** — Nazgûl Nation — projection 195.25 vs 193.53 (sneekyn33ks); margin +1.72
 - **Action:** MONITOR — Luther Burden QUESTIONABLE; backup Courtland Sutton
 - **Waiver:** Jalon Daniels (QB) — WATCH — FAAB 0-1 — primary backup | 1 recent cross-league add(s) | young dynasty stash value
 - **Injury decisions:** 2 starter monitor(s)
 
 ## 10-Team Dynasty — Dynasty V2
-- **FAVORED** — Route 66ers — projection 186.58 vs 180.51 (zthompson1533); margin +6.07
+- **FAVORED** — Route 66ers — projection 187.66 vs 180.74 (zthompson1533); margin +6.92
 - **Action:** MONITOR — Zay Flowers QUESTIONABLE; backup Luther Burden
 - **Waiver:** Kayshon Boutte (WR) — WATCH — FAAB 0-1 — consensus ECR 188.43 | rostered in most comparable leagues | primary backup
 - **Injury decisions:** 1 starter monitor(s)

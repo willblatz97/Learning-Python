@@ -1,0 +1,9 @@
+{
+  "max_player_adjustment": 2.25,
+  "negative_players": 3,
+  "note": "Defensive coverage effects use current depth-chart roles. CB1-to-WR1 is a projected matchup leverage signal unless a confirmed shadow assignment is available later.",
+  "players_affected": 81,
+  "positive_players": 78,
+  "raw_ripple_events": 90,
+  "snapshot_utc": "2026-08-31T17:13:42+00:00"
+}
