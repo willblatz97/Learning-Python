@@ -8,7 +8,7 @@ Source season: 2025; latest week: 18
 - Aaron Rodgers (QB PIT) — snaps L3 100.0%; opps L3 0.0/g; STABLE; adjustment +0
 - Baker Mayfield (QB TB) — snaps L3 100.0%; opps L3 0.0/g; STABLE; adjustment +0
 - Bo Nix (QB DEN) — snaps L3 100.0%; opps L3 0.0/g; STABLE; adjustment +0
-- Brady Cook (QB NYJ) — snaps L3 100.0%; opps L3 0.0/g; STABLE; adjustment +0
+- Brady Cook (QB ) — snaps L3 100.0%; opps L3 0.0/g; STABLE; adjustment +0
 - Bryce Young (QB CAR) — snaps L3 100.0%; opps L3 0.0/g; STABLE; adjustment +0
 - Caleb Williams (QB CHI) — snaps L3 100.0%; opps L3 0.0/g; STABLE; adjustment +0
 - Jacoby Brissett (QB ARI) — snaps L3 100.0%; opps L3 0.0/g; RISING; adjustment +0
@@ -36,7 +36,7 @@ Source season: 2025; latest week: 18
 - Amon-Ra St. Brown (WR DET) — snaps L3 91.7%; opps L3 12.33/g; STABLE; adjustment +0
 - Jameson Williams (WR DET) — snaps L3 91.0%; opps L3 6.67/g; STABLE; adjustment +0
 - Sam LaPorta (TE DET) — snaps L3 91.0%; opps L3 5.33/g; STABLE; adjustment +0
-- Brandon Allen (QB ) — snaps L3 91.0%; opps L3 0.0/g; STABLE; adjustment +0
 - Wan'Dale Robinson (WR TEN) — snaps L3 90.7%; opps L3 10.0/g; STABLE; adjustment +0
 - DJ Moore (WR BUF) — snaps L3 90.7%; opps L3 4.67/g; STABLE; adjustment +0
 - Theo Johnson (TE NYG) — snaps L3 90.7%; opps L3 4.67/g; STABLE; adjustment +0
+- Joe Burrow (QB CIN) — snaps L3 90.7%; opps L3 0.0/g; STABLE; adjustment +0

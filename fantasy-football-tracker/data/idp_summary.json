@@ -7,7 +7,7 @@
     "LB": 1
   },
   "note": "IDP values use this league's exact Sleeper scoring. Before 2026 games exist, 2025 league-scored production is a labeled baseline proxy; the feed automatically switches to 2026 regular-season data after kickoff.",
-  "players": 889,
+  "players": 776,
   "scoring": {
     "idp_def_td": 6.0,
     "idp_ff": 3.0,
@@ -21,6 +21,6 @@
     "idp_tkl_loss": 2.0,
     "idp_tkl_solo": 2.0
   },
-  "snapshot_utc": "2026-08-31T18:02:33+00:00",
+  "snapshot_utc": "2026-09-01T23:50:18+00:00",
   "source_season": 2025
 }

@@ -175,6 +175,15 @@
     },
     {
       "free_agent_leagues": 1,
+      "full_name": "Chris Brooks",
+      "my_leagues": "0",
+      "nfl_team": "GB",
+      "player_id": "11370",
+      "position": "RB",
+      "rostered_leagues": "3"
+    },
+    {
+      "free_agent_leagues": 1,
       "full_name": "Christian Kirk",
       "my_leagues": "1",
       "nfl_team": "SF",
@@ -418,6 +427,15 @@
     },
     {
       "free_agent_leagues": 1,
+      "full_name": "Jalen Nailor",
+      "my_leagues": "0",
+      "nfl_team": "LV",
+      "player_id": "8180",
+      "position": "WR",
+      "rostered_leagues": "3"
+    },
+    {
+      "free_agent_leagues": 1,
       "full_name": "Jauan Jennings",
       "my_leagues": "0",
       "nfl_team": "MIN",
@@ -432,24 +450,6 @@
       "nfl_team": "HOU",
       "player_id": "12484",
       "position": "WR",
-      "rostered_leagues": "3"
-    },
-    {
-      "free_agent_leagues": 1,
-      "full_name": "Jaydon Blue",
-      "my_leagues": "0",
-      "nfl_team": "",
-      "player_id": "12457",
-      "position": "RB",
-      "rostered_leagues": "3"
-    },
-    {
-      "free_agent_leagues": 1,
-      "full_name": "Jaylen Wright",
-      "my_leagues": "0",
-      "nfl_team": "MIA",
-      "player_id": "11643",
-      "position": "RB",
       "rostered_leagues": "3"
     }
   ],
@@ -472,7 +472,7 @@
   "pre_draft_league_ids": [
     "1359546418284494848"
   ],
-  "snapshot_utc": "2026-08-31T18:01:47+00:00",
+  "snapshot_utc": "2026-09-01T23:49:42+00:00",
   "top_nfl_team_exposure": [
     {
       "nfl_team": "DAL",

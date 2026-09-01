@@ -64,15 +64,15 @@
           "waiver_score": "39.3"
         },
         {
-          "consensus_ecr": "178.0",
+          "consensus_ecr": "209.0",
           "faab_high": "1",
           "faab_low": "0",
-          "nfl_team": "DAL",
-          "player": "Joe Milton",
+          "nfl_team": "CLE",
+          "player": "Deshaun Watson",
           "position": "QB",
           "priority": "WATCH",
-          "reasons": "consensus ECR 178 | primary backup | young dynasty stash value",
-          "waiver_score": "36.4"
+          "reasons": "consensus ECR 209 | depth-chart starter",
+          "waiver_score": "32.8"
         },
         {
           "consensus_ecr": "230.0",
@@ -108,10 +108,21 @@
           "waiver_score": "29.2"
         },
         {
+          "consensus_ecr": "285.25",
+          "faab_high": "1",
+          "faab_low": "0",
+          "nfl_team": "SEA",
+          "player": "George Holani",
+          "position": "RB",
+          "priority": "WATCH",
+          "reasons": "consensus ECR 285.25 | primary backup | young dynasty stash value",
+          "waiver_score": "27.4"
+        },
+        {
           "consensus_ecr": "272.91",
           "faab_high": "1",
           "faab_low": "0",
-          "nfl_team": "MIA",
+          "nfl_team": "",
           "player": "Jarquez Hunter",
           "position": "RB",
           "priority": "WATCH",
@@ -119,26 +130,15 @@
           "waiver_score": "27.4"
         },
         {
-          "consensus_ecr": "283.67",
+          "consensus_ecr": "271.25",
           "faab_high": "1",
           "faab_low": "0",
-          "nfl_team": "NO",
-          "player": "Kendre Miller",
-          "position": "RB",
+          "nfl_team": "HOU",
+          "player": "Marlin Klein",
+          "position": "TE",
           "priority": "WATCH",
-          "reasons": "consensus ECR 283.67 | rostered in most comparable leagues",
-          "waiver_score": "26.9"
-        },
-        {
-          "consensus_ecr": "301.0",
-          "faab_high": "1",
-          "faab_low": "0",
-          "nfl_team": "CIN",
-          "player": "Joe Flacco",
-          "position": "QB",
-          "priority": "WATCH",
-          "reasons": "consensus ECR 301 | primary backup | 1 recent cross-league add(s)",
-          "waiver_score": "23.4"
+          "reasons": "consensus ECR 271.25 | primary backup | young dynasty stash value",
+          "waiver_score": "27.4"
         }
       ],
       "type": "dynasty"
@@ -155,6 +155,24 @@
           "reasons": "consensus ECR 227 protected | buried on depth chart | surplus WR depth | inactive"
         },
         {
+          "consensus_ecr": "",
+          "cut_score": "33.8",
+          "cut_tier": "HOLD",
+          "nfl_team": "KC",
+          "player": "John Michael Gyllenborg",
+          "position": "TE",
+          "reasons": "buried on depth chart | little cross-league market demand | surplus TE depth | young dynasty asset protected | inactive"
+        },
+        {
+          "consensus_ecr": "305.8",
+          "cut_score": "31.2",
+          "cut_tier": "HOLD",
+          "nfl_team": "GB",
+          "player": "Luke Musgrave",
+          "position": "TE",
+          "reasons": "consensus ECR 305.8 protected | buried on depth chart | little cross-league market demand | surplus TE depth"
+        },
+        {
           "consensus_ecr": "235.15",
           "cut_score": "28.4",
           "cut_tier": "HOLD",
@@ -164,31 +182,13 @@
           "reasons": "consensus ECR 235.15 protected | buried on depth chart | strong cross-league market demand | surplus WR depth | inactive"
         },
         {
-          "consensus_ecr": "",
-          "cut_score": "27.3",
+          "consensus_ecr": "217.93",
+          "cut_score": "18.6",
           "cut_tier": "HOLD",
-          "nfl_team": "KC",
-          "player": "John Michael Gyllenborg",
-          "position": "TE",
-          "reasons": "little cross-league market demand | surplus TE depth | young dynasty asset protected | inactive"
-        },
-        {
-          "consensus_ecr": "305.8",
-          "cut_score": "24.7",
-          "cut_tier": "HOLD",
-          "nfl_team": "GB",
-          "player": "Luke Musgrave",
-          "position": "TE",
-          "reasons": "consensus ECR 305.8 protected | little cross-league market demand | surplus TE depth"
-        },
-        {
-          "consensus_ecr": "202.85",
-          "cut_score": "17.3",
-          "cut_tier": "HOLD",
-          "nfl_team": "CAR",
-          "player": "Chris Brazzell",
-          "position": "WR",
-          "reasons": "consensus ECR 202.85 protected | buried on depth chart | surplus WR depth | young dynasty asset protected | inactive"
+          "nfl_team": "DET",
+          "player": "Isiah Pacheco",
+          "position": "RB",
+          "reasons": "consensus ECR 217.93 protected | strong cross-league market demand | surplus RB depth | inactive"
         }
       ],
       "faab_remaining": 100,
@@ -199,12 +199,23 @@
           "consensus_ecr": "",
           "faab_high": "1",
           "faab_low": "0",
+          "nfl_team": "DET",
+          "player": "Jacob Saylors",
+          "position": "RB",
+          "priority": "WATCH",
+          "reasons": "rostered in most comparable leagues | 2 recent cross-league add(s)",
+          "waiver_score": "19.8"
+        },
+        {
+          "consensus_ecr": "",
+          "faab_high": "1",
+          "faab_low": "0",
           "nfl_team": "TB",
           "player": "Jalon Daniels",
           "position": "QB",
           "priority": "WATCH",
-          "reasons": "primary backup | 1 recent cross-league add(s) | young dynasty stash value",
-          "waiver_score": "21.6"
+          "reasons": "1 recent cross-league add(s) | young dynasty stash value",
+          "waiver_score": "18.9"
         }
       ],
       "type": "dynasty"
@@ -262,6 +273,17 @@
       "recommended_cuts": [],
       "top_adds": [
         {
+          "consensus_ecr": "243.54",
+          "faab_high": "50",
+          "faab_low": "20",
+          "nfl_team": "SEA",
+          "player": "George Holani",
+          "position": "RB",
+          "priority": "SPECULATIVE",
+          "reasons": "return-scoring league candidate injected before final ranking | return role KR +0.46 pts/g | offense+return dual role",
+          "waiver_score": "50.7"
+        },
+        {
           "consensus_ecr": "262.41",
           "faab_high": "50",
           "faab_low": "20",
@@ -284,6 +306,17 @@
           "waiver_score": "45.4"
         },
         {
+          "consensus_ecr": "265.87",
+          "faab_high": "50",
+          "faab_low": "20",
+          "nfl_team": "LAR",
+          "player": "Colby Parkinson",
+          "position": "TE",
+          "priority": "WATCH",
+          "reasons": "consensus ECR 265.87 | rostered in most comparable leagues | depth-chart starter | thin TE depth on your roster",
+          "waiver_score": "45.3"
+        },
+        {
           "consensus_ecr": "253.98",
           "faab_high": "20",
           "faab_low": "0",
@@ -293,17 +326,6 @@
           "priority": "WATCH",
           "reasons": "consensus ECR 253.98 | rostered in most comparable leagues | depth-chart starter | thin TE depth on your roster",
           "waiver_score": "43.3"
-        },
-        {
-          "consensus_ecr": "310.44",
-          "faab_high": "20",
-          "faab_low": "0",
-          "nfl_team": "PHI",
-          "player": "Will Shipley",
-          "position": "RB",
-          "priority": "WATCH",
-          "reasons": "return-scoring league candidate injected before final ranking | return role KR +5.55 pts/g | offense+return dual role",
-          "waiver_score": "39.9"
         },
         {
           "consensus_ecr": "262.4",
@@ -337,17 +359,6 @@
           "priority": "WATCH",
           "reasons": "consensus ECR 237.76 | rostered in most comparable leagues | primary backup",
           "waiver_score": "39.4"
-        },
-        {
-          "consensus_ecr": "337.3",
-          "faab_high": "20",
-          "faab_low": "0",
-          "nfl_team": "BAL",
-          "player": "Rasheen Ali",
-          "position": "RB",
-          "priority": "WATCH",
-          "reasons": "return-scoring league candidate injected before final ranking | return role KR +5.09 pts/g | offense+return dual role",
-          "waiver_score": "39.1"
         }
       ],
       "type": "chopped"
@@ -471,15 +482,15 @@
           "waiver_score": "54.1"
         },
         {
-          "consensus_ecr": "162.97",
+          "consensus_ecr": "186.73",
           "faab_high": "3",
           "faab_low": "1",
-          "nfl_team": "LV",
-          "player": "Tre Tucker",
+          "nfl_team": "PHI",
+          "player": "Dontayvion Wicks",
           "position": "WR",
           "priority": "SPECULATIVE",
-          "reasons": "consensus ECR 162.97 | rostered in most comparable leagues | depth-chart starter | thin WR depth on your roster",
-          "waiver_score": "54.1"
+          "reasons": "consensus ECR 186.73 | rostered in most comparable leagues | primary backup | 1 recent cross-league add(s) | thin WR depth on your roster",
+          "waiver_score": "51.5"
         },
         {
           "consensus_ecr": "211.73",
@@ -504,6 +515,6 @@
   "skipped_predraft_leagues": [
     "1359546418284494848"
   ],
-  "snapshot_utc": "2026-08-31T18:01:47+00:00",
+  "snapshot_utc": "2026-09-01T23:49:42+00:00",
   "week": 1
 }
