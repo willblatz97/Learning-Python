@@ -31,6 +31,8 @@ GitHub Actions refreshes the complete intelligence stack twice weekly:
 
 A manual workflow dispatch is also supported.
 
+Latest manual refresh request: **2026-09-02 post-waiver Wednesday**.
+
 ## Intelligence stack
 
 The pipeline currently combines:
