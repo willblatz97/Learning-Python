@@ -108,6 +108,17 @@
           "waiver_score": "29.2"
         },
         {
+          "consensus_ecr": "302.5",
+          "faab_high": "1",
+          "faab_low": "0",
+          "nfl_team": "NO",
+          "player": "Barion Brown",
+          "position": "WR",
+          "priority": "WATCH",
+          "reasons": "consensus ECR 302.5 | rostered in most comparable leagues | 2 recent cross-league add(s) | young dynasty stash value",
+          "waiver_score": "27.9"
+        },
+        {
           "consensus_ecr": "285.25",
           "faab_high": "1",
           "faab_low": "0",
@@ -127,17 +138,6 @@
           "position": "RB",
           "priority": "WATCH",
           "reasons": "consensus ECR 272.91 | rostered in most comparable leagues | young dynasty stash value",
-          "waiver_score": "27.4"
-        },
-        {
-          "consensus_ecr": "271.25",
-          "faab_high": "1",
-          "faab_low": "0",
-          "nfl_team": "HOU",
-          "player": "Marlin Klein",
-          "position": "TE",
-          "priority": "WATCH",
-          "reasons": "consensus ECR 271.25 | primary backup | young dynasty stash value",
           "waiver_score": "27.4"
         }
       ],
@@ -164,6 +164,15 @@
           "reasons": "buried on depth chart | little cross-league market demand | surplus TE depth | young dynasty asset protected | inactive"
         },
         {
+          "consensus_ecr": "217.93",
+          "cut_score": "31.6",
+          "cut_tier": "HOLD",
+          "nfl_team": "DET",
+          "player": "Isiah Pacheco",
+          "position": "RB",
+          "reasons": "consensus ECR 217.93 protected | buried on depth chart | strong cross-league market demand | surplus RB depth | inactive"
+        },
+        {
           "consensus_ecr": "305.8",
           "cut_score": "31.2",
           "cut_tier": "HOLD",
@@ -180,15 +189,6 @@
           "player": "Christian Kirk",
           "position": "WR",
           "reasons": "consensus ECR 235.15 protected | buried on depth chart | strong cross-league market demand | surplus WR depth | inactive"
-        },
-        {
-          "consensus_ecr": "217.93",
-          "cut_score": "18.6",
-          "cut_tier": "HOLD",
-          "nfl_team": "DET",
-          "player": "Isiah Pacheco",
-          "position": "RB",
-          "reasons": "consensus ECR 217.93 protected | strong cross-league market demand | surplus RB depth | inactive"
         }
       ],
       "faab_remaining": 100,
@@ -196,26 +196,15 @@
       "recommended_cuts": [],
       "top_adds": [
         {
-          "consensus_ecr": "",
+          "consensus_ecr": "274.0",
           "faab_high": "1",
           "faab_low": "0",
-          "nfl_team": "DET",
-          "player": "Jacob Saylors",
-          "position": "RB",
-          "priority": "WATCH",
-          "reasons": "rostered in most comparable leagues | 2 recent cross-league add(s)",
-          "waiver_score": "19.8"
-        },
-        {
-          "consensus_ecr": "",
-          "faab_high": "1",
-          "faab_low": "0",
-          "nfl_team": "TB",
-          "player": "Jalon Daniels",
+          "nfl_team": "IND",
+          "player": "Riley Leonard",
           "position": "QB",
           "priority": "WATCH",
-          "reasons": "1 recent cross-league add(s) | young dynasty stash value",
-          "waiver_score": "18.9"
+          "reasons": "consensus ECR 274 | primary backup | young dynasty stash value",
+          "waiver_score": "27.4"
         }
       ],
       "type": "dynasty"
@@ -224,12 +213,12 @@
       "cut_watchlist": [
         {
           "consensus_ecr": "316.0",
-          "cut_score": "29.9",
+          "cut_score": "21.4",
           "cut_tier": "HOLD",
           "nfl_team": "NO",
           "player": "Barion Brown",
           "position": "WR",
-          "reasons": "consensus ECR 316 protected | buried on depth chart | little cross-league market demand"
+          "reasons": "consensus ECR 316 protected | buried on depth chart"
         },
         {
           "consensus_ecr": "261.68",
@@ -284,6 +273,28 @@
           "waiver_score": "50.7"
         },
         {
+          "consensus_ecr": "236.52",
+          "faab_high": "50",
+          "faab_low": "20",
+          "nfl_team": "BAL",
+          "player": "Justice Hill",
+          "position": "RB",
+          "priority": "SPECULATIVE",
+          "reasons": "return-scoring league candidate injected before final ranking | return role KR +0.22 pts/g | offense+return dual role",
+          "waiver_score": "50.4"
+        },
+        {
+          "consensus_ecr": "274.37",
+          "faab_high": "50",
+          "faab_low": "20",
+          "nfl_team": "IND",
+          "player": "Seth McGowan",
+          "position": "RB",
+          "priority": "WATCH",
+          "reasons": "return-scoring league candidate injected before final ranking | return role KR +0.17 pts/g | offense+return dual role",
+          "waiver_score": "46.3"
+        },
+        {
           "consensus_ecr": "262.41",
           "faab_high": "50",
           "faab_low": "20",
@@ -293,17 +304,6 @@
           "priority": "WATCH",
           "reasons": "return-scoring league candidate injected before final ranking | return role KR +2.87 pts/g | offense+return dual role",
           "waiver_score": "45.6"
-        },
-        {
-          "consensus_ecr": "236.52",
-          "faab_high": "50",
-          "faab_low": "20",
-          "nfl_team": "BAL",
-          "player": "Justice Hill",
-          "position": "RB",
-          "priority": "WATCH",
-          "reasons": "return-scoring league candidate injected before final ranking | return role KR +0.22 pts/g | offense+return dual role",
-          "waiver_score": "45.4"
         },
         {
           "consensus_ecr": "265.87",
@@ -328,37 +328,26 @@
           "waiver_score": "43.3"
         },
         {
-          "consensus_ecr": "262.4",
+          "consensus_ecr": "329.48",
           "faab_high": "20",
           "faab_low": "0",
-          "nfl_team": "JAX",
-          "player": "LeQuint Allen Jr.",
-          "position": "RB",
+          "nfl_team": "MIA",
+          "player": "Kevin Coleman Jr.",
+          "position": "WR",
           "priority": "WATCH",
-          "reasons": "return-scoring league candidate injected before final ranking | return role KR +1.08 pts/g | offense+return dual role",
-          "waiver_score": "39.7"
+          "reasons": "return-scoring league candidate injected before final ranking | return role PR +0.04 pts/g | offense+return dual role",
+          "waiver_score": "41.1"
         },
         {
-          "consensus_ecr": "259.3",
+          "consensus_ecr": "310.44",
           "faab_high": "20",
           "faab_low": "0",
-          "nfl_team": "BUF",
-          "player": "Ty Johnson",
+          "nfl_team": "PHI",
+          "player": "Will Shipley",
           "position": "RB",
           "priority": "WATCH",
-          "reasons": "return-scoring league candidate injected before final ranking | return role KR +0.39 pts/g | offense+return dual role",
-          "waiver_score": "39.6"
-        },
-        {
-          "consensus_ecr": "237.76",
-          "faab_high": "20",
-          "faab_low": "0",
-          "nfl_team": "SF",
-          "player": "Kaelon Black",
-          "position": "RB",
-          "priority": "WATCH",
-          "reasons": "consensus ECR 237.76 | rostered in most comparable leagues | primary backup",
-          "waiver_score": "39.4"
+          "reasons": "return-scoring league candidate injected before final ranking | return role KR +5.55 pts/g | offense+return dual role",
+          "waiver_score": "39.9"
         }
       ],
       "type": "chopped"
@@ -515,6 +504,6 @@
   "skipped_predraft_leagues": [
     "1359546418284494848"
   ],
-  "snapshot_utc": "2026-09-01T23:49:42+00:00",
+  "snapshot_utc": "2026-09-02T21:09:14+00:00",
   "week": 1
 }

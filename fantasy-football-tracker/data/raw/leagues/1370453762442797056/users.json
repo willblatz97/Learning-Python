@@ -230,6 +230,7 @@
     "metadata": {
       "allow_pn": "on",
       "allow_sms": "on",
+      "archived": "off",
       "mention_pn": "on"
     },
     "settings": null,

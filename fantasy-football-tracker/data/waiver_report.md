@@ -21,11 +21,11 @@ FAAB remaining: 1000 / 1000
 
 ### Adds
 1. George Holani (RB SEA) — SPECULATIVE 50.7 — ECR 243.54 — FAAB 20-50 — return-scoring league candidate injected before final ranking | return role KR +0.46 pts/g | offense+return dual role
-2. Samaje Perine (RB CIN) — WATCH 45.6 — ECR 262.41 — FAAB 20-50 — return-scoring league candidate injected before final ranking | return role KR +2.87 pts/g | offense+return dual role
-3. Justice Hill (RB BAL) — WATCH 45.4 — ECR 236.52 — FAAB 20-50 — return-scoring league candidate injected before final ranking | return role KR +0.22 pts/g | offense+return dual role
-4. Colby Parkinson (TE LAR) — WATCH 45.3 — ECR 265.87 — FAAB 20-50 — consensus ECR 265.87 | rostered in most comparable leagues | depth-chart starter | thin TE depth on your roster
-5. Evan Engram (TE DEN) — WATCH 43.3 — ECR 253.98 — FAAB 0-20 — consensus ECR 253.98 | rostered in most comparable leagues | depth-chart starter | thin TE depth on your roster
-6. LeQuint Allen Jr. (RB JAX) — WATCH 39.7 — ECR 262.4 — FAAB 0-20 — return-scoring league candidate injected before final ranking | return role KR +1.08 pts/g | offense+return dual role
+2. Justice Hill (RB BAL) — SPECULATIVE 50.4 — ECR 236.52 — FAAB 20-50 — return-scoring league candidate injected before final ranking | return role KR +0.22 pts/g | offense+return dual role
+3. Seth McGowan (RB IND) — WATCH 46.3 — ECR 274.37 — FAAB 20-50 — return-scoring league candidate injected before final ranking | return role KR +0.17 pts/g | offense+return dual role
+4. Samaje Perine (RB CIN) — WATCH 45.6 — ECR 262.41 — FAAB 20-50 — return-scoring league candidate injected before final ranking | return role KR +2.87 pts/g | offense+return dual role
+5. Colby Parkinson (TE LAR) — WATCH 45.3 — ECR 265.87 — FAAB 20-50 — consensus ECR 265.87 | rostered in most comparable leagues | depth-chart starter | thin TE depth on your roster
+6. Evan Engram (TE DEN) — WATCH 43.3 — ECR 253.98 — FAAB 0-20 — consensus ECR 253.98 | rostered in most comparable leagues | depth-chart starter | thin TE depth on your roster
 
 ### Recommended cuts
 No recommended cuts from the current roster-value model.
@@ -34,8 +34,7 @@ No recommended cuts from the current roster-value model.
 FAAB remaining: 100 / 100
 
 ### Adds
-1. Jacob Saylors (RB DET) — WATCH 19.8 — ECR n/a — FAAB 0-1 — rostered in most comparable leagues | 2 recent cross-league add(s)
-2. Jalon Daniels (QB TB) — WATCH 18.9 — ECR n/a — FAAB 0-1 — 1 recent cross-league add(s) | young dynasty stash value
+1. Riley Leonard (QB IND) — WATCH 27.4 — ECR 274.0 — FAAB 0-1 — consensus ECR 274 | primary backup | young dynasty stash value
 
 ### Recommended cuts
 No recommended cuts from the current roster-value model.
@@ -49,7 +48,7 @@ FAAB remaining: 100 / 100
 3. Kimani Vidal (RB LAC) — WATCH 32.8 — ECR 230.0 — FAAB 0-1 — consensus ECR 230 | rostered in most comparable leagues | young dynasty stash value
 4. Jahan Dotson (WR ATL) — WATCH 30.1 — ECR 286.5 — FAAB 0-1 — consensus ECR 286.5 | rostered in most comparable leagues | primary backup | 1 recent cross-league add(s)
 5. Erick All (TE CIN) — WATCH 29.2 — ECR 271.67 — FAAB 0-1 — consensus ECR 271.67 | primary backup | 1 recent cross-league add(s) | young dynasty stash value
-6. George Holani (RB SEA) — WATCH 27.4 — ECR 285.25 — FAAB 0-1 — consensus ECR 285.25 | primary backup | young dynasty stash value
+6. Barion Brown (WR NO) — WATCH 27.9 — ECR 302.5 — FAAB 0-1 — consensus ECR 302.5 | rostered in most comparable leagues | 2 recent cross-league add(s) | young dynasty stash value
 
 ### Recommended cuts
 No recommended cuts from the current roster-value model.

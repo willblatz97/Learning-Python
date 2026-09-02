@@ -16,7 +16,7 @@ player_id,full_name,position,nfl_team,opponent_leagues,injury_status
 9226,De'Von Achane,RB,MIA,1,
 DEN,Denver Broncos,DEF,DEN,1,
 10232,Michael Wilson,WR,ARI,1,
-11565,J.J. McCarthy,QB,MIN,1,Questionable
+11565,J.J. McCarthy,QB,MIN,1,
 11597,Theo Johnson,TE,NYG,1,Questionable
 11620,Rome Odunze,WR,CHI,1,
 11627,Troy Franklin,WR,DEN,1,
@@ -26,7 +26,7 @@ DEN,Denver Broncos,DEF,DEN,1,
 13274,Germie Bernard,WR,PIT,1,
 13308,Bauer Sharp,TE,TB,1,
 13333,Deion Burks,WR,IND,1,
-13348,J'Mari Taylor,RB,,1,
+13348,J'Mari Taylor,RB,JAX,1,
 13350,Joe Fagnano,QB,BAL,1,
 13380,Brenen Thompson,WR,LAC,1,Questionable
 13404,Garrett Nussmeier,QB,KC,1,
@@ -39,7 +39,7 @@ DEN,Denver Broncos,DEF,DEN,1,
 7528,Najee Harris,RB,NYG,1,
 8130,Trey McBride,TE,ARI,1,
 8408,Jordan Mason,RB,MIN,1,
-9506,Sean Tucker,RB,TB,1,
+9506,Sean Tucker,RB,TB,1,Questionable
 9756,Jordan Addison,WR,MIN,1,
 9997,Zay Flowers,WR,BAL,1,Questionable
 11618,Jalen McMillan,WR,TB,1,Questionable

@@ -346,6 +346,15 @@
     },
     {
       "free_agent_leagues": 1,
+      "full_name": "Geno Smith",
+      "my_leagues": "1",
+      "nfl_team": "NYJ",
+      "player_id": "1373",
+      "position": "QB",
+      "rostered_leagues": "3"
+    },
+    {
+      "free_agent_leagues": 1,
       "full_name": "Germie Bernard",
       "my_leagues": "0",
       "nfl_team": "PIT",
@@ -400,6 +409,15 @@
     },
     {
       "free_agent_leagues": 1,
+      "full_name": "Jacob Saylors",
+      "my_leagues": "1",
+      "nfl_team": "DET",
+      "player_id": "11237",
+      "position": "RB",
+      "rostered_leagues": "3"
+    },
+    {
+      "free_agent_leagues": 1,
       "full_name": "Jacoby Brissett",
       "my_leagues": "0",
       "nfl_team": "ARI",
@@ -433,24 +451,6 @@
       "player_id": "8180",
       "position": "WR",
       "rostered_leagues": "3"
-    },
-    {
-      "free_agent_leagues": 1,
-      "full_name": "Jauan Jennings",
-      "my_leagues": "0",
-      "nfl_team": "MIN",
-      "player_id": "7049",
-      "position": "WR",
-      "rostered_leagues": "3"
-    },
-    {
-      "free_agent_leagues": 1,
-      "full_name": "Jayden Higgins",
-      "my_leagues": "0",
-      "nfl_team": "HOU",
-      "player_id": "12484",
-      "position": "WR",
-      "rostered_leagues": "3"
     }
   ],
   "opponent_roster_ids": {
@@ -472,7 +472,7 @@
   "pre_draft_league_ids": [
     "1359546418284494848"
   ],
-  "snapshot_utc": "2026-09-01T23:49:42+00:00",
+  "snapshot_utc": "2026-09-02T21:09:14+00:00",
   "top_nfl_team_exposure": [
     {
       "nfl_team": "DAL",
@@ -547,17 +547,17 @@
       "unique_players_owned": 2
     },
     {
+      "nfl_team": "MIA",
+      "players_owned": "De'Von Achane | Greg Dulcich | Kyle McCord | Malik Washington",
+      "players_started": "De'Von Achane",
+      "roster_slots_across_leagues": 6,
+      "starting_slots_across_leagues": 1,
+      "unique_players_owned": 4
+    },
+    {
       "nfl_team": "JAX",
       "players_owned": "Chris Rodriguez | LeQuint Allen | Parker Washington",
       "players_started": "Parker Washington",
-      "roster_slots_across_leagues": 5,
-      "starting_slots_across_leagues": 1,
-      "unique_players_owned": 3
-    },
-    {
-      "nfl_team": "MIA",
-      "players_owned": "De'Von Achane | Greg Dulcich | Malik Washington",
-      "players_started": "De'Von Achane",
       "roster_slots_across_leagues": 5,
       "starting_slots_across_leagues": 1,
       "unique_players_owned": 3
@@ -753,5 +753,5 @@
       "position": "RB"
     }
   ],
-  "unique_players_owned": 79
+  "unique_players_owned": 81
 }
