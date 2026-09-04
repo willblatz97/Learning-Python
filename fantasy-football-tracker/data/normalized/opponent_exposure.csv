@@ -18,7 +18,7 @@ DEN,Denver Broncos,DEF,DEN,1,
 10232,Michael Wilson,WR,ARI,1,
 11565,J.J. McCarthy,QB,MIN,1,
 11597,Theo Johnson,TE,NYG,1,Questionable
-11620,Rome Odunze,WR,CHI,1,
+11620,Rome Odunze,WR,CHI,1,Questionable
 11627,Troy Franklin,WR,DEN,1,
 11638,Ricky Pearsall,WR,SF,1,IR
 11647,Kimani Vidal,RB,LAC,1,
@@ -45,6 +45,7 @@ DEN,Denver Broncos,DEF,DEN,1,
 11618,Jalen McMillan,WR,TB,1,Questionable
 11626,Xavier Legette,WR,CAR,1,Questionable
 11646,Jalen Coker,WR,CAR,1,
+12048,George Holani,RB,SEA,1,
 12471,DJ Giddens,RB,IND,1,
 12493,Oronde Gadsden,TE,LAC,1,
 13278,Max Klare,TE,LAR,1,
@@ -56,13 +57,12 @@ DEN,Denver Broncos,DEF,DEN,1,
 3198,Derrick Henry,RB,BAL,1,
 4199,Aaron Jones,RB,MIN,1,
 4217,George Kittle,TE,SF,1,Questionable
-4981,Calvin Ridley,WR,TEN,1,
 5870,Daniel Jones,QB,IND,1,
 6770,Joe Burrow,QB,CIN,1,
 6806,J.K. Dobbins,RB,DEN,1,
 7523,Trevor Lawrence,QB,JAX,1,
 7564,Ja'Marr Chase,WR,CIN,1,Questionable
-8142,Alec Pierce,WR,IND,1,Questionable
+8142,Alec Pierce,WR,IND,1,
 8155,Breece Hall,RB,NYJ,1,Questionable
 9486,Dontayvion Wicks,WR,PHI,1,
 9754,Quentin Johnston,WR,LAC,1,

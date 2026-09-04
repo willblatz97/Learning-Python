@@ -1,2 +1,2 @@
 league_id,roster_id,is_my_roster,player_id,player,position,nfl_team,keeper_round,keeper_cost_source,redraft_ecr,market_round,round_surplus,keeper_value_score,idp_projection_proxy
-1359546418284494848,1,True,11564,Drake Maye,QB,NE,14,known override (pre-draft),37.67,4,10,82.0,
+1359546418284494848,1,True,11564,Drake Maye,QB,NE,14,known override (pre-draft),37.1,4,10,82.0,

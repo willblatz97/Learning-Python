@@ -11,15 +11,16 @@ Current KR/PR role + 2025 return baseline. Dual-role status uses Sleeper offensi
 
 ## Primary returners with offensive role
 - Jacob Saylors (RB DET) — KR; offensive depth RB 2; proj return yds 81.5/g; HIGH confidence; yours: 18-Team Chopped — Surviving the Chamber
-- Malik Washington (WR MIA) — KR+PR; offensive depth SWR 1; proj return yds 72.1/g; HIGH confidence; yours: 10-Team Dynasty — Dynasty V2 | 10-Team Redraft — Big Tiger Takeover
+- Malik Washington (WR MIA) — KR+PR; offensive depth SWR 1; proj return yds 72.1/g; HIGH confidence; yours: 10-Team Dynasty — Dynasty V2
 - Jaylin Noel (WR HOU) — KR+PR; offensive depth SWR 3; proj return yds 66.7/g; HIGH confidence
-- Ray Davis (RB BUF) — KR; offensive depth RB 3; proj return yds 55.5/g; HIGH confidence
+- Ray Davis (RB BUF) — KR+PR; offensive depth RB 3; proj return yds 55.5/g; HIGH confidence
 - Will Shipley (RB PHI) — KR; offensive depth RB 3; proj return yds 55.5/g; HIGH confidence
 - Rasheen Ali (RB BAL) — KR; offensive depth RB 3; proj return yds 50.9/g; HIGH confidence
 - Rashid Shaheed (WR SEA) — KR+PR; offensive depth RWR 2; proj return yds 43.6/g; HIGH confidence
 - Kenny Gainwell (RB TB) — KR; offensive depth RB 2; proj return yds 37.2/g; HIGH confidence
 - Bhayshul Tuten (RB JAX) — KR; offensive depth RB 1; proj return yds 35.9/g; HIGH confidence
 - Samaje Perine (RB CIN) — KR; offensive depth RB 2; proj return yds 28.7/g; HIGH confidence
+- Deebo Samuel Sr. (WR SF) — KR; offensive depth RWR 2; proj return yds 28.2/g; HIGH confidence; yours: 10-Team Redraft — Big Tiger Takeover
 - Brian Robinson (RB ATL) — KR; offensive depth RB 2; proj return yds 22.2/g; HIGH confidence
 - Parker Washington (WR JAX) — PR; offensive depth SWR 1; proj return yds 21.3/g; HIGH confidence; yours: 12-Team Dynasty — One League to Rule Them All
 - Kalif Raymond (WR CHI) — KR+PR; offensive depth SWR 3; proj return yds 19.9/g; HIGH confidence
@@ -40,7 +41,7 @@ Current KR/PR role + 2025 return baseline. Dual-role status uses Sleeper offensi
 - Jaylin Noel — +6.67 return pts/g (KR+PR + OFF, HIGH) — OWNED
 - Nikko Remigio — +6.65 return pts/g (KR+PR, HIGH) — FA
 - Kene Nwangwu — +6.04 return pts/g (KR, HIGH) — FA
-- Ray Davis — +5.55 return pts/g (KR + OFF, HIGH) — OWNED
+- Ray Davis — +5.55 return pts/g (KR+PR + OFF, HIGH) — OWNED
 - Will Shipley — +5.55 return pts/g (KR + OFF, HIGH) — FA
 - Rasheen Ali — +5.09 return pts/g (KR + OFF, HIGH) — FA
 - Derius Davis — +4.92 return pts/g (KR+PR, HIGH) — OWNED

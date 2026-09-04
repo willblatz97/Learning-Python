@@ -3,16 +3,16 @@
 Projected finish is probabilistic. Roster power uses the latest lineup scoring, current injury status and bench depth; schedule difficulty uses actual Sleeper H2H opponents when available.
 
 ## 10-Team Redraft — Big Tiger Takeover
-- Pinkman: projected seed **#4** (average 3.7); expected wins **8.9**; playoff odds **96.8%**
-- Likely finish range: #3–#4 · roster power rank #4/10 · schedule HARD (85.0th percentile difficulty)
+- Pinkman: projected seed **#4** (average 4.1); expected wins **8.38**; playoff odds **94.8%**
+- Likely finish range: #3–#5 · roster power rank #4/10 · schedule HARD (85.0th percentile difficulty)
 - Current injury flags in optimized lineup: 2 · future H2H schedule coverage 100.0%
 
 ## 12-Team Dynasty — One League to Rule Them All
-- Nazgûl Nation: projected seed **#2** (average 2.9); expected wins **9.76**; playoff odds **94.0%**
-- Likely finish range: #1–#4 · roster power rank #2/12 · schedule EASY (4.2th percentile difficulty)
-- Current injury flags in optimized lineup: 1 · future H2H schedule coverage 100.0%
+- Nazgûl Nation: projected seed **#3** (average 3.5); expected wins **9.31**; playoff odds **90.1%**
+- Likely finish range: #2–#5 · roster power rank #3/12 · schedule EASY (4.2th percentile difficulty)
+- Current injury flags in optimized lineup: 3 · future H2H schedule coverage 100.0%
 
 ## 10-Team Dynasty — Dynasty V2
-- Route 66ers: projected seed **#4** (average 3.7); expected wins **8.98**; playoff odds **97.3%**
-- Likely finish range: #2–#5 · roster power rank #4/10 · schedule AVERAGE (45.0th percentile difficulty)
-- Current injury flags in optimized lineup: 1 · future H2H schedule coverage 100.0%
+- Route 66ers: projected seed **#4** (average 4.0); expected wins **8.51**; playoff odds **95.5%**
+- Likely finish range: #3–#5 · roster power rank #4/10 · schedule AVERAGE (55.0th percentile difficulty)
+- Current injury flags in optimized lineup: 2 · future H2H schedule coverage 100.0%

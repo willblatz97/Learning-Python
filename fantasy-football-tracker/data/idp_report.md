@@ -28,7 +28,7 @@ IDP values use this league's exact Sleeper scoring. Before 2026 games exist, 202
 - Fred Warner (SF) — 16.8 proxy pts/g; tackles 4.5 solo + 3.83 ast; sacks 0.0; PD 0.5
 - Jamien Sherwood (NYJ) — 16.75 proxy pts/g; tackles 4.0 solo + 4.88 ast; sacks 0.12; PD 0.47
 - Tremaine Edmunds (NYG) — 16.56 proxy pts/g; tackles 4.38 solo + 3.92 ast; sacks 0.08; PD 0.69
-- Foyesade Oluokun (JAX) — 15.64 proxy pts/g; tackles 4.0 solo + 4.35 ast; sacks 0.06; PD 0.65
+- Bobby Okereke (CAR) — 16.32 proxy pts/g; tackles 4.41 solo + 3.82 ast; sacks 0.06; PD 0.35
 
 ## DB
 - Keidron Smith (None) — 22.0 proxy pts/g; tackles 7.0 solo + 8.0 ast; sacks 0.0; PD 0.0
