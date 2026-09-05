@@ -69,6 +69,8 @@ jobs:
         run: python fantasy-football-tracker/finalize_waivers.py
       - name: Build Saturday lineup and matchup board
         run: python fantasy-football-tracker/build_saturday.py
+      - name: Re-score weekly projections through each league's scoring settings
+        run: python fantasy-football-tracker/apply_league_scoring_saturday.py
       - name: Apply League Is Rigged IDP scoring to Saturday player scores
         run: python fantasy-football-tracker/apply_idp_saturday.py
       - name: Apply current usage trends to Saturday player scores
