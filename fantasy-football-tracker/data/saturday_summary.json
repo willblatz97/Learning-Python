@@ -250,10 +250,20 @@
         }
       ],
       "my_lineup_score": 142.83,
+      "nonreturn_chop_line": 115.52,
+      "nonreturn_margin": 8.06,
+      "nonreturn_projection": 123.58,
+      "nonreturn_rank": 16,
       "opponent_or_chop_line": 115.52,
       "opponent_or_chop_rank": "Projected rank 8/18",
       "projected_margin": 27.31,
+      "projected_return_points_added": 19.25,
+      "projection_reconciliation_note": "Nonreturn projection uses the same league-scored weekly player projections and all non-return context, but removes the tracker return-role projection. Treat it as a conservative return-independent anchor, not a statistical floor. Return-adjusted projection adds the confidence-weighted return model.",
       "recommended_changes": [],
+      "return_adjusted_chop_line": 115.52,
+      "return_adjusted_margin": 27.31,
+      "return_adjusted_projection": 142.83,
+      "return_adjusted_rank": 8,
       "team": "Masta\u2019s",
       "type": "chopped"
     },
@@ -316,7 +326,7 @@
   },
   "return_scoring_integrated": true,
   "season": 2026,
-  "snapshot_utc": "2026-09-05T14:09:25+00:00",
+  "snapshot_utc": "2026-09-05T14:14:32+00:00",
   "week": 1,
   "weekly_consensus_current": true
 }

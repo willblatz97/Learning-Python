@@ -1,5 +1,5 @@
-league_id,league,league_type,team,opponent_or_chop_rank,my_lineup_score,opponent_or_chop_line,projected_margin,recommended_changes,injury_monitors,score_mode
-1389740418316374016,10-Team Redraft — Big Tiger Takeover,redraft,Pinkman,Sutton My Face,149.49,149.58,-0.09,0,2,weekly consensus + return scoring
-1370453762442797056,18-Team Chopped — Surviving the Chamber,chopped,Masta’s,Projected rank 8/18,142.83,115.52,27.31,0,3,weekly consensus + return scoring
-1370218620990263296,12-Team Dynasty — One League to Rule Them All,dynasty,Nazgûl Nation,sneekyn33ks,151.83,170.73,-18.9,1,3,weekly consensus + return scoring
-1366076769534251008,10-Team Dynasty — Dynasty V2,dynasty,Route 66ers,zthompson1533,156.99,154.74,2.25,0,3,weekly consensus + return scoring
+league_id,league,league_type,team,opponent_or_chop_rank,my_lineup_score,opponent_or_chop_line,projected_margin,recommended_changes,injury_monitors,score_mode,return_adjusted_projection,projected_return_points_added,nonreturn_projection,return_adjusted_chop_line,nonreturn_chop_line,return_adjusted_margin,nonreturn_margin,return_adjusted_rank,nonreturn_rank
+1389740418316374016,10-Team Redraft — Big Tiger Takeover,redraft,Pinkman,Sutton My Face,149.49,149.58,-0.09,0,2,weekly consensus + return scoring,,,,,,,,,
+1370453762442797056,18-Team Chopped — Surviving the Chamber,chopped,Masta’s,Projected rank 8/18,142.83,115.52,27.31,0,3,league-scored weekly projection + separate return reconciliation,142.83,19.25,123.58,115.52,115.52,27.31,8.06,8,16
+1370218620990263296,12-Team Dynasty — One League to Rule Them All,dynasty,Nazgûl Nation,sneekyn33ks,151.83,170.73,-18.9,1,3,weekly consensus + return scoring,,,,,,,,,
+1366076769534251008,10-Team Dynasty — Dynasty V2,dynasty,Route 66ers,zthompson1533,156.99,154.74,2.25,0,3,weekly consensus + return scoring,,,,,,,,,

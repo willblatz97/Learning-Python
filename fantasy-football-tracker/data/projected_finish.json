@@ -878,6 +878,6 @@
   },
   "method": "league-relative roster power + current health + bench depth + actual fantasy H2H schedule Monte Carlo",
   "simulations": 5000,
-  "snapshot_utc": "2026-09-05T14:09:25+00:00",
+  "snapshot_utc": "2026-09-05T14:14:32+00:00",
   "week": 1
 }

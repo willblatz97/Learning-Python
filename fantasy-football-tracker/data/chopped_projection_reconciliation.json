@@ -1,0 +1,112 @@
+{
+  "leagues": {
+    "1370453762442797056": {
+      "league": "18-Team Chopped \u2014 Surviving the Chamber",
+      "league_id": "1370453762442797056",
+      "my_starters": [
+        {
+          "nonreturn_projection": 26.43,
+          "player": "Joe Burrow",
+          "player_id": "6770",
+          "position": "QB",
+          "return_adjusted_projection": 26.43,
+          "return_confidence": "",
+          "return_points_applied": 0.0,
+          "return_roles": ""
+        },
+        {
+          "nonreturn_projection": 28.59,
+          "player": "Jonathan Taylor",
+          "player_id": "6813",
+          "position": "RB",
+          "return_adjusted_projection": 28.59,
+          "return_confidence": "",
+          "return_points_applied": 0.0,
+          "return_roles": ""
+        },
+        {
+          "nonreturn_projection": 13.53,
+          "player": "Aaron Jones",
+          "player_id": "4199",
+          "position": "RB",
+          "return_adjusted_projection": 13.53,
+          "return_confidence": "",
+          "return_points_applied": 0.0,
+          "return_roles": ""
+        },
+        {
+          "nonreturn_projection": 15.18,
+          "player": "Malik Nabers",
+          "player_id": "11632",
+          "position": "WR",
+          "return_adjusted_projection": 15.18,
+          "return_confidence": "",
+          "return_points_applied": 0.0,
+          "return_roles": ""
+        },
+        {
+          "nonreturn_projection": 11.82,
+          "player": "Marvin Harrison",
+          "player_id": "11628",
+          "position": "WR",
+          "return_adjusted_projection": 11.82,
+          "return_confidence": "",
+          "return_points_applied": 0.0,
+          "return_roles": ""
+        },
+        {
+          "nonreturn_projection": 13.99,
+          "player": "Tucker Kraft",
+          "player_id": "9484",
+          "position": "TE",
+          "return_adjusted_projection": 13.99,
+          "return_confidence": "",
+          "return_points_applied": 0.0,
+          "return_roles": ""
+        },
+        {
+          "nonreturn_projection": 0.0,
+          "player": "Myles Price",
+          "player_id": "13075",
+          "position": "WR",
+          "return_adjusted_projection": 11.1,
+          "return_confidence": "HIGH",
+          "return_points_applied": 11.1,
+          "return_roles": "KR+PR"
+        },
+        {
+          "nonreturn_projection": 5.54,
+          "player": "Jacob Saylors",
+          "player_id": "11237",
+          "position": "RB",
+          "return_adjusted_projection": 13.69,
+          "return_confidence": "HIGH",
+          "return_points_applied": 8.15,
+          "return_roles": "KR"
+        },
+        {
+          "nonreturn_projection": 8.5,
+          "player": "Cameron Dicker",
+          "player_id": "8259",
+          "position": "K",
+          "return_adjusted_projection": 8.5,
+          "return_confidence": "",
+          "return_points_applied": 0.0,
+          "return_roles": ""
+        }
+      ],
+      "nonreturn_chop_line": 115.52,
+      "nonreturn_margin": 8.06,
+      "nonreturn_projection": 123.58,
+      "nonreturn_rank": 16,
+      "note": "Nonreturn projection uses the same league-scored weekly player projections and all non-return context, but removes the tracker return-role projection. Treat it as a conservative return-independent anchor, not a statistical floor. Return-adjusted projection adds the confidence-weighted return model.",
+      "projected_return_points_added": 19.25,
+      "return_adjusted_chop_line": 115.52,
+      "return_adjusted_margin": 27.31,
+      "return_adjusted_projection": 142.83,
+      "return_adjusted_rank": 8,
+      "team": "Masta\u2019s"
+    }
+  },
+  "week": 1
+}
