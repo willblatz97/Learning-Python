@@ -20,7 +20,8 @@
   "loser_bracket_overrides_id": null,
   "metadata": {
     "auto_continue": "on",
-    "keeper_deadline": "0"
+    "keeper_deadline": "0",
+    "latest_league_winner_roster_id": "1"
   },
   "name": "Surviving the Chamber",
   "previous_league_id": "1262800153056657408",

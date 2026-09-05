@@ -119,17 +119,6 @@
           "waiver_score": "27.4"
         },
         {
-          "consensus_ecr": "259.8",
-          "faab_high": "1",
-          "faab_low": "0",
-          "nfl_team": "HOU",
-          "player": "Marlin Klein",
-          "position": "TE",
-          "priority": "WATCH",
-          "reasons": "consensus ECR 259.8 | primary backup | young dynasty stash value",
-          "waiver_score": "27.4"
-        },
-        {
           "consensus_ecr": "300.4",
           "faab_high": "1",
           "faab_low": "0",
@@ -139,6 +128,17 @@
           "priority": "WATCH",
           "reasons": "consensus ECR 300.4 | rostered in most comparable leagues | primary backup | 1 recent cross-league add(s)",
           "waiver_score": "26.1"
+        },
+        {
+          "consensus_ecr": "321.75",
+          "faab_high": "1",
+          "faab_low": "0",
+          "nfl_team": "HOU",
+          "player": "Xavier Hutchinson",
+          "position": "WR",
+          "priority": "WATCH",
+          "reasons": "consensus ECR 321.75 | rostered in most comparable leagues | 3 recent cross-league add(s)",
+          "waiver_score": "25.2"
         }
       ],
       "type": "dynasty"
@@ -191,10 +191,22 @@
           "reasons": "consensus ECR 250.86 protected | buried on depth chart | strong cross-league market demand | surplus WR depth | inactive"
         }
       ],
-      "faab_remaining": 0,
+      "faab_remaining": 100,
       "league": "12-Team Dynasty \u2014 One League to Rule Them All",
       "recommended_cuts": [],
-      "top_adds": [],
+      "top_adds": [
+        {
+          "consensus_ecr": "366.5",
+          "faab_high": "1",
+          "faab_low": "0",
+          "nfl_team": "IND",
+          "player": "Riley Leonard",
+          "position": "QB",
+          "priority": "WATCH",
+          "reasons": "consensus ECR 366.5 | primary backup | young dynasty stash value",
+          "waiver_score": "23.4"
+        }
+      ],
       "type": "dynasty"
     },
     "1370453762442797056": {
@@ -327,15 +339,15 @@
           "waiver_score": "43.3"
         },
         {
-          "consensus_ecr": "330.81",
+          "consensus_ecr": "306.94",
           "faab_high": "20",
           "faab_low": "0",
-          "nfl_team": "MIA",
-          "player": "Kevin Coleman Jr.",
-          "position": "WR",
+          "nfl_team": "PHI",
+          "player": "Will Shipley",
+          "position": "RB",
           "priority": "WATCH",
-          "reasons": "return-scoring league candidate injected before final ranking | return role PR +0.04 pts/g | offense+return dual role",
-          "waiver_score": "41.1"
+          "reasons": "return-scoring league candidate injected before final ranking | return role KR +5.55 pts/g | offense+return dual role",
+          "waiver_score": "39.9"
         }
       ],
       "type": "chopped"
@@ -459,6 +471,17 @@
           "waiver_score": "52.4"
         },
         {
+          "consensus_ecr": "170.19",
+          "faab_high": "3",
+          "faab_low": "1",
+          "nfl_team": "CLE",
+          "player": "Jerry Jeudy",
+          "position": "WR",
+          "priority": "SPECULATIVE",
+          "reasons": "consensus ECR 170.19 | rostered in most comparable leagues | depth-chart starter",
+          "waiver_score": "51.9"
+        },
+        {
           "consensus_ecr": "211.33",
           "faab_high": "3",
           "faab_low": "1",
@@ -467,17 +490,6 @@
           "position": "TE",
           "priority": "WATCH",
           "reasons": "consensus ECR 211.33 | rostered in most comparable leagues | depth-chart starter | thin TE depth on your roster",
-          "waiver_score": "49.1"
-        },
-        {
-          "consensus_ecr": "233.5",
-          "faab_high": "3",
-          "faab_low": "1",
-          "nfl_team": "PIT",
-          "player": "Pat Freiermuth",
-          "position": "TE",
-          "priority": "WATCH",
-          "reasons": "consensus ECR 233.5 | rostered in most comparable leagues | depth-chart starter | thin TE depth on your roster",
           "waiver_score": "49.1"
         }
       ],
@@ -492,6 +504,6 @@
   "skipped_predraft_leagues": [
     "1359546418284494848"
   ],
-  "snapshot_utc": "2026-09-04T23:22:09+00:00",
+  "snapshot_utc": "2026-09-05T14:05:21+00:00",
   "week": 1
 }

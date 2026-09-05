@@ -10,7 +10,7 @@ Current KR/PR role + 2025 return baseline. Dual-role status uses Sleeper offensi
 - 12-Team 2-Keeper — League Is Rigged V2: KR 0.0 pts/yd; PR 0.0 pts/yd; return TD 6.0 pts
 
 ## Primary returners with offensive role
-- Jacob Saylors (RB DET) — KR; offensive depth RB 2; proj return yds 81.5/g; HIGH confidence; yours: 18-Team Chopped — Surviving the Chamber
+- Jacob Saylors (RB DET) — KR; offensive depth RB 3; proj return yds 81.5/g; HIGH confidence; yours: 18-Team Chopped — Surviving the Chamber
 - Malik Washington (WR MIA) — KR+PR; offensive depth SWR 1; proj return yds 72.1/g; HIGH confidence; yours: 10-Team Dynasty — Dynasty V2
 - Jaylin Noel (WR HOU) — KR+PR; offensive depth SWR 3; proj return yds 66.7/g; HIGH confidence
 - Ray Davis (RB BUF) — KR+PR; offensive depth RB 3; proj return yds 55.5/g; HIGH confidence
@@ -25,6 +25,7 @@ Current KR/PR role + 2025 return baseline. Dual-role status uses Sleeper offensi
 - Parker Washington (WR JAX) — PR; offensive depth SWR 1; proj return yds 21.3/g; HIGH confidence; yours: 12-Team Dynasty — One League to Rule Them All
 - Kalif Raymond (WR CHI) — KR+PR; offensive depth SWR 3; proj return yds 19.9/g; HIGH confidence
 - Khalil Shakir (WR BUF) — PR; offensive depth SWR 2; proj return yds 7.8/g; HIGH confidence
+- Zachariah Branch (WR ATL) — KR+PR; offensive depth SWR 3; proj return yds 7.0/g; MEDIUM confidence
 - Tre Tucker (WR LV) — KR+PR; offensive depth RWR 1; proj return yds 4.3/g; HIGH confidence
 
 ## Chopped / return-yard league value

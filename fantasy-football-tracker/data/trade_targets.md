@@ -4,12 +4,12 @@ This board favors actionable value: roster need + seller surplus + market arbitr
 
 ## 10-Team Redraft — Big Tiger Takeover
 - Posture: **PLAYOFF / RECOVERY PUSH** — record 0-0
-- Push targets: Jalen Hurts (QB, Sutton My Face); Christian Watson (WR, Sutton My Face); Parker Washington (WR, My Step-Burrow Is Brown); Bucky Irving (RB, Team feliciano); Javonte Williams (RB, Purdy Cooked)
+- Push targets: Jalen Hurts (QB, Sutton My Face); Christian Watson (WR, Sutton My Face); Parker Washington (WR, My Step-Burrow Is Brown); Bucky Irving (RB, Team feliciano); Caleb Williams (QB, Felic loves jared)
 
 ## 12-Team Dynasty — One League to Rule Them All
 - Posture: **DUAL TRACK — evaluate push and rebuild** — record 0-0
-- Push targets: Davante Adams (WR, Brandopoly); DJ Moore (WR, Brandopoly); Tony Pollard (RB, Spoonfed7); Jaylen Warren (RB, Spoonfed7); Travis Kelce (TE, Sabatz)
-- Rebuild targets: Fernando Mendoza (QB, age 22.0, Sauron’s Commisioner); Jaxson Dart (QB, age 23.0, Brandopoly); Eli Stowers (TE, age 23.0, scarberryt); Kenyon Sadiq (TE, age 21.0, Sauron’s Commisioner); Makai Lemon (WR, age 22.0, Jimb083)
+- Push targets: Davante Adams (WR, Brandopoly); DJ Moore (WR, Brandopoly); Tony Pollard (RB, Spoonfed7); Derrick Henry (RB, The J-Squad); Travis Kelce (TE, Sabatz)
+- Rebuild targets: Fernando Mendoza (QB, age 22.0, Sauron’s Commisioner); Jaxson Dart (QB, age 23.0, Brandopoly); Eli Stowers (TE, age 23.0, scarberryt); Makai Lemon (WR, age 22.0, Jimb083); Kenyon Sadiq (TE, age 21.0, Sauron’s Commisioner)
 
 ## 10-Team Dynasty — Dynasty V2
 - Posture: **DUAL TRACK — evaluate push and rebuild** — record 0-0

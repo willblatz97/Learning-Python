@@ -31,9 +31,10 @@ FAAB remaining: 1000 / 1000
 No recommended cuts from the current roster-value model.
 
 ## 12-Team Dynasty — One League to Rule Them All
-FAAB remaining: 0 / 100
+FAAB remaining: 100 / 100
 
 ### Adds
+1. Riley Leonard (QB IND) — WATCH 23.4 — ECR 366.5 — FAAB 0-1 — consensus ECR 366.5 | primary backup | young dynasty stash value
 
 ### Recommended cuts
 No recommended cuts from the current roster-value model.

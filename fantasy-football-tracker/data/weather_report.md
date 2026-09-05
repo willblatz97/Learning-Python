@@ -7,7 +7,7 @@ Game times are interpreted from the nflverse schedule as Eastern Time, converted
 - CHI @ CAR — LOW — no material weather signal — pass +0.00, kick +0.00
 - TB @ CIN — LOW — no material weather signal — pass +0.00, kick +0.00
 - NO @ DET — INDOOR — indoor — pass +0.00, kick +0.00
-- BUF @ HOU — LOW — no material weather signal — pass +0.00, kick +0.00
+- BUF @ HOU — LOW — 96F heat — pass -0.10, kick +0.00
 - BAL @ IND — LOW — no material weather signal — pass +0.00, kick +0.00
 - CLE @ JAX — LOW — no material weather signal — pass +0.00, kick +0.00
 - ATL @ PIT — LOW — no material weather signal — pass +0.00, kick +0.00
@@ -17,4 +17,4 @@ Game times are interpreted from the nflverse schedule as Eastern Time, converted
 - GB @ MIN — INDOOR — indoor — pass +0.00, kick +0.00
 - WAS @ PHI — LOW — no material weather signal — pass +0.00, kick +0.00
 - DAL @ NYG — LOW — no material weather signal — pass +0.00, kick +0.00
-- DEN @ KC — LOW — 105F heat — pass -0.10, kick +0.00
+- DEN @ KC — LOW — no material weather signal — pass +0.00, kick +0.00

@@ -3,16 +3,16 @@
 Projection mode: **WEEKLY CONSENSUS** · Usage: **2025 CONTEXT ONLY**
 
 ## 10-Team Redraft — Big Tiger Takeover
-- TOSS-UP — projection 133.55 · margin -1.66
-- Projected finish: seed #4 · 8.38 wins · 94.8% playoffs · range #3-#5 · roster power #4 · schedule HARD
+- TOSS-UP — projection 133.66 · margin -1.65
+- Projected finish: seed #4 · 8.53 wins · 95.6% playoffs · range #3-#5 · roster power #4 · schedule HARD
 - Action: MONITOR — Ashton Jeanty QUESTIONABLE; backup Jacory Croskey-Merritt
 - Waiver: Juwan Johnson · MEDIUM · FAAB 3-7
 - Trade posture: PLAYOFF / RECOVERY PUSH
-- Push targets: Jalen Hurts, Christian Watson, Parker Washington, Bucky Irving, Javonte Williams
+- Push targets: Jalen Hurts, Christian Watson, Parker Washington, Bucky Irving, Caleb Williams
 - Rebuild targets: none
 
 ## 18-Team Chopped — Surviving the Chamber
-- COMFORTABLE — projection 107.16 · margin 25.12
+- COMFORTABLE — projection 108.36 · margin 26.21
 - Action: MONITOR — Malik Nabers QUESTIONABLE; backup Barion Brown
 - Waiver: Justice Hill · SPECULATIVE · FAAB 20-50
 - Trade posture: Not active yet
@@ -20,18 +20,18 @@ Projection mode: **WEEKLY CONSENSUS** · Usage: **2025 CONTEXT ONLY**
 - Rebuild targets: none
 
 ## 12-Team Dynasty — One League to Rule Them All
-- FAVORED — projection 145.1 · margin 6.62
-- Projected finish: seed #3 · 9.31 wins · 90.1% playoffs · range #2-#5 · roster power #3 · schedule EASY
+- LEAN YOU — projection 143.9 · margin 3.12
+- Projected finish: seed #3 · 9.13 wins · 88.1% playoffs · range #2-#5 · roster power #3 · schedule EASY
 - Action: MONITOR — Luther Burden QUESTIONABLE; backup Courtland Sutton
-- Waiver: — ·  · FAAB —
+- Waiver: Riley Leonard · WATCH · FAAB 0-1
 - Trade posture: DUAL TRACK — evaluate push and rebuild
-- Push targets: Davante Adams, DJ Moore, Tony Pollard, Jaylen Warren, Travis Kelce
-- Rebuild targets: Fernando Mendoza, Jaxson Dart, Eli Stowers, Kenyon Sadiq, Makai Lemon
+- Push targets: Davante Adams, DJ Moore, Tony Pollard, Derrick Henry, Travis Kelce
+- Rebuild targets: Fernando Mendoza, Jaxson Dart, Eli Stowers, Makai Lemon, Kenyon Sadiq
 
 ## 10-Team Dynasty — Dynasty V2
-- LEAN OPPONENT — projection 135.52 · margin -2.74
-- Projected finish: seed #4 · 8.51 wins · 95.5% playoffs · range #3-#5 · roster power #4 · schedule AVERAGE
-- Action: CHANGE — FLEX: Luther Burden -> Garrett Wilson (+3.88)
+- LEAN OPPONENT — projection 134.12 · margin -5.24
+- Projected finish: seed #4 · 8.46 wins · 94.8% playoffs · range #3-#5 · roster power #4 · schedule AVERAGE
+- Action: CHANGE — FLEX: Luther Burden -> Garrett Wilson (+5.58)
 - Waiver: Greg Dulcich · WATCH · FAAB 0-1
 - Trade posture: DUAL TRACK — evaluate push and rebuild
 - Push targets: David Montgomery, Davante Adams, Tony Pollard, DJ Moore, Travis Kelce

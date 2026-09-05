@@ -2,7 +2,7 @@
 
 ## 10-Team Redraft — Big Tiger Takeover
 Team: Pinkman
-Opponent: Sutton My Face — lineup proxy 133.55 vs 135.21; margin -1.66
+Opponent: Sutton My Face — lineup proxy 133.66 vs 135.31; margin -1.65
 
 ### Lineup actions
 No lineup changes clear the current action threshold.
@@ -21,7 +21,7 @@ No opponent starter injury/practice flags currently detected.
 
 ## 18-Team Chopped — Surviving the Chamber
 Team: Masta’s
-Projected rank 11/18 — lineup proxy 107.16; projected chop line 82.04; safety margin +25.12
+Projected rank 9/18 — lineup proxy 108.36; projected chop line 82.15; safety margin +26.21
 
 ### Lineup actions
 No lineup changes clear the current action threshold.
@@ -35,12 +35,12 @@ No lineup changes clear the current action threshold.
 - Ja'Marr Chase (WR CIN) — QUESTIONABLE; could lower another roster's floor
 - Puka Nacua (WR LAR) — QUESTIONABLE; could lower another roster's floor
 - Christian McCaffrey (RB SF) — QUESTIONABLE; could lower another roster's floor
-- Bhayshul Tuten (RB JAX) — QUESTIONABLE; could lower another roster's floor
 - Patrick Mahomes (QB KC) — QUESTIONABLE; could lower another roster's floor
+- Bhayshul Tuten (RB JAX) — QUESTIONABLE; could lower another roster's floor
 
 ## 12-Team Dynasty — One League to Rule Them All
 Team: Nazgûl Nation
-Opponent: sneekyn33ks — lineup proxy 145.10 vs 138.48; margin +6.62
+Opponent: sneekyn33ks — lineup proxy 143.90 vs 140.78; margin +3.12
 
 ### Lineup actions
 No lineup changes clear the current action threshold.
@@ -58,18 +58,18 @@ No lineup changes clear the current action threshold.
 ### Opponent injury leverage
 - Christian McCaffrey — QUESTIONABLE; current lineup score 16.16
 - Zay Flowers — QUESTIONABLE; current lineup score 12.50
-- Rome Odunze — QUESTIONABLE; current lineup score 8.93
+- Rome Odunze — QUESTIONABLE; current lineup score 10.03
 
 ## 10-Team Dynasty — Dynasty V2
 Team: Route 66ers
-Opponent: zthompson1533 — lineup proxy 135.52 vs 138.26; margin -2.74
+Opponent: zthompson1533 — lineup proxy 134.12 vs 139.36; margin -5.24
 
 ### Lineup actions
-- CHANGE FLEX: Luther Burden (10.42) -> Garrett Wilson (14.3); delta 3.88; injury QUESTIONABLE
+- CHANGE FLEX: Luther Burden (9.22) -> Garrett Wilson (14.8); delta 5.58; injury QUESTIONABLE
+- CHANGE FLEX: Zay Flowers (12.5) -> Garrett Wilson (14.8); delta 2.3; injury QUESTIONABLE
 
 ### Your injury / practice watch
 - D'Andre Swift — QUESTIONABLE; best legal bench option: Chuba Hubbard
-- Zay Flowers — QUESTIONABLE; best legal bench option: Garrett Wilson
 
 ### Opponent threats
 - Joe Burrow (QB CIN) — 22.50 vs TB
@@ -78,4 +78,4 @@ Opponent: zthompson1533 — lineup proxy 135.52 vs 138.26; margin -2.74
 
 ### Opponent injury leverage
 - Ja'Marr Chase — QUESTIONABLE; current lineup score 19.60
-- Breece Hall — QUESTIONABLE; current lineup score 12.10
+- Breece Hall — QUESTIONABLE; current lineup score 12.80
