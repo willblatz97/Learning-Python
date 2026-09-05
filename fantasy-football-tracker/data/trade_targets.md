@@ -4,14 +4,14 @@ This board favors actionable value: roster need + seller surplus + market arbitr
 
 ## 10-Team Redraft — Big Tiger Takeover
 - Posture: **PLAYOFF / RECOVERY PUSH** — record 0-0
-- Push targets: Jalen Hurts (QB, Sutton My Face); Christian Watson (WR, Sutton My Face); Parker Washington (WR, My Step-Burrow Is Brown); Bucky Irving (RB, Team feliciano); Caleb Williams (QB, Felic loves jared)
+- Push targets: Jalen Hurts (QB, Sutton My Face); Caleb Williams (QB, Felic loves jared); Mike Evans (WR, Team feliciano); Christian Watson (WR, Sutton My Face); Tyler Warren (TE, Felic loves jared)
 
 ## 12-Team Dynasty — One League to Rule Them All
 - Posture: **DUAL TRACK — evaluate push and rebuild** — record 0-0
-- Push targets: Davante Adams (WR, Brandopoly); DJ Moore (WR, Brandopoly); Tony Pollard (RB, Spoonfed7); Derrick Henry (RB, The J-Squad); Travis Kelce (TE, Sabatz)
-- Rebuild targets: Fernando Mendoza (QB, age 22.0, Sauron’s Commisioner); Jaxson Dart (QB, age 23.0, Brandopoly); Eli Stowers (TE, age 23.0, scarberryt); Makai Lemon (WR, age 22.0, Jimb083); Kenyon Sadiq (TE, age 21.0, Sauron’s Commisioner)
+- Push targets: Mike Evans (WR, Brandopoly); Davante Adams (WR, Brandopoly); Tyler Warren (TE, Spoonfed7); Jaylen Warren (RB, Spoonfed7); Derrick Henry (RB, The J-Squad)
+- Rebuild targets: Fernando Mendoza (QB, age 22.0, Sauron’s Commisioner); Jaxson Dart (QB, age 23.0, Brandopoly); Eli Stowers (TE, age 23.0, scarberryt); Jeremiyah Love (RB, age 21.0, Sauron’s Commisioner); Makai Lemon (WR, age 22.0, Jimb083)
 
 ## 10-Team Dynasty — Dynasty V2
 - Posture: **DUAL TRACK — evaluate push and rebuild** — record 0-0
-- Push targets: David Montgomery (RB, TheANT2); Davante Adams (WR, jblatz); Tony Pollard (RB, Manson); DJ Moore (WR, Manson); Travis Kelce (TE, ArogersAchilles)
+- Push targets: David Montgomery (RB, TheANT2); Travis Kelce (TE, ArogersAchilles); DJ Moore (WR, Manson); Christian Watson (WR, Manson); Sam LaPorta (TE, ArogersAchilles)
 - Rebuild targets: Fernando Mendoza (QB, age 22.0, TheANT2); Jaxson Dart (QB, age 23.0, Felici42); Jeremiyah Love (RB, age 21.0, ArogersAchilles); Jordyn Tyson (WR, age 22.0, TheANT2); Ashton Jeanty (RB, age 22.0, GOOBERTON)

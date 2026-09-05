@@ -1,0 +1,25 @@
+{
+  "idp_stats_excluded_for_idp_layer": true,
+  "league_rows_updated": {
+    "1366076769534251008": 262,
+    "1370218620990263296": 293,
+    "1370453762442797056": 256,
+    "1389740418316374016": 149
+  },
+  "projection_rows": 3304,
+  "return_stats_excluded_for_return_role_layer": [
+    "kr_yd",
+    "pr_yd",
+    "st_ff",
+    "st_fum_rec",
+    "st_td",
+    "st_tkl_solo"
+  ],
+  "rows_updated": 960,
+  "season": 2026,
+  "skipped_no_projection": 0,
+  "skipped_no_statline": 124,
+  "source_url": "https://api.sleeper.com/projections/nfl/2026/1?season_type=regular&position%5B%5D=QB&position%5B%5D=RB&position%5B%5D=WR&position%5B%5D=TE&position%5B%5D=FLEX&position%5B%5D=K&position%5B%5D=DEF",
+  "status": "ok",
+  "week": 1
+}
