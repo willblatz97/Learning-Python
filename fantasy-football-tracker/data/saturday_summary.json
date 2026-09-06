@@ -1,5 +1,16 @@
 {
   "leagues": {
+    "1359546418284494848": {
+      "league": "12-Team 2-Keeper \u2014 League Is Rigged V2",
+      "monitors": [],
+      "my_lineup_score": 0,
+      "opponent_or_chop_line": null,
+      "opponent_or_chop_rank": null,
+      "projected_margin": null,
+      "recommended_changes": [],
+      "team": "Lagrange 66ers",
+      "type": "keeper"
+    },
     "1366076769534251008": {
       "league": "10-Team Dynasty \u2014 Dynasty V2",
       "monitors": [
@@ -71,9 +82,9 @@
         }
       ],
       "my_lineup_score": 156.99,
-      "opponent_or_chop_line": 154.74,
+      "opponent_or_chop_line": 154.64,
       "opponent_or_chop_rank": "zthompson1533",
-      "projected_margin": 2.25,
+      "projected_margin": 2.35,
       "recommended_changes": [],
       "team": "Route 66ers",
       "type": "dynasty"
@@ -148,10 +159,10 @@
           "starter_score": "13.98"
         }
       ],
-      "my_lineup_score": 151.83,
-      "opponent_or_chop_line": 170.73,
+      "my_lineup_score": 151.73,
+      "opponent_or_chop_line": 169.53,
       "opponent_or_chop_rank": "sneekyn33ks",
-      "projected_margin": -18.9,
+      "projected_margin": -17.8,
       "recommended_changes": [
         {
           "action": "LEAN CHANGE",
@@ -189,10 +200,10 @@
           "best_bench_pos": "WR",
           "best_bench_return_points": 2.32,
           "best_bench_return_roles": "KR+PR",
-          "best_bench_score": 3.73,
+          "best_bench_score": 5.23,
           "league": "18-Team Chopped \u2014 Surviving the Chamber",
           "league_id": "1370453762442797056",
-          "score_delta": -11.45,
+          "score_delta": -9.95,
           "score_source": "Sleeper raw-stat projection \u00d7 league scoring + OL health",
           "slot": "WR",
           "starter": "Malik Nabers",
@@ -249,21 +260,21 @@
           "starter_score": "8.5"
         }
       ],
-      "my_lineup_score": 142.83,
-      "nonreturn_chop_line": 115.52,
-      "nonreturn_margin": 8.06,
-      "nonreturn_projection": 123.58,
-      "nonreturn_rank": 16,
-      "opponent_or_chop_line": 115.52,
-      "opponent_or_chop_rank": "Projected rank 8/18",
-      "projected_margin": 27.31,
+      "my_lineup_score": 146.33,
+      "nonreturn_chop_line": 115.42,
+      "nonreturn_margin": 11.66,
+      "nonreturn_projection": 127.08,
+      "nonreturn_rank": 15,
+      "opponent_or_chop_line": 115.42,
+      "opponent_or_chop_rank": "Projected rank 6/18",
+      "projected_margin": 30.91,
       "projected_return_points_added": 19.25,
       "projection_reconciliation_note": "Nonreturn projection uses the same league-scored weekly player projections and all non-return context, but removes the tracker return-role projection. Treat it as a conservative return-independent anchor, not a statistical floor. Return-adjusted projection adds the confidence-weighted return model.",
       "recommended_changes": [],
-      "return_adjusted_chop_line": 115.52,
-      "return_adjusted_margin": 27.31,
-      "return_adjusted_projection": 142.83,
-      "return_adjusted_rank": 8,
+      "return_adjusted_chop_line": 115.42,
+      "return_adjusted_margin": 30.91,
+      "return_adjusted_projection": 146.33,
+      "return_adjusted_rank": 6,
       "team": "Masta\u2019s",
       "type": "chopped"
     },
@@ -315,10 +326,10 @@
           "starter_score": "22.18"
         }
       ],
-      "my_lineup_score": 149.49,
-      "opponent_or_chop_line": 149.58,
+      "my_lineup_score": 149.38,
+      "opponent_or_chop_line": 149.56,
       "opponent_or_chop_rank": "Sutton My Face",
-      "projected_margin": -0.09,
+      "projected_margin": -0.18,
       "recommended_changes": [],
       "team": "Pinkman",
       "type": "redraft"
@@ -326,7 +337,7 @@
   },
   "return_scoring_integrated": true,
   "season": 2026,
-  "snapshot_utc": "2026-09-05T15:43:38+00:00",
+  "snapshot_utc": "2026-09-06T23:49:09+00:00",
   "week": 1,
   "weekly_consensus_current": true
 }

@@ -20,9 +20,9 @@
   "loser_bracket_overrides_id": null,
   "metadata": {
     "auto_continue": "on",
-    "current_pick_no": "1",
+    "current_pick_no": "111",
     "keeper_deadline": "7",
-    "on_the_clock_user_id": "779583277362245632"
+    "on_the_clock_user_id": "860386640982589440"
   },
   "name": "League Is Rigged V2",
   "previous_league_id": null,
@@ -181,6 +181,6 @@
   },
   "shard": 985,
   "sport": "nfl",
-  "status": "pre_draft",
+  "status": "drafting",
   "total_rosters": 12
 }

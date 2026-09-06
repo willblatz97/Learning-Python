@@ -1,10 +1,18 @@
 {
   "leagues": {
     "1359546418284494848": {
+      "format": "keeper",
       "league": "12-Team 2-Keeper \u2014 League Is Rigged V2",
+      "my_record": "0-0",
+      "position_need": {
+        "QB": 12,
+        "RB": 12,
+        "TE": 12,
+        "WR": 12
+      },
+      "posture": "PLAYOFF / RECOVERY PUSH",
       "push_targets": [],
-      "rebuild_targets": [],
-      "status": "PREDRAFT"
+      "rebuild_targets": []
     },
     "1366076769534251008": {
       "format": "dynasty",
@@ -20,20 +28,38 @@
       "push_targets": [
         {
           "age": 29.0,
-          "current_lineup_score": 14.61,
+          "current_lineup_score": 14.72,
           "dynasty_ecr": 114.0,
           "nfl_team": "HOU",
           "player": "David Montgomery",
           "player_id": "5892",
           "position": "RB",
-          "push_reasons": "RB need 2.8 | weekly value 14.6 | redraft ECR 60.3 | seller has 3 extra marketable RB(s) | win-now value exceeds dynasty cost",
-          "push_score": 65.9,
+          "push_reasons": "RB need 2.8 | weekly value 14.7 | redraft ECR 60.3 | seller has 3 extra marketable RB(s) | win-now value exceeds dynasty cost",
+          "push_score": 66.0,
           "rebuild_reasons": "age 29 | dynasty ECR 114.0 | seller positional surplus creates a negotiation path",
           "rebuild_score": 24.9,
           "redraft_ecr": 60.31,
           "seller": "TheANT2",
           "seller_record": "0-0",
           "seller_roster_id": "9",
+          "seller_surplus": 3
+        },
+        {
+          "age": 27.0,
+          "current_lineup_score": 14.24,
+          "dynasty_ecr": 119.11,
+          "nfl_team": "PIT",
+          "player": "Jaylen Warren",
+          "player_id": "8228",
+          "position": "RB",
+          "push_reasons": "RB need 2.8 | weekly value 14.2 | redraft ECR 74.4 | seller has 3 extra marketable RB(s) | win-now value exceeds dynasty cost",
+          "push_score": 63.3,
+          "rebuild_reasons": "age 27 | dynasty ECR 119.1 | seller positional surplus creates a negotiation path",
+          "rebuild_score": 27.6,
+          "redraft_ecr": 74.43,
+          "seller": "GOOBERTON",
+          "seller_record": "0-0",
+          "seller_roster_id": "10",
           "seller_surplus": 3
         },
         {
@@ -56,14 +82,14 @@
         },
         {
           "age": 29.0,
-          "current_lineup_score": 12.92,
+          "current_lineup_score": 13.02,
           "dynasty_ecr": 87.22,
           "nfl_team": "BUF",
           "player": "DJ Moore",
           "player_id": "4983",
           "position": "WR",
-          "push_reasons": "WR need 1.8 | weekly value 12.9 | redraft ECR 52.4 | seller has 4 extra marketable WR(s)",
-          "push_score": 62.3,
+          "push_reasons": "WR need 1.8 | weekly value 13.0 | redraft ECR 52.4 | seller has 4 extra marketable WR(s)",
+          "push_score": 62.4,
           "rebuild_reasons": "age 29 | dynasty ECR 87.2 | seller positional surplus creates a negotiation path",
           "rebuild_score": 28.9,
           "redraft_ecr": 52.35,
@@ -109,24 +135,6 @@
           "seller_surplus": 2
         },
         {
-          "age": 27.0,
-          "current_lineup_score": 13.04,
-          "dynasty_ecr": 119.11,
-          "nfl_team": "PIT",
-          "player": "Jaylen Warren",
-          "player_id": "8228",
-          "position": "RB",
-          "push_reasons": "RB need 2.8 | weekly value 13.0 | redraft ECR 74.4 | seller has 3 extra marketable RB(s) | win-now value exceeds dynasty cost",
-          "push_score": 62.0,
-          "rebuild_reasons": "age 27 | dynasty ECR 119.1 | seller positional surplus creates a negotiation path",
-          "rebuild_score": 27.6,
-          "redraft_ecr": 74.43,
-          "seller": "GOOBERTON",
-          "seller_record": "0-0",
-          "seller_roster_id": "10",
-          "seller_surplus": 3
-        },
-        {
           "age": 28.0,
           "current_lineup_score": 23.3,
           "dynasty_ecr": 13.33,
@@ -146,7 +154,7 @@
         },
         {
           "age": 24.0,
-          "current_lineup_score": 23.62,
+          "current_lineup_score": 23.61,
           "dynasty_ecr": 11.56,
           "nfl_team": "CHI",
           "player": "Caleb Williams",
@@ -359,6 +367,24 @@
           "seller_surplus": 3
         },
         {
+          "age": 27.0,
+          "current_lineup_score": 13.67,
+          "dynasty_ecr": 119.11,
+          "nfl_team": "PIT",
+          "player": "Jaylen Warren",
+          "player_id": "8228",
+          "position": "RB",
+          "push_reasons": "RB need 2.6 | weekly value 13.7 | redraft ECR 74.4 | seller has 4 extra marketable RB(s) | win-now value exceeds dynasty cost",
+          "push_score": 62.5,
+          "rebuild_reasons": "age 27 | dynasty ECR 119.1 | seller positional surplus creates a negotiation path",
+          "rebuild_score": 27.5,
+          "redraft_ecr": 74.43,
+          "seller": "Spoonfed7",
+          "seller_record": "0-0",
+          "seller_roster_id": "9",
+          "seller_surplus": 4
+        },
+        {
           "age": 24.0,
           "current_lineup_score": 17.01,
           "dynasty_ecr": 62.11,
@@ -375,24 +401,6 @@
           "seller_record": "0-0",
           "seller_roster_id": "9",
           "seller_surplus": 0
-        },
-        {
-          "age": 27.0,
-          "current_lineup_score": 12.47,
-          "dynasty_ecr": 119.11,
-          "nfl_team": "PIT",
-          "player": "Jaylen Warren",
-          "player_id": "8228",
-          "position": "RB",
-          "push_reasons": "RB need 2.6 | weekly value 12.5 | redraft ECR 74.4 | seller has 4 extra marketable RB(s) | win-now value exceeds dynasty cost",
-          "push_score": 61.1,
-          "rebuild_reasons": "age 27 | dynasty ECR 119.1 | seller positional surplus creates a negotiation path",
-          "rebuild_score": 27.5,
-          "redraft_ecr": 74.43,
-          "seller": "Spoonfed7",
-          "seller_record": "0-0",
-          "seller_roster_id": "9",
-          "seller_surplus": 4
         },
         {
           "age": 32.0,
@@ -567,7 +575,7 @@
           "player_id": "13281",
           "position": "WR",
           "push_reasons": "WR need 5.8 | weekly value 0.0 | redraft ECR 138.6 | seller has 1 extra marketable WR(s)",
-          "push_score": 27.9,
+          "push_score": 28.0,
           "rebuild_reasons": "age 22 | dynasty ECR 65.3 | dynasty value exceeds current redraft production | seller positional surplus creates a negotiation path",
           "rebuild_score": 46.7,
           "redraft_ecr": 138.63,
@@ -652,7 +660,7 @@
         },
         {
           "age": 24.0,
-          "current_lineup_score": 24.74,
+          "current_lineup_score": 24.72,
           "dynasty_ecr": 11.56,
           "nfl_team": "CHI",
           "player": "Caleb Williams",
@@ -724,14 +732,14 @@
         },
         {
           "age": 29.0,
-          "current_lineup_score": 14.96,
+          "current_lineup_score": 15.07,
           "dynasty_ecr": 114.0,
           "nfl_team": "HOU",
           "player": "David Montgomery",
           "player_id": "5892",
           "position": "RB",
-          "push_reasons": "RB need 2.5 | weekly value 15.0 | redraft ECR 60.3 | seller has 1 extra marketable RB(s)",
-          "push_score": 56.7,
+          "push_reasons": "RB need 2.5 | weekly value 15.1 | redraft ECR 60.3 | seller has 1 extra marketable RB(s)",
+          "push_score": 56.8,
           "rebuild_reasons": "",
           "rebuild_score": null,
           "redraft_ecr": 60.31,
@@ -781,6 +789,6 @@
     }
   },
   "season": 2026,
-  "snapshot_utc": "2026-09-05T15:43:38+00:00",
+  "snapshot_utc": "2026-09-06T23:49:09+00:00",
   "week": 1
 }

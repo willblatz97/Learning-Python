@@ -231,7 +231,8 @@
       "allow_pn": "on",
       "allow_sms": "on",
       "archived": "off",
-      "mention_pn": "on"
+      "mention_pn": "on",
+      "team_name": "chop slop"
     },
     "settings": null,
     "user_id": "1262823409977393152"

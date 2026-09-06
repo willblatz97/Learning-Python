@@ -2,7 +2,7 @@
 
 ## 10-Team Redraft — Big Tiger Takeover
 Team: Pinkman
-Opponent: Sutton My Face — lineup proxy 149.49 vs 149.58; margin -0.09
+Opponent: Sutton My Face — lineup proxy 149.38 vs 149.56; margin -0.18
 
 ### Lineup actions
 No lineup changes clear the current action threshold.
@@ -21,7 +21,7 @@ No opponent starter injury/practice flags currently detected.
 
 ## 18-Team Chopped — Surviving the Chamber
 Team: Masta’s
-Projected rank 8/18 — lineup proxy 142.83; projected chop line 115.52; safety margin +27.31
+Projected rank 6/18 — lineup proxy 146.33; projected chop line 115.42; safety margin +30.91
 
 ### Lineup actions
 No lineup changes clear the current action threshold.
@@ -40,7 +40,7 @@ No lineup changes clear the current action threshold.
 
 ## 12-Team Dynasty — One League to Rule Them All
 Team: Nazgûl Nation
-Opponent: sneekyn33ks — lineup proxy 151.83 vs 170.73; margin -18.90
+Opponent: sneekyn33ks — lineup proxy 151.73 vs 169.53; margin -17.80
 
 ### Lineup actions
 - LEAN CHANGE SUPER_FLEX: Geno Smith (16.21) -> Kirk Cousins (17.49); delta 1.28; injury clear
@@ -62,7 +62,7 @@ Opponent: sneekyn33ks — lineup proxy 151.83 vs 170.73; margin -18.90
 
 ## 10-Team Dynasty — Dynasty V2
 Team: Route 66ers
-Opponent: zthompson1533 — lineup proxy 156.99 vs 154.74; margin +2.25
+Opponent: zthompson1533 — lineup proxy 156.99 vs 154.64; margin +2.35
 
 ### Lineup actions
 No lineup changes clear the current action threshold.
@@ -75,8 +75,24 @@ No lineup changes clear the current action threshold.
 ### Opponent threats
 - Joe Burrow (QB CIN) — 25.54 vs TB
 - Ja'Marr Chase (WR CIN) — 21.52 vs TB
-- Trevor Lawrence (QB JAX) — 20.98 vs CLE
+- Trevor Lawrence (QB JAX) — 20.88 vs CLE
 
 ### Opponent injury leverage
 - Ja'Marr Chase — QUESTIONABLE; current lineup score 21.52
 - Breece Hall — QUESTIONABLE; current lineup score 14.79
+
+## 12-Team 2-Keeper — League Is Rigged V2
+Team: Lagrange 66ers
+Opponent: TBD — lineup proxy 0.00 vs 0.00; margin +0.00
+
+### Lineup actions
+No lineup changes clear the current action threshold.
+
+### Your injury / practice watch
+No monitor-level starter flags.
+
+### Opponent threats
+Opponent starters not resolved yet.
+
+### Opponent injury leverage
+No opponent starter injury/practice flags currently detected.

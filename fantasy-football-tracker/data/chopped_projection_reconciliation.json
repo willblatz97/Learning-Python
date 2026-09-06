@@ -65,11 +65,11 @@
           "return_roles": ""
         },
         {
-          "nonreturn_projection": 0.0,
+          "nonreturn_projection": 3.5,
           "player": "Myles Price",
           "player_id": "13075",
           "position": "WR",
-          "return_adjusted_projection": 11.1,
+          "return_adjusted_projection": 14.6,
           "return_confidence": "HIGH",
           "return_points_applied": 11.1,
           "return_roles": "KR+PR"
@@ -95,16 +95,16 @@
           "return_roles": ""
         }
       ],
-      "nonreturn_chop_line": 115.52,
-      "nonreturn_margin": 8.06,
-      "nonreturn_projection": 123.58,
-      "nonreturn_rank": 16,
+      "nonreturn_chop_line": 115.42,
+      "nonreturn_margin": 11.66,
+      "nonreturn_projection": 127.08,
+      "nonreturn_rank": 15,
       "note": "Nonreturn projection uses the same league-scored weekly player projections and all non-return context, but removes the tracker return-role projection. Treat it as a conservative return-independent anchor, not a statistical floor. Return-adjusted projection adds the confidence-weighted return model.",
       "projected_return_points_added": 19.25,
-      "return_adjusted_chop_line": 115.52,
-      "return_adjusted_margin": 27.31,
-      "return_adjusted_projection": 142.83,
-      "return_adjusted_rank": 8,
+      "return_adjusted_chop_line": 115.42,
+      "return_adjusted_margin": 30.91,
+      "return_adjusted_projection": 146.33,
+      "return_adjusted_rank": 6,
       "team": "Masta\u2019s"
     }
   },

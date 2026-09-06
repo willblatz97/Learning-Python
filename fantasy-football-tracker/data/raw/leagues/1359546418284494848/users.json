@@ -78,6 +78,7 @@
     "league_id": "1359546418284494848",
     "metadata": {
       "allow_pn": "on",
+      "allow_sms": "on",
       "mention_pn": "on",
       "team_name": "League is rigged"
     },
@@ -118,6 +119,7 @@
     "league_id": "1359546418284494848",
     "metadata": {
       "allow_pn": "on",
+      "allow_sms": "on",
       "mention_pn": "on"
     },
     "settings": null,
