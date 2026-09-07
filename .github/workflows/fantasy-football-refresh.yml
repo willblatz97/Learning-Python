@@ -87,6 +87,8 @@ jobs:
         run: python fantasy-football-tracker/build_chopped_reconciliation.py
       - name: Add opponent threats and injury leverage
         run: python fantasy-football-tracker/finalize_saturday.py
+      - name: Compare War Room projections with Sleeper
+        run: python fantasy-football-tracker/build_projection_comparison.py
       - name: Build projected finish and playoff outlook
         run: python fantasy-football-tracker/build_projected_finish.py
       - name: Build playoff-push and rebuild trade targets
