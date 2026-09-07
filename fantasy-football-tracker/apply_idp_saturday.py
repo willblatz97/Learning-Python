@@ -2,6 +2,7 @@ from __future__ import annotations
 import csv,json,sqlite3
 from pathlib import Path
 ROOT=Path(__file__).resolve().parent; OUT=ROOT/'data'/'normalized'; DB=ROOT/'data'/'fantasy_tracker.sqlite'; LID='1359546418284494848'
+IDP_POSITIONS={'DL','DE','DT','LB','DB','CB','S'}
 def read(n):
  p=OUT/n
  if not p.exists(): return []
@@ -25,11 +26,14 @@ def repl(n,rs):
   con.commit()
  finally:con.close()
 def main():
- scores=read('player_week_scores.csv'); vals={str(r.get('sleeper_id')):r for r in read('idp_values.csv')};changed=0
+ scores=read('player_week_scores.csv'); vals={str(r.get('sleeper_id')):r for r in read('idp_values.csv')};changed=0;normalized=0
  for r in scores:
-  if str(r.get('league_id'))!=LID or str(r.get('position')) not in {'DL','LB','DB'}:continue
+  pos=str(r.get('position') or '').upper()
+  if str(r.get('league_id'))!=LID or pos not in IDP_POSITIONS:continue
   v=vals.get(str(r.get('player_id')))
   if not v:continue
+  if pos in {'DE','DT'}: normalized+=1
+  elif pos in {'CB','S'}: normalized+=1
   base=num(v.get('idp_projection_proxy'));r['base_lineup_score_before_idp']=r.get('lineup_score');r['lineup_score']=round(max(0,base),2);r['idp_points_applied']=round(num(r['lineup_score'])-num(r.get('base_lineup_score_before_idp')),2);r['idp_source_season']=v.get('source_season');r['idp_current_season_data']=v.get('current_season_data');r['score_source']='league-specific IDP scoring proxy';changed+=1
- write('player_week_scores.csv',scores);repl('player_week_scores',scores);print(json.dumps({'idp_player_scores_replaced':changed,'league_id':LID},indent=2))
+ write('player_week_scores.csv',scores);repl('player_week_scores',scores);print(json.dumps({'idp_player_scores_replaced':changed,'normalized_subpositions':normalized,'league_id':LID},indent=2))
 if __name__=='__main__':main()
