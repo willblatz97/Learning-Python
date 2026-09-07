@@ -38,7 +38,10 @@ def kind(label: str) -> str:
     return "redraft"
 
 def eligible(slot: str, pos: str) -> bool:
+    slot=str(slot or '').upper(); pos=str(pos or '').upper()
     if slot == pos:return True
+    if slot == "DL":return pos in {"DL","DE","DT"}
+    if slot == "DB":return pos in {"DB","CB","S"}
     if slot in {"FLEX","REC_FLEX","WRRB_FLEX"}:return pos in {"RB","WR","TE"}
     if slot == "SUPER_FLEX":return pos in {"QB","RB","WR","TE"}
     return False
