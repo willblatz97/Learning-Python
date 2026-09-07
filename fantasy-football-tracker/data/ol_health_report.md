@@ -11,9 +11,9 @@ Starter mapping: 159/160 (99.4%)
 - LAC — 90.0 HEALTHY — pass -0.35, run -0.11 — LT Rashawn Slater (AT RISK)
 - LAR — 90.0 HEALTHY — pass -0.35, run -0.11 — LT Alaric Jackson (AT RISK)
 - DEN — 91.7 HEALTHY — pass -0.11, run -0.20 — C Luke Wattenberg (AT RISK)
+- SEA — 91.7 HEALTHY — pass -0.11, run -0.20 — RG Anthony Bradford (AT RISK)
 - SF — 91.7 HEALTHY — pass -0.11, run -0.20 — RG Dominick Puni (AT RISK)
 - WAS — 91.7 HEALTHY — pass -0.11, run -0.20 — C Nick Allegretti (AT RISK)
 - ARI — 100.0 HEALTHY — pass -0.00, run -0.00 — none
 - ATL — 100.0 HEALTHY — pass -0.00, run -0.00 — none
 - BAL — 100.0 HEALTHY — pass -0.00, run -0.00 — none
-- BUF — 100.0 HEALTHY — pass -0.00, run -0.00 — none

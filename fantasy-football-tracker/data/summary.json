@@ -1,5 +1,5 @@
 {
-  "all_ownership_rows": 1084,
+  "all_ownership_rows": 1290,
   "configured_leagues": 5,
   "league_names": {
     "1359546418284494848": "League Is Rigged V2",
@@ -9,7 +9,7 @@
     "1389740418316374016": "Big Tiger Takeover"
   },
   "leagues_found": 5,
-  "matchup_rows": 700,
+  "matchup_rows": 868,
   "my_roster_ids": {
     "1359546418284494848": 1,
     "1366076769534251008": 1,
@@ -30,9 +30,9 @@
     "season_type": "regular",
     "week": 1
   },
-  "owned_player_rows": 94,
+  "owned_player_rows": 111,
   "sleeper_user_id": "779583277362245632",
   "sleeper_username": "blatzzy",
-  "snapshot_utc": "2026-09-06T23:49:09+00:00",
-  "transactions_rows": 119
+  "snapshot_utc": "2026-09-07T00:48:41+00:00",
+  "transactions_rows": 124
 }

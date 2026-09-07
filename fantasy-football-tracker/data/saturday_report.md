@@ -83,16 +83,20 @@ No lineup changes clear the current action threshold.
 
 ## 12-Team 2-Keeper — League Is Rigged V2
 Team: Lagrange 66ers
-Opponent: TBD — lineup proxy 0.00 vs 0.00; margin +0.00
+Opponent: tylercatlett1 — lineup proxy 176.60 vs 186.64; margin -10.04
 
 ### Lineup actions
 No lineup changes clear the current action threshold.
 
 ### Your injury / practice watch
-No monitor-level starter flags.
+- Jeremiyah Love — QUESTIONABLE; best legal bench option: Jonathon Brooks
+- Ja'Marr Chase — QUESTIONABLE; best legal bench option: Carnell Tate
+- Tucker Kraft — QUESTIONABLE; best legal bench option: none
 
 ### Opponent threats
-Opponent starters not resolved yet.
+- Jalen Hurts (QB PHI) — 28.46 vs WAS
+- James Cook (RB BUF) — 21.99 vs HOU
+- Chase Brown (RB CIN) — 21.54 vs TB
 
 ### Opponent injury leverage
 No opponent starter injury/practice flags currently detected.

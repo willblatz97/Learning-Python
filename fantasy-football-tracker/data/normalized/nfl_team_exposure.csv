@@ -1,30 +1,32 @@
 nfl_team,roster_slots_across_leagues,starting_slots_across_leagues,unique_players_owned,players_owned,players_started
+CIN,6,5,4,Chase Brown | Ja'Marr Chase | Jack Endries | Joe Burrow,Chase Brown | Ja'Marr Chase | Joe Burrow
 DAL,6,5,4,Brandon Aubrey | Dak Prescott | Jake Ferguson | Malik Davis,Brandon Aubrey | Dak Prescott | Jake Ferguson
 CHI,6,4,4,Cole Kmet | D'Andre Swift | Luther Burden | Roschon Johnson,D'Andre Swift | Luther Burden
-CIN,5,4,4,Chase Brown | Ja'Marr Chase | Jack Endries | Joe Burrow,Chase Brown | Ja'Marr Chase | Joe Burrow
-LAC,3,3,3,Cameron Dicker | Justin Herbert | Omarion Hampton,Cameron Dicker | Justin Herbert | Omarion Hampton
-CAR,7,2,5,Chris Brazzell | Chuba Hubbard | Darren Waller | Jonathon Brooks | Tetairoa McMillan,Tetairoa McMillan
-DET,3,2,3,Amon-Ra St. Brown | Isiah Pacheco | Jacob Saylors,Amon-Ra St. Brown | Jacob Saylors
+CLE,5,3,4,Deshaun Watson | Jared Verse | KC Concepcion | Quinshon Judkins,Jared Verse | Quinshon Judkins
+DET,4,3,4,Amon-Ra St. Brown | Isiah Pacheco | Jack Campbell | Jacob Saylors,Amon-Ra St. Brown | Jack Campbell | Jacob Saylors
+LAC,4,3,4,Cameron Dicker | Justin Herbert | Omarion Hampton | Quentin Johnston,Cameron Dicker | Justin Herbert | Omarion Hampton
+CAR,8,2,5,Chris Brazzell | Chuba Hubbard | Darren Waller | Jonathon Brooks | Tetairoa McMillan,Tetairoa McMillan
+GB,4,2,3,Jayden Reed | Luke Musgrave | Tucker Kraft,Tucker Kraft
+KC,4,2,4,Chamarri Conner | Emmett Johnson | John Michael Gyllenborg | Kenneth Walker,Chamarri Conner | Kenneth Walker
+ARI,3,2,3,Carson Beck | Jeremiyah Love | Marvin Harrison,Jeremiyah Love | Marvin Harrison
 MIN,2,2,2,Aaron Jones | Myles Price,Aaron Jones | Myles Price
 TB,2,2,2,Bucky Irving | Emeka Egbuka,Bucky Irving | Emeka Egbuka
+JAX,5,1,3,Chris Rodriguez | LeQuint Allen | Parker Washington,Parker Washington
+MIA,5,1,4,De'Von Achane | Greg Dulcich | Kyle McCord | Malik Washington,De'Von Achane
 NO,5,1,5,Alvin Kamara | Barion Brown | Devaughn Vele | Kendre Miller | Travis Etienne,Travis Etienne
-JAX,4,1,3,Chris Rodriguez | LeQuint Allen | Parker Washington,Parker Washington
-MIA,4,1,4,De'Von Achane | Greg Dulcich | Kyle McCord | Malik Washington,De'Von Achane
+IND,4,1,3,Alec Pierce | Jonathan Taylor | Josh Downs,Jonathan Taylor
 BAL,3,1,3,Justice Hill | Rashod Bateman | Zay Flowers,Zay Flowers
-CLE,3,1,3,Deshaun Watson | KC Concepcion | Quinshon Judkins,Quinshon Judkins
-GB,3,1,3,Jayden Reed | Luke Musgrave | Tucker Kraft,Tucker Kraft
-IND,3,1,3,Alec Pierce | Jonathan Taylor | Josh Downs,Jonathan Taylor
-KC,3,1,3,Emmett Johnson | John Michael Gyllenborg | Kenneth Walker,Kenneth Walker
 NYJ,3,1,3,Garrett Wilson | Geno Smith | Omar Cooper,Geno Smith
 PHI,3,1,3,Eli Stowers | Philadelphia Eagles | Tank Bigsby,Philadelphia Eagles
 WAS,3,1,2,Jacory Croskey-Merritt | Jayden Daniels,Jayden Daniels
-ARI,2,1,2,Carson Beck | Marvin Harrison,Marvin Harrison
+ATL,2,1,2,Drake London | Tua Tagovailoa,Drake London
 LV,2,1,2,Ashton Jeanty | Kirk Cousins,Ashton Jeanty
+NE,2,1,2,Drake Maye | Eli Raridon,Drake Maye
 NYG,2,1,2,Jameis Winston | Malik Nabers,Malik Nabers
+PIT,2,1,2,Jaylen Warren | Pat Freiermuth,Jaylen Warren
+LAR,1,1,1,Harrison Mevis,Harrison Mevis
 SEA,5,0,4,AJ Barner | Emanuel Wilson | Tory Horton | Zach Charbonnet,
 SF,4,0,4,Christian Kirk | Deebo Samuel | Mac Jones | Mike Evans,
 HOU,3,0,3,Dalton Schultz | Tank Dell | Woody Marks,
 DEN,2,0,2,Courtland Sutton | Pat Bryant,
-ATL,1,0,1,Tua Tagovailoa,
-NE,1,0,1,Eli Raridon,
-PIT,1,0,1,Pat Freiermuth,
+TEN,1,0,1,Carnell Tate,

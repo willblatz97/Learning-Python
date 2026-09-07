@@ -30,8 +30,10 @@ Usage: **2025 CONTEXT ONLY**
 - **Injury decisions:** 3 starter monitor(s)
 
 ## 12-Team 2-Keeper — League Is Rigged V2
-- **NO LIVE MATCHUP** — Lagrange 66ers — projection 0 vs None (None); margin +0.00
-- **Action:** HOLD — No lineup action above threshold
-- **Waiver:** Josh Allen (QB) — MUST ADD — FAAB 12-20 — consensus ECR 25.77 | rostered in most comparable leagues | depth-chart starter | thin QB depth on your roster | FA keeper R7 vs estimated market R3: +4 round surplus
+- **TRAILING** — Lagrange 66ers — projection 176.6 vs 186.64 (tylercatlett1); margin -10.04
+- **Action:** MONITOR — Jeremiyah Love QUESTIONABLE; backup Jonathon Brooks
+- **Projected finish:** seed #1 · 10.59 expected wins · 98.7% playoff odds · range #1-#3 · roster power #1 · schedule AVERAGE (54.2th percentile difficulty)
+- **Waiver:** Dane Belton (DB) — MUST ADD — FAAB 12-20 — league-scored IDP proxy 16.5 pts/g
+- **Injury decisions:** 3 starter monitor(s)
 
 - High-impact weather: none currently

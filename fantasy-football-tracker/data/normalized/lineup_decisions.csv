@@ -37,3 +37,14 @@ league_id,league,slot,action,starter_id,starter,starter_pos,starter_score,starte
 1366076769534251008,10-Team Dynasty — Dynasty V2,FLEX,MONITOR,12519,Luther Burden,WR,13.49,0.0,,QUESTIONABLE,CAR,8146,Garrett Wilson,WR,14.52,0.0,,1.03,Sleeper raw-stat projection × league scoring + injury ripple
 1366076769534251008,10-Team Dynasty — Dynasty V2,FLEX,MONITOR,9997,Zay Flowers,WR,16.83,0.0,,QUESTIONABLE,IND,8146,Garrett Wilson,WR,14.52,0.0,,-2.31,Sleeper raw-stat projection × league scoring + injury ripple
 1366076769534251008,10-Team Dynasty — Dynasty V2,SUPER_FLEX,HOLD,3294,Dak Prescott,QB,22.62,0.0,,,NYG,4017,Deshaun Watson,QB,16.59,0.0,,-6.03,Sleeper raw-stat projection × league scoring + OL health
+1359546418284494848,12-Team 2-Keeper — League Is Rigged V2,QB,HOLD,11564,Drake Maye,QB,27.74,0.0,,,SEA,,,,,,,,Sleeper raw-stat projection × league scoring
+1359546418284494848,12-Team 2-Keeper — League Is Rigged V2,RB,MONITOR,13287,Jeremiyah Love,RB,16.77,0.0,,QUESTIONABLE,LAC,11583,Jonathon Brooks,RB,11.46,0.0,,-5.31,Sleeper raw-stat projection × league scoring
+1359546418284494848,12-Team 2-Keeper — League Is Rigged V2,RB,HOLD,12512,Quinshon Judkins,RB,15.93,0.0,,,JAX,11583,Jonathon Brooks,RB,11.46,0.0,,-4.47,Sleeper raw-stat projection × league scoring + game-time weather
+1359546418284494848,12-Team 2-Keeper — League Is Rigged V2,WR,MONITOR,7564,Ja'Marr Chase,WR,21.57,0.0,,QUESTIONABLE,TB,13279,Carnell Tate,WR,12.92,0.0,,-8.65,Sleeper raw-stat projection × league scoring
+1359546418284494848,12-Team 2-Keeper — League Is Rigged V2,WR,HOLD,8112,Drake London,WR,16.95,0.0,,,PIT,13279,Carnell Tate,WR,12.92,0.0,,-4.03,Sleeper raw-stat projection × league scoring + injury ripple
+1359546418284494848,12-Team 2-Keeper — League Is Rigged V2,TE,MONITOR,9484,Tucker Kraft,TE,11.77,0.0,,QUESTIONABLE,MIN,,,,,,,,Sleeper raw-stat projection × league scoring
+1359546418284494848,12-Team 2-Keeper — League Is Rigged V2,FLEX,HOLD,8228,Jaylen Warren,RB,17.16,0.0,,,ATL,13279,Carnell Tate,WR,12.92,0.0,,-4.24,Sleeper raw-stat projection × league scoring
+1359546418284494848,12-Team 2-Keeper — League Is Rigged V2,K,HOLD,12015,Harrison Mevis,K,6.92,0.0,,,SF,,,,,,,,Sleeper raw-stat projection × league scoring
+1359546418284494848,12-Team 2-Keeper — League Is Rigged V2,DL,HOLD,11665,Jared Verse,DL,7.99,0.0,,,JAX,,,,,,,,league-specific IDP scoring proxy
+1359546418284494848,12-Team 2-Keeper — League Is Rigged V2,LB,HOLD,10880,Jack Campbell,LB,20.39,0.0,,,NO,,,,,,,,league-specific IDP scoring proxy
+1359546418284494848,12-Team 2-Keeper — League Is Rigged V2,DB,HOLD,10949,Chamarri Conner,DB,13.41,0.0,,,DEN,,,,,,,,league-specific IDP scoring proxy

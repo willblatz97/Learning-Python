@@ -18,4 +18,4 @@ This board favors actionable value: roster need + seller surplus + market arbitr
 
 ## 12-Team 2-Keeper — League Is Rigged V2
 - Posture: **PLAYOFF / RECOVERY PUSH** — record 0-0
-- Push targets: none
+- Push targets: Justin Herbert (QB, Saxis); Dak Prescott (QB, liamblatz); Cam Skattebo (RB, Njigbas in paris); D'Andre Swift (RB, jblatz); Jameson Williams (WR, 2kyle)
