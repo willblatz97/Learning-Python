@@ -38,7 +38,7 @@ Projection mode: **WEEKLY CONSENSUS** · Usage: **2025 CONTEXT ONLY**
 - Rebuild targets: Fernando Mendoza, Jaxson Dart, Jeremiyah Love, Jordyn Tyson, Ashton Jeanty
 
 ## 12-Team 2-Keeper — League Is Rigged V2
-- TRAILING — projection 176.6 · margin -10.04
+- LEAN OPPONENT — projection 176.6 · margin -5.93
 - Projected finish: seed #1 · 10.59 wins · 98.7% playoffs · range #1-#3 · roster power #1 · schedule AVERAGE
 - Action: MONITOR — Jeremiyah Love QUESTIONABLE; backup Jonathon Brooks
 - Waiver: Dane Belton · MUST ADD · FAAB 12-20

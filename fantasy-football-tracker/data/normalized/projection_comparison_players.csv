@@ -51,7 +51,7 @@ season,week,league_id,league,roster_id,team,is_my_roster,player_id,player,positi
 2026,1,1359546418284494848,League Is Rigged V2,2,Stutterboyzzzz,False,12506,Harold Fannin,TE,12.5,12.08,0.42,11,0.5,0.0,0.0,0.0,-0.08,0.0,0.0,,Sleeper raw-stat projection × league scoring + game-time weather
 2026,1,1359546418284494848,League Is Rigged V2,2,Stutterboyzzzz,False,11631,Brian Thomas,WR,10.1,10.9,-0.8,11,-0.7,0.0,0.0,0.0,-0.1,0.0,0.0,,Sleeper raw-stat projection × league scoring + game-time weather
 2026,1,1359546418284494848,League Is Rigged V2,2,Stutterboyzzzz,False,11533,Brandon Aubrey,K,7.19,6.69,0.5,7,0.5,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
-2026,1,1359546418284494848,League Is Rigged V2,2,Stutterboyzzzz,False,5840,Josh Hines-Allen,DE,18.0,8.49,9.51,7,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,weekly projected points
+2026,1,1359546418284494848,League Is Rigged V2,2,Stutterboyzzzz,False,5840,Josh Hines-Allen,DE,9.1,8.49,0.61,7,0.0,-8.9,0.0,0.0,0.0,0.0,0.0,,league-specific IDP scoring proxy
 2026,1,1359546418284494848,League Is Rigged V2,2,Stutterboyzzzz,False,5041,Fred Warner,LB,16.8,12.73,4.07,9,0.0,-0.6,0.0,0.0,0.0,0.0,0.0,,league-specific IDP scoring proxy
 2026,1,1359546418284494848,League Is Rigged V2,2,Stutterboyzzzz,False,7016,Jeremy Chinn,DB,14.01,11.06,2.95,8,0.0,-3.39,0.0,0.0,0.0,0.0,0.0,,league-specific IDP scoring proxy
 2026,1,1359546418284494848,League Is Rigged V2,3,Njigbas in paris,False,421,Matthew Stafford,QB,24.94,24.7,0.24,12,0.5,0.0,0.0,-0.26,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring + OL health
@@ -62,7 +62,7 @@ season,week,league_id,league,roster_id,team,is_my_roster,player_id,player,positi
 2026,1,1359546418284494848,League Is Rigged V2,3,Njigbas in paris,False,5012,Mark Andrews,TE,11.93,11.33,0.6,11,0.5,0.0,0.0,0.0,0.0,0.1,0.0,,Sleeper raw-stat projection × league scoring + injury ripple
 2026,1,1359546418284494848,League Is Rigged V2,3,Njigbas in paris,False,13286,Jadarian Price,RB,13.08,12.72,0.36,11,0.5,0.0,0.0,-0.14,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring + OL health
 2026,1,1359546418284494848,League Is Rigged V2,3,Njigbas in paris,False,7839,Evan McPherson,K,7.78,6.68,1.1,7,1.1,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
-2026,1,1359546418284494848,League Is Rigged V2,3,Njigbas in paris,False,5862,Brian Burns,DE,19.0,11.28,7.72,8,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,weekly projected points
+2026,1,1359546418284494848,League Is Rigged V2,3,Njigbas in paris,False,5862,Brian Burns,DE,11.93,11.28,0.65,8,0.0,-7.07,0.0,0.0,0.0,0.0,0.0,,league-specific IDP scoring proxy
 2026,1,1359546418284494848,League Is Rigged V2,3,Njigbas in paris,False,6949,Jordyn Brooks,LB,18.28,8.85,9.43,8,0.0,-3.22,0.0,0.0,0.0,0.0,0.0,,league-specific IDP scoring proxy
 2026,1,1359546418284494848,League Is Rigged V2,3,Njigbas in paris,False,4081,Budda Baker,DB,13.53,10.74,2.79,8,0.0,-7.97,0.0,0.0,0.0,0.0,0.0,,league-specific IDP scoring proxy
 2026,1,1359546418284494848,League Is Rigged V2,4,jblatz,False,4984,Josh Allen,QB,30.01,29.51,0.5,12,0.5,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
@@ -95,7 +95,7 @@ season,week,league_id,league,roster_id,team,is_my_roster,player_id,player,positi
 2026,1,1359546418284494848,League Is Rigged V2,6,Daejon love #1 fan,False,12517,Colston Loveland,TE,15.3,14.7,0.6,11,0.5,0.0,0.0,0.0,0.0,0.1,0.0,,Sleeper raw-stat projection × league scoring + injury ripple
 2026,1,1359546418284494848,League Is Rigged V2,6,Daejon love #1 fan,False,11581,MarShawn Lloyd,RB,14.09,13.59,0.5,11,0.5,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
 2026,1,1359546418284494848,League Is Rigged V2,6,Daejon love #1 fan,False,11539,Jake Bates,K,7.56,7.06,0.5,7,0.5,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
-2026,1,1359546418284494848,League Is Rigged V2,6,Daejon love #1 fan,False,5991,Maxx Crosby,DE,21.5,10.6,10.9,7,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,weekly projected points
+2026,1,1359546418284494848,League Is Rigged V2,6,Daejon love #1 fan,False,5991,Maxx Crosby,DE,17.39,10.6,6.79,7,0.0,-4.11,0.0,0.0,0.0,0.0,0.0,,league-specific IDP scoring proxy
 2026,1,1359546418284494848,League Is Rigged V2,6,Daejon love #1 fan,False,8267,Nakobe Dean,LB,13.94,15.06,-1.12,8,0.0,-0.36,0.0,0.0,0.0,0.0,0.0,,league-specific IDP scoring proxy
 2026,1,1359546418284494848,League Is Rigged V2,6,Daejon love #1 fan,False,4971,Derwin James,DB,14.19,13.27,0.92,9,0.0,-7.31,0.0,0.0,0.0,0.0,0.0,,league-specific IDP scoring proxy
 2026,1,1359546418284494848,League Is Rigged V2,7,GOOBERTON,False,4046,Patrick Mahomes,QB,25.23,25.08,0.15,12,0.5,0.0,0.0,-0.35,0.0,0.0,0.0,Questionable,Sleeper raw-stat projection × league scoring + OL health
@@ -106,7 +106,7 @@ season,week,league_id,league,roster_id,team,is_my_roster,player_id,player,positi
 2026,1,1359546418284494848,League Is Rigged V2,7,GOOBERTON,False,10859,Sam LaPorta,TE,14.48,13.98,0.5,11,0.5,0.0,0.0,0.0,0.0,0.0,0.0,Questionable,Sleeper raw-stat projection × league scoring
 2026,1,1359546418284494848,League Is Rigged V2,7,GOOBERTON,False,12534,Kyle Monangai,RB,8.98,9.37,-0.39,11,-0.7,0.0,0.0,0.0,0.0,0.31,0.0,Questionable,Sleeper raw-stat projection × league scoring + injury ripple
 2026,1,1359546418284494848,League Is Rigged V2,7,GOOBERTON,False,8259,Cameron Dicker,K,7.49,6.99,0.5,7,0.5,0.0,0.0,0.0,0.0,0.0,0.0,Questionable,Sleeper raw-stat projection × league scoring
-2026,1,1359546418284494848,League Is Rigged V2,7,GOOBERTON,False,5816,Nick Bosa,DE,16.0,7.94,8.06,8,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Questionable,weekly projected points
+2026,1,1359546418284494848,League Is Rigged V2,7,GOOBERTON,False,5816,Nick Bosa,DE,14.17,7.94,6.23,8,0.0,-1.83,0.0,0.0,0.0,0.0,0.0,Questionable,league-specific IDP scoring proxy
 2026,1,1359546418284494848,League Is Rigged V2,7,GOOBERTON,False,11687,Edgerrin Cooper,LB,13.77,12.75,1.02,8,0.0,-3.13,0.0,0.0,0.0,0.0,0.0,,league-specific IDP scoring proxy
 2026,1,1359546418284494848,League Is Rigged V2,7,GOOBERTON,False,8339,Kyle Hamilton,DB,11.91,13.4,-1.49,7,0.0,-6.59,0.0,0.0,0.0,0.0,0.0,,league-specific IDP scoring proxy
 2026,1,1359546418284494848,League Is Rigged V2,8,2kyle,False,7523,Trevor Lawrence,QB,25.81,25.41,0.4,12,0.5,0.0,0.0,0.0,-0.1,0.0,0.0,,Sleeper raw-stat projection × league scoring + game-time weather
@@ -128,7 +128,7 @@ season,week,league_id,league,roster_id,team,is_my_roster,player_id,player,positi
 2026,1,1359546418284494848,League Is Rigged V2,9,liamblatz,False,8110,Jake Ferguson,TE,10.53,10.15,0.38,6,0.5,0.0,0.0,-0.12,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring + OL health
 2026,1,1359546418284494848,League Is Rigged V2,9,liamblatz,False,2216,Mike Evans,WR,13.68,13.14,0.54,6,0.5,0.0,0.0,-0.04,0.0,0.08,0.0,Questionable,Sleeper raw-stat projection × league scoring + OL health + injury ripple
 2026,1,1359546418284494848,League Is Rigged V2,9,liamblatz,False,3451,Ka'imi Fairbairn,K,7.06,6.56,0.5,7,0.5,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
-2026,1,1359546418284494848,League Is Rigged V2,9,liamblatz,False,6125,Jeffery Simmons,DT,19.1,9.61,9.49,8,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,weekly projected points
+2026,1,1359546418284494848,League Is Rigged V2,9,liamblatz,False,6125,Jeffery Simmons,DT,15.03,9.61,5.42,8,0.0,-4.07,0.0,0.0,0.0,0.0,0.0,,league-specific IDP scoring proxy
 2026,1,1359546418284494848,League Is Rigged V2,9,liamblatz,False,12578,Carson Schwesinger,LB,17.59,13.42,4.17,7,0.0,-3.91,0.0,0.0,0.0,0.0,0.0,,league-specific IDP scoring proxy
 2026,1,1359546418284494848,League Is Rigged V2,9,liamblatz,False,3233,Kevin Byard,DB,11.46,11.29,0.17,5,0.0,-5.94,0.0,0.0,0.0,0.0,0.0,,league-specific IDP scoring proxy
 2026,1,1366076769534251008,Dynasty V2,1,Route 66ers,True,11566,Jayden Daniels,QB,22.18,21.76,0.42,10,0.5,0.0,0.0,-0.08,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring + OL health
