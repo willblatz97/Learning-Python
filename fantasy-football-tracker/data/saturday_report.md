@@ -83,7 +83,7 @@ No lineup changes clear the current action threshold.
 
 ## 12-Team 2-Keeper — League Is Rigged V2
 Team: Lagrange 66ers
-Opponent: tylercatlett1 — lineup proxy 176.60 vs 186.64; margin -10.04
+Opponent: Daejon love #1 fan — lineup proxy 176.60 vs 186.64; margin -10.04
 
 ### Lineup actions
 No lineup changes clear the current action threshold.

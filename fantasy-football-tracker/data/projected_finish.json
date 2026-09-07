@@ -194,7 +194,7 @@
           "schedule_difficulty_percentile": 95.8,
           "schedule_label": "HARD",
           "schedule_strength": 173.11,
-          "team": "tylercatlett1"
+          "team": "Daejon love #1 fan"
         },
         {
           "current_losses": 0.0,
@@ -1195,6 +1195,6 @@
   },
   "method": "league-relative roster power + current health + bench depth + actual fantasy H2H schedule Monte Carlo",
   "simulations": 5000,
-  "snapshot_utc": "2026-09-07T01:23:02+00:00",
+  "snapshot_utc": "2026-09-07T01:28:36+00:00",
   "week": 1
 }
