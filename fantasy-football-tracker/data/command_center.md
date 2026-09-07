@@ -32,7 +32,7 @@ Usage: **2025 CONTEXT ONLY**
 ## 12-Team 2-Keeper — League Is Rigged V2
 - **LEAN OPPONENT** — Lagrange 66ers — projection 176.6 vs 182.53 (Daejon love #1 fan); margin -5.93
 - **Action:** MONITOR — Jeremiyah Love QUESTIONABLE; backup Jonathon Brooks
-- **Projected finish:** seed #1 · 10.59 expected wins · 98.7% playoff odds · range #1-#3 · roster power #1 · schedule AVERAGE (54.2th percentile difficulty)
+- **Projected finish:** seed #4 · 8.04 expected wins · 84.2% playoff odds · range #4-#6 · roster power #4 · schedule AVERAGE (62.5th percentile difficulty)
 - **Waiver:** Dane Belton (DB) — MUST ADD — FAAB 12-20 — league-scored IDP proxy 16.5 pts/g
 - **Injury decisions:** 3 starter monitor(s)
 

@@ -18,6 +18,6 @@ Projected finish is probabilistic. Roster power uses the latest lineup scoring, 
 - Current injury flags in optimized lineup: 2 · future H2H schedule coverage 100.0%
 
 ## 12-Team 2-Keeper — League Is Rigged V2
-- Lagrange 66ers: projected seed **#1** (average 2.2); expected wins **10.59**; playoff odds **98.7%**
-- Likely finish range: #1–#3 · roster power rank #1/12 · schedule AVERAGE (54.2th percentile difficulty)
+- Lagrange 66ers: projected seed **#4** (average 4.9); expected wins **8.04**; playoff odds **84.2%**
+- Likely finish range: #4–#6 · roster power rank #4/12 · schedule AVERAGE (62.5th percentile difficulty)
 - Current injury flags in optimized lineup: 3 · future H2H schedule coverage 100.0%

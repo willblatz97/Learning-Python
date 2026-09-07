@@ -39,7 +39,7 @@ Projection mode: **WEEKLY CONSENSUS** · Usage: **2025 CONTEXT ONLY**
 
 ## 12-Team 2-Keeper — League Is Rigged V2
 - LEAN OPPONENT — projection 176.6 · margin -5.93
-- Projected finish: seed #1 · 10.59 wins · 98.7% playoffs · range #1-#3 · roster power #1 · schedule AVERAGE
+- Projected finish: seed #4 · 8.04 wins · 84.2% playoffs · range #4-#6 · roster power #4 · schedule AVERAGE
 - Action: MONITOR — Jeremiyah Love QUESTIONABLE; backup Jonathon Brooks
 - Waiver: Dane Belton · MUST ADD · FAAB 12-20
 - Trade posture: PLAYOFF / RECOVERY PUSH
