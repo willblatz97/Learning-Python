@@ -3,7 +3,6 @@ from __future__ import annotations
 import csv
 import json
 import math
-from collections import defaultdict
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent
@@ -35,6 +34,7 @@ def expected_round(ecr, teams=12, max_round=17):
 
 def main():
     rules = json.loads(RULES.read_text(encoding="utf-8"))[LEAGUE_ID]
+    keeper_positions = set(rules.get("keeper_eligible_positions") or ["QB","RB","WR","TE"])
     leagues = {str(r["league_id"]): r for r in read_csv("leagues.csv")}
     league = leagues.get(LEAGUE_ID, {})
     rosters = [r for r in read_csv("rosters.csv") if str(r.get("league_id")) == LEAGUE_ID]
@@ -42,26 +42,18 @@ def main():
     picks = [r for r in read_csv("draft_picks.csv") if str(r.get("league_id")) == LEAGUE_ID]
     traded = [r for r in read_csv("traded_picks.csv") if str(r.get("league_id")) == LEAGUE_ID]
     ranks = read_csv("external_rankings.csv")
-    idp = {str(r.get("sleeper_id")): r for r in read_csv("idp_values.csv")}
 
-    redraft = {}
-    for r in ranks:
-        if str(r.get("ecr_type")) == "ro": redraft[str(r.get("sleeper_id"))] = r
-
+    redraft = {str(r.get("sleeper_id")): r for r in ranks if str(r.get("ecr_type")) == "ro"}
     my = next((r for r in rosters if truth(r.get("is_my_roster"))), None)
     my_roster_id = str(my.get("roster_id")) if my else "1"
     draft_rounds = 17
     teams = 12
 
     drafted_round = {}
-    drafted_name = {}
     for p in picks:
         pid = str(p.get("player_id") or "")
-        if not pid: continue
         rnd = int(num(p.get("round"), 0) or 0)
-        if rnd:
-            drafted_round[pid] = rnd
-            drafted_name[pid] = str(p.get("full_name") or "")
+        if pid and rnd: drafted_round[pid] = rnd
 
     known = {str(k): int(v) for k, v in (rules.get("known_keeper_costs") or {}).items()}
     keeper_rows = []
@@ -70,6 +62,7 @@ def main():
         name = str(r.get("full_name") or "")
         pos = str(r.get("position") or "")
         owner_roster = str(r.get("roster_id") or "")
+        eligible = pos in keeper_positions
         cost = known.get(name)
         source = "known override" if cost is not None else None
         if cost is None and pid in drafted_round:
@@ -78,44 +71,46 @@ def main():
             cost = int(rules.get("free_agent_keeper_round") or 7); source = "FA/default round"
 
         ecr = num(redraft.get(pid, {}).get("ecr"), None)
-        market_round = expected_round(ecr, teams, draft_rounds)
-        surplus = (cost - market_round) if market_round is not None else None
-        idp_proxy = num(idp.get(pid, {}).get("idp_projection_proxy"), None)
-        talent = 0.0 if ecr is None else max(0.0, 25.0 - ecr * 0.08)
-        if pos in {"DL", "LB", "DB"} and idp_proxy is not None:
-            talent = min(25.0, idp_proxy * 1.5)
-        surplus_score = (surplus or 0) * 6.0
-        keeper_score = round(talent + surplus_score, 1)
+        market_round = expected_round(ecr, teams, draft_rounds) if eligible else None
+        surplus = (cost - market_round) if eligible and market_round is not None else None
+        talent = 0.0 if ecr is None else max(0.0, 20.0 - ecr * 0.06)
+        # Keeper score is intentionally modest and informational only. It must not drive weekly/redraft decisions.
+        surplus_component = min(10.0, max(0.0, float(surplus or 0)) * 1.0) if eligible else 0.0
+        keeper_score = round(talent + surplus_component, 1) if eligible else 0.0
         keeper_rows.append({
             "league_id": LEAGUE_ID, "roster_id": owner_roster, "is_my_roster": r.get("is_my_roster"),
             "player_id": pid, "player": name, "position": pos, "nfl_team": r.get("nfl_team"),
-            "keeper_round": cost, "keeper_cost_source": source, "redraft_ecr": ecr,
-            "market_round": market_round, "round_surplus": surplus, "keeper_value_score": keeper_score,
-            "idp_projection_proxy": idp_proxy,
+            "keeper_eligible": eligible, "keeper_round": cost if eligible else None,
+            "keeper_cost_source": source if eligible else "not keeper eligible",
+            "redraft_ecr": ecr, "market_round": market_round, "round_surplus": surplus,
+            "keeper_value_score": keeper_score,
+            "valuation_role": "secondary tiebreaker only" if eligible else "redraft-only; keeper ignored",
         })
 
-    # Before the draft, known keepers may not appear in ownership yet. Preserve them explicitly.
     owned_names = {r["player"] for r in keeper_rows}
     for name, cost in known.items():
         if name in owned_names: continue
         pid = next((str(r.get("sleeper_id")) for r in ranks if str(r.get("player") or "") == name), None)
         rr = redraft.get(pid or "", {})
-        ecr = num(rr.get("ecr"), None); market_round = expected_round(ecr, teams, draft_rounds)
-        surplus = (cost - market_round) if market_round is not None else None
+        pos = str(rr.get("position") or "")
+        eligible = pos in keeper_positions
+        ecr = num(rr.get("ecr"), None); market_round = expected_round(ecr, teams, draft_rounds) if eligible else None
+        surplus = (cost - market_round) if eligible and market_round is not None else None
+        talent = 0.0 if ecr is None else max(0.0,20-ecr*.06)
         keeper_rows.append({
             "league_id": LEAGUE_ID, "roster_id": my_roster_id, "is_my_roster": "True", "player_id": pid,
-            "player": name, "position": rr.get("position"), "nfl_team": rr.get("team"), "keeper_round": cost,
-            "keeper_cost_source": "known override (pre-draft)", "redraft_ecr": ecr, "market_round": market_round,
-            "round_surplus": surplus, "keeper_value_score": round((surplus or 0) * 6 + (0 if ecr is None else max(0,25-ecr*.08)),1),
-            "idp_projection_proxy": None,
+            "player": name, "position": pos, "nfl_team": rr.get("team"), "keeper_eligible": eligible,
+            "keeper_round": cost if eligible else None, "keeper_cost_source": "known override (pre-draft)" if eligible else "not keeper eligible",
+            "redraft_ecr": ecr, "market_round": market_round, "round_surplus": surplus,
+            "keeper_value_score": round(talent + min(10,max(0,float(surplus or 0))),1) if eligible else 0.0,
+            "valuation_role": "secondary tiebreaker only" if eligible else "redraft-only; keeper ignored",
         })
 
-    keeper_rows.sort(key=lambda r: -(num(r.get("keeper_value_score"), -999) or -999))
+    keeper_rows.sort(key=lambda r: (not truth(r.get("keeper_eligible")), -(num(r.get("keeper_value_score"), -999) or -999)))
     with (OUT / "keeper_values.csv").open("w", newline="", encoding="utf-8") as f:
         fields = list(keeper_rows[0]) if keeper_rows else ["league_id","player"]
         w = csv.DictWriter(f, fieldnames=fields); w.writeheader(); w.writerows(keeper_rows)
 
-    # Future pick inventory: every original roster owns its pick unless a traded-pick row says otherwise.
     seasons = sorted({2026, 2027, 2028} | {int(num(r.get("season"), 0) or 0) for r in traded if num(r.get("season"),0)})
     trade_map = {(int(num(r.get("season"),0)), int(num(r.get("round"),0)), str(r.get("roster_id"))): str(r.get("owner_id")) for r in traded}
     inventory = []
@@ -129,7 +124,7 @@ def main():
                 if s == season and rr == rnd and owner == my_roster_id and original != my_roster_id:
                     inventory.append({"season": season, "round": rnd, "original_roster_id": original, "source": "acquired"})
 
-    my_keeper_rounds = sorted({int(r["keeper_round"]) for r in keeper_rows if truth(r.get("is_my_roster")) and r.get("keeper_round")})
+    my_keeper_rounds = sorted({int(r["keeper_round"]) for r in keeper_rows if truth(r.get("is_my_roster")) and truth(r.get("keeper_eligible")) and r.get("keeper_round")})
     collisions = []
     for season in [s for s in seasons if s >= 2027]:
         owned_rounds = {int(x["round"]) for x in inventory if int(x["season"]) == season}
@@ -137,20 +132,19 @@ def main():
             if rnd not in owned_rounds:
                 collisions.append({"season": season, "keeper_round": rnd, "note": "No pick currently controlled in this keeper round; confirm league enforcement before trading around this slot."})
 
+    my_rows = [r for r in keeper_rows if truth(r.get("is_my_roster")) and truth(r.get("keeper_eligible"))]
     result = {
         "league_id": LEAGUE_ID, "league": rules.get("league"), "status": league.get("status"),
         "rules": rules, "my_roster_id": my_roster_id,
-        "my_keeper_values": [r for r in keeper_rows if truth(r.get("is_my_roster"))][:12],
-        "all_keeper_values": keeper_rows,
-        "my_future_pick_inventory": inventory,
-        "keeper_pick_collision_flags": collisions,
-        "valuation_note": "Round surplus = locked keeper round minus estimated 12-team market round. Positive surplus means the player is cheaper to keep than his market draft cost. IDP players use this league's scoring-based IDP proxy when available."
+        "my_keeper_values": my_rows[:12], "all_keeper_values": keeper_rows,
+        "my_future_pick_inventory": inventory, "keeper_pick_collision_flags": collisions,
+        "valuation_note": "Redraft-first policy: keeper value is informational and only a secondary tiebreaker for QB/RB/WR/TE. It does not feed weekly projections, roster power or projected finish. IDP is redraft-only and receives zero keeper value."
     }
     (DATA / "keeper_values.json").write_text(json.dumps(result, indent=2, sort_keys=True), encoding="utf-8")
     lines = ["# League Is Rigged V2 — Keeper Economy", "", result["valuation_note"], "",
-             f"Rules: 2 keepers; fixed round forever; FA pickup = R{rules.get('free_agent_keeper_round')}; future picks tradable; IDP = 1 DL / 1 LB / 1 DB.", ""]
+             f"Rules: 2 keepers; fixed round forever; FA pickup = R{rules.get('free_agent_keeper_round')}; future picks tradable; IDP = redraft-only.", ""]
     for r in result["my_keeper_values"]:
-        lines.append(f"- {r['player']} ({r.get('position')}) — keeper R{r['keeper_round']}; market R{r.get('market_round') or '?'}; surplus {r.get('round_surplus') if r.get('round_surplus') is not None else '?'} rounds; score {r['keeper_value_score']}")
+        lines.append(f"- {r['player']} ({r.get('position')}) — keeper R{r['keeper_round']}; market R{r.get('market_round') or '?'}; surplus {r.get('round_surplus') if r.get('round_surplus') is not None else '?'} rounds; keeper tiebreaker score {r['keeper_value_score']}")
     lines += ["", "## Future picks currently controlled"]
     for season in sorted(set(int(x["season"]) for x in inventory)):
         vals = [x for x in inventory if int(x["season"]) == season]
@@ -159,7 +153,7 @@ def main():
     if collisions:
         lines += ["", "## Keeper/pick collision watch"] + [f"- {x['season']} R{x['keeper_round']}: {x['note']}" for x in collisions]
     (DATA / "keeper_values.md").write_text("\n".join(lines), encoding="utf-8")
-    print(json.dumps({"keeper_rows": len(keeper_rows), "my_keeper_rows": len(result['my_keeper_values']), "pick_inventory_rows": len(inventory), "collision_flags": len(collisions)}, indent=2))
+    print(json.dumps({"keeper_rows": len(keeper_rows), "keeper_eligible_rows": sum(truth(r.get('keeper_eligible')) for r in keeper_rows), "idp_keeper_rows": 0, "my_keeper_rows": len(result['my_keeper_values']), "policy": "redraft first; keeper tiebreaker only"}, indent=2))
 
 
 if __name__ == "__main__":
