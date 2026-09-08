@@ -11402,10 +11402,10 @@
     "hashtag": "#kobieturner-NFL-LAR-91",
     "height": "74",
     "high_school": "Centreville (VA)",
-    "injury_body_part": "Undisclosed",
-    "injury_notes": "Cramps",
+    "injury_body_part": null,
+    "injury_notes": null,
     "injury_start_date": null,
-    "injury_status": "Questionable",
+    "injury_status": null,
     "kalshi_id": "61f8461c-daff-418a-ba52-922b629385fa",
     "last_name": "Turner",
     "metadata": {
@@ -66561,7 +66561,7 @@
       "genius_id": "1464093",
       "rookie_year": "2024"
     },
-    "news_updated": 1788059752249,
+    "news_updated": 1788910821901,
     "number": 16,
     "oddsjam_id": "E1BE969A464F",
     "opta_id": null,
@@ -80669,7 +80669,7 @@
       "genius_id": "1484072",
       "rookie_year": "2024"
     },
-    "news_updated": 1788394835029,
+    "news_updated": 1788911122027,
     "number": 88,
     "oddsjam_id": "870623DD84C4",
     "opta_id": null,
@@ -150634,10 +150634,10 @@
     "hashtag": "#shaundolac-NFL-LAR-56",
     "height": "73",
     "high_school": "West Seneca East (NY)",
-    "injury_body_part": "Knee - PCL",
+    "injury_body_part": null,
     "injury_notes": null,
     "injury_start_date": null,
-    "injury_status": "Questionable",
+    "injury_status": null,
     "kalshi_id": "21450b25-6462-485f-890c-1c3764f589a3",
     "last_name": "Dolac",
     "metadata": {
@@ -676343,7 +676343,7 @@
       "genius_id": "1077396",
       "rookie_year": "2022"
     },
-    "news_updated": 1788888352047,
+    "news_updated": 1788910821907,
     "number": 6,
     "oddsjam_id": "2B0483CA383A",
     "opta_id": null,

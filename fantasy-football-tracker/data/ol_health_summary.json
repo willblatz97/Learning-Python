@@ -7,7 +7,7 @@
   "note": "Current depth-chart starters plus Sleeper injury designations are always available. Offensive-line IDs use public IDs first and a same-team Sleeper name fallback. Unmapped metadata carries zero injury penalty. Official 2026 injury-report data is automatically layered in when available.",
   "official_injury_report_available": true,
   "official_injury_source": "https://github.com/nflverse/nflverse-data/releases/download/injuries/injuries_2026.csv",
-  "snapshot_utc": "2026-09-08T23:49:05+00:00",
+  "snapshot_utc": "2026-09-08T23:53:01+00:00",
   "starter_rows": 160,
   "teams": 32
 }

@@ -4,7 +4,7 @@ Projection mode: **WEEKLY CONSENSUS** · Usage: **2025 CONTEXT ONLY**
 
 ## 10-Team Redraft — Big Tiger Takeover
 - TOSS-UP — projection 149.71 · margin -0.47
-- Projected finish: seed #6 · 5.5 wins · 48.3% playoffs · range #5-#8 · roster power #6 · schedule HARD
+- Projected finish: seed #6 · 5.53 wins · 49.2% playoffs · range #5-#8 · roster power #6 · schedule HARD
 - Action: MONITOR — Ashton Jeanty QUESTIONABLE; backup Jacory Croskey-Merritt
 - Waiver: Juwan Johnson · MEDIUM · FAAB 3-7
 - Trade posture: PLAYOFF / RECOVERY PUSH
@@ -21,7 +21,7 @@ Projection mode: **WEEKLY CONSENSUS** · Usage: **2025 CONTEXT ONLY**
 
 ## 12-Team Dynasty — One League to Rule Them All
 - TRAILING — projection 152.28 · margin -17.77
-- Projected finish: seed #7 · 7.09 wins · 40.1% playoffs · range #5-#9 · roster power #8 · schedule EASY
+- Projected finish: seed #7 · 7.1 wins · 40.0% playoffs · range #5-#9 · roster power #8 · schedule EASY
 - Action: LEAN CHANGE — SUPER_FLEX: Geno Smith -> Kirk Cousins (+1.28)
 - Waiver: — ·  · FAAB —
 - Trade posture: DUAL TRACK — evaluate push and rebuild
@@ -30,7 +30,7 @@ Projection mode: **WEEKLY CONSENSUS** · Usage: **2025 CONTEXT ONLY**
 
 ## 10-Team Dynasty — Dynasty V2
 - LEAN YOU — projection 157.97 · margin 2.91
-- Projected finish: seed #5 · 7.88 wins · 84.8% playoffs · range #3-#6 · roster power #5 · schedule AVERAGE
+- Projected finish: seed #5 · 7.88 wins · 84.7% playoffs · range #3-#6 · roster power #5 · schedule AVERAGE
 - Action: MONITOR — D'Andre Swift QUESTIONABLE; backup Chuba Hubbard
 - Waiver: Greg Dulcich · WATCH · FAAB 0-1
 - Trade posture: DUAL TRACK — evaluate push and rebuild

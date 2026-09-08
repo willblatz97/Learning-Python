@@ -14,7 +14,7 @@ Soft Questionable/DNP/Limited signals are damped until official weekly injury re
 - Rashod Bateman (BAL WR) +0.68 — WR1 QUESTIONABLE/DNP: target concentration rises for next WR | Opponent CB1 QUESTIONABLE/DNP: secondary WR matchup improves
 - Wan'Dale Robinson (TEN WR) +0.68 — Opponent CB1 QUESTIONABLE/DNP: secondary WR matchup improves | WR1 QUESTIONABLE/DNP: target concentration rises for next WR
 - Jaylen Waddle (DEN WR) +0.63 — Opponent CB1 QUESTIONABLE/DNP: projected WR1 coverage matchup improves (not confirmed shadow) | Starting safety QUESTIONABLE/DNP: downfield coverage improves
-- Mike Evans (SF WR) +0.63 — Opponent CB1 QUESTIONABLE/DNP: projected WR1 coverage matchup improves (not confirmed shadow) | Top edge rusher QUESTIONABLE/DNP: more time helps primary WR routes | TE1 QUESTIONABLE/DNP: WR1 target share can rise
 - Tetairoa McMillan (CAR WR) +0.63 — Opponent CB1 QUESTIONABLE/DNP: projected WR1 coverage matchup improves (not confirmed shadow) | Starting safety QUESTIONABLE/DNP: downfield coverage improves
+- Mike Evans (SF WR) +0.56 — Opponent CB1 QUESTIONABLE/DNP: projected WR1 coverage matchup improves (not confirmed shadow) | TE1 QUESTIONABLE/DNP: WR1 target share can rise
 - Justin Fields (KC QB) +0.54 — QB1 QUESTIONABLE/DNP: QB2 becomes relevant
 - Darnell Mooney (NYG WR) +0.50 — WR1 QUESTIONABLE/DNP: target concentration rises for next WR
