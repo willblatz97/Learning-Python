@@ -29,30 +29,38 @@ def main():
  leagues={str(r.get('league_id')):r for r in read('leagues.csv')}
  if leagues.get(LID,{}).get('status')=='pre_draft':
   print(json.dumps({'keeper_waiver_adjustments':0,'status':'PREDRAFT'},indent=2));return
- rules=json.loads((ROOT/'keeper_rules.json').read_text())[LID];fa_round=int(rules.get('free_agent_keeper_round',7));adds=read('waiver_candidates.csv');cuts=read('cut_candidates.csv');avail=read('availability_matrix.csv');ranks=read('external_rankings.csv');idp={str(r.get('sleeper_id')):r for r in read('idp_values.csv')};kv={str(r.get('player_id')):r for r in read('keeper_values.csv')}
- ro={str(r.get('sleeper_id')):r for r in ranks if str(r.get('ecr_type'))=='ro'}; existing={(str(r.get('league_id')),str(r.get('player_id'))):r for r in adds}
+ rules=json.loads((ROOT/'keeper_rules.json').read_text())[LID];fa_round=int(rules.get('free_agent_keeper_round',7));eligible=set(rules.get('keeper_eligible_positions') or ['QB','RB','WR','TE']);adds=read('waiver_candidates.csv');cuts=read('cut_candidates.csv');avail=read('availability_matrix.csv');ranks=read('external_rankings.csv');idp={str(r.get('sleeper_id')):r for r in read('idp_values.csv')};kv={str(r.get('player_id')):r for r in read('keeper_values.csv')}
+ ro={str(r.get('sleeper_id')):r for r in ranks if str(r.get('ecr_type'))=='ro'}; existing={(str(r.get('league_id')),str(r.get('player_id'))):r for r in adds};keeper_bonuses=0;idp_rows=0
  for a in avail:
   if a.get('league_'+LID)!='FA':continue
   pid=str(a.get('player_id') or '');pos=str(a.get('position') or '')
   if pos not in {'QB','RB','WR','TE','K','DL','LB','DB'}:continue
-  rr=ro.get(pid,{});e=num(rr.get('ecr'),None);market=max(1,min(17,int(math.ceil(e/12)))) if e else None;surplus=(fa_round-market) if market else 0
-  old=existing.get((LID,pid));score=num(old.get('waiver_score'),0) if old else 22.0;reasons=[]
-  if surplus>0:score+=min(28,surplus*6);reasons.append(f'FA keeper R{fa_round} vs estimated market R{market}: +{surplus} round surplus')
+  old=existing.get((LID,pid));score=num((old or {}).get('waiver_score'),0) or 0;reasons=[];market=None;surplus=0
+  # Keeper value is a small offensive tiebreaker only. Never create a waiver target solely from keeper surplus.
+  if pos in eligible and old is not None:
+   rr=ro.get(pid,{});e=num(rr.get('ecr'),None);market=max(1,min(17,int(math.ceil(e/12)))) if e else None;surplus=max(0,(fa_round-market) if market else 0)
+   if surplus>0:
+    bonus=min(5.0,surplus*0.75);score+=bonus;keeper_bonuses+=1;reasons.append(f'keeper tiebreaker +{bonus:.1f}: FA R{fa_round} vs market R{market}')
+  # IDP is redraft-only: current scoring proxy may create/boost a target, with zero keeper value.
   if pos in {'DL','LB','DB'} and pid in idp:
-   proxy=num(idp[pid].get('idp_projection_proxy'),0) or 0;score=max(score,min(95,30+proxy*4));reasons.append(f'league-scored IDP proxy {proxy:.1f} pts/g')
+   proxy=num(idp[pid].get('idp_projection_proxy'),0) or 0;score=max(score,min(95,30+proxy*4));reasons.append(f'current-season IDP value proxy {proxy:.1f} pts/g; keeper value ignored');idp_rows+=1
+  if old is None and pos not in {'DL','LB','DB'}:continue
   if old is None and not reasons:continue
   score=round(max(0,min(100,score)),1);lo,hi=((12,20) if score>=75 else (7,12) if score>=65 else (3,7) if score>=55 else (1,3) if score>=45 else (0,1));rem=int(num((old or {}).get('faab_remaining'),100) or 100)
   row=dict(old or {'league_id':LID,'league':rules['league'],'league_type':'keeper','player_id':pid,'player':a.get('full_name'),'position':pos,'nfl_team':a.get('nfl_team'),'faab_remaining':rem,'depth_chart_order':a.get('depth_chart_order'),'injury_status':a.get('injury_status')})
-  row.update({'waiver_score':score,'priority':tier(score),'faab_low_pct':lo,'faab_high_pct':hi,'faab_low':math.ceil(rem*lo/100),'faab_high':math.ceil(rem*hi/100),'keeper_cost_if_added':fa_round,'estimated_market_round':market,'keeper_round_surplus':surplus})
+  row.update({'waiver_score':score,'priority':tier(score),'faab_low_pct':lo,'faab_high_pct':hi,'faab_low':math.ceil(rem*lo/100),'faab_high':math.ceil(rem*hi/100),'keeper_cost_if_added':fa_round if pos in eligible else None,'estimated_market_round':market if pos in eligible else None,'keeper_round_surplus':surplus if pos in eligible else 0})
   if reasons:row['reasons']=(str(row.get('reasons') or '')+' | '+' | '.join(reasons)).strip(' |')
   existing[(LID,pid)]=row
  other=[r for r in adds if str(r.get('league_id'))!=LID];ka=[r for (lid,pid),r in existing.items() if lid==LID];ka.sort(key=lambda r:-num(r.get('waiver_score'),0));
  for i,r in enumerate(ka[:30],1):r['league_rank']=i
  adds=other+ka[:30]
+ cut_adjustments=0
  for r in cuts:
   if str(r.get('league_id'))!=LID:continue
-  v=kv.get(str(r.get('player_id')),{});sur=num(v.get('round_surplus'),0) or 0
+  pos=str(r.get('position') or '')
+  if pos not in eligible:continue
+  v=kv.get(str(r.get('player_id')),{});sur=max(0,num(v.get('round_surplus'),0) or 0)
   if sur>0:
-   before=num(r.get('cut_score'),0) or 0;r['cut_score_before_keeper']=before;r['cut_score']=round(max(0,before-min(45,sur*7)),1);r['keeper_round_surplus']=sur;r['keeper_round']=v.get('keeper_round');r['reasons']=str(r.get('reasons') or '')+f' | keeper asset protected: +{sur:g} rounds of surplus'
- write('waiver_candidates.csv',adds);write('cut_candidates.csv',cuts);repl('waiver_candidates',adds);repl('cut_candidates',cuts);print(json.dumps({'keeper_waiver_candidates':len(ka),'keeper_cut_rows_checked':sum(str(r.get('league_id'))==LID for r in cuts)},indent=2))
+   before=num(r.get('cut_score'),0) or 0;protection=min(5.0,sur*0.75);r['cut_score_before_keeper']=before;r['cut_score']=round(max(0,before-protection),1);r['keeper_round_surplus']=sur;r['keeper_round']=v.get('keeper_round');r['reasons']=str(r.get('reasons') or '')+f' | keeper tiebreaker only: -{protection:.1f} cut points';cut_adjustments+=1
+ write('waiver_candidates.csv',adds);write('cut_candidates.csv',cuts);repl('waiver_candidates',adds);repl('cut_candidates',cuts);print(json.dumps({'keeper_waiver_candidates':len(ka),'keeper_tiebreaker_bonuses':keeper_bonuses,'keeper_cut_tiebreakers':cut_adjustments,'idp_redraft_rows':idp_rows,'keeper_policy':'redraft first; offense-only tiebreaker; IDP keeper value disabled'},indent=2))
 if __name__=='__main__':main()
