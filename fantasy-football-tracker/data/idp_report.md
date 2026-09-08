@@ -21,7 +21,6 @@ IDP values use this league's exact Sleeper scoring. Before 2026 games exist, 202
 - Devin White (DET) — 20.28 proxy pts/g; tackles 5.29 solo + 4.65 ast; sacks 0.15; PD 0.18
 - Nick Bolton (KC) — 18.83 proxy pts/g; tackles 4.06 solo + 4.76 ast; sacks 0.06; PD 0.35
 - Blake Cashman (MIN) — 18.5 proxy pts/g; tackles 4.62 solo + 6.38 ast; sacks 0.15; PD 0.15
-- Cedric Gray (TEN) — 18.5 proxy pts/g; tackles 5.88 solo + 4.19 ast; sacks 0.06; PD 0.25
 - Jordyn Brooks (MIA) — 18.28 proxy pts/g; tackles 5.65 solo + 4.94 ast; sacks 0.21; PD 0.18
 - Devin Bush (CHI) — 17.73 proxy pts/g; tackles 3.59 solo + 3.65 ast; sacks 0.12; PD 0.47
 - Carson Schwesinger (CLE) — 17.59 proxy pts/g; tackles 3.62 solo + 5.56 ast; sacks 0.16; PD 0.19
@@ -29,6 +28,7 @@ IDP values use this league's exact Sleeper scoring. Before 2026 games exist, 202
 - Jamien Sherwood (NYJ) — 16.75 proxy pts/g; tackles 4.0 solo + 4.88 ast; sacks 0.12; PD 0.47
 - Tremaine Edmunds (NYG) — 16.56 proxy pts/g; tackles 4.38 solo + 3.92 ast; sacks 0.08; PD 0.69
 - Bobby Okereke (CAR) — 16.32 proxy pts/g; tackles 4.41 solo + 3.82 ast; sacks 0.06; PD 0.35
+- Cedric Gray (TEN) — 15.73 proxy pts/g; tackles 5.88 solo + 4.19 ast; sacks 0.06; PD 0.25
 
 ## DB
 - Keidron Smith (None) — 22.0 proxy pts/g; tackles 7.0 solo + 8.0 ast; sacks 0.0; PD 0.0

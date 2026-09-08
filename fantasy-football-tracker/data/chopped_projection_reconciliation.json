@@ -5,11 +5,11 @@
       "league_id": "1370453762442797056",
       "my_starters": [
         {
-          "nonreturn_projection": 26.43,
+          "nonreturn_projection": 26.45,
           "player": "Joe Burrow",
           "player_id": "6770",
           "position": "QB",
-          "return_adjusted_projection": 26.43,
+          "return_adjusted_projection": 26.45,
           "return_confidence": "",
           "return_points_applied": 0.0,
           "return_roles": ""
@@ -35,11 +35,11 @@
           "return_roles": ""
         },
         {
-          "nonreturn_projection": 15.18,
+          "nonreturn_projection": 15.35,
           "player": "Malik Nabers",
           "player_id": "11632",
           "position": "WR",
-          "return_adjusted_projection": 15.18,
+          "return_adjusted_projection": 15.35,
           "return_confidence": "",
           "return_points_applied": 0.0,
           "return_roles": ""
@@ -65,47 +65,47 @@
           "return_roles": ""
         },
         {
-          "nonreturn_projection": 3.5,
+          "nonreturn_projection": 0.0,
           "player": "Myles Price",
           "player_id": "13075",
           "position": "WR",
-          "return_adjusted_projection": 14.6,
+          "return_adjusted_projection": 11.1,
           "return_confidence": "HIGH",
           "return_points_applied": 11.1,
           "return_roles": "KR+PR"
         },
         {
-          "nonreturn_projection": 5.54,
+          "nonreturn_projection": 4.84,
           "player": "Jacob Saylors",
           "player_id": "11237",
           "position": "RB",
-          "return_adjusted_projection": 13.69,
+          "return_adjusted_projection": 12.99,
           "return_confidence": "HIGH",
           "return_points_applied": 8.15,
           "return_roles": "KR"
         },
         {
-          "nonreturn_projection": 8.5,
+          "nonreturn_projection": 8.49,
           "player": "Cameron Dicker",
           "player_id": "8259",
           "position": "K",
-          "return_adjusted_projection": 8.5,
+          "return_adjusted_projection": 8.49,
           "return_confidence": "",
           "return_points_applied": 0.0,
           "return_roles": ""
         }
       ],
-      "nonreturn_chop_line": 115.42,
-      "nonreturn_margin": 11.66,
-      "nonreturn_projection": 127.08,
-      "nonreturn_rank": 15,
+      "nonreturn_chop_line": 102.37,
+      "nonreturn_margin": 20.69,
+      "nonreturn_projection": 123.06,
+      "nonreturn_rank": 16,
       "note": "Nonreturn projection uses the same league-scored weekly player projections and all non-return context, but removes the tracker return-role projection. Treat it as a conservative return-independent anchor, not a statistical floor. Return-adjusted projection adds the confidence-weighted return model.",
       "projected_return_points_added": 19.25,
-      "return_adjusted_chop_line": 115.42,
-      "return_adjusted_margin": 30.91,
-      "return_adjusted_projection": 146.33,
-      "return_adjusted_rank": 6,
-      "team": "Masta\u2019s"
+      "return_adjusted_chop_line": 102.37,
+      "return_adjusted_margin": 39.94,
+      "return_adjusted_projection": 142.31,
+      "return_adjusted_rank": 9,
+      "team": "Third Reich & Long"
     }
   },
   "week": 1

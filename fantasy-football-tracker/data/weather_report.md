@@ -9,7 +9,7 @@ Game times are interpreted from the nflverse schedule as Eastern Time, converted
 - NO @ DET — INDOOR — indoor — pass +0.00, kick +0.00
 - BUF @ HOU — LOW — no material weather signal — pass +0.00, kick +0.00
 - BAL @ IND — LOW — no material weather signal — pass +0.00, kick +0.00
-- CLE @ JAX — LOW — 98F heat — pass -0.10, kick +0.00
+- CLE @ JAX — LOW — 97F heat — pass -0.10, kick +0.00
 - ATL @ PIT — LOW — no material weather signal — pass +0.00, kick +0.00
 - NYJ @ TEN — LOW — no material weather signal — pass +0.00, kick +0.00
 - ARI @ LAC — INDOOR — indoor — pass +0.00, kick +0.00

@@ -19,13 +19,13 @@ Current KR/PR role + 2025 return baseline. Dual-role status uses Sleeper offensi
 - Rashid Shaheed (WR SEA) — KR+PR; offensive depth RWR 2; proj return yds 43.6/g; HIGH confidence
 - Kenny Gainwell (RB TB) — KR; offensive depth RB 2; proj return yds 37.2/g; HIGH confidence
 - Bhayshul Tuten (RB JAX) — KR; offensive depth RB 1; proj return yds 35.9/g; HIGH confidence
-- Samaje Perine (RB CIN) — KR; offensive depth RB 2; proj return yds 28.7/g; HIGH confidence
+- Samaje Perine (RB CIN) — KR; offensive depth RB 2; proj return yds 28.7/g; HIGH confidence; yours: 18-Team Chopped — Surviving the Chamber
 - Deebo Samuel Sr. (WR SF) — KR; offensive depth RWR 2; proj return yds 28.2/g; HIGH confidence; yours: 10-Team Redraft — Big Tiger Takeover
 - Brian Robinson (RB ATL) — KR; offensive depth RB 2; proj return yds 22.2/g; HIGH confidence
 - Parker Washington (WR JAX) — PR; offensive depth SWR 1; proj return yds 21.3/g; HIGH confidence; yours: 12-Team Dynasty — One League to Rule Them All
 - Kalif Raymond (WR CHI) — KR+PR; offensive depth SWR 3; proj return yds 19.9/g; HIGH confidence
 - Khalil Shakir (WR BUF) — PR; offensive depth SWR 2; proj return yds 7.8/g; HIGH confidence
-- Tre Tucker (WR LV) — KR+PR; offensive depth RWR 1; proj return yds 4.3/g; HIGH confidence
+- Tre Tucker (WR LV) — KR+PR; offensive depth LWR 1; proj return yds 4.3/g; HIGH confidence
 
 ## Chopped / return-yard league value
 ### 18-Team Chopped — Surviving the Chamber

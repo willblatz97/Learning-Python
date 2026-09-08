@@ -130,6 +130,15 @@
     },
     {
       "free_agent_leagues": 1,
+      "full_name": "Juwan Johnson",
+      "my_leagues": 0,
+      "nfl_team": "NO",
+      "player_id": "7002",
+      "position": "TE",
+      "rostered_leagues": 4
+    },
+    {
+      "free_agent_leagues": 1,
       "full_name": "Malik Davis",
       "my_leagues": 1,
       "nfl_team": "DAL",
@@ -153,15 +162,6 @@
       "nfl_team": "LV",
       "player_id": "13305",
       "position": "RB",
-      "rostered_leagues": 4
-    },
-    {
-      "free_agent_leagues": 1,
-      "full_name": "Oronde Gadsden",
-      "my_leagues": 0,
-      "nfl_team": "LAC",
-      "player_id": "12493",
-      "position": "TE",
       "rostered_leagues": 4
     },
     {
@@ -471,12 +471,20 @@
   "players_faced_in_multiple_leagues": 7,
   "players_owned_in_multiple_leagues": 16,
   "players_started_in_multiple_leagues": 8,
-  "snapshot_utc": "2026-09-07T01:33:05+00:00",
+  "snapshot_utc": "2026-09-08T23:48:51+00:00",
   "top_nfl_team_exposure": [
     {
       "nfl_team": "CIN",
-      "players_owned": "Chase Brown | Ja'Marr Chase | Jack Endries | Joe Burrow",
+      "players_owned": "Chase Brown | Ja'Marr Chase | Jack Endries | Joe Burrow | Samaje Perine",
       "players_started": "Chase Brown | Ja'Marr Chase | Joe Burrow",
+      "roster_slots_across_leagues": 7,
+      "starting_slots_across_leagues": 5,
+      "unique_players_owned": 5
+    },
+    {
+      "nfl_team": "CHI",
+      "players_owned": "Cairo Santos | Cole Kmet | D'Andre Swift | Luther Burden",
+      "players_started": "Cairo Santos | D'Andre Swift | Luther Burden",
       "roster_slots_across_leagues": 6,
       "starting_slots_across_leagues": 5,
       "unique_players_owned": 4
@@ -487,14 +495,6 @@
       "players_started": "Brandon Aubrey | Dak Prescott | Jake Ferguson",
       "roster_slots_across_leagues": 6,
       "starting_slots_across_leagues": 5,
-      "unique_players_owned": 4
-    },
-    {
-      "nfl_team": "CHI",
-      "players_owned": "Cole Kmet | D'Andre Swift | Luther Burden | Roschon Johnson",
-      "players_started": "D'Andre Swift | Luther Burden",
-      "roster_slots_across_leagues": 6,
-      "starting_slots_across_leagues": 4,
       "unique_players_owned": 4
     },
     {

@@ -1,247 +1,247 @@
 season,week,league_id,league,roster_id,team,is_my_roster,player_id,player,position,our_projection,sleeper_projection,delta_our_minus_sleeper,sleeper_stats_matched,league_context_points,idp_points,usage_points,ol_points,weather_points,injury_ripple_points,return_points,injury_status,score_source
-2026,1,1359546418284494848,League Is Rigged V2,1,Lagrange 66ers,True,11564,Drake Maye,QB,27.74,27.24,0.5,12,0.5,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
-2026,1,1359546418284494848,League Is Rigged V2,1,Lagrange 66ers,True,13287,Jeremiyah Love,RB,16.77,16.27,0.5,11,0.5,0.0,0.0,0.0,0.0,0.0,0.0,Questionable,Sleeper raw-stat projection × league scoring
-2026,1,1359546418284494848,League Is Rigged V2,1,Lagrange 66ers,True,12512,Quinshon Judkins,RB,15.93,15.54,0.39,11,0.5,0.0,0.0,0.0,-0.11,0.0,0.0,,Sleeper raw-stat projection × league scoring + game-time weather
-2026,1,1359546418284494848,League Is Rigged V2,1,Lagrange 66ers,True,7564,Ja'Marr Chase,WR,21.57,20.47,1.1,11,1.1,0.0,0.0,0.0,0.0,0.0,0.0,Questionable,Sleeper raw-stat projection × league scoring
-2026,1,1359546418284494848,League Is Rigged V2,1,Lagrange 66ers,True,8112,Drake London,WR,16.95,16.37,0.58,11,0.5,0.0,0.0,0.0,0.0,0.08,0.0,,Sleeper raw-stat projection × league scoring + injury ripple
-2026,1,1359546418284494848,League Is Rigged V2,1,Lagrange 66ers,True,9484,Tucker Kraft,TE,11.77,11.27,0.5,6,0.5,0.0,0.0,0.0,0.0,0.0,0.0,Questionable,Sleeper raw-stat projection × league scoring
-2026,1,1359546418284494848,League Is Rigged V2,1,Lagrange 66ers,True,8228,Jaylen Warren,RB,17.16,16.66,0.5,11,0.5,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
-2026,1,1359546418284494848,League Is Rigged V2,1,Lagrange 66ers,True,12015,Harrison Mevis,K,6.92,6.92,0.0,7,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
-2026,1,1359546418284494848,League Is Rigged V2,1,Lagrange 66ers,True,11665,Jared Verse,DL,7.99,8.5,-0.51,8,0.0,-8.21,0.0,0.0,0.0,0.0,0.0,,league-specific IDP scoring proxy
-2026,1,1359546418284494848,League Is Rigged V2,1,Lagrange 66ers,True,10880,Jack Campbell,LB,20.39,16.63,3.76,8,0.0,0.59,0.0,0.0,0.0,0.0,0.0,,league-specific IDP scoring proxy
-2026,1,1359546418284494848,League Is Rigged V2,1,Lagrange 66ers,True,10949,Chamarri Conner,DB,13.41,13.06,0.35,8,0.0,-3.49,0.0,0.0,0.0,0.0,0.0,,league-specific IDP scoring proxy
-2026,1,1359546418284494848,League Is Rigged V2,10,alenhart85,False,3163,Jared Goff,QB,27.25,26.66,0.59,12,0.5,0.0,0.0,0.0,0.0,0.09,0.0,,Sleeper raw-stat projection × league scoring + injury ripple
+2026,1,1359546418284494848,League Is Rigged V2,1,Third Reich & Long,True,11564,Drake Maye,QB,27.74,27.24,0.5,12,0.5,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
+2026,1,1359546418284494848,League Is Rigged V2,1,Third Reich & Long,True,13287,Jeremiyah Love,RB,16.77,16.27,0.5,11,0.5,0.0,0.0,0.0,0.0,0.0,0.0,Questionable,Sleeper raw-stat projection × league scoring
+2026,1,1359546418284494848,League Is Rigged V2,1,Third Reich & Long,True,12512,Quinshon Judkins,RB,15.93,15.54,0.39,11,0.5,0.0,0.0,0.0,-0.11,0.0,0.0,,Sleeper raw-stat projection × league scoring + game-time weather
+2026,1,1359546418284494848,League Is Rigged V2,1,Third Reich & Long,True,7564,Ja'Marr Chase,WR,21.57,20.47,1.1,11,1.1,0.0,0.0,0.0,0.0,0.0,0.0,Questionable,Sleeper raw-stat projection × league scoring
+2026,1,1359546418284494848,League Is Rigged V2,1,Third Reich & Long,True,8112,Drake London,WR,17.05,16.37,0.68,11,0.5,0.0,0.0,0.0,0.0,0.18,0.0,,Sleeper raw-stat projection × league scoring + injury ripple
+2026,1,1359546418284494848,League Is Rigged V2,1,Third Reich & Long,True,9484,Tucker Kraft,TE,11.77,11.27,0.5,6,0.5,0.0,0.0,0.0,0.0,0.0,0.0,Questionable,Sleeper raw-stat projection × league scoring
+2026,1,1359546418284494848,League Is Rigged V2,1,Third Reich & Long,True,8228,Jaylen Warren,RB,17.16,16.66,0.5,11,0.5,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
+2026,1,1359546418284494848,League Is Rigged V2,1,Third Reich & Long,True,2020,Cairo Santos,K,6.81,6.31,0.5,7,0.5,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
+2026,1,1359546418284494848,League Is Rigged V2,1,Third Reich & Long,True,11665,Jared Verse,DL,7.99,8.42,-0.43,8,0.0,-9.01,0.0,0.0,0.0,0.0,0.0,,league-specific IDP scoring proxy
+2026,1,1359546418284494848,League Is Rigged V2,1,Third Reich & Long,True,10880,Jack Campbell,LB,20.39,16.57,3.82,8,0.0,-1.11,0.0,0.0,0.0,0.0,0.0,,league-specific IDP scoring proxy
+2026,1,1359546418284494848,League Is Rigged V2,1,Third Reich & Long,True,10949,Chamarri Conner,DB,11.4,13.06,-1.66,8,0.0,-3.8,0.0,0.0,0.0,0.0,0.0,Questionable,league-specific IDP scoring proxy
+2026,1,1359546418284494848,League Is Rigged V2,10,alenhart85,False,3163,Jared Goff,QB,27.36,26.66,0.7,12,0.5,0.0,0.0,0.0,0.0,0.2,0.0,,Sleeper raw-stat projection × league scoring + injury ripple
 2026,1,1359546418284494848,League Is Rigged V2,10,alenhart85,False,7543,Travis Etienne,RB,19.17,18.67,0.5,11,0.5,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
-2026,1,1359546418284494848,League Is Rigged V2,10,alenhart85,False,5892,David Montgomery,RB,17.86,17.36,0.5,11,0.5,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
+2026,1,1359546418284494848,League Is Rigged V2,10,alenhart85,False,5892,David Montgomery,RB,17.85,17.35,0.5,11,0.5,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
 2026,1,1359546418284494848,League Is Rigged V2,10,alenhart85,False,6794,Justin Jefferson,WR,17.85,17.35,0.5,11,0.5,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
-2026,1,1359546418284494848,League Is Rigged V2,10,alenhart85,False,12526,Tetairoa McMillan,WR,15.19,14.41,0.78,11,0.5,0.0,0.0,0.0,0.0,0.28,0.0,,Sleeper raw-stat projection × league scoring + injury ripple
+2026,1,1359546418284494848,League Is Rigged V2,10,alenhart85,False,12526,Tetairoa McMillan,WR,15.54,14.41,1.13,11,0.5,0.0,0.0,0.0,0.0,0.63,0.0,,Sleeper raw-stat projection × league scoring + injury ripple
 2026,1,1359546418284494848,League Is Rigged V2,10,alenhart85,False,11604,Brock Bowers,TE,17.21,16.71,0.5,11,0.5,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
 2026,1,1359546418284494848,League Is Rigged V2,10,alenhart85,False,5947,Jakobi Meyers,WR,9.26,10.86,-1.6,11,-1.5,0.0,0.0,0.0,-0.1,0.0,0.0,Questionable,Sleeper raw-stat projection × league scoring + game-time weather
-2026,1,1359546418284494848,League Is Rigged V2,10,alenhart85,False,2747,Jason Myers,K,7.26,6.76,0.5,7,0.5,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
-2026,1,1359546418284494848,League Is Rigged V2,10,alenhart85,False,8289,Aidan Hutchinson,DL,14.3,11.95,2.35,10,0.0,-7.2,0.0,0.0,0.0,0.0,0.0,,league-specific IDP scoring proxy
-2026,1,1359546418284494848,League Is Rigged V2,10,alenhart85,False,13375,Sonny Styles,LB,15.3,13.22,2.08,9,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,weekly projected points
-2026,1,1359546418284494848,League Is Rigged V2,10,alenhart85,False,8392,Nick Cross,DB,13.88,12.03,1.85,8,0.0,-5.92,0.0,0.0,0.0,0.0,0.0,,league-specific IDP scoring proxy
-2026,1,1359546418284494848,League Is Rigged V2,11,Saxis,False,6770,Joe Burrow,QB,30.93,29.83,1.1,12,1.1,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
+2026,1,1359546418284494848,League Is Rigged V2,10,alenhart85,False,2747,Jason Myers,K,7.25,6.75,0.5,7,0.5,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
+2026,1,1359546418284494848,League Is Rigged V2,10,alenhart85,False,8289,Aidan Hutchinson,DL,14.3,11.88,2.42,10,0.0,-7.2,0.0,0.0,0.0,0.0,0.0,,league-specific IDP scoring proxy
+2026,1,1359546418284494848,League Is Rigged V2,10,alenhart85,False,13375,Sonny Styles,LB,15.8,13.22,2.58,9,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,weekly projected points
+2026,1,1359546418284494848,League Is Rigged V2,10,alenhart85,False,8392,Nick Cross,DB,13.88,12.08,1.8,8,0.0,-7.62,0.0,0.0,0.0,0.0,0.0,,league-specific IDP scoring proxy
+2026,1,1359546418284494848,League Is Rigged V2,11,Saxis,False,6770,Joe Burrow,QB,30.95,29.85,1.1,12,1.1,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
 2026,1,1359546418284494848,League Is Rigged V2,11,Saxis,False,6813,Jonathan Taylor,RB,24.76,24.26,0.5,11,0.5,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
 2026,1,1359546418284494848,League Is Rigged V2,11,Saxis,False,12527,Ashton Jeanty,RB,17.71,17.21,0.5,11,0.5,0.0,0.0,0.0,0.0,0.0,0.0,Questionable,Sleeper raw-stat projection × league scoring
-2026,1,1359546418284494848,League Is Rigged V2,11,Saxis,False,11635,Ladd McConkey,WR,14.36,13.8,0.56,11,0.5,0.0,0.0,-0.14,0.0,0.2,0.0,,Sleeper raw-stat projection × league scoring + OL health + injury ripple
-2026,1,1359546418284494848,League Is Rigged V2,11,Saxis,False,9997,Zay Flowers,WR,16.89,16.19,0.7,11,0.5,0.0,0.0,0.0,0.0,0.2,0.0,Questionable,Sleeper raw-stat projection × league scoring + injury ripple
+2026,1,1359546418284494848,League Is Rigged V2,11,Saxis,False,11635,Ladd McConkey,WR,14.61,13.8,0.81,11,0.5,0.0,0.0,-0.14,0.0,0.45,0.0,,Sleeper raw-stat projection × league scoring + OL health + injury ripple
+2026,1,1359546418284494848,League Is Rigged V2,11,Saxis,False,9997,Zay Flowers,WR,17.14,16.19,0.95,11,0.5,0.0,0.0,0.0,0.0,0.45,0.0,Questionable,Sleeper raw-stat projection × league scoring + injury ripple
 2026,1,1359546418284494848,League Is Rigged V2,11,Saxis,False,12518,Tyler Warren,TE,15.01,14.51,0.5,11,0.5,0.0,0.0,0.0,0.0,0.0,0.0,Questionable,Sleeper raw-stat projection × league scoring
 2026,1,1359546418284494848,League Is Rigged V2,11,Saxis,False,12489,RJ Harvey,RB,11.15,11.99,-0.84,11,-0.7,0.0,0.0,-0.14,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring + OL health
 2026,1,1359546418284494848,League Is Rigged V2,11,Saxis,False,1945,Chris Boswell,K,6.37,5.87,0.5,7,0.5,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
-2026,1,1359546418284494848,League Is Rigged V2,11,Saxis,False,4070,T.J. Watt,LB,11.81,10.1,1.71,9,0.0,-1.49,0.0,0.0,0.0,0.0,0.0,,league-specific IDP scoring proxy
-2026,1,1359546418284494848,League Is Rigged V2,11,Saxis,False,10917,Byron Young,LB,10.46,10.14,0.32,6,0.0,-6.04,0.0,0.0,0.0,0.0,0.0,,league-specific IDP scoring proxy
-2026,1,1359546418284494848,League Is Rigged V2,11,Saxis,False,11705,Tykee Smith,DB,9.62,12.44,-2.82,9,0.0,-10.08,0.0,0.0,0.0,0.0,0.0,,league-specific IDP scoring proxy
+2026,1,1359546418284494848,League Is Rigged V2,11,Saxis,False,4070,T.J. Watt,LB,11.81,10.1,1.71,9,0.0,-1.69,0.0,0.0,0.0,0.0,0.0,,league-specific IDP scoring proxy
+2026,1,1359546418284494848,League Is Rigged V2,11,Saxis,False,10917,Byron Young,LB,10.46,10.14,0.32,6,0.0,-4.04,0.0,0.0,0.0,0.0,0.0,,league-specific IDP scoring proxy
+2026,1,1359546418284494848,League Is Rigged V2,11,Saxis,False,11705,Tykee Smith,DB,9.62,12.49,-2.87,9,0.0,-10.78,0.0,0.0,0.0,0.0,0.0,,league-specific IDP scoring proxy
 2026,1,1359546418284494848,League Is Rigged V2,12,League is rigged,False,4881,Lamar Jackson,QB,30.4,29.9,0.5,12,0.5,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
 2026,1,1359546418284494848,League Is Rigged V2,12,League is rigged,False,9226,De'Von Achane,RB,22.4,21.9,0.5,11,0.5,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
-2026,1,1359546418284494848,League Is Rigged V2,12,League is rigged,False,12529,TreVeyon Henderson,RB,11.64,12.34,-0.7,11,-0.7,0.0,0.0,0.0,0.0,0.0,0.0,Questionable,Sleeper raw-stat projection × league scoring
-2026,1,1359546418284494848,League Is Rigged V2,12,League is rigged,False,7547,Amon-Ra St. Brown,WR,21.15,20.57,0.58,11,0.5,0.0,0.0,0.0,0.0,0.08,0.0,,Sleeper raw-stat projection × league scoring + injury ripple
+2026,1,1359546418284494848,League Is Rigged V2,12,League is rigged,False,4199,Aaron Jones,RB,11.73,11.23,0.5,11,0.5,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
+2026,1,1359546418284494848,League Is Rigged V2,12,League is rigged,False,7547,Amon-Ra St. Brown,WR,21.25,20.57,0.68,11,0.5,0.0,0.0,0.0,0.0,0.18,0.0,,Sleeper raw-stat projection × league scoring + injury ripple
 2026,1,1359546418284494848,League Is Rigged V2,12,League is rigged,False,7569,Nico Collins,WR,18.52,18.02,0.5,11,0.5,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
-2026,1,1359546418284494848,League Is Rigged V2,12,League is rigged,False,1466,Travis Kelce,TE,11.72,11.48,0.24,6,0.5,0.0,0.0,-0.17,0.0,-0.09,0.0,,Sleeper raw-stat projection × league scoring + OL health + injury ripple
+2026,1,1359546418284494848,League Is Rigged V2,12,League is rigged,False,1466,Travis Kelce,TE,11.61,11.48,0.13,6,0.5,0.0,0.0,-0.17,0.0,-0.2,0.0,,Sleeper raw-stat projection × league scoring + OL health + injury ripple
 2026,1,1359546418284494848,League Is Rigged V2,12,League is rigged,False,5967,Tony Pollard,RB,13.3,12.8,0.5,11,0.5,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
 2026,1,1359546418284494848,League Is Rigged V2,12,League is rigged,False,12711,Tyler Loop,K,6.89,6.89,0.0,7,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
 2026,1,1359546418284494848,League Is Rigged V2,12,League is rigged,False,13377,Arvell Reese,LB,13.6,9.97,3.63,8,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,weekly projected points
-2026,1,1359546418284494848,League Is Rigged V2,12,League is rigged,False,4960,Roquan Smith,LB,13.52,15.13,-1.61,8,0.0,-4.98,0.0,0.0,0.0,0.0,0.0,,league-specific IDP scoring proxy
-2026,1,1359546418284494848,League Is Rigged V2,12,League is rigged,False,7136,Kam Curl,DB,12.2,11.75,0.45,9,0.0,-5.8,0.0,0.0,0.0,0.0,0.0,,league-specific IDP scoring proxy
+2026,1,1359546418284494848,League Is Rigged V2,12,League is rigged,False,4960,Roquan Smith,LB,13.52,15.13,-1.61,8,0.0,-5.48,0.0,0.0,0.0,0.0,0.0,,league-specific IDP scoring proxy
+2026,1,1359546418284494848,League Is Rigged V2,12,League is rigged,False,7136,Kam Curl,DB,12.2,11.75,0.45,9,0.0,-6.8,0.0,0.0,0.0,0.0,0.0,,league-specific IDP scoring proxy
 2026,1,1359546418284494848,League Is Rigged V2,2,Stutterboyzzzz,False,11566,Jayden Daniels,QB,28.07,27.65,0.42,12,0.5,0.0,0.0,-0.08,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring + OL health
-2026,1,1359546418284494848,League Is Rigged V2,2,Stutterboyzzzz,False,4866,Saquon Barkley,RB,19.44,18.87,0.57,11,0.5,0.0,0.0,0.0,0.0,0.07,0.0,,Sleeper raw-stat projection × league scoring + injury ripple
+2026,1,1359546418284494848,League Is Rigged V2,2,Stutterboyzzzz,False,4866,Saquon Barkley,RB,19.53,18.87,0.66,11,0.5,0.0,0.0,0.0,0.0,0.16,0.0,,Sleeper raw-stat projection × league scoring + injury ripple
 2026,1,1359546418284494848,League Is Rigged V2,2,Stutterboyzzzz,False,11584,Bucky Irving,RB,16.41,15.31,1.1,11,1.1,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
-2026,1,1359546418284494848,League Is Rigged V2,2,Stutterboyzzzz,False,8137,George Pickens,WR,16.38,17.14,-0.76,11,-0.7,0.0,0.0,-0.14,0.0,0.08,0.0,,Sleeper raw-stat projection × league scoring + OL health + injury ripple
-2026,1,1359546418284494848,League Is Rigged V2,2,Stutterboyzzzz,False,11632,Malik Nabers,WR,14.65,14.24,0.41,11,0.5,0.0,0.0,-0.09,0.0,0.0,0.0,Questionable,Sleeper raw-stat projection × league scoring + OL health
+2026,1,1359546418284494848,League Is Rigged V2,2,Stutterboyzzzz,False,11632,Malik Nabers,WR,14.81,14.4,0.41,11,0.5,0.0,0.0,-0.09,0.0,0.0,0.0,Questionable,Sleeper raw-stat projection × league scoring + OL health
+2026,1,1359546418284494848,League Is Rigged V2,2,Stutterboyzzzz,False,8137,George Pickens,WR,16.48,17.14,-0.66,11,-0.7,0.0,0.0,-0.14,0.0,0.18,0.0,,Sleeper raw-stat projection × league scoring + OL health + injury ripple
 2026,1,1359546418284494848,League Is Rigged V2,2,Stutterboyzzzz,False,12506,Harold Fannin,TE,12.5,12.08,0.42,11,0.5,0.0,0.0,0.0,-0.08,0.0,0.0,,Sleeper raw-stat projection × league scoring + game-time weather
 2026,1,1359546418284494848,League Is Rigged V2,2,Stutterboyzzzz,False,11631,Brian Thomas,WR,10.1,10.9,-0.8,11,-0.7,0.0,0.0,0.0,-0.1,0.0,0.0,,Sleeper raw-stat projection × league scoring + game-time weather
-2026,1,1359546418284494848,League Is Rigged V2,2,Stutterboyzzzz,False,11533,Brandon Aubrey,K,7.19,6.69,0.5,7,0.5,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
-2026,1,1359546418284494848,League Is Rigged V2,2,Stutterboyzzzz,False,5840,Josh Hines-Allen,DE,9.1,8.49,0.61,7,0.0,-8.9,0.0,0.0,0.0,0.0,0.0,,league-specific IDP scoring proxy
-2026,1,1359546418284494848,League Is Rigged V2,2,Stutterboyzzzz,False,5041,Fred Warner,LB,16.8,12.73,4.07,9,0.0,-0.6,0.0,0.0,0.0,0.0,0.0,,league-specific IDP scoring proxy
-2026,1,1359546418284494848,League Is Rigged V2,2,Stutterboyzzzz,False,7016,Jeremy Chinn,DB,14.01,11.06,2.95,8,0.0,-3.39,0.0,0.0,0.0,0.0,0.0,,league-specific IDP scoring proxy
+2026,1,1359546418284494848,League Is Rigged V2,2,Stutterboyzzzz,False,11533,Brandon Aubrey,K,7.18,6.68,0.5,7,0.5,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
+2026,1,1359546418284494848,League Is Rigged V2,2,Stutterboyzzzz,False,5840,Josh Hines-Allen,DE,9.1,8.5,0.6,7,0.0,-8.6,0.0,0.0,0.0,0.0,0.0,,league-specific IDP scoring proxy
+2026,1,1359546418284494848,League Is Rigged V2,2,Stutterboyzzzz,False,5041,Fred Warner,LB,16.8,12.73,4.07,9,0.0,2.1,0.0,0.0,0.0,0.0,0.0,,league-specific IDP scoring proxy
+2026,1,1359546418284494848,League Is Rigged V2,2,Stutterboyzzzz,False,7016,Jeremy Chinn,DB,14.01,11.06,2.95,8,0.0,-3.59,0.0,0.0,0.0,0.0,0.0,,league-specific IDP scoring proxy
 2026,1,1359546418284494848,League Is Rigged V2,3,Njigbas in paris,False,421,Matthew Stafford,QB,24.94,24.7,0.24,12,0.5,0.0,0.0,-0.26,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring + OL health
-2026,1,1359546418284494848,League Is Rigged V2,3,Njigbas in paris,False,9221,Jahmyr Gibbs,RB,29.33,28.83,0.5,11,0.5,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
-2026,1,1359546418284494848,League Is Rigged V2,3,Njigbas in paris,False,12481,Cam Skattebo,RB,17.02,16.8,0.22,11,0.5,0.0,0.0,-0.28,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring + OL health
-2026,1,1359546418284494848,League Is Rigged V2,3,Njigbas in paris,False,9488,Jaxon Smith-Njigba,WR,20.94,20.45,0.49,11,0.5,0.0,0.0,-0.04,0.0,0.03,0.0,,Sleeper raw-stat projection × league scoring + OL health + injury ripple
+2026,1,1359546418284494848,League Is Rigged V2,3,Njigbas in paris,False,9221,Jahmyr Gibbs,RB,29.34,28.84,0.5,11,0.5,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
+2026,1,1359546418284494848,League Is Rigged V2,3,Njigbas in paris,False,12481,Cam Skattebo,RB,17.21,16.99,0.22,11,0.5,0.0,0.0,-0.28,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring + OL health
+2026,1,1359546418284494848,League Is Rigged V2,3,Njigbas in paris,False,9488,Jaxon Smith-Njigba,WR,20.95,20.45,0.5,11,0.5,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
 2026,1,1359546418284494848,League Is Rigged V2,3,Njigbas in paris,False,8146,Garrett Wilson,WR,14.55,14.05,0.5,11,0.5,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
-2026,1,1359546418284494848,League Is Rigged V2,3,Njigbas in paris,False,5012,Mark Andrews,TE,11.93,11.33,0.6,11,0.5,0.0,0.0,0.0,0.0,0.1,0.0,,Sleeper raw-stat projection × league scoring + injury ripple
-2026,1,1359546418284494848,League Is Rigged V2,3,Njigbas in paris,False,13286,Jadarian Price,RB,13.08,12.72,0.36,11,0.5,0.0,0.0,-0.14,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring + OL health
-2026,1,1359546418284494848,League Is Rigged V2,3,Njigbas in paris,False,7839,Evan McPherson,K,7.78,6.68,1.1,7,1.1,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
-2026,1,1359546418284494848,League Is Rigged V2,3,Njigbas in paris,False,5862,Brian Burns,DE,11.93,11.28,0.65,8,0.0,-7.07,0.0,0.0,0.0,0.0,0.0,,league-specific IDP scoring proxy
-2026,1,1359546418284494848,League Is Rigged V2,3,Njigbas in paris,False,6949,Jordyn Brooks,LB,18.28,8.85,9.43,8,0.0,-3.22,0.0,0.0,0.0,0.0,0.0,,league-specific IDP scoring proxy
-2026,1,1359546418284494848,League Is Rigged V2,3,Njigbas in paris,False,4081,Budda Baker,DB,13.53,10.74,2.79,8,0.0,-7.97,0.0,0.0,0.0,0.0,0.0,,league-specific IDP scoring proxy
+2026,1,1359546418284494848,League Is Rigged V2,3,Njigbas in paris,False,5012,Mark Andrews,TE,12.06,11.33,0.73,11,0.5,0.0,0.0,0.0,0.0,0.23,0.0,,Sleeper raw-stat projection × league scoring + injury ripple
+2026,1,1359546418284494848,League Is Rigged V2,3,Njigbas in paris,False,13286,Jadarian Price,RB,13.22,12.72,0.5,11,0.5,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
+2026,1,1359546418284494848,League Is Rigged V2,3,Njigbas in paris,False,7839,Evan McPherson,K,7.77,6.67,1.1,7,1.1,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
+2026,1,1359546418284494848,League Is Rigged V2,3,Njigbas in paris,False,5862,Brian Burns,DE,11.93,11.26,0.67,8,0.0,-7.07,0.0,0.0,0.0,0.0,0.0,,league-specific IDP scoring proxy
+2026,1,1359546418284494848,League Is Rigged V2,3,Njigbas in paris,False,6949,Jordyn Brooks,LB,18.28,13.06,5.22,8,0.0,-3.22,0.0,0.0,0.0,0.0,0.0,,league-specific IDP scoring proxy
+2026,1,1359546418284494848,League Is Rigged V2,3,Njigbas in paris,False,4081,Budda Baker,DB,13.53,10.79,2.74,8,0.0,-6.27,0.0,0.0,0.0,0.0,0.0,,league-specific IDP scoring proxy
 2026,1,1359546418284494848,League Is Rigged V2,4,jblatz,False,4984,Josh Allen,QB,30.01,29.51,0.5,12,0.5,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
 2026,1,1359546418284494848,League Is Rigged V2,4,jblatz,False,7021,Rico Dowdle,RB,14.96,15.66,-0.7,11,-0.7,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
 2026,1,1359546418284494848,League Is Rigged V2,4,jblatz,False,6790,D'Andre Swift,RB,17.8,17.3,0.5,11,0.5,0.0,0.0,0.0,0.0,0.0,0.0,Questionable,Sleeper raw-stat projection × league scoring
-2026,1,1359546418284494848,League Is Rigged V2,4,jblatz,False,9493,Puka Nacua,WR,21.93,21.37,0.56,11,0.5,0.0,0.0,-0.14,0.0,0.2,0.0,Questionable,Sleeper raw-stat projection × league scoring + OL health + injury ripple
-2026,1,1359546418284494848,League Is Rigged V2,4,jblatz,False,10229,Rashee Rice,WR,15.34,15.11,0.23,11,0.5,0.0,0.0,-0.18,0.0,-0.09,0.0,,Sleeper raw-stat projection × league scoring + OL health + injury ripple
-2026,1,1359546418284494848,League Is Rigged V2,4,jblatz,False,4217,George Kittle,TE,11.04,10.49,0.55,6,0.5,0.0,0.0,-0.05,0.0,0.1,0.0,Questionable,Sleeper raw-stat projection × league scoring + OL health + injury ripple
-2026,1,1359546418284494848,League Is Rigged V2,4,jblatz,False,8167,Christian Watson,WR,14.65,14.1,0.55,11,0.5,0.0,0.0,0.0,0.0,0.05,0.0,,Sleeper raw-stat projection × league scoring + injury ripple
-2026,1,1359546418284494848,League Is Rigged V2,4,jblatz,False,11786,Cam Little,K,6.85,6.35,0.5,7,0.5,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
+2026,1,1359546418284494848,League Is Rigged V2,4,jblatz,False,9493,Puka Nacua,WR,22.18,21.37,0.81,11,0.5,0.0,0.0,-0.14,0.0,0.45,0.0,,Sleeper raw-stat projection × league scoring + OL health + injury ripple
+2026,1,1359546418284494848,League Is Rigged V2,4,jblatz,False,10229,Rashee Rice,WR,15.23,15.11,0.12,11,0.5,0.0,0.0,-0.18,0.0,-0.2,0.0,,Sleeper raw-stat projection × league scoring + OL health + injury ripple
+2026,1,1359546418284494848,League Is Rigged V2,4,jblatz,False,7002,Juwan Johnson,TE,11.36,10.86,0.5,6,0.5,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
+2026,1,1359546418284494848,League Is Rigged V2,4,jblatz,False,8167,Christian Watson,WR,14.71,14.1,0.61,11,0.5,0.0,0.0,0.0,0.0,0.11,0.0,,Sleeper raw-stat projection × league scoring + injury ripple
+2026,1,1359546418284494848,League Is Rigged V2,4,jblatz,False,11786,Cam Little,K,6.87,6.37,0.5,7,0.5,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
 2026,1,1359546418284494848,League Is Rigged V2,4,jblatz,False,12574,Abdul Carter,DL,11.03,8.54,2.49,7,0.0,5.53,0.0,0.0,0.0,0.0,0.0,,league-specific IDP scoring proxy
-2026,1,1359546418284494848,League Is Rigged V2,4,jblatz,False,5332,Foyesade Oluokun,LB,15.64,14.35,1.29,9,0.0,-3.46,0.0,0.0,0.0,0.0,0.0,,league-specific IDP scoring proxy
+2026,1,1359546418284494848,League Is Rigged V2,4,jblatz,False,5332,Foyesade Oluokun,LB,15.64,14.38,1.26,9,0.0,-3.46,0.0,0.0,0.0,0.0,0.0,,league-specific IDP scoring proxy
 2026,1,1359546418284494848,League Is Rigged V2,4,jblatz,False,13376,Caleb Downs,DB,5.5,11.31,-5.81,9,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,season-long ECR proxy
-2026,1,1359546418284494848,League Is Rigged V2,5,zthompson1533,False,11560,Caleb Williams,QB,29.02,28.43,0.59,12,0.5,0.0,0.0,0.0,0.0,0.09,0.0,,Sleeper raw-stat projection × league scoring + injury ripple
+2026,1,1359546418284494848,League Is Rigged V2,5,zthompson1533,False,11560,Caleb Williams,QB,29.14,28.44,0.7,12,0.5,0.0,0.0,0.0,0.0,0.2,0.0,,Sleeper raw-stat projection × league scoring + injury ripple
 2026,1,1359546418284494848,League Is Rigged V2,5,zthompson1533,False,12507,Omarion Hampton,RB,19.86,19.46,0.4,11,0.5,0.0,0.0,-0.1,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring + OL health
 2026,1,1359546418284494848,League Is Rigged V2,5,zthompson1533,False,8151,Kenneth Walker,RB,20.28,20.02,0.26,11,0.5,0.0,0.0,-0.24,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring + OL health
 2026,1,1359546418284494848,League Is Rigged V2,5,zthompson1533,False,5859,A.J. Brown,WR,17.91,17.41,0.5,11,0.5,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
-2026,1,1359546418284494848,League Is Rigged V2,5,zthompson1533,False,8144,Chris Olave,WR,17.53,16.83,0.7,11,0.5,0.0,0.0,0.0,0.0,0.2,0.0,,Sleeper raw-stat projection × league scoring + injury ripple
+2026,1,1359546418284494848,League Is Rigged V2,5,zthompson1533,False,8144,Chris Olave,WR,17.78,16.83,0.95,11,0.5,0.0,0.0,0.0,0.0,0.45,0.0,,Sleeper raw-stat projection × league scoring + injury ripple
 2026,1,1359546418284494848,League Is Rigged V2,5,zthompson1533,False,9480,Brenton Strange,TE,9.0,8.58,0.42,6,0.5,0.0,0.0,0.0,-0.08,0.0,0.0,,Sleeper raw-stat projection × league scoring + game-time weather
-2026,1,1359546418284494848,League Is Rigged V2,5,zthompson1533,False,12514,Emeka Egbuka,WR,13.37,12.07,1.3,11,1.1,0.0,0.0,0.0,0.0,0.2,0.0,Questionable,Sleeper raw-stat projection × league scoring + injury ripple
+2026,1,1359546418284494848,League Is Rigged V2,5,zthompson1533,False,12514,Emeka Egbuka,WR,13.62,12.07,1.55,11,1.1,0.0,0.0,0.0,0.0,0.45,0.0,Questionable,Sleeper raw-stat projection × league scoring + injury ripple
 2026,1,1359546418284494848,League Is Rigged V2,5,zthompson1533,False,4227,Harrison Butker,K,6.74,6.24,0.5,7,0.5,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
-2026,1,1359546418284494848,League Is Rigged V2,5,zthompson1533,False,8280,Nik Bonitto,LB,9.23,8.83,0.4,7,0.0,-6.57,0.0,0.0,0.0,0.0,0.0,,league-specific IDP scoring proxy
-2026,1,1359546418284494848,League Is Rigged V2,5,zthompson1533,False,10898,Tuli Tuipulotu,DL,13.57,10.49,3.08,8,0.0,-4.13,0.0,0.0,0.0,0.0,0.0,,league-specific IDP scoring proxy
+2026,1,1359546418284494848,League Is Rigged V2,5,zthompson1533,False,8280,Nik Bonitto,LB,9.23,8.83,0.4,7,0.0,-8.77,0.0,0.0,0.0,0.0,0.0,,league-specific IDP scoring proxy
+2026,1,1359546418284494848,League Is Rigged V2,5,zthompson1533,False,10898,Tuli Tuipulotu,DL,13.57,10.45,3.12,8,0.0,-3.83,0.0,0.0,0.0,0.0,0.0,,league-specific IDP scoring proxy
 2026,1,1359546418284494848,League Is Rigged V2,5,zthompson1533,False,12567,Malaki Starks,DB,8.52,12.08,-3.56,7,0.0,3.02,0.0,0.0,0.0,0.0,0.0,,league-specific IDP scoring proxy
-2026,1,1359546418284494848,League Is Rigged V2,6,Daejon love #1 fan,False,6904,Jalen Hurts,QB,28.46,27.87,0.59,12,0.5,0.0,0.0,0.0,0.0,0.09,0.0,,Sleeper raw-stat projection × league scoring + injury ripple
-2026,1,1359546418284494848,League Is Rigged V2,6,Daejon love #1 fan,False,8138,James Cook,RB,21.99,21.49,0.5,11,0.5,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
+2026,1,1359546418284494848,League Is Rigged V2,6,Daejon love #1 fan,False,6904,Jalen Hurts,QB,28.57,27.87,0.7,12,0.5,0.0,0.0,0.0,0.0,0.2,0.0,,Sleeper raw-stat projection × league scoring + injury ripple
+2026,1,1359546418284494848,League Is Rigged V2,6,Daejon love #1 fan,False,8138,James Cook,RB,21.98,21.48,0.5,11,0.5,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
 2026,1,1359546418284494848,League Is Rigged V2,6,Daejon love #1 fan,False,9224,Chase Brown,RB,21.54,20.44,1.1,11,1.1,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
-2026,1,1359546418284494848,League Is Rigged V2,6,Daejon love #1 fan,False,7525,DeVonta Smith,WR,15.93,15.4,0.53,11,0.5,0.0,0.0,0.0,0.0,0.03,0.0,,Sleeper raw-stat projection × league scoring + injury ripple
-2026,1,1359546418284494848,League Is Rigged V2,6,Daejon love #1 fan,False,2133,Davante Adams,WR,12.14,12.68,-0.54,6,-0.7,0.0,0.0,-0.14,0.0,0.3,0.0,,Sleeper raw-stat projection × league scoring + OL health + injury ripple
-2026,1,1359546418284494848,League Is Rigged V2,6,Daejon love #1 fan,False,12517,Colston Loveland,TE,15.3,14.7,0.6,11,0.5,0.0,0.0,0.0,0.0,0.1,0.0,,Sleeper raw-stat projection × league scoring + injury ripple
+2026,1,1359546418284494848,League Is Rigged V2,6,Daejon love #1 fan,False,7525,DeVonta Smith,WR,15.97,15.4,0.57,11,0.5,0.0,0.0,0.0,0.0,0.07,0.0,,Sleeper raw-stat projection × league scoring + injury ripple
+2026,1,1359546418284494848,League Is Rigged V2,6,Daejon love #1 fan,False,2133,Davante Adams,WR,12.02,12.68,-0.66,6,-0.7,0.0,0.0,-0.14,0.0,0.18,0.0,,Sleeper raw-stat projection × league scoring + OL health + injury ripple
+2026,1,1359546418284494848,League Is Rigged V2,6,Daejon love #1 fan,False,12517,Colston Loveland,TE,15.43,14.7,0.73,11,0.5,0.0,0.0,0.0,0.0,0.23,0.0,,Sleeper raw-stat projection × league scoring + injury ripple
 2026,1,1359546418284494848,League Is Rigged V2,6,Daejon love #1 fan,False,11581,MarShawn Lloyd,RB,14.09,13.59,0.5,11,0.5,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
-2026,1,1359546418284494848,League Is Rigged V2,6,Daejon love #1 fan,False,11539,Jake Bates,K,7.56,7.06,0.5,7,0.5,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
-2026,1,1359546418284494848,League Is Rigged V2,6,Daejon love #1 fan,False,5991,Maxx Crosby,DE,17.39,10.6,6.79,7,0.0,-4.11,0.0,0.0,0.0,0.0,0.0,,league-specific IDP scoring proxy
+2026,1,1359546418284494848,League Is Rigged V2,6,Daejon love #1 fan,False,11539,Jake Bates,K,7.52,7.02,0.5,7,0.5,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
+2026,1,1359546418284494848,League Is Rigged V2,6,Daejon love #1 fan,False,5991,Maxx Crosby,DE,17.39,10.6,6.79,7,0.0,-2.41,0.0,0.0,0.0,0.0,0.0,,league-specific IDP scoring proxy
 2026,1,1359546418284494848,League Is Rigged V2,6,Daejon love #1 fan,False,8267,Nakobe Dean,LB,13.94,15.06,-1.12,8,0.0,-0.36,0.0,0.0,0.0,0.0,0.0,,league-specific IDP scoring proxy
-2026,1,1359546418284494848,League Is Rigged V2,6,Daejon love #1 fan,False,4971,Derwin James,DB,14.19,13.27,0.92,9,0.0,-7.31,0.0,0.0,0.0,0.0,0.0,,league-specific IDP scoring proxy
+2026,1,1359546418284494848,League Is Rigged V2,6,Daejon love #1 fan,False,4971,Derwin James,DB,14.19,13.24,0.95,9,0.0,-7.31,0.0,0.0,0.0,0.0,0.0,,league-specific IDP scoring proxy
 2026,1,1359546418284494848,League Is Rigged V2,7,GOOBERTON,False,4046,Patrick Mahomes,QB,25.23,25.08,0.15,12,0.5,0.0,0.0,-0.35,0.0,0.0,0.0,Questionable,Sleeper raw-stat projection × league scoring + OL health
-2026,1,1359546418284494848,League Is Rigged V2,7,GOOBERTON,False,8150,Kyren Williams,RB,18.64,18.17,0.47,11,0.5,0.0,0.0,-0.1,0.0,0.07,0.0,,Sleeper raw-stat projection × league scoring + OL health + injury ripple
-2026,1,1359546418284494848,League Is Rigged V2,7,GOOBERTON,False,8155,Breece Hall,RB,18.21,17.71,0.5,11,0.5,0.0,0.0,0.0,0.0,0.0,0.0,Questionable,Sleeper raw-stat projection × league scoring
-2026,1,1359546418284494848,League Is Rigged V2,7,GOOBERTON,False,6786,CeeDee Lamb,WR,18.37,17.81,0.56,11,0.5,0.0,0.0,-0.14,0.0,0.2,0.0,,Sleeper raw-stat projection × league scoring + OL health + injury ripple
+2026,1,1359546418284494848,League Is Rigged V2,7,GOOBERTON,False,8150,Kyren Williams,RB,18.73,18.17,0.56,11,0.5,0.0,0.0,-0.1,0.0,0.16,0.0,,Sleeper raw-stat projection × league scoring + OL health + injury ripple
+2026,1,1359546418284494848,League Is Rigged V2,7,GOOBERTON,False,8155,Breece Hall,RB,18.37,17.71,0.66,11,0.5,0.0,0.0,0.0,0.0,0.16,0.0,Questionable,Sleeper raw-stat projection × league scoring + injury ripple
+2026,1,1359546418284494848,League Is Rigged V2,7,GOOBERTON,False,6786,CeeDee Lamb,WR,18.62,17.81,0.81,11,0.5,0.0,0.0,-0.14,0.0,0.45,0.0,,Sleeper raw-stat projection × league scoring + OL health + injury ripple
 2026,1,1359546418284494848,League Is Rigged V2,7,GOOBERTON,False,5927,Terry McLaurin,WR,14.53,14.07,0.46,11,0.5,0.0,0.0,-0.04,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring + OL health
 2026,1,1359546418284494848,League Is Rigged V2,7,GOOBERTON,False,10859,Sam LaPorta,TE,14.48,13.98,0.5,11,0.5,0.0,0.0,0.0,0.0,0.0,0.0,Questionable,Sleeper raw-stat projection × league scoring
-2026,1,1359546418284494848,League Is Rigged V2,7,GOOBERTON,False,12534,Kyle Monangai,RB,8.98,9.37,-0.39,11,-0.7,0.0,0.0,0.0,0.0,0.31,0.0,Questionable,Sleeper raw-stat projection × league scoring + injury ripple
-2026,1,1359546418284494848,League Is Rigged V2,7,GOOBERTON,False,8259,Cameron Dicker,K,7.49,6.99,0.5,7,0.5,0.0,0.0,0.0,0.0,0.0,0.0,Questionable,Sleeper raw-stat projection × league scoring
-2026,1,1359546418284494848,League Is Rigged V2,7,GOOBERTON,False,5816,Nick Bosa,DE,14.17,7.94,6.23,8,0.0,-1.83,0.0,0.0,0.0,0.0,0.0,Questionable,league-specific IDP scoring proxy
-2026,1,1359546418284494848,League Is Rigged V2,7,GOOBERTON,False,11687,Edgerrin Cooper,LB,13.77,12.75,1.02,8,0.0,-3.13,0.0,0.0,0.0,0.0,0.0,,league-specific IDP scoring proxy
-2026,1,1359546418284494848,League Is Rigged V2,7,GOOBERTON,False,8339,Kyle Hamilton,DB,11.91,13.4,-1.49,7,0.0,-6.59,0.0,0.0,0.0,0.0,0.0,,league-specific IDP scoring proxy
-2026,1,1359546418284494848,League Is Rigged V2,8,2kyle,False,7523,Trevor Lawrence,QB,25.81,25.41,0.4,12,0.5,0.0,0.0,0.0,-0.1,0.0,0.0,,Sleeper raw-stat projection × league scoring + game-time weather
+2026,1,1359546418284494848,League Is Rigged V2,7,GOOBERTON,False,12534,Kyle Monangai,RB,9.38,9.38,0.0,11,-0.7,0.0,0.0,0.0,0.0,0.7,0.0,Questionable,Sleeper raw-stat projection × league scoring + injury ripple
+2026,1,1359546418284494848,League Is Rigged V2,7,GOOBERTON,False,8259,Cameron Dicker,K,7.48,6.98,0.5,7,0.5,0.0,0.0,0.0,0.0,0.0,0.0,Questionable,Sleeper raw-stat projection × league scoring
+2026,1,1359546418284494848,League Is Rigged V2,7,GOOBERTON,False,5816,Nick Bosa,DE,14.17,7.94,6.23,8,0.0,-0.93,0.0,0.0,0.0,0.0,0.0,Questionable,league-specific IDP scoring proxy
+2026,1,1359546418284494848,League Is Rigged V2,7,GOOBERTON,False,11687,Edgerrin Cooper,LB,13.77,12.75,1.02,8,0.0,-2.73,0.0,0.0,0.0,0.0,0.0,,league-specific IDP scoring proxy
+2026,1,1359546418284494848,League Is Rigged V2,7,GOOBERTON,False,8339,Kyle Hamilton,DB,11.91,13.4,-1.49,7,0.0,-2.89,0.0,0.0,0.0,0.0,0.0,,league-specific IDP scoring proxy
+2026,1,1359546418284494848,League Is Rigged V2,8,2kyle,False,7523,Trevor Lawrence,QB,25.82,25.42,0.4,12,0.5,0.0,0.0,0.0,-0.1,0.0,0.0,,Sleeper raw-stat projection × league scoring + game-time weather
 2026,1,1359546418284494848,League Is Rigged V2,8,2kyle,False,9509,Bijan Robinson,RB,27.16,26.66,0.5,11,0.5,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
 2026,1,1359546418284494848,League Is Rigged V2,8,2kyle,False,7588,Javonte Williams,RB,20.17,19.77,0.4,11,0.5,0.0,0.0,-0.1,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring + OL health
-2026,1,1359546418284494848,League Is Rigged V2,8,2kyle,False,12519,Luther Burden,WR,13.63,14.11,-0.48,11,-0.7,0.0,0.0,0.0,0.0,0.22,0.0,Questionable,Sleeper raw-stat projection × league scoring + injury ripple
+2026,1,1359546418284494848,League Is Rigged V2,8,2kyle,False,12519,Luther Burden,WR,13.91,14.11,-0.2,11,-0.7,0.0,0.0,0.0,0.0,0.5,0.0,Questionable,Sleeper raw-stat projection × league scoring + injury ripple
 2026,1,1359546418284494848,League Is Rigged V2,8,2kyle,False,8148,Jameson Williams,WR,13.78,14.48,-0.7,11,-0.7,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
 2026,1,1359546418284494848,League Is Rigged V2,8,2kyle,False,8130,Trey McBride,TE,16.79,16.29,0.5,6,0.5,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
-2026,1,1359546418284494848,League Is Rigged V2,8,2kyle,False,7611,Rhamondre Stevenson,RB,15.36,14.86,0.5,11,0.5,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
+2026,1,1359546418284494848,League Is Rigged V2,8,2kyle,False,7611,Rhamondre Stevenson,RB,19.57,19.07,0.5,11,0.5,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
 2026,1,1359546418284494848,League Is Rigged V2,8,2kyle,False,11792,Will Reichard,K,6.99,6.49,0.5,7,0.5,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
-2026,1,1359546418284494848,League Is Rigged V2,8,2kyle,False,6183,Andrew Van Ginkel,LB,14.93,11.71,3.22,8,0.0,1.63,0.0,0.0,0.0,0.0,0.0,,league-specific IDP scoring proxy
+2026,1,1359546418284494848,League Is Rigged V2,8,2kyle,False,6183,Andrew Van Ginkel,LB,14.93,11.71,3.22,8,0.0,1.73,0.0,0.0,0.0,0.0,0.0,,league-specific IDP scoring proxy
 2026,1,1359546418284494848,League Is Rigged V2,8,2kyle,False,7648,Nick Bolton,LB,18.83,14.93,3.9,8,0.0,0.33,0.0,0.0,0.0,0.0,0.0,,league-specific IDP scoring proxy
 2026,1,1359546418284494848,League Is Rigged V2,8,2kyle,False,12591,Xavier Watts,DB,14.11,11.4,2.71,6,0.0,8.61,0.0,0.0,0.0,0.0,0.0,,league-specific IDP scoring proxy
 2026,1,1359546418284494848,League Is Rigged V2,9,liamblatz,False,3294,Dak Prescott,QB,27.75,27.51,0.24,12,0.5,0.0,0.0,-0.26,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring + OL health
-2026,1,1359546418284494848,League Is Rigged V2,9,liamblatz,False,4034,Christian McCaffrey,RB,25.77,25.41,0.36,11,0.5,0.0,0.0,-0.14,0.0,0.0,0.0,Questionable,Sleeper raw-stat projection × league scoring + OL health
+2026,1,1359546418284494848,League Is Rigged V2,9,liamblatz,False,4034,Christian McCaffrey,RB,25.77,25.41,0.36,11,0.5,0.0,0.0,-0.14,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring + OL health
 2026,1,1359546418284494848,League Is Rigged V2,9,liamblatz,False,3198,Derrick Henry,RB,20.85,20.35,0.5,11,0.5,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
-2026,1,1359546418284494848,League Is Rigged V2,9,liamblatz,False,6801,Tee Higgins,WR,16.26,16.14,0.12,11,-0.1,0.0,0.0,0.0,0.0,0.22,0.0,Questionable,Sleeper raw-stat projection × league scoring + injury ripple
-2026,1,1359546418284494848,League Is Rigged V2,9,liamblatz,False,7526,Jaylen Waddle,WR,16.05,15.31,0.74,11,0.5,0.0,0.0,-0.04,0.0,0.28,0.0,,Sleeper raw-stat projection × league scoring + OL health + injury ripple
+2026,1,1359546418284494848,League Is Rigged V2,9,liamblatz,False,6801,Tee Higgins,WR,16.54,16.14,0.4,11,-0.1,0.0,0.0,0.0,0.0,0.5,0.0,Questionable,Sleeper raw-stat projection × league scoring + injury ripple
+2026,1,1359546418284494848,League Is Rigged V2,9,liamblatz,False,7526,Jaylen Waddle,WR,16.4,15.31,1.09,11,0.5,0.0,0.0,-0.04,0.0,0.63,0.0,,Sleeper raw-stat projection × league scoring + OL health + injury ripple
 2026,1,1359546418284494848,League Is Rigged V2,9,liamblatz,False,8110,Jake Ferguson,TE,10.53,10.15,0.38,6,0.5,0.0,0.0,-0.12,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring + OL health
-2026,1,1359546418284494848,League Is Rigged V2,9,liamblatz,False,2216,Mike Evans,WR,13.68,13.14,0.54,6,0.5,0.0,0.0,-0.04,0.0,0.08,0.0,Questionable,Sleeper raw-stat projection × league scoring + OL health + injury ripple
-2026,1,1359546418284494848,League Is Rigged V2,9,liamblatz,False,3451,Ka'imi Fairbairn,K,7.06,6.56,0.5,7,0.5,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
-2026,1,1359546418284494848,League Is Rigged V2,9,liamblatz,False,6125,Jeffery Simmons,DT,15.03,9.61,5.42,8,0.0,-4.07,0.0,0.0,0.0,0.0,0.0,,league-specific IDP scoring proxy
-2026,1,1359546418284494848,League Is Rigged V2,9,liamblatz,False,12578,Carson Schwesinger,LB,17.59,13.42,4.17,7,0.0,-3.91,0.0,0.0,0.0,0.0,0.0,,league-specific IDP scoring proxy
-2026,1,1359546418284494848,League Is Rigged V2,9,liamblatz,False,3233,Kevin Byard,DB,11.46,11.29,0.17,5,0.0,-5.94,0.0,0.0,0.0,0.0,0.0,,league-specific IDP scoring proxy
+2026,1,1359546418284494848,League Is Rigged V2,9,liamblatz,False,2216,Mike Evans,WR,14.23,13.14,1.09,6,0.5,0.0,0.0,-0.04,0.0,0.63,0.0,,Sleeper raw-stat projection × league scoring + OL health + injury ripple
+2026,1,1359546418284494848,League Is Rigged V2,9,liamblatz,False,3451,Ka'imi Fairbairn,K,7.14,6.64,0.5,7,0.5,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
+2026,1,1359546418284494848,League Is Rigged V2,9,liamblatz,False,6125,Jeffery Simmons,DT,15.03,9.61,5.42,8,0.0,-3.47,0.0,0.0,0.0,0.0,0.0,,league-specific IDP scoring proxy
+2026,1,1359546418284494848,League Is Rigged V2,9,liamblatz,False,12578,Carson Schwesinger,LB,17.59,13.42,4.17,7,0.0,-2.21,0.0,0.0,0.0,0.0,0.0,,league-specific IDP scoring proxy
+2026,1,1359546418284494848,League Is Rigged V2,9,liamblatz,False,3233,Kevin Byard,DB,11.46,11.34,0.12,5,0.0,-5.94,0.0,0.0,0.0,0.0,0.0,,league-specific IDP scoring proxy
 2026,1,1366076769534251008,Dynasty V2,1,Route 66ers,True,11566,Jayden Daniels,QB,22.18,21.76,0.42,10,0.5,0.0,0.0,-0.08,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring + OL health
 2026,1,1366076769534251008,Dynasty V2,1,Route 66ers,True,9226,De'Von Achane,RB,18.45,17.95,0.5,10,0.5,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
 2026,1,1366076769534251008,Dynasty V2,1,Route 66ers,True,6790,D'Andre Swift,RB,14.49,13.99,0.5,10,0.5,0.0,0.0,0.0,0.0,0.0,0.0,Questionable,Sleeper raw-stat projection × league scoring
-2026,1,1366076769534251008,Dynasty V2,1,Route 66ers,True,7547,Amon-Ra St. Brown,WR,21.08,20.5,0.58,10,0.5,0.0,0.0,0.0,0.0,0.08,0.0,,Sleeper raw-stat projection × league scoring + injury ripple
-2026,1,1366076769534251008,Dynasty V2,1,Route 66ers,True,12526,Tetairoa McMillan,WR,15.17,14.39,0.78,10,0.5,0.0,0.0,0.0,0.0,0.28,0.0,,Sleeper raw-stat projection × league scoring + injury ripple
+2026,1,1366076769534251008,Dynasty V2,1,Route 66ers,True,7547,Amon-Ra St. Brown,WR,21.18,20.5,0.68,10,0.5,0.0,0.0,0.0,0.0,0.18,0.0,,Sleeper raw-stat projection × league scoring + injury ripple
+2026,1,1366076769534251008,Dynasty V2,1,Route 66ers,True,12526,Tetairoa McMillan,WR,15.52,14.39,1.13,10,0.5,0.0,0.0,0.0,0.0,0.63,0.0,,Sleeper raw-stat projection × league scoring + injury ripple
 2026,1,1366076769534251008,Dynasty V2,1,Route 66ers,True,8110,Jake Ferguson,TE,12.68,12.3,0.38,7,0.5,0.0,0.0,-0.12,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring + OL health
-2026,1,1366076769534251008,Dynasty V2,1,Route 66ers,True,12519,Luther Burden,WR,13.49,13.97,-0.48,10,-0.7,0.0,0.0,0.0,0.0,0.22,0.0,Questionable,Sleeper raw-stat projection × league scoring + injury ripple
-2026,1,1366076769534251008,Dynasty V2,1,Route 66ers,True,9997,Zay Flowers,WR,16.83,16.13,0.7,10,0.5,0.0,0.0,0.0,0.0,0.2,0.0,Questionable,Sleeper raw-stat projection × league scoring + injury ripple
+2026,1,1366076769534251008,Dynasty V2,1,Route 66ers,True,12519,Luther Burden,WR,13.77,13.97,-0.2,10,-0.7,0.0,0.0,0.0,0.0,0.5,0.0,Questionable,Sleeper raw-stat projection × league scoring + injury ripple
+2026,1,1366076769534251008,Dynasty V2,1,Route 66ers,True,9997,Zay Flowers,WR,17.08,16.13,0.95,10,0.5,0.0,0.0,0.0,0.0,0.45,0.0,Questionable,Sleeper raw-stat projection × league scoring + injury ripple
 2026,1,1366076769534251008,Dynasty V2,1,Route 66ers,True,3294,Dak Prescott,QB,22.62,22.38,0.24,10,0.5,0.0,0.0,-0.26,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring + OL health
 2026,1,1366076769534251008,Dynasty V2,10,GOOBERTON,False,4046,Patrick Mahomes,QB,20.31,20.16,0.15,10,0.5,0.0,0.0,-0.35,0.0,0.0,0.0,Questionable,Sleeper raw-stat projection × league scoring + OL health
 2026,1,1366076769534251008,Dynasty V2,10,GOOBERTON,False,12527,Ashton Jeanty,RB,14.74,14.24,0.5,10,0.5,0.0,0.0,0.0,0.0,0.0,0.0,Questionable,Sleeper raw-stat projection × league scoring
-2026,1,1366076769534251008,Dynasty V2,10,GOOBERTON,False,12529,TreVeyon Henderson,RB,9.62,10.32,-0.7,10,-0.7,0.0,0.0,0.0,0.0,0.0,0.0,Questionable,Sleeper raw-stat projection × league scoring
-2026,1,1366076769534251008,Dynasty V2,10,GOOBERTON,False,9488,Jaxon Smith-Njigba,WR,20.84,20.35,0.49,10,0.5,0.0,0.0,-0.04,0.0,0.03,0.0,,Sleeper raw-stat projection × league scoring + OL health + injury ripple
-2026,1,1366076769534251008,Dynasty V2,10,GOOBERTON,False,11635,Ladd McConkey,WR,14.33,13.77,0.56,10,0.5,0.0,0.0,-0.14,0.0,0.2,0.0,,Sleeper raw-stat projection × league scoring + OL health + injury ripple
+2026,1,1366076769534251008,Dynasty V2,10,GOOBERTON,False,12529,TreVeyon Henderson,RB,0.0,,,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Out,weekly projected points
+2026,1,1366076769534251008,Dynasty V2,10,GOOBERTON,False,9488,Jaxon Smith-Njigba,WR,20.85,20.35,0.5,10,0.5,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
+2026,1,1366076769534251008,Dynasty V2,10,GOOBERTON,False,11635,Ladd McConkey,WR,14.58,13.77,0.81,10,0.5,0.0,0.0,-0.14,0.0,0.45,0.0,,Sleeper raw-stat projection × league scoring + OL health + injury ripple
 2026,1,1366076769534251008,Dynasty V2,10,GOOBERTON,False,5001,Dalton Schultz,TE,12.2,11.7,0.5,7,0.5,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
 2026,1,1366076769534251008,Dynasty V2,10,GOOBERTON,False,8228,Jaylen Warren,RB,14.24,13.74,0.5,10,0.5,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
 2026,1,1366076769534251008,Dynasty V2,10,GOOBERTON,False,8148,Jameson Williams,WR,13.63,14.33,-0.7,10,-0.7,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
-2026,1,1366076769534251008,Dynasty V2,10,GOOBERTON,False,8183,Brock Purdy,QB,22.37,21.86,0.51,10,0.5,0.0,0.0,-0.08,0.0,0.09,0.0,,Sleeper raw-stat projection × league scoring + OL health + injury ripple
+2026,1,1366076769534251008,Dynasty V2,10,GOOBERTON,False,8183,Brock Purdy,QB,22.48,21.86,0.62,10,0.5,0.0,0.0,-0.08,0.0,0.2,0.0,,Sleeper raw-stat projection × league scoring + OL health + injury ripple
 2026,1,1366076769534251008,Dynasty V2,2,cburt31,False,4881,Lamar Jackson,QB,24.55,24.05,0.5,10,0.5,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
-2026,1,1366076769534251008,Dynasty V2,2,cburt31,False,4866,Saquon Barkley,RB,15.87,15.3,0.57,10,0.5,0.0,0.0,0.0,0.0,0.07,0.0,,Sleeper raw-stat projection × league scoring + injury ripple
+2026,1,1366076769534251008,Dynasty V2,2,cburt31,False,4866,Saquon Barkley,RB,15.96,15.3,0.66,10,0.5,0.0,0.0,0.0,0.0,0.16,0.0,,Sleeper raw-stat projection × league scoring + injury ripple
 2026,1,1366076769534251008,Dynasty V2,2,cburt31,False,8151,Kenneth Walker,RB,16.67,16.41,0.26,10,0.5,0.0,0.0,-0.24,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring + OL health
-2026,1,1366076769534251008,Dynasty V2,2,cburt31,False,9493,Puka Nacua,WR,21.78,21.22,0.56,10,0.5,0.0,0.0,-0.14,0.0,0.2,0.0,Questionable,Sleeper raw-stat projection × league scoring + OL health + injury ripple
+2026,1,1366076769534251008,Dynasty V2,2,cburt31,False,9493,Puka Nacua,WR,22.03,21.22,0.81,10,0.5,0.0,0.0,-0.14,0.0,0.45,0.0,,Sleeper raw-stat projection × league scoring + OL health + injury ripple
 2026,1,1366076769534251008,Dynasty V2,2,cburt31,False,5859,A.J. Brown,WR,17.9,17.4,0.5,10,0.5,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
-2026,1,1366076769534251008,Dynasty V2,2,cburt31,False,12517,Colston Loveland,TE,17.84,17.24,0.6,11,0.5,0.0,0.0,0.0,0.0,0.1,0.0,,Sleeper raw-stat projection × league scoring + injury ripple
+2026,1,1366076769534251008,Dynasty V2,2,cburt31,False,12517,Colston Loveland,TE,17.97,17.24,0.73,11,0.5,0.0,0.0,0.0,0.0,0.23,0.0,,Sleeper raw-stat projection × league scoring + injury ripple
 2026,1,1366076769534251008,Dynasty V2,2,cburt31,False,7588,Javonte Williams,RB,16.32,15.92,0.4,10,0.5,0.0,0.0,-0.1,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring + OL health
 2026,1,1366076769534251008,Dynasty V2,2,cburt31,False,5927,Terry McLaurin,WR,14.52,14.06,0.46,10,0.5,0.0,0.0,-0.04,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring + OL health
-2026,1,1366076769534251008,Dynasty V2,2,cburt31,False,4943,Sam Darnold,QB,20.6,20.09,0.51,10,0.5,0.0,0.0,-0.08,0.0,0.09,0.0,,Sleeper raw-stat projection × league scoring + OL health + injury ripple
+2026,1,1366076769534251008,Dynasty V2,2,cburt31,False,4943,Sam Darnold,QB,20.59,20.09,0.5,10,0.5,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
 2026,1,1366076769534251008,Dynasty V2,3,Felici42,False,12508,Jaxson Dart,QB,22.26,21.93,0.33,10,0.5,0.0,0.0,-0.17,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring + OL health
 2026,1,1366076769534251008,Dynasty V2,3,Felici42,False,9509,Bijan Robinson,RB,22.58,22.08,0.5,10,0.5,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
 2026,1,1366076769534251008,Dynasty V2,3,Felici42,False,11584,Bucky Irving,RB,13.67,12.57,1.1,10,1.1,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
 2026,1,1366076769534251008,Dynasty V2,3,Felici42,False,7569,Nico Collins,WR,18.47,17.97,0.5,10,0.5,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
-2026,1,1366076769534251008,Dynasty V2,3,Felici42,False,11632,Malik Nabers,WR,14.62,14.21,0.41,10,0.5,0.0,0.0,-0.09,0.0,0.0,0.0,Questionable,Sleeper raw-stat projection × league scoring + OL health
-2026,1,1366076769534251008,Dynasty V2,3,Felici42,False,8131,Isaiah Likely,TE,12.49,12.0,0.49,7,0.5,0.0,0.0,-0.11,0.0,0.1,0.0,,Sleeper raw-stat projection × league scoring + OL health + injury ripple
+2026,1,1366076769534251008,Dynasty V2,3,Felici42,False,11632,Malik Nabers,WR,14.78,14.37,0.41,10,0.5,0.0,0.0,-0.09,0.0,0.0,0.0,Questionable,Sleeper raw-stat projection × league scoring + OL health
+2026,1,1366076769534251008,Dynasty V2,3,Felici42,False,8131,Isaiah Likely,TE,12.62,12.0,0.62,7,0.5,0.0,0.0,-0.11,0.0,0.23,0.0,,Sleeper raw-stat projection × league scoring + OL health + injury ripple
 2026,1,1366076769534251008,Dynasty V2,3,Felici42,False,11631,Brian Thomas,WR,10.04,10.84,-0.8,10,-0.7,0.0,0.0,0.0,-0.1,0.0,0.0,,Sleeper raw-stat projection × league scoring + game-time weather
-2026,1,1366076769534251008,Dynasty V2,3,Felici42,False,11620,Rome Odunze,WR,12.4,11.87,0.53,10,0.5,0.0,0.0,0.0,0.0,0.03,0.0,Questionable,Sleeper raw-stat projection × league scoring + injury ripple
+2026,1,1366076769534251008,Dynasty V2,3,Felici42,False,11620,Rome Odunze,WR,12.44,11.87,0.57,10,0.5,0.0,0.0,0.0,0.0,0.07,0.0,Questionable,Sleeper raw-stat projection × league scoring + injury ripple
 2026,1,1366076769534251008,Dynasty V2,3,Felici42,False,9758,C.J. Stroud,QB,19.44,18.94,0.5,10,0.5,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
-2026,1,1366076769534251008,Dynasty V2,4,ArogersAchilles,False,11560,Caleb Williams,QB,23.61,23.02,0.59,10,0.5,0.0,0.0,0.0,0.0,0.09,0.0,,Sleeper raw-stat projection × league scoring + injury ripple
-2026,1,1366076769534251008,Dynasty V2,4,ArogersAchilles,False,7611,Rhamondre Stevenson,RB,12.61,12.11,0.5,10,0.5,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
+2026,1,1366076769534251008,Dynasty V2,4,ArogersAchilles,False,11560,Caleb Williams,QB,23.73,23.03,0.7,10,0.5,0.0,0.0,0.0,0.0,0.2,0.0,,Sleeper raw-stat projection × league scoring + injury ripple
+2026,1,1366076769534251008,Dynasty V2,4,ArogersAchilles,False,7611,Rhamondre Stevenson,RB,16.29,15.79,0.5,10,0.5,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
 2026,1,1366076769534251008,Dynasty V2,4,ArogersAchilles,False,9224,Chase Brown,RB,18.42,17.32,1.1,10,1.1,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
-2026,1,1366076769534251008,Dynasty V2,4,ArogersAchilles,False,7526,Jaylen Waddle,WR,16.0,15.26,0.74,10,0.5,0.0,0.0,-0.04,0.0,0.28,0.0,,Sleeper raw-stat projection × league scoring + OL health + injury ripple
-2026,1,1366076769534251008,Dynasty V2,4,ArogersAchilles,False,13279,Carnell Tate,WR,12.9,12.2,0.7,10,0.5,0.0,0.0,0.0,0.0,0.2,0.0,Questionable,Sleeper raw-stat projection × league scoring + injury ripple
+2026,1,1366076769534251008,Dynasty V2,4,ArogersAchilles,False,7526,Jaylen Waddle,WR,16.35,15.26,1.09,10,0.5,0.0,0.0,-0.04,0.0,0.63,0.0,,Sleeper raw-stat projection × league scoring + OL health + injury ripple
+2026,1,1366076769534251008,Dynasty V2,4,ArogersAchilles,False,13279,Carnell Tate,WR,13.15,12.2,0.95,10,0.5,0.0,0.0,0.0,0.0,0.45,0.0,Questionable,Sleeper raw-stat projection × league scoring + injury ripple
 2026,1,1366076769534251008,Dynasty V2,4,ArogersAchilles,False,8130,Trey McBride,TE,20.18,19.68,0.5,7,0.5,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
 2026,1,1366076769534251008,Dynasty V2,4,ArogersAchilles,False,11581,MarShawn Lloyd,RB,11.75,11.25,0.5,10,0.5,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
-2026,1,1366076769534251008,Dynasty V2,4,ArogersAchilles,False,1466,Travis Kelce,TE,13.97,13.73,0.24,7,0.5,0.0,0.0,-0.17,0.0,-0.09,0.0,,Sleeper raw-stat projection × league scoring + OL health + injury ripple
-2026,1,1366076769534251008,Dynasty V2,4,ArogersAchilles,False,3163,Jared Goff,QB,22.48,21.89,0.59,10,0.5,0.0,0.0,0.0,0.0,0.09,0.0,,Sleeper raw-stat projection × league scoring + injury ripple
-2026,1,1366076769534251008,Dynasty V2,5,jblatz,False,6904,Jalen Hurts,QB,23.3,22.71,0.59,10,0.5,0.0,0.0,0.0,0.0,0.09,0.0,,Sleeper raw-stat projection × league scoring + injury ripple
-2026,1,1366076769534251008,Dynasty V2,5,jblatz,False,9221,Jahmyr Gibbs,RB,24.79,24.29,0.5,10,0.5,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
+2026,1,1366076769534251008,Dynasty V2,4,ArogersAchilles,False,1466,Travis Kelce,TE,13.86,13.73,0.13,7,0.5,0.0,0.0,-0.17,0.0,-0.2,0.0,,Sleeper raw-stat projection × league scoring + OL health + injury ripple
+2026,1,1366076769534251008,Dynasty V2,4,ArogersAchilles,False,3163,Jared Goff,QB,22.59,21.89,0.7,10,0.5,0.0,0.0,0.0,0.0,0.2,0.0,,Sleeper raw-stat projection × league scoring + injury ripple
+2026,1,1366076769534251008,Dynasty V2,5,jblatz,False,6904,Jalen Hurts,QB,23.41,22.71,0.7,10,0.5,0.0,0.0,0.0,0.0,0.2,0.0,,Sleeper raw-stat projection × league scoring + injury ripple
+2026,1,1366076769534251008,Dynasty V2,5,jblatz,False,9221,Jahmyr Gibbs,RB,24.81,24.31,0.5,10,0.5,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
 2026,1,1366076769534251008,Dynasty V2,5,jblatz,False,12507,Omarion Hampton,RB,16.54,16.14,0.4,10,0.5,0.0,0.0,-0.1,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring + OL health
-2026,1,1366076769534251008,Dynasty V2,5,jblatz,False,8137,George Pickens,WR,16.36,17.12,-0.76,10,-0.7,0.0,0.0,-0.14,0.0,0.08,0.0,,Sleeper raw-stat projection × league scoring + OL health + injury ripple
-2026,1,1366076769534251008,Dynasty V2,5,jblatz,False,7525,DeVonta Smith,WR,15.92,15.39,0.53,10,0.5,0.0,0.0,0.0,0.0,0.03,0.0,,Sleeper raw-stat projection × league scoring + injury ripple
+2026,1,1366076769534251008,Dynasty V2,5,jblatz,False,8137,George Pickens,WR,16.46,17.12,-0.66,10,-0.7,0.0,0.0,-0.14,0.0,0.18,0.0,,Sleeper raw-stat projection × league scoring + OL health + injury ripple
+2026,1,1366076769534251008,Dynasty V2,5,jblatz,False,7525,DeVonta Smith,WR,15.96,15.39,0.57,10,0.5,0.0,0.0,0.0,0.0,0.07,0.0,,Sleeper raw-stat projection × league scoring + injury ripple
 2026,1,1366076769534251008,Dynasty V2,5,jblatz,False,11604,Brock Bowers,TE,20.46,19.96,0.5,11,0.5,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
-2026,1,1366076769534251008,Dynasty V2,5,jblatz,False,7553,Kyle Pitts,TE,13.94,13.34,0.6,7,0.5,0.0,0.0,0.0,0.0,0.1,0.0,,Sleeper raw-stat projection × league scoring + injury ripple
+2026,1,1366076769534251008,Dynasty V2,5,jblatz,False,7553,Kyle Pitts,TE,14.07,13.34,0.73,7,0.5,0.0,0.0,0.0,0.0,0.23,0.0,,Sleeper raw-stat projection × league scoring + injury ripple
 2026,1,1366076769534251008,Dynasty V2,5,jblatz,False,7543,Travis Etienne,RB,16.03,15.53,0.5,10,0.5,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
 2026,1,1366076769534251008,Dynasty V2,5,jblatz,False,11563,Bo Nix,QB,21.27,20.85,0.42,10,0.5,0.0,0.0,-0.08,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring + OL health
-2026,1,1366076769534251008,Dynasty V2,6,zthompson1533,False,6770,Joe Burrow,QB,25.54,24.44,1.1,10,1.1,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
+2026,1,1366076769534251008,Dynasty V2,6,zthompson1533,False,6770,Joe Burrow,QB,25.56,24.46,1.1,10,1.1,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
 2026,1,1366076769534251008,Dynasty V2,6,zthompson1533,False,3198,Derrick Henry,RB,16.49,15.99,0.5,10,0.5,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
-2026,1,1366076769534251008,Dynasty V2,6,zthompson1533,False,8155,Breece Hall,RB,14.79,14.29,0.5,10,0.5,0.0,0.0,0.0,0.0,0.0,0.0,Questionable,Sleeper raw-stat projection × league scoring
+2026,1,1366076769534251008,Dynasty V2,6,zthompson1533,False,8155,Breece Hall,RB,14.95,14.29,0.66,10,0.5,0.0,0.0,0.0,0.0,0.16,0.0,Questionable,Sleeper raw-stat projection × league scoring + injury ripple
 2026,1,1366076769534251008,Dynasty V2,6,zthompson1533,False,7564,Ja'Marr Chase,WR,21.52,20.42,1.1,10,1.1,0.0,0.0,0.0,0.0,0.0,0.0,Questionable,Sleeper raw-stat projection × league scoring
-2026,1,1366076769534251008,Dynasty V2,6,zthompson1533,False,8112,Drake London,WR,16.94,16.36,0.58,10,0.5,0.0,0.0,0.0,0.0,0.08,0.0,,Sleeper raw-stat projection × league scoring + injury ripple
-2026,1,1366076769534251008,Dynasty V2,6,zthompson1533,False,5022,Dallas Goedert,TE,12.56,11.95,0.61,7,0.5,0.0,0.0,0.0,0.0,0.11,0.0,,Sleeper raw-stat projection × league scoring + injury ripple
-2026,1,1366076769534251008,Dynasty V2,6,zthompson1533,False,10229,Rashee Rice,WR,15.24,15.01,0.23,10,0.5,0.0,0.0,-0.18,0.0,-0.09,0.0,,Sleeper raw-stat projection × league scoring + OL health + injury ripple
-2026,1,1366076769534251008,Dynasty V2,6,zthompson1533,False,9754,Quentin Johnston,WR,10.68,11.44,-0.76,10,-0.7,0.0,0.0,-0.14,0.0,0.08,0.0,,Sleeper raw-stat projection × league scoring + OL health + injury ripple
-2026,1,1366076769534251008,Dynasty V2,6,zthompson1533,False,7523,Trevor Lawrence,QB,20.88,20.48,0.4,10,0.5,0.0,0.0,0.0,-0.1,0.0,0.0,,Sleeper raw-stat projection × league scoring + game-time weather
+2026,1,1366076769534251008,Dynasty V2,6,zthompson1533,False,8112,Drake London,WR,17.04,16.36,0.68,10,0.5,0.0,0.0,0.0,0.0,0.18,0.0,,Sleeper raw-stat projection × league scoring + injury ripple
+2026,1,1366076769534251008,Dynasty V2,6,zthompson1533,False,5022,Dallas Goedert,TE,12.7,11.95,0.75,7,0.5,0.0,0.0,0.0,0.0,0.25,0.0,,Sleeper raw-stat projection × league scoring + injury ripple
+2026,1,1366076769534251008,Dynasty V2,6,zthompson1533,False,10229,Rashee Rice,WR,15.13,15.01,0.12,10,0.5,0.0,0.0,-0.18,0.0,-0.2,0.0,,Sleeper raw-stat projection × league scoring + OL health + injury ripple
+2026,1,1366076769534251008,Dynasty V2,6,zthompson1533,False,9754,Quentin Johnston,WR,10.78,11.44,-0.66,10,-0.7,0.0,0.0,-0.14,0.0,0.18,0.0,,Sleeper raw-stat projection × league scoring + OL health + injury ripple
+2026,1,1366076769534251008,Dynasty V2,6,zthompson1533,False,7523,Trevor Lawrence,QB,20.89,20.49,0.4,10,0.5,0.0,0.0,0.0,-0.1,0.0,0.0,,Sleeper raw-stat projection × league scoring + game-time weather
 2026,1,1366076769534251008,Dynasty V2,7,Manson,False,11564,Drake Maye,QB,22.4,21.9,0.5,10,0.5,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
 2026,1,1366076769534251008,Dynasty V2,7,Manson,False,6813,Jonathan Taylor,RB,20.6,20.1,0.5,10,0.5,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
-2026,1,1366076769534251008,Dynasty V2,7,Manson,False,4034,Christian McCaffrey,RB,22.06,21.7,0.36,10,0.5,0.0,0.0,-0.14,0.0,0.0,0.0,Questionable,Sleeper raw-stat projection × league scoring + OL health
-2026,1,1366076769534251008,Dynasty V2,7,Manson,False,8144,Chris Olave,WR,17.52,16.82,0.7,10,0.5,0.0,0.0,0.0,0.0,0.2,0.0,,Sleeper raw-stat projection × league scoring + injury ripple
-2026,1,1366076769534251008,Dynasty V2,7,Manson,False,12514,Emeka Egbuka,WR,13.31,12.01,1.3,10,1.1,0.0,0.0,0.0,0.0,0.2,0.0,Questionable,Sleeper raw-stat projection × league scoring + injury ripple
+2026,1,1366076769534251008,Dynasty V2,7,Manson,False,4034,Christian McCaffrey,RB,22.06,21.7,0.36,10,0.5,0.0,0.0,-0.14,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring + OL health
+2026,1,1366076769534251008,Dynasty V2,7,Manson,False,8144,Chris Olave,WR,17.77,16.82,0.95,10,0.5,0.0,0.0,0.0,0.0,0.45,0.0,,Sleeper raw-stat projection × league scoring + injury ripple
+2026,1,1366076769534251008,Dynasty V2,7,Manson,False,12514,Emeka Egbuka,WR,13.56,12.01,1.55,10,1.1,0.0,0.0,0.0,0.0,0.45,0.0,Questionable,Sleeper raw-stat projection × league scoring + injury ripple
 2026,1,1366076769534251008,Dynasty V2,7,Manson,False,9484,Tucker Kraft,TE,13.62,13.12,0.5,7,0.5,0.0,0.0,0.0,0.0,0.0,0.0,Questionable,Sleeper raw-stat projection × league scoring
 2026,1,1366076769534251008,Dynasty V2,7,Manson,False,4983,DJ Moore,WR,13.02,12.52,0.5,10,0.5,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
 2026,1,1366076769534251008,Dynasty V2,7,Manson,False,10232,Michael Wilson,WR,11.03,11.73,-0.7,10,-0.7,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
-2026,1,1366076769534251008,Dynasty V2,7,Manson,False,4892,Baker Mayfield,QB,21.35,20.25,1.1,10,1.1,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
+2026,1,1366076769534251008,Dynasty V2,7,Manson,False,4892,Baker Mayfield,QB,21.33,20.23,1.1,10,1.1,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
 2026,1,1366076769534251008,Dynasty V2,8,Stutterboyzzzz,False,4984,Josh Allen,QB,24.61,24.11,0.5,10,0.5,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
-2026,1,1366076769534251008,Dynasty V2,8,Stutterboyzzzz,False,8150,Kyren Williams,RB,15.2,14.73,0.47,10,0.5,0.0,0.0,-0.1,0.0,0.07,0.0,,Sleeper raw-stat projection × league scoring + OL health + injury ripple
-2026,1,1366076769534251008,Dynasty V2,8,Stutterboyzzzz,False,8136,Rachaad White,RB,10.09,10.62,-0.53,10,-0.7,0.0,0.0,-0.14,0.0,0.31,0.0,Questionable,Sleeper raw-stat projection × league scoring + OL health + injury ripple
-2026,1,1366076769534251008,Dynasty V2,8,Stutterboyzzzz,False,6786,CeeDee Lamb,WR,18.32,17.76,0.56,10,0.5,0.0,0.0,-0.14,0.0,0.2,0.0,,Sleeper raw-stat projection × league scoring + OL health + injury ripple
+2026,1,1366076769534251008,Dynasty V2,8,Stutterboyzzzz,False,8150,Kyren Williams,RB,15.29,14.73,0.56,10,0.5,0.0,0.0,-0.1,0.0,0.16,0.0,,Sleeper raw-stat projection × league scoring + OL health + injury ripple
+2026,1,1366076769534251008,Dynasty V2,8,Stutterboyzzzz,False,8136,Rachaad White,RB,10.48,10.62,-0.14,10,-0.7,0.0,0.0,-0.14,0.0,0.7,0.0,Questionable,Sleeper raw-stat projection × league scoring + OL health + injury ripple
+2026,1,1366076769534251008,Dynasty V2,8,Stutterboyzzzz,False,6786,CeeDee Lamb,WR,18.57,17.76,0.81,10,0.5,0.0,0.0,-0.14,0.0,0.45,0.0,,Sleeper raw-stat projection × league scoring + OL health + injury ripple
 2026,1,1366076769534251008,Dynasty V2,8,Stutterboyzzzz,False,6794,Justin Jefferson,WR,17.82,17.32,0.5,10,0.5,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
 2026,1,1366076769534251008,Dynasty V2,8,Stutterboyzzzz,False,12518,Tyler Warren,TE,17.58,17.08,0.5,11,0.5,0.0,0.0,0.0,0.0,0.0,0.0,Questionable,Sleeper raw-stat projection × league scoring
 2026,1,1366076769534251008,Dynasty V2,8,Stutterboyzzzz,False,12512,Quinshon Judkins,RB,12.93,12.54,0.39,10,0.5,0.0,0.0,0.0,-0.11,0.0,0.0,,Sleeper raw-stat projection × league scoring + game-time weather
-2026,1,1366076769534251008,Dynasty V2,8,Stutterboyzzzz,False,11603,AJ Barner,TE,12.04,11.59,0.45,11,0.5,0.0,0.0,-0.05,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring + OL health
+2026,1,1366076769534251008,Dynasty V2,8,Stutterboyzzzz,False,11603,AJ Barner,TE,12.09,11.59,0.5,11,0.5,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
 2026,1,1366076769534251008,Dynasty V2,8,Stutterboyzzzz,False,6804,Jordan Love,QB,21.01,20.51,0.5,10,0.5,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
 2026,1,1366076769534251008,Dynasty V2,9,TheANT2,False,6797,Justin Herbert,QB,21.34,21.1,0.24,10,0.5,0.0,0.0,-0.26,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring + OL health
-2026,1,1366076769534251008,Dynasty V2,9,TheANT2,False,8138,James Cook,RB,18.07,17.57,0.5,10,0.5,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
+2026,1,1366076769534251008,Dynasty V2,9,TheANT2,False,8138,James Cook,RB,18.06,17.56,0.5,10,0.5,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
 2026,1,1366076769534251008,Dynasty V2,9,TheANT2,False,7567,Kenny Gainwell,RB,9.74,9.84,-0.1,10,-0.1,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
-2026,1,1366076769534251008,Dynasty V2,9,TheANT2,False,11834,Devaughn Vele,WR,9.59,10.21,-0.62,10,-0.7,0.0,0.0,0.0,0.0,0.08,0.0,,Sleeper raw-stat projection × league scoring + injury ripple
+2026,1,1366076769534251008,Dynasty V2,9,TheANT2,False,11834,Devaughn Vele,WR,9.69,10.21,-0.52,10,-0.7,0.0,0.0,0.0,0.0,0.18,0.0,,Sleeper raw-stat projection × league scoring + injury ripple
 2026,1,1366076769534251008,Dynasty V2,9,TheANT2,False,11625,Adonai Mitchell,WR,5.97,6.67,-0.7,10,-0.7,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
 2026,1,1366076769534251008,Dynasty V2,9,TheANT2,False,12506,Harold Fannin,TE,14.72,14.3,0.42,11,0.5,0.0,0.0,0.0,-0.08,0.0,0.0,,Sleeper raw-stat projection × league scoring + game-time weather
-2026,1,1366076769534251008,Dynasty V2,9,TheANT2,False,5892,David Montgomery,RB,14.72,14.22,0.5,10,0.5,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
+2026,1,1366076769534251008,Dynasty V2,9,TheANT2,False,5892,David Montgomery,RB,14.71,14.21,0.5,10,0.5,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
 2026,1,1366076769534251008,Dynasty V2,9,TheANT2,False,11628,Marvin Harrison,WR,11.49,10.99,0.5,6,0.5,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
 2026,1,1366076769534251008,Dynasty V2,9,TheANT2,False,6768,Tua Tagovailoa,QB,19.53,19.03,0.5,10,0.5,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
 2026,1,1370218620990263296,One League to Rule Them All,1,Sauron’s Commisioner,False,11566,Jayden Daniels,QB,21.32,20.9,0.42,9,0.5,0.0,0.0,-0.08,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring + OL health
 2026,1,1370218620990263296,One League to Rule Them All,1,Sauron’s Commisioner,False,13287,Jeremiyah Love,RB,13.69,13.19,0.5,9,0.5,0.0,0.0,0.0,0.0,0.0,0.0,Questionable,Sleeper raw-stat projection × league scoring
-2026,1,1370218620990263296,One League to Rule Them All,1,Sauron’s Commisioner,False,11655,Tyrone Tracy,RB,1.89,3.67,-1.78,9,-1.5,0.0,0.0,-0.28,0.0,0.0,0.0,Questionable,Sleeper raw-stat projection × league scoring + OL health
-2026,1,1370218620990263296,One League to Rule Them All,1,Sauron’s Commisioner,False,13279,Carnell Tate,WR,12.46,11.76,0.7,9,0.5,0.0,0.0,0.0,0.0,0.2,0.0,Questionable,Sleeper raw-stat projection × league scoring + injury ripple
-2026,1,1370218620990263296,One League to Rule Them All,1,Sauron’s Commisioner,False,11624,Xavier Worthy,WR,8.81,9.78,-0.97,9,-0.7,0.0,0.0,-0.18,0.0,-0.09,0.0,,Sleeper raw-stat projection × league scoring + OL health + injury ripple
+2026,1,1370218620990263296,One League to Rule Them All,1,Sauron’s Commisioner,False,11655,Tyrone Tracy,RB,3.05,4.03,-0.98,9,-0.7,0.0,0.0,-0.28,0.0,0.0,0.0,Questionable,Sleeper raw-stat projection × league scoring + OL health
+2026,1,1370218620990263296,One League to Rule Them All,1,Sauron’s Commisioner,False,13279,Carnell Tate,WR,12.71,11.76,0.95,9,0.5,0.0,0.0,0.0,0.0,0.45,0.0,Questionable,Sleeper raw-stat projection × league scoring + injury ripple
+2026,1,1370218620990263296,One League to Rule Them All,1,Sauron’s Commisioner,False,11624,Xavier Worthy,WR,8.7,9.78,-1.08,9,-0.7,0.0,0.0,-0.18,0.0,-0.2,0.0,,Sleeper raw-stat projection × league scoring + OL health + injury ripple
 2026,1,1370218620990263296,One League to Rule Them All,1,Sauron’s Commisioner,False,13346,Denzel Boston,WR,6.16,7.76,-1.6,9,-1.5,0.0,0.0,0.0,-0.1,0.0,0.0,,Sleeper raw-stat projection × league scoring + game-time weather
 2026,1,1370218620990263296,One League to Rule Them All,1,Sauron’s Commisioner,False,11604,Brock Bowers,TE,19.74,19.24,0.5,10,0.5,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
-2026,1,1370218620990263296,One League to Rule Them All,1,Sauron’s Commisioner,False,10219,Chris Rodriguez,RB,7.45,7.95,-0.5,9,-0.7,0.0,0.0,0.0,-0.11,0.31,0.0,,Sleeper raw-stat projection × league scoring + game-time weather + injury ripple
+2026,1,1370218620990263296,One League to Rule Them All,1,Sauron’s Commisioner,False,10219,Chris Rodriguez,RB,7.84,7.95,-0.11,9,-0.7,0.0,0.0,0.0,-0.11,0.7,0.0,,Sleeper raw-stat projection × league scoring + game-time weather + injury ripple
 2026,1,1370218620990263296,One League to Rule Them All,1,Sauron’s Commisioner,False,13330,Kenyon Sadiq,TE,4.18,4.88,-0.7,10,-0.7,0.0,0.0,0.0,0.0,0.0,0.0,Questionable,Sleeper raw-stat projection × league scoring
 2026,1,1370218620990263296,One League to Rule Them All,1,Sauron’s Commisioner,False,96,Aaron Rodgers,QB,17.62,17.12,0.5,9,0.5,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
-2026,1,1370218620990263296,One League to Rule Them All,10,Jimb083,False,8183,Brock Purdy,QB,21.51,21.0,0.51,9,0.5,0.0,0.0,-0.08,0.0,0.09,0.0,,Sleeper raw-stat projection × league scoring + OL health + injury ripple
-2026,1,1370218620990263296,One League to Rule Them All,10,Jimb083,False,12527,Ashton Jeanty,RB,14.14,13.64,0.5,9,0.5,0.0,0.0,0.0,0.0,0.0,0.0,Questionable,Sleeper raw-stat projection × league scoring
-2026,1,1370218620990263296,One League to Rule Them All,10,Jimb083,False,12481,Cam Skattebo,RB,13.89,13.67,0.22,9,0.5,0.0,0.0,-0.28,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring + OL health
-2026,1,1370218620990263296,One League to Rule Them All,10,Jimb083,False,8112,Drake London,WR,16.36,15.78,0.58,9,0.5,0.0,0.0,0.0,0.0,0.08,0.0,,Sleeper raw-stat projection × league scoring + injury ripple
-2026,1,1370218620990263296,One League to Rule Them All,10,Jimb083,False,8146,Garrett Wilson,WR,14.0,13.5,0.5,9,0.5,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
-2026,1,1370218620990263296,One League to Rule Them All,10,Jimb083,False,2449,Stefon Diggs,WR,10.65,11.39,-0.74,9,-0.7,0.0,0.0,-0.04,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring + OL health
-2026,1,1370218620990263296,One League to Rule Them All,10,Jimb083,False,10236,Dalton Kincaid,TE,11.73,11.23,0.5,7,0.5,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
-2026,1,1370218620990263296,One League to Rule Them All,10,Jimb083,False,6819,Michael Pittman,WR,10.23,10.71,-0.48,9,-0.7,0.0,0.0,0.0,0.0,0.22,0.0,Questionable,Sleeper raw-stat projection × league scoring + injury ripple
-2026,1,1370218620990263296,One League to Rule Them All,10,Jimb083,False,8210,Chig Okonkwo,TE,11.55,11.1,0.45,7,0.5,0.0,0.0,-0.05,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring + OL health
-2026,1,1370218620990263296,One League to Rule Them All,10,Jimb083,False,421,Matthew Stafford,QB,19.82,19.58,0.24,9,0.5,0.0,0.0,-0.26,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring + OL health
-2026,1,1370218620990263296,One League to Rule Them All,11,The J-Squad,False,6904,Jalen Hurts,QB,22.45,21.86,0.59,9,0.5,0.0,0.0,0.0,0.0,0.09,0.0,,Sleeper raw-stat projection × league scoring + injury ripple
+2026,1,1370218620990263296,One League to Rule Them All,10,JimmyJames2027,False,8183,Brock Purdy,QB,21.62,21.0,0.62,9,0.5,0.0,0.0,-0.08,0.0,0.2,0.0,,Sleeper raw-stat projection × league scoring + OL health + injury ripple
+2026,1,1370218620990263296,One League to Rule Them All,10,JimmyJames2027,False,12527,Ashton Jeanty,RB,14.14,13.64,0.5,9,0.5,0.0,0.0,0.0,0.0,0.0,0.0,Questionable,Sleeper raw-stat projection × league scoring
+2026,1,1370218620990263296,One League to Rule Them All,10,JimmyJames2027,False,12481,Cam Skattebo,RB,14.07,13.85,0.22,9,0.5,0.0,0.0,-0.28,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring + OL health
+2026,1,1370218620990263296,One League to Rule Them All,10,JimmyJames2027,False,8112,Drake London,WR,16.46,15.78,0.68,9,0.5,0.0,0.0,0.0,0.0,0.18,0.0,,Sleeper raw-stat projection × league scoring + injury ripple
+2026,1,1370218620990263296,One League to Rule Them All,10,JimmyJames2027,False,8146,Garrett Wilson,WR,14.0,13.5,0.5,9,0.5,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
+2026,1,1370218620990263296,One League to Rule Them All,10,JimmyJames2027,False,2449,Stefon Diggs,WR,10.65,11.39,-0.74,9,-0.7,0.0,0.0,-0.04,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring + OL health
+2026,1,1370218620990263296,One League to Rule Them All,10,JimmyJames2027,False,10236,Dalton Kincaid,TE,11.73,11.23,0.5,7,0.5,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
+2026,1,1370218620990263296,One League to Rule Them All,10,JimmyJames2027,False,6819,Michael Pittman,WR,10.51,10.71,-0.2,9,-0.7,0.0,0.0,0.0,0.0,0.5,0.0,Questionable,Sleeper raw-stat projection × league scoring + injury ripple
+2026,1,1370218620990263296,One League to Rule Them All,10,JimmyJames2027,False,8210,Chig Okonkwo,TE,11.55,11.1,0.45,7,0.5,0.0,0.0,-0.05,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring + OL health
+2026,1,1370218620990263296,One League to Rule Them All,10,JimmyJames2027,False,421,Matthew Stafford,QB,19.82,19.58,0.24,9,0.5,0.0,0.0,-0.26,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring + OL health
+2026,1,1370218620990263296,One League to Rule Them All,11,The J-Squad,False,6904,Jalen Hurts,QB,22.57,21.87,0.7,9,0.5,0.0,0.0,0.0,0.0,0.2,0.0,,Sleeper raw-stat projection × league scoring + injury ripple
 2026,1,1370218620990263296,One League to Rule Them All,11,The J-Squad,False,12490,Bhayshul Tuten,RB,11.59,11.2,0.39,9,0.5,0.0,0.0,0.0,-0.11,0.0,0.0,Questionable,Sleeper raw-stat projection × league scoring + game-time weather
 2026,1,1370218620990263296,One League to Rule Them All,11,The J-Squad,False,3198,Derrick Henry,RB,16.02,15.52,0.5,9,0.5,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
 2026,1,1370218620990263296,One League to Rule Them All,11,The J-Squad,False,7564,Ja'Marr Chase,WR,20.79,19.69,1.1,9,1.1,0.0,0.0,0.0,0.0,0.0,0.0,Questionable,Sleeper raw-stat projection × league scoring
@@ -249,141 +249,141 @@ season,week,league_id,league,roster_id,team,is_my_roster,player_id,player,positi
 2026,1,1370218620990263296,One League to Rule Them All,11,The J-Squad,False,5927,Terry McLaurin,WR,14.01,13.55,0.46,9,0.5,0.0,0.0,-0.04,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring + OL health
 2026,1,1370218620990263296,One League to Rule Them All,11,The J-Squad,False,9484,Tucker Kraft,TE,13.22,12.72,0.5,7,0.5,0.0,0.0,0.0,0.0,0.0,0.0,Questionable,Sleeper raw-stat projection × league scoring
 2026,1,1370218620990263296,One League to Rule Them All,11,The J-Squad,False,11581,MarShawn Lloyd,RB,11.31,10.81,0.5,9,0.5,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
-2026,1,1370218620990263296,One League to Rule Them All,11,The J-Squad,False,9754,Quentin Johnston,WR,10.3,11.06,-0.76,9,-0.7,0.0,0.0,-0.14,0.0,0.08,0.0,,Sleeper raw-stat projection × league scoring + OL health + injury ripple
+2026,1,1370218620990263296,One League to Rule Them All,11,The J-Squad,False,9754,Quentin Johnston,WR,10.4,11.06,-0.66,9,-0.7,0.0,0.0,-0.14,0.0,0.18,0.0,,Sleeper raw-stat projection × league scoring + OL health + injury ripple
 2026,1,1370218620990263296,One League to Rule Them All,11,The J-Squad,False,6804,Jordan Love,QB,20.12,19.62,0.5,9,0.5,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
 2026,1,1370218620990263296,One League to Rule Them All,12,Sabatz,False,3294,Dak Prescott,QB,21.61,21.37,0.24,9,0.5,0.0,0.0,-0.26,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring + OL health
-2026,1,1370218620990263296,One League to Rule Them All,12,Sabatz,False,9221,Jahmyr Gibbs,RB,23.92,23.42,0.5,9,0.5,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
-2026,1,1370218620990263296,One League to Rule Them All,12,Sabatz,False,4866,Saquon Barkley,RB,15.28,14.71,0.57,9,0.5,0.0,0.0,0.0,0.0,0.07,0.0,,Sleeper raw-stat projection × league scoring + injury ripple
-2026,1,1370218620990263296,One League to Rule Them All,12,Sabatz,False,6786,CeeDee Lamb,WR,17.65,17.09,0.56,9,0.5,0.0,0.0,-0.14,0.0,0.2,0.0,,Sleeper raw-stat projection × league scoring + OL health + injury ripple
-2026,1,1370218620990263296,One League to Rule Them All,12,Sabatz,False,6801,Tee Higgins,WR,15.73,15.61,0.12,9,-0.1,0.0,0.0,0.0,0.0,0.22,0.0,Questionable,Sleeper raw-stat projection × league scoring + injury ripple
-2026,1,1370218620990263296,One League to Rule Them All,12,Sabatz,False,7526,Jaylen Waddle,WR,15.44,14.7,0.74,9,0.5,0.0,0.0,-0.04,0.0,0.28,0.0,,Sleeper raw-stat projection × league scoring + OL health + injury ripple
-2026,1,1370218620990263296,One League to Rule Them All,12,Sabatz,False,1466,Travis Kelce,TE,13.48,13.24,0.24,7,0.5,0.0,0.0,-0.17,0.0,-0.09,0.0,,Sleeper raw-stat projection × league scoring + OL health + injury ripple
+2026,1,1370218620990263296,One League to Rule Them All,12,Sabatz,False,9221,Jahmyr Gibbs,RB,23.94,23.44,0.5,9,0.5,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
+2026,1,1370218620990263296,One League to Rule Them All,12,Sabatz,False,4866,Saquon Barkley,RB,15.37,14.71,0.66,9,0.5,0.0,0.0,0.0,0.0,0.16,0.0,,Sleeper raw-stat projection × league scoring + injury ripple
+2026,1,1370218620990263296,One League to Rule Them All,12,Sabatz,False,6786,CeeDee Lamb,WR,17.9,17.09,0.81,9,0.5,0.0,0.0,-0.14,0.0,0.45,0.0,,Sleeper raw-stat projection × league scoring + OL health + injury ripple
+2026,1,1370218620990263296,One League to Rule Them All,12,Sabatz,False,6801,Tee Higgins,WR,16.01,15.61,0.4,9,-0.1,0.0,0.0,0.0,0.0,0.5,0.0,Questionable,Sleeper raw-stat projection × league scoring + injury ripple
+2026,1,1370218620990263296,One League to Rule Them All,12,Sabatz,False,7526,Jaylen Waddle,WR,15.79,14.7,1.09,9,0.5,0.0,0.0,-0.04,0.0,0.63,0.0,,Sleeper raw-stat projection × league scoring + OL health + injury ripple
+2026,1,1370218620990263296,One League to Rule Them All,12,Sabatz,False,1466,Travis Kelce,TE,13.37,13.24,0.13,7,0.5,0.0,0.0,-0.17,0.0,-0.2,0.0,,Sleeper raw-stat projection × league scoring + OL health + injury ripple
 2026,1,1370218620990263296,One League to Rule Them All,12,Sabatz,False,7002,Juwan Johnson,TE,13.07,12.57,0.5,7,0.5,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
-2026,1,1370218620990263296,One League to Rule Them All,12,Sabatz,False,5892,David Montgomery,RB,14.22,13.72,0.5,9,0.5,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
+2026,1,1370218620990263296,One League to Rule Them All,12,Sabatz,False,5892,David Montgomery,RB,14.2,13.7,0.5,9,0.5,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
 2026,1,1370218620990263296,One League to Rule Them All,12,Sabatz,False,4046,Patrick Mahomes,QB,19.41,19.26,0.15,9,0.5,0.0,0.0,-0.35,0.0,0.0,0.0,Questionable,Sleeper raw-stat projection × league scoring + OL health
 2026,1,1370218620990263296,One League to Rule Them All,2,Brandopoly,False,12508,Jaxson Dart,QB,21.4,21.07,0.33,9,0.5,0.0,0.0,-0.17,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring + OL health
 2026,1,1370218620990263296,One League to Rule Them All,2,Brandopoly,False,8151,Kenneth Walker,RB,16.02,15.76,0.26,9,0.5,0.0,0.0,-0.24,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring + OL health
-2026,1,1370218620990263296,One League to Rule Them All,2,Brandopoly,False,7611,Rhamondre Stevenson,RB,12.18,11.68,0.5,9,0.5,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
-2026,1,1370218620990263296,One League to Rule Them All,2,Brandopoly,False,9493,Puka Nacua,WR,20.96,20.4,0.56,9,0.5,0.0,0.0,-0.14,0.0,0.2,0.0,Questionable,Sleeper raw-stat projection × league scoring + OL health + injury ripple
+2026,1,1370218620990263296,One League to Rule Them All,2,Brandopoly,False,7611,Rhamondre Stevenson,RB,15.69,15.19,0.5,9,0.5,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
+2026,1,1370218620990263296,One League to Rule Them All,2,Brandopoly,False,9493,Puka Nacua,WR,21.21,20.4,0.81,9,0.5,0.0,0.0,-0.14,0.0,0.45,0.0,,Sleeper raw-stat projection × league scoring + OL health + injury ripple
 2026,1,1370218620990263296,One League to Rule Them All,2,Brandopoly,False,5859,A.J. Brown,WR,17.31,16.81,0.5,9,0.5,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
-2026,1,1370218620990263296,One League to Rule Them All,2,Brandopoly,False,2133,Davante Adams,WR,11.71,12.25,-0.54,6,-0.7,0.0,0.0,-0.14,0.0,0.3,0.0,,Sleeper raw-stat projection × league scoring + OL health + injury ripple
+2026,1,1370218620990263296,One League to Rule Them All,2,Brandopoly,False,2133,Davante Adams,WR,11.59,12.25,-0.66,6,-0.7,0.0,0.0,-0.14,0.0,0.18,0.0,,Sleeper raw-stat projection × league scoring + OL health + injury ripple
 2026,1,1370218620990263296,One League to Rule Them All,2,Brandopoly,False,10859,Sam LaPorta,TE,16.47,15.97,0.5,10,0.5,0.0,0.0,0.0,0.0,0.0,0.0,Questionable,Sleeper raw-stat projection × league scoring
 2026,1,1370218620990263296,One League to Rule Them All,2,Brandopoly,False,4983,DJ Moore,WR,12.57,12.07,0.5,9,0.5,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
-2026,1,1370218620990263296,One League to Rule Them All,2,Brandopoly,False,8132,Tyler Allgeier,RB,7.99,8.38,-0.39,9,-0.7,0.0,0.0,0.0,0.0,0.31,0.0,,Sleeper raw-stat projection × league scoring + injury ripple
+2026,1,1370218620990263296,One League to Rule Them All,2,Brandopoly,False,8132,Tyler Allgeier,RB,8.38,8.38,0.0,9,-0.7,0.0,0.0,0.0,0.0,0.7,0.0,,Sleeper raw-stat projection × league scoring + injury ripple
 2026,1,1370218620990263296,One League to Rule Them All,2,Brandopoly,False,12522,Cam Ward,QB,17.1,16.6,0.5,9,0.5,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
-2026,1,1370218620990263296,One League to Rule Them All,3,Nazgûl Nation,True,6770,Joe Burrow,QB,24.47,23.37,1.1,9,1.1,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
+2026,1,1370218620990263296,One League to Rule Them All,3,Nazgûl Nation,True,6770,Joe Burrow,QB,24.49,23.39,1.1,9,1.1,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
 2026,1,1370218620990263296,One League to Rule Them All,3,Nazgûl Nation,True,12507,Omarion Hampton,RB,15.84,15.44,0.4,9,0.5,0.0,0.0,-0.1,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring + OL health
 2026,1,1370218620990263296,One League to Rule Them All,3,Nazgûl Nation,True,9224,Chase Brown,RB,17.66,16.56,1.1,9,1.1,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
-2026,1,1370218620990263296,One League to Rule Them All,3,Nazgûl Nation,True,12519,Luther Burden,WR,12.96,13.44,-0.48,9,-0.7,0.0,0.0,0.0,0.0,0.22,0.0,Questionable,Sleeper raw-stat projection × league scoring + injury ripple
-2026,1,1370218620990263296,One League to Rule Them All,3,Nazgûl Nation,True,12514,Emeka Egbuka,WR,12.92,11.62,1.3,9,1.1,0.0,0.0,0.0,0.0,0.2,0.0,Questionable,Sleeper raw-stat projection × league scoring + injury ripple
+2026,1,1370218620990263296,One League to Rule Them All,3,Nazgûl Nation,True,12519,Luther Burden,WR,13.24,13.44,-0.2,9,-0.7,0.0,0.0,0.0,0.0,0.5,0.0,Questionable,Sleeper raw-stat projection × league scoring + injury ripple
+2026,1,1370218620990263296,One League to Rule Them All,3,Nazgûl Nation,True,12514,Emeka Egbuka,WR,13.17,11.62,1.55,9,1.1,0.0,0.0,0.0,0.0,0.45,0.0,Questionable,Sleeper raw-stat projection × league scoring + injury ripple
 2026,1,1370218620990263296,One League to Rule Them All,3,Nazgûl Nation,True,9487,Parker Washington,WR,12.32,11.92,0.4,9,0.5,0.0,0.0,0.0,-0.1,0.0,0.0,,Sleeper raw-stat projection × league scoring + game-time weather
 2026,1,1370218620990263296,One League to Rule Them All,3,Nazgûl Nation,True,8110,Jake Ferguson,TE,12.21,11.83,0.38,7,0.5,0.0,0.0,-0.12,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring + OL health
 2026,1,1370218620990263296,One League to Rule Them All,3,Nazgûl Nation,True,11584,Bucky Irving,RB,13.16,12.06,1.1,9,1.1,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
 2026,1,1370218620990263296,One League to Rule Them All,3,Nazgûl Nation,True,6790,D'Andre Swift,RB,13.98,13.48,0.5,9,0.5,0.0,0.0,0.0,0.0,0.0,0.0,Questionable,Sleeper raw-stat projection × league scoring
 2026,1,1370218620990263296,One League to Rule Them All,3,Nazgûl Nation,True,1373,Geno Smith,QB,16.21,15.71,0.5,9,0.5,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
-2026,1,1370218620990263296,One League to Rule Them All,4,RoboJVB,False,4892,Baker Mayfield,QB,20.48,19.38,1.1,9,1.1,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
+2026,1,1370218620990263296,One League to Rule Them All,4,RoboJVB,False,4892,Baker Mayfield,QB,20.46,19.36,1.1,9,1.1,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
 2026,1,1370218620990263296,One League to Rule Them All,4,RoboJVB,False,12512,Quinshon Judkins,RB,12.48,12.09,0.39,9,0.5,0.0,0.0,0.0,-0.11,0.0,0.0,,Sleeper raw-stat projection × league scoring + game-time weather
-2026,1,1370218620990263296,One League to Rule Them All,4,RoboJVB,False,8150,Kyren Williams,RB,14.68,14.21,0.47,9,0.5,0.0,0.0,-0.1,0.0,0.07,0.0,,Sleeper raw-stat projection × league scoring + OL health + injury ripple
-2026,1,1370218620990263296,One League to Rule Them All,4,RoboJVB,False,9488,Jaxon Smith-Njigba,WR,20.09,19.6,0.49,9,0.5,0.0,0.0,-0.04,0.0,0.03,0.0,,Sleeper raw-stat projection × league scoring + OL health + injury ripple
-2026,1,1370218620990263296,One League to Rule Them All,4,RoboJVB,False,11635,Ladd McConkey,WR,13.81,13.25,0.56,9,0.5,0.0,0.0,-0.14,0.0,0.2,0.0,,Sleeper raw-stat projection × league scoring + OL health + injury ripple
-2026,1,1370218620990263296,One League to Rule Them All,4,RoboJVB,False,12526,Tetairoa McMillan,WR,14.69,13.91,0.78,9,0.5,0.0,0.0,0.0,0.0,0.28,0.0,,Sleeper raw-stat projection × league scoring + injury ripple
-2026,1,1370218620990263296,One League to Rule Them All,4,RoboJVB,False,12517,Colston Loveland,TE,17.28,16.68,0.6,10,0.5,0.0,0.0,0.0,0.0,0.1,0.0,,Sleeper raw-stat projection × league scoring + injury ripple
-2026,1,1370218620990263296,One League to Rule Them All,4,RoboJVB,False,11646,Jalen Coker,WR,11.41,12.03,-0.62,9,-0.7,0.0,0.0,0.0,0.0,0.08,0.0,,Sleeper raw-stat projection × league scoring + injury ripple
+2026,1,1370218620990263296,One League to Rule Them All,4,RoboJVB,False,8150,Kyren Williams,RB,14.77,14.21,0.56,9,0.5,0.0,0.0,-0.1,0.0,0.16,0.0,,Sleeper raw-stat projection × league scoring + OL health + injury ripple
+2026,1,1370218620990263296,One League to Rule Them All,4,RoboJVB,False,9488,Jaxon Smith-Njigba,WR,20.1,19.6,0.5,9,0.5,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
+2026,1,1370218620990263296,One League to Rule Them All,4,RoboJVB,False,11635,Ladd McConkey,WR,14.06,13.25,0.81,9,0.5,0.0,0.0,-0.14,0.0,0.45,0.0,,Sleeper raw-stat projection × league scoring + OL health + injury ripple
+2026,1,1370218620990263296,One League to Rule Them All,4,RoboJVB,False,12526,Tetairoa McMillan,WR,15.04,13.91,1.13,9,0.5,0.0,0.0,0.0,0.0,0.63,0.0,,Sleeper raw-stat projection × league scoring + injury ripple
+2026,1,1370218620990263296,One League to Rule Them All,4,RoboJVB,False,12517,Colston Loveland,TE,17.41,16.68,0.73,10,0.5,0.0,0.0,0.0,0.0,0.23,0.0,,Sleeper raw-stat projection × league scoring + injury ripple
+2026,1,1370218620990263296,One League to Rule Them All,4,RoboJVB,False,11646,Jalen Coker,WR,11.51,12.03,-0.52,9,-0.7,0.0,0.0,0.0,0.0,0.18,0.0,,Sleeper raw-stat projection × league scoring + injury ripple
 2026,1,1370218620990263296,One League to Rule Them All,4,RoboJVB,False,10222,Jayden Reed,WR,12.4,13.1,-0.7,9,-0.7,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
-2026,1,1370218620990263296,One League to Rule Them All,4,RoboJVB,False,4943,Sam Darnold,QB,19.72,19.21,0.51,9,0.5,0.0,0.0,-0.08,0.0,0.09,0.0,,Sleeper raw-stat projection × league scoring + OL health + injury ripple
+2026,1,1370218620990263296,One League to Rule Them All,4,RoboJVB,False,4943,Sam Darnold,QB,19.71,19.21,0.5,9,0.5,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
 2026,1,1370218620990263296,One League to Rule Them All,5,Average at Best,False,4984,Josh Allen,QB,23.74,23.24,0.5,9,0.5,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
 2026,1,1370218620990263296,One League to Rule Them All,5,Average at Best,False,9226,De'Von Achane,RB,17.85,17.35,0.5,9,0.5,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
-2026,1,1370218620990263296,One League to Rule Them All,5,Average at Best,False,7543,Travis Etienne,RB,15.41,14.91,0.5,9,0.5,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
-2026,1,1370218620990263296,One League to Rule Them All,5,Average at Best,False,8137,George Pickens,WR,15.78,16.54,-0.76,9,-0.7,0.0,0.0,-0.14,0.0,0.08,0.0,,Sleeper raw-stat projection × league scoring + OL health + injury ripple
-2026,1,1370218620990263296,One League to Rule Them All,5,Average at Best,False,8167,Christian Watson,WR,14.19,13.64,0.55,9,0.5,0.0,0.0,0.0,0.0,0.05,0.0,,Sleeper raw-stat projection × league scoring + injury ripple
-2026,1,1370218620990263296,One League to Rule Them All,5,Average at Best,False,7525,DeVonta Smith,WR,15.34,14.81,0.53,9,0.5,0.0,0.0,0.0,0.0,0.03,0.0,,Sleeper raw-stat projection × league scoring + injury ripple
-2026,1,1370218620990263296,One League to Rule Them All,5,Average at Best,False,8131,Isaiah Likely,TE,12.06,11.57,0.49,7,0.5,0.0,0.0,-0.11,0.0,0.1,0.0,,Sleeper raw-stat projection × league scoring + OL health + injury ripple
+2026,1,1370218620990263296,One League to Rule Them All,5,Average at Best,False,7543,Travis Etienne,RB,15.42,14.92,0.5,9,0.5,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
+2026,1,1370218620990263296,One League to Rule Them All,5,Average at Best,False,8137,George Pickens,WR,15.88,16.54,-0.66,9,-0.7,0.0,0.0,-0.14,0.0,0.18,0.0,,Sleeper raw-stat projection × league scoring + OL health + injury ripple
+2026,1,1370218620990263296,One League to Rule Them All,5,Average at Best,False,8167,Christian Watson,WR,14.25,13.64,0.61,9,0.5,0.0,0.0,0.0,0.0,0.11,0.0,,Sleeper raw-stat projection × league scoring + injury ripple
+2026,1,1370218620990263296,One League to Rule Them All,5,Average at Best,False,7525,DeVonta Smith,WR,15.38,14.81,0.57,9,0.5,0.0,0.0,0.0,0.0,0.07,0.0,,Sleeper raw-stat projection × league scoring + injury ripple
+2026,1,1370218620990263296,One League to Rule Them All,5,Average at Best,False,8131,Isaiah Likely,TE,12.19,11.57,0.62,7,0.5,0.0,0.0,-0.11,0.0,0.23,0.0,,Sleeper raw-stat projection × league scoring + OL health + injury ripple
 2026,1,1370218620990263296,One League to Rule Them All,5,Average at Best,False,5947,Jakobi Meyers,WR,8.76,10.36,-1.6,9,-1.5,0.0,0.0,0.0,-0.1,0.0,0.0,Questionable,Sleeper raw-stat projection × league scoring + game-time weather
 2026,1,1370218620990263296,One League to Rule Them All,5,Average at Best,False,7594,Chuba Hubbard,RB,10.66,10.16,0.5,9,0.5,0.0,0.0,0.0,0.0,0.0,0.0,Questionable,Sleeper raw-stat projection × league scoring
 2026,1,1370218620990263296,One League to Rule Them All,5,Average at Best,False,9758,C.J. Stroud,QB,18.59,18.09,0.5,9,0.5,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
 2026,1,1370218620990263296,One League to Rule Them All,6,scarberryt,False,11564,Drake Maye,QB,21.55,21.05,0.5,9,0.5,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
-2026,1,1370218620990263296,One League to Rule Them All,6,scarberryt,False,8155,Breece Hall,RB,14.26,13.76,0.5,9,0.5,0.0,0.0,0.0,0.0,0.0,0.0,Questionable,Sleeper raw-stat projection × league scoring
-2026,1,1370218620990263296,One League to Rule Them All,6,scarberryt,False,12529,TreVeyon Henderson,RB,9.24,9.94,-0.7,9,-0.7,0.0,0.0,0.0,0.0,0.0,0.0,Questionable,Sleeper raw-stat projection × league scoring
+2026,1,1370218620990263296,One League to Rule Them All,6,scarberryt,False,8155,Breece Hall,RB,14.42,13.76,0.66,9,0.5,0.0,0.0,0.0,0.0,0.16,0.0,Questionable,Sleeper raw-stat projection × league scoring + injury ripple
+2026,1,1370218620990263296,One League to Rule Them All,6,scarberryt,False,12529,TreVeyon Henderson,RB,0.0,,,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Out,weekly projected points
 2026,1,1370218620990263296,One League to Rule Them All,6,scarberryt,False,7569,Nico Collins,WR,17.85,17.35,0.5,9,0.5,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
 2026,1,1370218620990263296,One League to Rule Them All,6,scarberryt,False,8148,Jameson Williams,WR,13.16,13.86,-0.7,9,-0.7,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
-2026,1,1370218620990263296,One League to Rule Them All,6,scarberryt,False,8142,Alec Pierce,WR,9.41,8.83,0.58,9,0.5,0.0,0.0,0.0,0.0,0.08,0.0,,Sleeper raw-stat projection × league scoring + injury ripple
+2026,1,1370218620990263296,One League to Rule Them All,6,scarberryt,False,8142,Alec Pierce,WR,9.51,8.83,0.68,9,0.5,0.0,0.0,0.0,0.0,0.18,0.0,,Sleeper raw-stat projection × league scoring + injury ripple
 2026,1,1370218620990263296,One League to Rule Them All,6,scarberryt,False,12506,Harold Fannin,TE,14.23,13.81,0.42,10,0.5,0.0,0.0,0.0,-0.08,0.0,0.0,,Sleeper raw-stat projection × league scoring + game-time weather
 2026,1,1370218620990263296,One League to Rule Them All,6,scarberryt,False,12489,RJ Harvey,RB,9.29,10.13,-0.84,9,-0.7,0.0,0.0,-0.14,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring + OL health
-2026,1,1370218620990263296,One League to Rule Them All,6,scarberryt,False,7553,Kyle Pitts,TE,13.49,12.89,0.6,7,0.5,0.0,0.0,0.0,0.0,0.1,0.0,,Sleeper raw-stat projection × league scoring + injury ripple
+2026,1,1370218620990263296,One League to Rule Them All,6,scarberryt,False,7553,Kyle Pitts,TE,13.62,12.89,0.73,7,0.5,0.0,0.0,0.0,0.0,0.23,0.0,,Sleeper raw-stat projection × league scoring + injury ripple
 2026,1,1370218620990263296,One League to Rule Them All,6,scarberryt,False,6797,Justin Herbert,QB,20.37,20.13,0.24,9,0.5,0.0,0.0,-0.26,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring + OL health
 2026,1,1370218620990263296,One League to Rule Them All,7,sneekyn33ks,False,4881,Lamar Jackson,QB,23.68,23.18,0.5,9,0.5,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
 2026,1,1370218620990263296,One League to Rule Them All,7,sneekyn33ks,False,6813,Jonathan Taylor,RB,19.88,19.38,0.5,9,0.5,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
-2026,1,1370218620990263296,One League to Rule Them All,7,sneekyn33ks,False,4034,Christian McCaffrey,RB,21.2,20.84,0.36,9,0.5,0.0,0.0,-0.14,0.0,0.0,0.0,Questionable,Sleeper raw-stat projection × league scoring + OL health
-2026,1,1370218620990263296,One League to Rule Them All,7,sneekyn33ks,False,11620,Rome Odunze,WR,11.99,11.46,0.53,9,0.5,0.0,0.0,0.0,0.0,0.03,0.0,Questionable,Sleeper raw-stat projection × league scoring + injury ripple
-2026,1,1370218620990263296,One League to Rule Them All,7,sneekyn33ks,False,9997,Zay Flowers,WR,16.22,15.52,0.7,9,0.5,0.0,0.0,0.0,0.0,0.2,0.0,Questionable,Sleeper raw-stat projection × league scoring + injury ripple
-2026,1,1370218620990263296,One League to Rule Them All,7,sneekyn33ks,False,10232,Michael Wilson,WR,10.6,11.3,-0.7,9,-0.7,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
+2026,1,1370218620990263296,One League to Rule Them All,7,sneekyn33ks,False,4034,Christian McCaffrey,RB,21.2,20.84,0.36,9,0.5,0.0,0.0,-0.14,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring + OL health
+2026,1,1370218620990263296,One League to Rule Them All,7,sneekyn33ks,False,11620,Rome Odunze,WR,12.03,11.46,0.57,9,0.5,0.0,0.0,0.0,0.0,0.07,0.0,Questionable,Sleeper raw-stat projection × league scoring + injury ripple
+2026,1,1370218620990263296,One League to Rule Them All,7,sneekyn33ks,False,9997,Zay Flowers,WR,16.47,15.52,0.95,9,0.5,0.0,0.0,0.0,0.0,0.45,0.0,Questionable,Sleeper raw-stat projection × league scoring + injury ripple
+2026,1,1370218620990263296,One League to Rule Them All,7,sneekyn33ks,False,10232,Michael Wilson,WR,10.59,11.29,-0.7,9,-0.7,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
 2026,1,1370218620990263296,One League to Rule Them All,7,sneekyn33ks,False,8130,Trey McBride,TE,19.44,18.94,0.5,7,0.5,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
 2026,1,1370218620990263296,One League to Rule Them All,7,sneekyn33ks,False,7021,Rico Dowdle,RB,11.68,12.38,-0.7,9,-0.7,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
-2026,1,1370218620990263296,One League to Rule Them All,7,sneekyn33ks,False,5012,Mark Andrews,TE,13.39,12.79,0.6,10,0.5,0.0,0.0,0.0,0.0,0.1,0.0,,Sleeper raw-stat projection × league scoring + injury ripple
-2026,1,1370218620990263296,One League to Rule Them All,7,sneekyn33ks,False,3163,Jared Goff,QB,21.45,20.86,0.59,9,0.5,0.0,0.0,0.0,0.0,0.09,0.0,,Sleeper raw-stat projection × league scoring + injury ripple
+2026,1,1370218620990263296,One League to Rule Them All,7,sneekyn33ks,False,5012,Mark Andrews,TE,13.52,12.79,0.73,10,0.5,0.0,0.0,0.0,0.0,0.23,0.0,,Sleeper raw-stat projection × league scoring + injury ripple
+2026,1,1370218620990263296,One League to Rule Them All,7,sneekyn33ks,False,3163,Jared Goff,QB,21.56,20.86,0.7,9,0.5,0.0,0.0,0.0,0.0,0.2,0.0,,Sleeper raw-stat projection × league scoring + injury ripple
 2026,1,1370218620990263296,One League to Rule Them All,8,Shaboomaboom,False,11563,Bo Nix,QB,20.35,19.93,0.42,9,0.5,0.0,0.0,-0.08,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring + OL health
 2026,1,1370218620990263296,One League to Rule Them All,8,Shaboomaboom,False,8138,James Cook,RB,17.49,16.99,0.5,9,0.5,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
 2026,1,1370218620990263296,One League to Rule Them All,8,Shaboomaboom,False,9509,Bijan Robinson,RB,21.77,21.27,0.5,9,0.5,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
-2026,1,1370218620990263296,One League to Rule Them All,8,Shaboomaboom,False,11632,Malik Nabers,WR,14.07,13.66,0.41,9,0.5,0.0,0.0,-0.09,0.0,0.0,0.0,Questionable,Sleeper raw-stat projection × league scoring + OL health
-2026,1,1370218620990263296,One League to Rule Them All,8,Shaboomaboom,False,10229,Rashee Rice,WR,14.63,14.4,0.23,9,0.5,0.0,0.0,-0.18,0.0,-0.09,0.0,,Sleeper raw-stat projection × league scoring + OL health + injury ripple
-2026,1,1370218620990263296,One League to Rule Them All,8,Shaboomaboom,False,8144,Chris Olave,WR,16.88,16.18,0.7,9,0.5,0.0,0.0,0.0,0.0,0.2,0.0,,Sleeper raw-stat projection × league scoring + injury ripple
-2026,1,1370218620990263296,One League to Rule Them All,8,Shaboomaboom,False,4217,George Kittle,TE,12.51,11.96,0.55,7,0.5,0.0,0.0,-0.05,0.0,0.1,0.0,Questionable,Sleeper raw-stat projection × league scoring + OL health + injury ripple
+2026,1,1370218620990263296,One League to Rule Them All,8,Shaboomaboom,False,11632,Malik Nabers,WR,14.22,13.81,0.41,9,0.5,0.0,0.0,-0.09,0.0,0.0,0.0,Questionable,Sleeper raw-stat projection × league scoring + OL health
+2026,1,1370218620990263296,One League to Rule Them All,8,Shaboomaboom,False,10229,Rashee Rice,WR,14.52,14.4,0.12,9,0.5,0.0,0.0,-0.18,0.0,-0.2,0.0,,Sleeper raw-stat projection × league scoring + OL health + injury ripple
+2026,1,1370218620990263296,One League to Rule Them All,8,Shaboomaboom,False,8144,Chris Olave,WR,17.13,16.18,0.95,9,0.5,0.0,0.0,0.0,0.0,0.45,0.0,,Sleeper raw-stat projection × league scoring + injury ripple
+2026,1,1370218620990263296,One League to Rule Them All,8,Shaboomaboom,False,4217,George Kittle,TE,12.41,11.96,0.45,7,0.5,0.0,0.0,-0.05,0.0,0.0,0.0,Questionable,Sleeper raw-stat projection × league scoring + OL health
 2026,1,1370218620990263296,One League to Rule Them All,8,Shaboomaboom,False,7588,Javonte Williams,RB,15.7,15.3,0.4,9,0.5,0.0,0.0,-0.1,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring + OL health
 2026,1,1370218620990263296,One League to Rule Them All,8,Shaboomaboom,False,8121,Romeo Doubs,WR,9.86,10.56,-0.7,6,-0.7,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
 2026,1,1370218620990263296,One League to Rule Them All,8,Shaboomaboom,False,12545,Tyler Shough,QB,19.41,18.91,0.5,9,0.5,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
-2026,1,1370218620990263296,One League to Rule Them All,9,Spoonfed7,False,11560,Caleb Williams,QB,22.67,22.08,0.59,9,0.5,0.0,0.0,0.0,0.0,0.09,0.0,,Sleeper raw-stat projection × league scoring + injury ripple
+2026,1,1370218620990263296,One League to Rule Them All,9,Spoonfed7,False,11560,Caleb Williams,QB,22.78,22.08,0.7,9,0.5,0.0,0.0,0.0,0.0,0.2,0.0,,Sleeper raw-stat projection × league scoring + injury ripple
 2026,1,1370218620990263296,One League to Rule Them All,9,Spoonfed7,False,8228,Jaylen Warren,RB,13.67,13.17,0.5,9,0.5,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
 2026,1,1370218620990263296,One League to Rule Them All,9,Spoonfed7,False,5967,Tony Pollard,RB,10.45,9.95,0.5,9,0.5,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
-2026,1,1370218620990263296,One League to Rule Them All,9,Spoonfed7,False,7547,Amon-Ra St. Brown,WR,20.29,19.71,0.58,9,0.5,0.0,0.0,0.0,0.0,0.08,0.0,,Sleeper raw-stat projection × league scoring + injury ripple
+2026,1,1370218620990263296,One League to Rule Them All,9,Spoonfed7,False,7547,Amon-Ra St. Brown,WR,20.39,19.71,0.68,9,0.5,0.0,0.0,0.0,0.0,0.18,0.0,,Sleeper raw-stat projection × league scoring + injury ripple
 2026,1,1370218620990263296,One League to Rule Them All,9,Spoonfed7,False,11631,Brian Thomas,WR,9.66,10.46,-0.8,9,-0.7,0.0,0.0,0.0,-0.1,0.0,0.0,,Sleeper raw-stat projection × league scoring + game-time weather
 2026,1,1370218620990263296,One League to Rule Them All,9,Spoonfed7,False,5846,DK Metcalf,WR,12.38,11.88,0.5,9,0.5,0.0,0.0,0.0,0.0,0.0,0.0,Questionable,Sleeper raw-stat projection × league scoring
 2026,1,1370218620990263296,One League to Rule Them All,9,Spoonfed7,False,12518,Tyler Warren,TE,17.01,16.51,0.5,10,0.5,0.0,0.0,0.0,0.0,0.0,0.0,Questionable,Sleeper raw-stat projection × league scoring
-2026,1,1370218620990263296,One League to Rule Them All,9,Spoonfed7,False,13286,Jadarian Price,RB,9.96,9.6,0.36,9,0.5,0.0,0.0,-0.14,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring + OL health
-2026,1,1370218620990263296,One League to Rule Them All,9,Spoonfed7,False,6806,J.K. Dobbins,RB,11.35,10.92,0.43,9,0.5,0.0,0.0,-0.14,0.0,0.07,0.0,,Sleeper raw-stat projection × league scoring + OL health + injury ripple
+2026,1,1370218620990263296,One League to Rule Them All,9,Spoonfed7,False,13286,Jadarian Price,RB,10.1,9.6,0.5,9,0.5,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
+2026,1,1370218620990263296,One League to Rule Them All,9,Spoonfed7,False,6806,J.K. Dobbins,RB,11.44,10.92,0.52,9,0.5,0.0,0.0,-0.14,0.0,0.16,0.0,,Sleeper raw-stat projection × league scoring + OL health + injury ripple
 2026,1,1370218620990263296,One League to Rule Them All,9,Spoonfed7,False,7523,Trevor Lawrence,QB,19.99,19.59,0.4,9,0.5,0.0,0.0,0.0,-0.1,0.0,0.0,,Sleeper raw-stat projection × league scoring + game-time weather
-2026,1,1370453762442797056,Surviving the Chamber,1,Masta’s,True,6770,Joe Burrow,QB,26.43,25.33,1.1,12,1.1,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
-2026,1,1370453762442797056,Surviving the Chamber,1,Masta’s,True,6813,Jonathan Taylor,RB,28.59,28.09,0.5,12,0.5,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
-2026,1,1370453762442797056,Surviving the Chamber,1,Masta’s,True,4199,Aaron Jones,RB,13.53,13.03,0.5,12,0.5,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
-2026,1,1370453762442797056,Surviving the Chamber,1,Masta’s,True,11632,Malik Nabers,WR,15.18,14.77,0.41,12,0.5,0.0,0.0,-0.09,0.0,0.0,0.0,Questionable,Sleeper raw-stat projection × league scoring + OL health
-2026,1,1370453762442797056,Surviving the Chamber,1,Masta’s,True,11628,Marvin Harrison,WR,11.82,11.32,0.5,6,0.5,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
-2026,1,1370453762442797056,Surviving the Chamber,1,Masta’s,True,9484,Tucker Kraft,TE,13.99,13.49,0.5,7,0.5,0.0,0.0,0.0,0.0,0.0,0.0,Questionable,Sleeper raw-stat projection × league scoring
-2026,1,1370453762442797056,Surviving the Chamber,1,Masta’s,True,13075,Myles Price,WR,14.6,,,0,0.0,0.0,0.0,0.0,0.0,0.0,11.1,,season-long ECR proxy + league return scoring
-2026,1,1370453762442797056,Surviving the Chamber,1,Masta’s,True,11237,Jacob Saylors,RB,13.69,5.54,8.15,12,0.0,0.0,0.0,0.0,0.0,0.0,8.15,,Sleeper raw-stat projection × league scoring + league return scoring
-2026,1,1370453762442797056,Surviving the Chamber,1,Masta’s,True,8259,Cameron Dicker,K,8.5,8.0,0.5,7,0.5,0.0,0.0,0.0,0.0,0.0,0.0,Questionable,Sleeper raw-stat projection × league scoring
+2026,1,1370453762442797056,Surviving the Chamber,1,Third Reich & Long,True,6770,Joe Burrow,QB,26.45,25.35,1.1,12,1.1,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
+2026,1,1370453762442797056,Surviving the Chamber,1,Third Reich & Long,True,6813,Jonathan Taylor,RB,28.59,28.09,0.5,12,0.5,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
+2026,1,1370453762442797056,Surviving the Chamber,1,Third Reich & Long,True,4199,Aaron Jones,RB,13.53,13.03,0.5,12,0.5,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
+2026,1,1370453762442797056,Surviving the Chamber,1,Third Reich & Long,True,11632,Malik Nabers,WR,15.35,14.94,0.41,12,0.5,0.0,0.0,-0.09,0.0,0.0,0.0,Questionable,Sleeper raw-stat projection × league scoring + OL health
+2026,1,1370453762442797056,Surviving the Chamber,1,Third Reich & Long,True,11628,Marvin Harrison,WR,11.82,11.32,0.5,6,0.5,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
+2026,1,1370453762442797056,Surviving the Chamber,1,Third Reich & Long,True,9484,Tucker Kraft,TE,13.99,13.49,0.5,7,0.5,0.0,0.0,0.0,0.0,0.0,0.0,Questionable,Sleeper raw-stat projection × league scoring
+2026,1,1370453762442797056,Surviving the Chamber,1,Third Reich & Long,True,13075,Myles Price,WR,11.1,,,0,0.0,0.0,0.0,0.0,0.0,0.0,11.1,,weekly projected points + league return scoring
+2026,1,1370453762442797056,Surviving the Chamber,1,Third Reich & Long,True,11237,Jacob Saylors,RB,12.99,5.54,7.45,12,-0.7,0.0,0.0,0.0,0.0,0.0,8.15,,Sleeper raw-stat projection × league scoring + league return scoring
+2026,1,1370453762442797056,Surviving the Chamber,1,Third Reich & Long,True,8259,Cameron Dicker,K,8.49,7.99,0.5,7,0.5,0.0,0.0,0.0,0.0,0.0,0.0,Questionable,Sleeper raw-stat projection × league scoring
 2026,1,1370453762442797056,Surviving the Chamber,10,joshwat,False,13269,Fernando Mendoza,QB,0.0,,,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,weekly projected points
 2026,1,1370453762442797056,Surviving the Chamber,10,joshwat,False,8151,Kenneth Walker,RB,23.91,23.65,0.26,12,0.5,0.0,0.0,-0.24,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring + OL health
-2026,1,1370453762442797056,Surviving the Chamber,10,joshwat,False,12529,TreVeyon Henderson,RB,13.52,14.22,-0.7,12,-0.7,0.0,0.0,0.0,0.0,0.0,0.0,Questionable,Sleeper raw-stat projection × league scoring
-2026,1,1370453762442797056,Surviving the Chamber,10,joshwat,False,6786,CeeDee Lamb,WR,19.01,18.45,0.56,12,0.5,0.0,0.0,-0.14,0.0,0.2,0.0,,Sleeper raw-stat projection × league scoring + OL health + injury ripple
-2026,1,1370453762442797056,Surviving the Chamber,10,joshwat,False,12526,Tetairoa McMillan,WR,15.64,14.86,0.78,12,0.5,0.0,0.0,0.0,0.0,0.28,0.0,,Sleeper raw-stat projection × league scoring + injury ripple
-2026,1,1370453762442797056,Surviving the Chamber,10,joshwat,False,4217,George Kittle,TE,13.28,12.73,0.55,7,0.5,0.0,0.0,-0.05,0.0,0.1,0.0,Questionable,Sleeper raw-stat projection × league scoring + OL health + injury ripple
+2026,1,1370453762442797056,Surviving the Chamber,10,joshwat,False,12529,TreVeyon Henderson,RB,0.0,,,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Out,weekly projected points
+2026,1,1370453762442797056,Surviving the Chamber,10,joshwat,False,6786,CeeDee Lamb,WR,19.26,18.45,0.81,12,0.5,0.0,0.0,-0.14,0.0,0.45,0.0,,Sleeper raw-stat projection × league scoring + OL health + injury ripple
+2026,1,1370453762442797056,Surviving the Chamber,10,joshwat,False,12526,Tetairoa McMillan,WR,15.99,14.86,1.13,12,0.5,0.0,0.0,0.0,0.0,0.63,0.0,,Sleeper raw-stat projection × league scoring + injury ripple
+2026,1,1370453762442797056,Surviving the Chamber,10,joshwat,False,4217,George Kittle,TE,13.18,12.73,0.45,7,0.5,0.0,0.0,-0.05,0.0,0.0,0.0,Questionable,Sleeper raw-stat projection × league scoring + OL health
 2026,1,1370453762442797056,Surviving the Chamber,10,joshwat,False,5846,DK Metcalf,WR,13.2,12.7,0.5,12,0.5,0.0,0.0,0.0,0.0,0.0,0.0,Questionable,Sleeper raw-stat projection × league scoring
 2026,1,1370453762442797056,Surviving the Chamber,10,joshwat,False,5947,Jakobi Meyers,WR,9.71,11.31,-1.6,12,-1.5,0.0,0.0,0.0,-0.1,0.0,0.0,Questionable,Sleeper raw-stat projection × league scoring + game-time weather
-2026,1,1370453762442797056,Surviving the Chamber,10,joshwat,False,4195,Jake Elliott,K,7.15,6.65,0.5,7,0.5,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
+2026,1,1370453762442797056,Surviving the Chamber,10,joshwat,False,4195,Jake Elliott,K,7.12,6.62,0.5,7,0.5,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
 2026,1,1370453762442797056,Surviving the Chamber,11,JoeShiestysSock,False,12508,Jaxson Dart,QB,24.83,24.5,0.33,12,0.5,0.0,0.0,-0.17,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring + OL health
-2026,1,1370453762442797056,Surviving the Chamber,11,JoeShiestysSock,False,8138,James Cook,RB,25.34,24.84,0.5,12,0.5,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
+2026,1,1370453762442797056,Surviving the Chamber,11,JoeShiestysSock,False,8138,James Cook,RB,25.33,24.83,0.5,12,0.5,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
 2026,1,1370453762442797056,Surviving the Chamber,11,JoeShiestysSock,False,11586,Blake Corum,RB,12.87,13.44,-0.57,12,-0.7,0.0,0.0,-0.1,0.0,0.0,0.23,,Sleeper raw-stat projection × league scoring + OL health + league return scoring
-2026,1,1370453762442797056,Surviving the Chamber,11,JoeShiestysSock,False,7525,DeVonta Smith,WR,16.47,15.94,0.53,12,0.5,0.0,0.0,0.0,0.0,0.03,0.0,,Sleeper raw-stat projection × league scoring + injury ripple
+2026,1,1370453762442797056,Surviving the Chamber,11,JoeShiestysSock,False,7525,DeVonta Smith,WR,16.51,15.94,0.57,12,0.5,0.0,0.0,0.0,0.0,0.07,0.0,,Sleeper raw-stat projection × league scoring + injury ripple
 2026,1,1370453762442797056,Surviving the Chamber,11,JoeShiestysSock,False,10218,Xavier Hutchinson,WR,3.0,4.5,-1.5,12,-1.5,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
 2026,1,1370453762442797056,Surviving the Chamber,11,JoeShiestysSock,False,3214,Hunter Henry,TE,12.41,11.91,0.5,7,0.5,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
-2026,1,1370453762442797056,Surviving the Chamber,11,JoeShiestysSock,False,2133,Davante Adams,WR,12.53,13.07,-0.54,6,-0.7,0.0,0.0,-0.14,0.0,0.3,0.0,,Sleeper raw-stat projection × league scoring + OL health + injury ripple
+2026,1,1370453762442797056,Surviving the Chamber,11,JoeShiestysSock,False,2133,Davante Adams,WR,12.41,13.07,-0.66,6,-0.7,0.0,0.0,-0.14,0.0,0.18,0.0,,Sleeper raw-stat projection × league scoring + OL health + injury ripple
 2026,1,1370453762442797056,Surviving the Chamber,11,JoeShiestysSock,False,2449,Stefon Diggs,WR,11.61,12.35,-0.74,12,-0.7,0.0,0.0,-0.04,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring + OL health
 2026,1,1370453762442797056,Surviving the Chamber,11,JoeShiestysSock,False,1945,Chris Boswell,K,7.22,6.72,0.5,7,0.5,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
 2026,1,1370453762442797056,Surviving the Chamber,12,Stefon Diggsin iybt,False,6797,Justin Herbert,QB,23.17,22.93,0.24,12,0.5,0.0,0.0,-0.26,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring + OL health
 2026,1,1370453762442797056,Surviving the Chamber,12,Stefon Diggsin iybt,False,3198,Derrick Henry,RB,24.47,23.97,0.5,12,0.5,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
 2026,1,1370453762442797056,Surviving the Chamber,12,Stefon Diggsin iybt,False,7594,Chuba Hubbard,RB,16.17,15.67,0.5,12,0.5,0.0,0.0,0.0,0.0,0.0,0.0,Questionable,Sleeper raw-stat projection × league scoring
 2026,1,1370453762442797056,Surviving the Chamber,12,Stefon Diggsin iybt,False,5859,A.J. Brown,WR,18.46,17.96,0.5,12,0.5,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
-2026,1,1370453762442797056,Surviving the Chamber,12,Stefon Diggsin iybt,False,12519,Luther Burden,WR,14.38,14.68,-0.3,12,-0.7,0.0,0.0,0.0,0.0,0.22,0.18,Questionable,Sleeper raw-stat projection × league scoring + injury ripple + league return scoring
-2026,1,1370453762442797056,Surviving the Chamber,12,Stefon Diggsin iybt,False,8131,Isaiah Likely,TE,12.89,12.4,0.49,7,0.5,0.0,0.0,-0.11,0.0,0.1,0.0,,Sleeper raw-stat projection × league scoring + OL health + injury ripple
+2026,1,1370453762442797056,Surviving the Chamber,12,Stefon Diggsin iybt,False,12519,Luther Burden,WR,14.66,14.68,-0.02,12,-0.7,0.0,0.0,0.0,0.0,0.5,0.18,Questionable,Sleeper raw-stat projection × league scoring + injury ripple + league return scoring
+2026,1,1370453762442797056,Surviving the Chamber,12,Stefon Diggsin iybt,False,8131,Isaiah Likely,TE,13.02,12.4,0.62,7,0.5,0.0,0.0,-0.11,0.0,0.23,0.0,,Sleeper raw-stat projection × league scoring + OL health + injury ripple
 2026,1,1370453762442797056,Surviving the Chamber,12,Stefon Diggsin iybt,False,4983,DJ Moore,WR,13.62,13.12,0.5,12,0.5,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
 2026,1,1370453762442797056,Surviving the Chamber,12,Stefon Diggsin iybt,False,8121,Romeo Doubs,WR,10.63,11.39,-0.76,7,-0.7,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
 2026,1,1370453762442797056,Surviving the Chamber,12,Stefon Diggsin iybt,False,11792,Will Reichard,K,7.93,7.43,0.5,7,0.5,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
-2026,1,1370453762442797056,Surviving the Chamber,13,Beat me if gay,False,6904,Jalen Hurts,QB,26.06,25.47,0.59,12,0.5,0.0,0.0,0.0,0.0,0.09,0.0,,Sleeper raw-stat projection × league scoring + injury ripple
+2026,1,1370453762442797056,Surviving the Chamber,13,Beat me if gay,False,6904,Jalen Hurts,QB,26.17,25.47,0.7,12,0.5,0.0,0.0,0.0,0.0,0.2,0.0,,Sleeper raw-stat projection × league scoring + injury ripple
 2026,1,1370453762442797056,Surviving the Chamber,13,Beat me if gay,False,7588,Javonte Williams,RB,23.88,23.48,0.4,12,0.5,0.0,0.0,-0.1,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring + OL health
 2026,1,1370453762442797056,Surviving the Chamber,13,Beat me if gay,False,11584,Bucky Irving,RB,19.28,18.18,1.1,12,1.1,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
-2026,1,1370453762442797056,Surviving the Chamber,13,Beat me if gay,False,7547,Amon-Ra St. Brown,WR,21.91,21.33,0.58,12,0.5,0.0,0.0,0.0,0.0,0.08,0.0,,Sleeper raw-stat projection × league scoring + injury ripple
+2026,1,1370453762442797056,Surviving the Chamber,13,Beat me if gay,False,7547,Amon-Ra St. Brown,WR,22.01,21.33,0.68,12,0.5,0.0,0.0,0.0,0.0,0.18,0.0,,Sleeper raw-stat projection × league scoring + injury ripple
 2026,1,1370453762442797056,Surviving the Chamber,13,Beat me if gay,False,5927,Terry McLaurin,WR,15.01,14.55,0.46,12,0.5,0.0,0.0,-0.04,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring + OL health
 2026,1,1370453762442797056,Surviving the Chamber,13,Beat me if gay,False,8110,Jake Ferguson,TE,13.11,12.73,0.38,7,0.5,0.0,0.0,-0.12,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring + OL health
-2026,1,1370453762442797056,Surviving the Chamber,13,Beat me if gay,False,8142,Alec Pierce,WR,9.93,9.35,0.58,12,0.5,0.0,0.0,0.0,0.0,0.08,0.0,,Sleeper raw-stat projection × league scoring + injury ripple
+2026,1,1370453762442797056,Surviving the Chamber,13,Beat me if gay,False,8142,Alec Pierce,WR,10.03,9.35,0.68,12,0.5,0.0,0.0,0.0,0.0,0.18,0.0,,Sleeper raw-stat projection × league scoring + injury ripple
 2026,1,1370453762442797056,Surviving the Chamber,13,Beat me if gay,False,9756,Jordan Addison,WR,11.45,12.15,-0.7,12,-0.7,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
 2026,1,1370453762442797056,Surviving the Chamber,13,Beat me if gay,False,12015,Harrison Mevis,K,7.83,7.83,0.0,7,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
 2026,1,1370453762442797056,Surviving the Chamber,14,jared3942,False,6804,Jordan Love,QB,22.19,21.69,0.5,12,0.5,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
@@ -394,212 +394,212 @@ season,week,league_id,league,roster_id,team,is_my_roster,player_id,player,positi
 2026,1,1370453762442797056,Surviving the Chamber,14,jared3942,False,10859,Sam LaPorta,TE,17.57,17.07,0.5,13,0.5,0.0,0.0,0.0,0.0,0.0,0.0,Questionable,Sleeper raw-stat projection × league scoring
 2026,1,1370453762442797056,Surviving the Chamber,14,jared3942,False,13294,Makai Lemon,WR,4.97,6.77,-1.8,13,-1.5,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
 2026,1,1370453762442797056,Surviving the Chamber,14,jared3942,False,9500,Josh Downs,WR,12.86,14.09,-1.23,13,-0.7,0.0,0.0,0.0,0.0,0.0,0.0,Questionable,Sleeper raw-stat projection × league scoring
-2026,1,1370453762442797056,Surviving the Chamber,14,jared3942,False,12713,Andy Borregales,K,6.89,6.89,0.0,8,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
-2026,1,1370453762442797056,Surviving the Chamber,15,TeamSkatteboHeadbutt,False,3163,Jared Goff,QB,22.96,22.37,0.59,12,0.5,0.0,0.0,0.0,0.0,0.09,0.0,,Sleeper raw-stat projection × league scoring + injury ripple
+2026,1,1370453762442797056,Surviving the Chamber,14,jared3942,False,12713,Andy Borregales,K,6.74,6.74,0.0,8,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
+2026,1,1370453762442797056,Surviving the Chamber,15,TeamSkatteboHeadbutt,False,3163,Jared Goff,QB,23.07,22.37,0.7,12,0.5,0.0,0.0,0.0,0.0,0.2,0.0,,Sleeper raw-stat projection × league scoring + injury ripple
 2026,1,1370453762442797056,Surviving the Chamber,15,TeamSkatteboHeadbutt,False,9509,Bijan Robinson,RB,31.42,30.92,0.5,12,0.5,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
-2026,1,1370453762442797056,Surviving the Chamber,15,TeamSkatteboHeadbutt,False,7611,Rhamondre Stevenson,RB,18.09,17.59,0.5,12,0.5,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
-2026,1,1370453762442797056,Surviving the Chamber,15,TeamSkatteboHeadbutt,False,13298,KC Concepcion,WR,9.65,11.8,-2.15,13,-0.7,0.0,0.0,0.0,-0.1,0.0,0.04,,Sleeper raw-stat projection × league scoring + game-time weather + league return scoring
+2026,1,1370453762442797056,Surviving the Chamber,15,TeamSkatteboHeadbutt,False,7611,Rhamondre Stevenson,RB,22.88,22.38,0.5,12,0.5,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
+2026,1,1370453762442797056,Surviving the Chamber,15,TeamSkatteboHeadbutt,False,13298,KC Concepcion,WR,9.65,11.79,-2.14,13,-0.7,0.0,0.0,0.0,-0.1,0.0,0.04,,Sleeper raw-stat projection × league scoring + game-time weather + league return scoring
 2026,1,1370453762442797056,Surviving the Chamber,15,TeamSkatteboHeadbutt,False,8917,KaVontae Turpin,WR,15.17,5.14,10.03,13,-1.5,0.0,0.0,-0.14,0.0,0.0,12.46,,Sleeper raw-stat projection × league scoring + OL health + league return scoring
-2026,1,1370453762442797056,Surviving the Chamber,15,TeamSkatteboHeadbutt,False,12517,Colston Loveland,TE,18.37,17.77,0.6,13,0.5,0.0,0.0,0.0,0.0,0.1,0.0,,Sleeper raw-stat projection × league scoring + injury ripple
+2026,1,1370453762442797056,Surviving the Chamber,15,TeamSkatteboHeadbutt,False,12517,Colston Loveland,TE,18.5,17.77,0.73,13,0.5,0.0,0.0,0.0,0.0,0.23,0.0,,Sleeper raw-stat projection × league scoring + injury ripple
 2026,1,1370453762442797056,Surviving the Chamber,15,TeamSkatteboHeadbutt,False,11610,Malik Washington,WR,17.32,10.9,6.42,13,0.5,0.0,0.0,0.0,0.0,0.0,7.21,,Sleeper raw-stat projection × league scoring + league return scoring
 2026,1,1370453762442797056,Surviving the Chamber,15,TeamSkatteboHeadbutt,False,5001,Dalton Schultz,TE,12.59,12.09,0.5,7,0.5,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
-2026,1,1370453762442797056,Surviving the Chamber,15,TeamSkatteboHeadbutt,False,11539,Jake Bates,K,8.51,8.01,0.5,7,0.5,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
+2026,1,1370453762442797056,Surviving the Chamber,15,TeamSkatteboHeadbutt,False,11539,Jake Bates,K,8.47,7.97,0.5,7,0.5,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
 2026,1,1370453762442797056,Surviving the Chamber,16,ReturnOfTheGhost,False,11563,Bo Nix,QB,23.03,22.61,0.42,12,0.5,0.0,0.0,-0.08,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring + OL health
 2026,1,1370453762442797056,Surviving the Chamber,16,ReturnOfTheGhost,False,9224,Chase Brown,RB,24.9,23.8,1.1,12,1.1,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
 2026,1,1370453762442797056,Surviving the Chamber,16,ReturnOfTheGhost,False,12489,RJ Harvey,RB,13.18,13.77,-0.59,12,-0.7,0.0,0.0,-0.14,0.0,0.0,0.25,,Sleeper raw-stat projection × league scoring + OL health + league return scoring
-2026,1,1370453762442797056,Surviving the Chamber,16,ReturnOfTheGhost,False,8137,George Pickens,WR,16.92,17.68,-0.76,12,-0.7,0.0,0.0,-0.14,0.0,0.08,0.0,,Sleeper raw-stat projection × league scoring + OL health + injury ripple
-2026,1,1370453762442797056,Surviving the Chamber,16,ReturnOfTheGhost,False,4037,Chris Godwin,WR,12.05,11.85,0.2,12,-0.1,0.0,0.0,0.0,0.0,0.3,0.0,,Sleeper raw-stat projection × league scoring + injury ripple
+2026,1,1370453762442797056,Surviving the Chamber,16,ReturnOfTheGhost,False,8137,George Pickens,WR,17.02,17.68,-0.66,12,-0.7,0.0,0.0,-0.14,0.0,0.18,0.0,,Sleeper raw-stat projection × league scoring + OL health + injury ripple
+2026,1,1370453762442797056,Surviving the Chamber,16,ReturnOfTheGhost,False,4037,Chris Godwin,WR,12.43,11.85,0.58,12,-0.1,0.0,0.0,0.0,0.0,0.68,0.0,,Sleeper raw-stat projection × league scoring + injury ripple
 2026,1,1370453762442797056,Surviving the Chamber,16,ReturnOfTheGhost,False,10236,Dalton Kincaid,TE,12.5,12.0,0.5,7,0.5,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
-2026,1,1370453762442797056,Surviving the Chamber,16,ReturnOfTheGhost,False,8676,Rashid Shaheed,WR,13.54,11.03,2.51,13,-0.7,0.0,0.0,-0.04,0.0,0.0,4.36,,Sleeper raw-stat projection × league scoring + OL health + league return scoring
-2026,1,1370453762442797056,Surviving the Chamber,16,ReturnOfTheGhost,False,8134,Khalil Shakir,WR,12.38,13.04,-0.66,13,-0.7,0.0,0.0,0.0,0.0,0.0,0.78,Questionable,Sleeper raw-stat projection × league scoring + league return scoring
-2026,1,1370453762442797056,Surviving the Chamber,16,ReturnOfTheGhost,False,3451,Ka'imi Fairbairn,K,8.01,7.51,0.5,7,0.5,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
+2026,1,1370453762442797056,Surviving the Chamber,16,ReturnOfTheGhost,False,8676,Rashid Shaheed,WR,13.6,11.04,2.56,13,-0.7,0.0,0.0,0.0,0.0,0.0,4.36,,Sleeper raw-stat projection × league scoring + league return scoring
+2026,1,1370453762442797056,Surviving the Chamber,16,ReturnOfTheGhost,False,8134,Khalil Shakir,WR,12.38,13.03,-0.65,13,-0.7,0.0,0.0,0.0,0.0,0.0,0.78,Questionable,Sleeper raw-stat projection × league scoring + league return scoring
+2026,1,1370453762442797056,Surviving the Chamber,16,ReturnOfTheGhost,False,3451,Ka'imi Fairbairn,K,8.11,7.61,0.5,7,0.5,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
 2026,1,1370453762442797056,Surviving the Chamber,17,Felici42,False,4881,Lamar Jackson,QB,28.28,27.78,0.5,12,0.5,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
-2026,1,1370453762442797056,Surviving the Chamber,17,Felici42,False,9221,Jahmyr Gibbs,RB,33.24,32.74,0.5,12,0.5,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
-2026,1,1370453762442797056,Surviving the Chamber,17,Felici42,False,12534,Kyle Monangai,RB,10.54,10.93,-0.39,12,-0.7,0.0,0.0,0.0,0.0,0.31,0.0,Questionable,Sleeper raw-stat projection × league scoring + injury ripple
-2026,1,1370453762442797056,Surviving the Chamber,17,Felici42,False,6801,Tee Higgins,WR,16.74,16.62,0.12,12,-0.1,0.0,0.0,0.0,0.0,0.22,0.0,Questionable,Sleeper raw-stat projection × league scoring + injury ripple
-2026,1,1370453762442797056,Surviving the Chamber,17,Felici42,False,13279,Carnell Tate,WR,13.34,12.7,0.64,13,0.5,0.0,0.0,0.0,0.0,0.2,0.0,Questionable,Sleeper raw-stat projection × league scoring + injury ripple
+2026,1,1370453762442797056,Surviving the Chamber,17,Felici42,False,9221,Jahmyr Gibbs,RB,33.26,32.76,0.5,12,0.5,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
+2026,1,1370453762442797056,Surviving the Chamber,17,Felici42,False,12534,Kyle Monangai,RB,10.94,10.94,0.0,12,-0.7,0.0,0.0,0.0,0.0,0.7,0.0,Questionable,Sleeper raw-stat projection × league scoring + injury ripple
+2026,1,1370453762442797056,Surviving the Chamber,17,Felici42,False,6801,Tee Higgins,WR,17.02,16.62,0.4,12,-0.1,0.0,0.0,0.0,0.0,0.5,0.0,Questionable,Sleeper raw-stat projection × league scoring + injury ripple
+2026,1,1370453762442797056,Surviving the Chamber,17,Felici42,False,13279,Carnell Tate,WR,13.59,12.7,0.89,13,0.5,0.0,0.0,0.0,0.0,0.45,0.0,Questionable,Sleeper raw-stat projection × league scoring + injury ripple
 2026,1,1370453762442797056,Surviving the Chamber,17,Felici42,False,12493,Oronde Gadsden,TE,6.38,6.0,0.38,7,0.5,0.0,0.0,-0.12,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring + OL health
 2026,1,1370453762442797056,Surviving the Chamber,17,Felici42,False,11631,Brian Thomas,WR,10.48,11.28,-0.8,12,-0.7,0.0,0.0,0.0,-0.1,0.0,0.0,,Sleeper raw-stat projection × league scoring + game-time weather
-2026,1,1370453762442797056,Surviving the Chamber,17,Felici42,False,11603,AJ Barner,TE,12.64,12.19,0.45,13,0.5,0.0,0.0,-0.05,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring + OL health
-2026,1,1370453762442797056,Surviving the Chamber,17,Felici42,False,2747,Jason Myers,K,8.2,7.7,0.5,7,0.5,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
-2026,1,1370453762442797056,Surviving the Chamber,18,tylercatlett1,False,4892,Baker Mayfield,QB,22.72,21.62,1.1,12,1.1,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
+2026,1,1370453762442797056,Surviving the Chamber,17,Felici42,False,11603,AJ Barner,TE,12.69,12.19,0.5,13,0.5,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
+2026,1,1370453762442797056,Surviving the Chamber,17,Felici42,False,2747,Jason Myers,K,8.19,7.69,0.5,7,0.5,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
+2026,1,1370453762442797056,Surviving the Chamber,18,tylercatlett1,False,4892,Baker Mayfield,QB,22.7,21.6,1.1,12,1.1,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
 2026,1,1370453762442797056,Surviving the Chamber,18,tylercatlett1,False,12490,Bhayshul Tuten,RB,20.46,16.48,3.98,12,0.5,0.0,0.0,0.0,-0.11,0.0,3.59,Questionable,Sleeper raw-stat projection × league scoring + game-time weather + league return scoring
-2026,1,1370453762442797056,Surviving the Chamber,18,tylercatlett1,False,5892,David Montgomery,RB,21.03,20.53,0.5,12,0.5,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
+2026,1,1370453762442797056,Surviving the Chamber,18,tylercatlett1,False,5892,David Montgomery,RB,21.02,20.52,0.5,12,0.5,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
 2026,1,1370453762442797056,Surviving the Chamber,18,tylercatlett1,False,7564,Ja'Marr Chase,WR,22.28,21.18,1.1,12,1.1,0.0,0.0,0.0,0.0,0.0,0.0,Questionable,Sleeper raw-stat projection × league scoring
 2026,1,1370453762442797056,Surviving the Chamber,18,tylercatlett1,False,10232,Michael Wilson,WR,11.62,12.15,-0.53,12,-0.7,0.0,0.0,0.0,0.0,0.0,0.17,,Sleeper raw-stat projection × league scoring + league return scoring
 2026,1,1370453762442797056,Surviving the Chamber,18,tylercatlett1,False,12518,Tyler Warren,TE,18.21,17.71,0.5,13,0.5,0.0,0.0,0.0,0.0,0.0,0.0,Questionable,Sleeper raw-stat projection × league scoring
-2026,1,1370453762442797056,Surviving the Chamber,18,tylercatlett1,False,6819,Michael Pittman,WR,11.14,11.62,-0.48,12,-0.7,0.0,0.0,0.0,0.0,0.22,0.0,Questionable,Sleeper raw-stat projection × league scoring + injury ripple
-2026,1,1370453762442797056,Surviving the Chamber,18,tylercatlett1,False,11646,Jalen Coker,WR,12.34,12.96,-0.62,12,-0.7,0.0,0.0,0.0,0.0,0.08,0.0,,Sleeper raw-stat projection × league scoring + injury ripple
+2026,1,1370453762442797056,Surviving the Chamber,18,tylercatlett1,False,6819,Michael Pittman,WR,11.42,11.62,-0.2,12,-0.7,0.0,0.0,0.0,0.0,0.5,0.0,Questionable,Sleeper raw-stat projection × league scoring + injury ripple
+2026,1,1370453762442797056,Surviving the Chamber,18,tylercatlett1,False,11646,Jalen Coker,WR,12.44,12.96,-0.52,12,-0.7,0.0,0.0,0.0,0.0,0.18,0.0,,Sleeper raw-stat projection × league scoring + injury ripple
 2026,1,1370453762442797056,Surviving the Chamber,18,tylercatlett1,False,4227,Harrison Butker,K,7.63,7.13,0.5,7,0.5,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
-2026,1,1370453762442797056,Surviving the Chamber,2,Step burrow ,False,11560,Caleb Williams,QB,25.55,24.96,0.59,12,0.5,0.0,0.0,0.0,0.0,0.09,0.0,,Sleeper raw-stat projection × league scoring + injury ripple
-2026,1,1370453762442797056,Surviving the Chamber,2,Step burrow ,False,12507,Omarion Hampton,RB,23.14,22.74,0.4,12,0.5,0.0,0.0,-0.1,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring + OL health
-2026,1,1370453762442797056,Surviving the Chamber,2,Step burrow ,False,12481,Cam Skattebo,RB,19.66,19.44,0.22,12,0.5,0.0,0.0,-0.28,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring + OL health
-2026,1,1370453762442797056,Surviving the Chamber,2,Step burrow ,False,11620,Rome Odunze,WR,12.79,12.26,0.53,12,0.5,0.0,0.0,0.0,0.0,0.03,0.0,Questionable,Sleeper raw-stat projection × league scoring + injury ripple
-2026,1,1370453762442797056,Surviving the Chamber,2,Step burrow ,False,5045,Courtland Sutton,WR,10.66,11.32,-0.66,6,-0.7,0.0,0.0,-0.04,0.0,0.08,0.0,,Sleeper raw-stat projection × league scoring + OL health + injury ripple
-2026,1,1370453762442797056,Surviving the Chamber,2,Step burrow ,False,11604,Brock Bowers,TE,21.22,20.72,0.5,13,0.5,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
-2026,1,1370453762442797056,Surviving the Chamber,2,Step burrow ,False,5872,Deebo Samuel,WR,13.44,11.14,2.3,12,-0.7,0.0,0.0,-0.04,0.0,0.22,2.82,,Sleeper raw-stat projection × league scoring + OL health + injury ripple + league return scoring
-2026,1,1370453762442797056,Surviving the Chamber,2,Step burrow ,False,11624,Xavier Worthy,WR,10.0,11.04,-1.04,13,-0.7,0.0,0.0,-0.18,0.0,-0.09,0.0,,Sleeper raw-stat projection × league scoring + OL health + injury ripple
-2026,1,1370453762442797056,Surviving the Chamber,2,Step burrow ,False,2020,Cairo Santos,K,7.69,7.19,0.5,7,0.5,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
+2026,1,1370453762442797056,Surviving the Chamber,2,Fruit cake williams & co,False,11560,Caleb Williams,QB,25.67,24.97,0.7,12,0.5,0.0,0.0,0.0,0.0,0.2,0.0,,Sleeper raw-stat projection × league scoring + injury ripple
+2026,1,1370453762442797056,Surviving the Chamber,2,Fruit cake williams & co,False,12507,Omarion Hampton,RB,23.14,22.74,0.4,12,0.5,0.0,0.0,-0.1,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring + OL health
+2026,1,1370453762442797056,Surviving the Chamber,2,Fruit cake williams & co,False,12481,Cam Skattebo,RB,19.86,19.64,0.22,12,0.5,0.0,0.0,-0.28,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring + OL health
+2026,1,1370453762442797056,Surviving the Chamber,2,Fruit cake williams & co,False,11620,Rome Odunze,WR,12.83,12.26,0.57,12,0.5,0.0,0.0,0.0,0.0,0.07,0.0,Questionable,Sleeper raw-stat projection × league scoring + injury ripple
+2026,1,1370453762442797056,Surviving the Chamber,2,Fruit cake williams & co,False,5045,Courtland Sutton,WR,10.76,11.32,-0.56,6,-0.7,0.0,0.0,-0.04,0.0,0.18,0.0,,Sleeper raw-stat projection × league scoring + OL health + injury ripple
+2026,1,1370453762442797056,Surviving the Chamber,2,Fruit cake williams & co,False,11604,Brock Bowers,TE,21.22,20.72,0.5,13,0.5,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
+2026,1,1370453762442797056,Surviving the Chamber,2,Fruit cake williams & co,False,5872,Deebo Samuel,WR,13.4,11.14,2.26,12,-0.7,0.0,0.0,-0.04,0.0,0.18,2.82,,Sleeper raw-stat projection × league scoring + OL health + injury ripple + league return scoring
+2026,1,1370453762442797056,Surviving the Chamber,2,Fruit cake williams & co,False,11624,Xavier Worthy,WR,9.89,11.04,-1.15,13,-0.7,0.0,0.0,-0.18,0.0,-0.2,0.0,,Sleeper raw-stat projection × league scoring + OL health + injury ripple
+2026,1,1370453762442797056,Surviving the Chamber,2,Fruit cake williams & co,False,2020,Cairo Santos,K,7.7,7.2,0.5,7,0.5,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
 2026,1,1370453762442797056,Surviving the Chamber,3,Survivor,False,11564,Drake Maye,QB,24.27,23.77,0.5,12,0.5,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
 2026,1,1370453762442797056,Surviving the Chamber,3,Survivor,False,6790,D'Andre Swift,RB,20.8,20.3,0.5,12,0.5,0.0,0.0,0.0,0.0,0.0,0.0,Questionable,Sleeper raw-stat projection × league scoring
 2026,1,1370453762442797056,Surviving the Chamber,3,Survivor,False,8228,Jaylen Warren,RB,20.27,19.41,0.86,12,0.5,0.0,0.0,0.0,0.0,0.0,0.36,,Sleeper raw-stat projection × league scoring + league return scoring
-2026,1,1370453762442797056,Surviving the Chamber,3,Survivor,False,9488,Jaxon Smith-Njigba,WR,21.7,21.21,0.49,12,0.5,0.0,0.0,-0.04,0.0,0.03,0.0,,Sleeper raw-stat projection × league scoring + OL health + injury ripple
+2026,1,1370453762442797056,Surviving the Chamber,3,Survivor,False,9488,Jaxon Smith-Njigba,WR,21.71,21.21,0.5,12,0.5,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
 2026,1,1370453762442797056,Surviving the Chamber,3,Survivor,False,10222,Jayden Reed,WR,13.88,15.52,-1.64,13,-0.7,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
-2026,1,1370453762442797056,Surviving the Chamber,3,Survivor,False,1466,Travis Kelce,TE,14.42,14.18,0.24,7,0.5,0.0,0.0,-0.17,0.0,-0.09,0.0,,Sleeper raw-stat projection × league scoring + OL health + injury ripple
+2026,1,1370453762442797056,Surviving the Chamber,3,Survivor,False,1466,Travis Kelce,TE,14.31,14.18,0.13,7,0.5,0.0,0.0,-0.17,0.0,-0.2,0.0,,Sleeper raw-stat projection × league scoring + OL health + injury ripple
 2026,1,1370453762442797056,Surviving the Chamber,3,Survivor,False,7049,Jauan Jennings,WR,7.1,8.6,-1.5,6,-1.5,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
-2026,1,1370453762442797056,Surviving the Chamber,3,Survivor,False,10219,Chris Rodriguez,RB,11.94,12.44,-0.5,12,-0.7,0.0,0.0,0.0,-0.11,0.31,0.0,,Sleeper raw-stat projection × league scoring + game-time weather + injury ripple
-2026,1,1370453762442797056,Surviving the Chamber,3,Survivor,False,7839,Evan McPherson,K,8.74,7.64,1.1,7,1.1,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
-2026,1,1370453762442797056,Surviving the Chamber,4,chop slop,False,8183,Brock Purdy,QB,23.85,23.34,0.51,12,0.5,0.0,0.0,-0.08,0.0,0.09,0.0,,Sleeper raw-stat projection × league scoring + OL health + injury ripple
-2026,1,1370453762442797056,Surviving the Chamber,4,chop slop,False,4034,Christian McCaffrey,RB,29.79,29.43,0.36,12,0.5,0.0,0.0,-0.14,0.0,0.0,0.0,Questionable,Sleeper raw-stat projection × league scoring + OL health
+2026,1,1370453762442797056,Surviving the Chamber,3,Survivor,False,10219,Chris Rodriguez,RB,12.33,12.44,-0.11,12,-0.7,0.0,0.0,0.0,-0.11,0.7,0.0,,Sleeper raw-stat projection × league scoring + game-time weather + injury ripple
+2026,1,1370453762442797056,Surviving the Chamber,3,Survivor,False,7839,Evan McPherson,K,8.73,7.63,1.1,7,1.1,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
+2026,1,1370453762442797056,Surviving the Chamber,4,chop slop,False,8183,Brock Purdy,QB,23.96,23.34,0.62,12,0.5,0.0,0.0,-0.08,0.0,0.2,0.0,,Sleeper raw-stat projection × league scoring + OL health + injury ripple
+2026,1,1370453762442797056,Surviving the Chamber,4,chop slop,False,4034,Christian McCaffrey,RB,29.79,29.43,0.36,12,0.5,0.0,0.0,-0.14,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring + OL health
 2026,1,1370453762442797056,Surviving the Chamber,4,chop slop,False,5967,Tony Pollard,RB,15.61,15.11,0.5,12,0.5,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
-2026,1,1370453762442797056,Surviving the Chamber,4,chop slop,False,8144,Chris Olave,WR,18.13,17.43,0.7,12,0.5,0.0,0.0,0.0,0.0,0.2,0.0,,Sleeper raw-stat projection × league scoring + injury ripple
+2026,1,1370453762442797056,Surviving the Chamber,4,chop slop,False,8144,Chris Olave,WR,18.38,17.43,0.95,12,0.5,0.0,0.0,0.0,0.0,0.45,0.0,,Sleeper raw-stat projection × league scoring + injury ripple
 2026,1,1370453762442797056,Surviving the Chamber,4,chop slop,False,8146,Garrett Wilson,WR,15.06,14.56,0.5,12,0.5,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
-2026,1,1370453762442797056,Surviving the Chamber,4,chop slop,False,5012,Mark Andrews,TE,14.39,13.79,0.6,13,0.5,0.0,0.0,0.0,0.0,0.1,0.0,,Sleeper raw-stat projection × league scoring + injury ripple
-2026,1,1370453762442797056,Surviving the Chamber,4,chop slop,False,13286,Jadarian Price,RB,15.91,15.38,0.53,12,0.5,0.0,0.0,-0.14,0.0,0.0,0.17,,Sleeper raw-stat projection × league scoring + OL health + league return scoring
+2026,1,1370453762442797056,Surviving the Chamber,4,chop slop,False,5012,Mark Andrews,TE,14.52,13.79,0.73,13,0.5,0.0,0.0,0.0,0.0,0.23,0.0,,Sleeper raw-stat projection × league scoring + injury ripple
+2026,1,1370453762442797056,Surviving the Chamber,4,chop slop,False,13286,Jadarian Price,RB,16.05,15.38,0.67,12,0.5,0.0,0.0,0.0,0.0,0.0,0.17,,Sleeper raw-stat projection × league scoring + league return scoring
 2026,1,1370453762442797056,Surviving the Chamber,4,chop slop,False,11581,MarShawn Lloyd,RB,16.69,16.19,0.5,12,0.5,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
-2026,1,1370453762442797056,Surviving the Chamber,4,chop slop,False,7042,Tyler Bass,K,7.34,6.84,0.5,7,0.5,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
+2026,1,1370453762442797056,Surviving the Chamber,4,chop slop,False,7042,Tyler Bass,K,7.15,6.65,0.5,7,0.5,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
 2026,1,1370453762442797056,Surviving the Chamber,5,jblatz,False,4984,Josh Allen,QB,27.09,26.59,0.5,12,0.5,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
 2026,1,1370453762442797056,Surviving the Chamber,5,jblatz,False,7021,Rico Dowdle,RB,17.8,18.36,-0.56,12,-0.7,0.0,0.0,0.0,0.0,0.0,0.14,,Sleeper raw-stat projection × league scoring + league return scoring
-2026,1,1370453762442797056,Surviving the Chamber,5,jblatz,False,11583,Jonathon Brooks,RB,13.51,13.9,-0.39,12,-0.7,0.0,0.0,0.0,0.0,0.31,0.0,Questionable,Sleeper raw-stat projection × league scoring + injury ripple
+2026,1,1370453762442797056,Surviving the Chamber,5,jblatz,False,11583,Jonathon Brooks,RB,13.9,13.9,0.0,12,-0.7,0.0,0.0,0.0,0.0,0.7,0.0,Questionable,Sleeper raw-stat projection × league scoring + injury ripple
 2026,1,1370453762442797056,Surviving the Chamber,5,jblatz,False,7569,Nico Collins,WR,19.14,18.64,0.5,12,0.5,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
-2026,1,1370453762442797056,Surviving the Chamber,5,jblatz,False,9997,Zay Flowers,WR,17.48,16.78,0.7,12,0.5,0.0,0.0,0.0,0.0,0.2,0.0,Questionable,Sleeper raw-stat projection × league scoring + injury ripple
-2026,1,1370453762442797056,Surviving the Chamber,5,jblatz,False,7553,Kyle Pitts,TE,14.36,13.76,0.6,7,0.5,0.0,0.0,0.0,0.0,0.1,0.0,,Sleeper raw-stat projection × league scoring + injury ripple
+2026,1,1370453762442797056,Surviving the Chamber,5,jblatz,False,9997,Zay Flowers,WR,17.73,16.78,0.95,12,0.5,0.0,0.0,0.0,0.0,0.45,0.0,Questionable,Sleeper raw-stat projection × league scoring + injury ripple
+2026,1,1370453762442797056,Surviving the Chamber,5,jblatz,False,7553,Kyle Pitts,TE,14.49,13.76,0.73,7,0.5,0.0,0.0,0.0,0.0,0.23,0.0,,Sleeper raw-stat projection × league scoring + injury ripple
 2026,1,1370453762442797056,Surviving the Chamber,5,jblatz,False,8180,Jalen Nailor,WR,8.23,8.93,-0.7,12,-0.7,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
 2026,1,1370453762442797056,Surviving the Chamber,5,jblatz,False,2505,Darren Waller,TE,10.57,10.07,0.5,7,0.5,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
-2026,1,1370453762442797056,Surviving the Chamber,5,jblatz,False,11786,Cam Little,K,7.72,7.22,0.5,7,0.5,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
+2026,1,1370453762442797056,Surviving the Chamber,5,jblatz,False,11786,Cam Little,K,7.74,7.24,0.5,7,0.5,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
 2026,1,1370453762442797056,Surviving the Chamber,6,zthompson1533,False,12545,Tyler Shough,QB,22.08,21.58,0.5,12,0.5,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
 2026,1,1370453762442797056,Surviving the Chamber,6,zthompson1533,False,9226,De'Von Achane,RB,25.57,25.07,0.5,12,0.5,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
 2026,1,1370453762442797056,Surviving the Chamber,6,zthompson1533,False,12533,Jacory Croskey-Merritt,RB,15.47,15.11,0.36,12,0.5,0.0,0.0,-0.14,0.0,0.0,0.0,Questionable,Sleeper raw-stat projection × league scoring + OL health
-2026,1,1370453762442797056,Surviving the Chamber,6,zthompson1533,False,10229,Rashee Rice,WR,15.98,15.75,0.23,12,0.5,0.0,0.0,-0.18,0.0,-0.09,0.0,,Sleeper raw-stat projection × league scoring + OL health + injury ripple
-2026,1,1370453762442797056,Surviving the Chamber,6,zthompson1533,False,11635,Ladd McConkey,WR,14.87,14.59,0.28,13,0.5,0.0,0.0,-0.14,0.0,0.2,0.02,,Sleeper raw-stat projection × league scoring + OL health + injury ripple + league return scoring
-2026,1,1370453762442797056,Surviving the Chamber,6,zthompson1533,False,5022,Dallas Goedert,TE,12.93,12.32,0.61,7,0.5,0.0,0.0,0.0,0.0,0.11,0.0,,Sleeper raw-stat projection × league scoring + injury ripple
+2026,1,1370453762442797056,Surviving the Chamber,6,zthompson1533,False,10229,Rashee Rice,WR,15.87,15.75,0.12,12,0.5,0.0,0.0,-0.18,0.0,-0.2,0.0,,Sleeper raw-stat projection × league scoring + OL health + injury ripple
+2026,1,1370453762442797056,Surviving the Chamber,6,zthompson1533,False,11635,Ladd McConkey,WR,15.12,14.59,0.53,13,0.5,0.0,0.0,-0.14,0.0,0.45,0.02,,Sleeper raw-stat projection × league scoring + OL health + injury ripple + league return scoring
+2026,1,1370453762442797056,Surviving the Chamber,6,zthompson1533,False,5022,Dallas Goedert,TE,13.07,12.32,0.75,7,0.5,0.0,0.0,0.0,0.0,0.25,0.0,,Sleeper raw-stat projection × league scoring + injury ripple
 2026,1,1370453762442797056,Surviving the Chamber,6,zthompson1533,False,8148,Jameson Williams,WR,14.3,15.0,-0.7,12,-0.7,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
-2026,1,1370453762442797056,Surviving the Chamber,6,zthompson1533,False,6806,J.K. Dobbins,RB,16.85,16.42,0.43,12,0.5,0.0,0.0,-0.14,0.0,0.07,0.0,,Sleeper raw-stat projection × league scoring + OL health + injury ripple
-2026,1,1370453762442797056,Surviving the Chamber,6,zthompson1533,False,6650,Chase McLaughlin,K,7.99,6.89,1.1,7,1.1,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
-2026,1,1370453762442797056,Surviving the Chamber,7,W,False,7523,Trevor Lawrence,QB,22.64,22.24,0.4,12,0.5,0.0,0.0,0.0,-0.1,0.0,0.0,,Sleeper raw-stat projection × league scoring + game-time weather
-2026,1,1370453762442797056,Surviving the Chamber,7,W,False,8155,Breece Hall,RB,21.54,21.04,0.5,12,0.5,0.0,0.0,0.0,0.0,0.0,0.0,Questionable,Sleeper raw-stat projection × league scoring
+2026,1,1370453762442797056,Surviving the Chamber,6,zthompson1533,False,6806,J.K. Dobbins,RB,16.94,16.42,0.52,12,0.5,0.0,0.0,-0.14,0.0,0.16,0.0,,Sleeper raw-stat projection × league scoring + OL health + injury ripple
+2026,1,1370453762442797056,Surviving the Chamber,6,zthompson1533,False,6650,Chase McLaughlin,K,8.0,6.9,1.1,7,1.1,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
+2026,1,1370453762442797056,Surviving the Chamber,7,W,False,7523,Trevor Lawrence,QB,22.65,22.25,0.4,12,0.5,0.0,0.0,0.0,-0.1,0.0,0.0,,Sleeper raw-stat projection × league scoring + game-time weather
+2026,1,1370453762442797056,Surviving the Chamber,7,W,False,8155,Breece Hall,RB,21.7,21.04,0.66,12,0.5,0.0,0.0,0.0,0.0,0.16,0.0,Questionable,Sleeper raw-stat projection × league scoring + injury ripple
 2026,1,1370453762442797056,Surviving the Chamber,7,W,False,7543,Travis Etienne,RB,22.34,21.84,0.5,12,0.5,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
-2026,1,1370453762442797056,Surviving the Chamber,7,W,False,9493,Puka Nacua,WR,22.75,22.19,0.56,12,0.5,0.0,0.0,-0.14,0.0,0.2,0.0,Questionable,Sleeper raw-stat projection × league scoring + OL health + injury ripple
-2026,1,1370453762442797056,Surviving the Chamber,7,W,False,8167,Christian Watson,WR,15.07,14.52,0.55,12,0.5,0.0,0.0,0.0,0.0,0.05,0.0,,Sleeper raw-stat projection × league scoring + injury ripple
+2026,1,1370453762442797056,Surviving the Chamber,7,W,False,9493,Puka Nacua,WR,23.0,22.19,0.81,12,0.5,0.0,0.0,-0.14,0.0,0.45,0.0,,Sleeper raw-stat projection × league scoring + OL health + injury ripple
+2026,1,1370453762442797056,Surviving the Chamber,7,W,False,8167,Christian Watson,WR,15.13,14.52,0.61,12,0.5,0.0,0.0,0.0,0.0,0.11,0.0,,Sleeper raw-stat projection × league scoring + injury ripple
 2026,1,1370453762442797056,Surviving the Chamber,7,W,False,7002,Juwan Johnson,TE,13.99,13.49,0.5,7,0.5,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
-2026,1,1370453762442797056,Surviving the Chamber,7,W,False,9487,Parker Washington,WR,15.46,14.64,0.82,13,0.5,0.0,0.0,0.0,-0.1,0.0,2.13,,Sleeper raw-stat projection × league scoring + game-time weather + league return scoring
+2026,1,1370453762442797056,Surviving the Chamber,7,W,False,9487,Parker Washington,WR,15.46,14.65,0.81,13,0.5,0.0,0.0,0.0,-0.1,0.0,2.13,,Sleeper raw-stat projection × league scoring + game-time weather + league return scoring
 2026,1,1370453762442797056,Surviving the Chamber,7,W,False,7567,Kenny Gainwell,RB,16.55,12.93,3.62,12,-0.1,0.0,0.0,0.0,0.0,0.0,3.72,,Sleeper raw-stat projection × league scoring + league return scoring
 2026,1,1370453762442797056,Surviving the Chamber,7,W,False,12711,Tyler Loop,K,7.87,7.87,0.0,7,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
 2026,1,1370453762442797056,Surviving the Chamber,8,Joe Burr-itos,False,3294,Dak Prescott,QB,23.53,23.29,0.24,12,0.5,0.0,0.0,-0.26,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring + OL health
-2026,1,1370453762442797056,Surviving the Chamber,8,Joe Burr-itos,False,4866,Saquon Barkley,RB,22.91,22.34,0.57,12,0.5,0.0,0.0,0.0,0.0,0.07,0.0,,Sleeper raw-stat projection × league scoring + injury ripple
-2026,1,1370453762442797056,Surviving the Chamber,8,Joe Burr-itos,False,8136,Rachaad White,RB,13.7,14.23,-0.53,12,-0.7,0.0,0.0,-0.14,0.0,0.31,0.0,Questionable,Sleeper raw-stat projection × league scoring + OL health + injury ripple
-2026,1,1370453762442797056,Surviving the Chamber,8,Joe Burr-itos,False,8112,Drake London,WR,17.49,16.91,0.58,12,0.5,0.0,0.0,0.0,0.0,0.08,0.0,,Sleeper raw-stat projection × league scoring + injury ripple
-2026,1,1370453762442797056,Surviving the Chamber,8,Joe Burr-itos,False,12514,Emeka Egbuka,WR,13.77,12.47,1.3,12,1.1,0.0,0.0,0.0,0.0,0.2,0.0,Questionable,Sleeper raw-stat projection × league scoring + injury ripple
+2026,1,1370453762442797056,Surviving the Chamber,8,Joe Burr-itos,False,4866,Saquon Barkley,RB,23.0,22.34,0.66,12,0.5,0.0,0.0,0.0,0.0,0.16,0.0,,Sleeper raw-stat projection × league scoring + injury ripple
+2026,1,1370453762442797056,Surviving the Chamber,8,Joe Burr-itos,False,8136,Rachaad White,RB,14.09,14.23,-0.14,12,-0.7,0.0,0.0,-0.14,0.0,0.7,0.0,Questionable,Sleeper raw-stat projection × league scoring + OL health + injury ripple
+2026,1,1370453762442797056,Surviving the Chamber,8,Joe Burr-itos,False,8112,Drake London,WR,17.59,16.91,0.68,12,0.5,0.0,0.0,0.0,0.0,0.18,0.0,,Sleeper raw-stat projection × league scoring + injury ripple
+2026,1,1370453762442797056,Surviving the Chamber,8,Joe Burr-itos,False,12514,Emeka Egbuka,WR,14.02,12.47,1.55,12,1.1,0.0,0.0,0.0,0.0,0.45,0.0,Questionable,Sleeper raw-stat projection × league scoring + injury ripple
 2026,1,1370453762442797056,Surviving the Chamber,8,Joe Burr-itos,False,12506,Harold Fannin,TE,15.25,14.83,0.42,13,0.5,0.0,0.0,0.0,-0.08,0.0,0.0,,Sleeper raw-stat projection × league scoring + game-time weather
-2026,1,1370453762442797056,Surviving the Chamber,8,Joe Burr-itos,False,2216,Mike Evans,WR,14.07,13.53,0.54,6,0.5,0.0,0.0,-0.04,0.0,0.08,0.0,Questionable,Sleeper raw-stat projection × league scoring + OL health + injury ripple
+2026,1,1370453762442797056,Surviving the Chamber,8,Joe Burr-itos,False,2216,Mike Evans,WR,14.62,13.53,1.09,6,0.5,0.0,0.0,-0.04,0.0,0.63,0.0,,Sleeper raw-stat projection × league scoring + OL health + injury ripple
 2026,1,1370453762442797056,Surviving the Chamber,8,Joe Burr-itos,False,12501,Matthew Golden,WR,9.44,11.05,-1.61,13,-1.5,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
 2026,1,1370453762442797056,Surviving the Chamber,8,Joe Burr-itos,False,5189,Eddy Pineiro,K,7.58,7.08,0.5,7,0.5,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
 2026,1,1370453762442797056,Surviving the Chamber,9,Stutterboyzzzz,False,11566,Jayden Daniels,QB,25.33,24.91,0.42,12,0.5,0.0,0.0,-0.08,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring + OL health
-2026,1,1370453762442797056,Surviving the Chamber,9,Stutterboyzzzz,False,8150,Kyren Williams,RB,21.84,21.49,0.35,13,0.5,0.0,0.0,-0.1,0.0,0.07,0.02,,Sleeper raw-stat projection × league scoring + OL health + injury ripple + league return scoring
+2026,1,1370453762442797056,Surviving the Chamber,9,Stutterboyzzzz,False,8150,Kyren Williams,RB,21.93,21.49,0.44,13,0.5,0.0,0.0,-0.1,0.0,0.16,0.02,,Sleeper raw-stat projection × league scoring + OL health + injury ripple + league return scoring
 2026,1,1370453762442797056,Surviving the Chamber,9,Stutterboyzzzz,False,8408,Jordan Mason,RB,13.22,13.92,-0.7,12,-0.7,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
-2026,1,1370453762442797056,Surviving the Chamber,9,Stutterboyzzzz,False,7526,Jaylen Waddle,WR,16.61,15.87,0.74,12,0.5,0.0,0.0,-0.04,0.0,0.28,0.0,,Sleeper raw-stat projection × league scoring + OL health + injury ripple
-2026,1,1370453762442797056,Surviving the Chamber,9,Stutterboyzzzz,False,9754,Quentin Johnston,WR,11.1,11.86,-0.76,12,-0.7,0.0,0.0,-0.14,0.0,0.08,0.0,,Sleeper raw-stat projection × league scoring + OL health + injury ripple
+2026,1,1370453762442797056,Surviving the Chamber,9,Stutterboyzzzz,False,7526,Jaylen Waddle,WR,16.96,15.87,1.09,12,0.5,0.0,0.0,-0.04,0.0,0.63,0.0,,Sleeper raw-stat projection × league scoring + OL health + injury ripple
+2026,1,1370453762442797056,Surviving the Chamber,9,Stutterboyzzzz,False,9754,Quentin Johnston,WR,11.2,11.86,-0.66,12,-0.7,0.0,0.0,-0.14,0.0,0.18,0.0,,Sleeper raw-stat projection × league scoring + OL health + injury ripple
 2026,1,1370453762442797056,Surviving the Chamber,9,Stutterboyzzzz,False,8130,Trey McBride,TE,20.86,20.36,0.5,7,0.5,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
 2026,1,1370453762442797056,Surviving the Chamber,9,Stutterboyzzzz,False,9480,Brenton Strange,TE,11.02,10.6,0.42,7,0.5,0.0,0.0,0.0,-0.08,0.0,0.0,,Sleeper raw-stat projection × league scoring + game-time weather
 2026,1,1370453762442797056,Surviving the Chamber,9,Stutterboyzzzz,False,9511,Keaton Mitchell,RB,9.98,9.51,0.47,12,-0.7,0.0,0.0,-0.1,0.0,0.0,1.27,Questionable,Sleeper raw-stat projection × league scoring + OL health + league return scoring
-2026,1,1370453762442797056,Surviving the Chamber,9,Stutterboyzzzz,False,11533,Brandon Aubrey,K,8.11,7.61,0.5,7,0.5,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
+2026,1,1370453762442797056,Surviving the Chamber,9,Stutterboyzzzz,False,11533,Brandon Aubrey,K,8.1,7.6,0.5,7,0.5,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
 2026,1,1389740418316374016,Big Tiger Takeover,1,The Herban Legends,False,4881,Lamar Jackson,QB,25.63,25.13,0.5,10,0.5,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
 2026,1,1389740418316374016,Big Tiger Takeover,1,The Herban Legends,False,12507,Omarion Hampton,RB,17.06,16.66,0.4,10,0.5,0.0,0.0,-0.1,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring + OL health
 2026,1,1389740418316374016,Big Tiger Takeover,1,The Herban Legends,False,5892,David Montgomery,RB,15.07,14.57,0.5,10,0.5,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
-2026,1,1389740418316374016,Big Tiger Takeover,1,The Herban Legends,False,9488,Jaxon Smith-Njigba,WR,21.52,21.03,0.49,10,0.5,0.0,0.0,-0.04,0.0,0.03,0.0,,Sleeper raw-stat projection × league scoring + OL health + injury ripple
-2026,1,1389740418316374016,Big Tiger Takeover,1,The Herban Legends,False,7525,DeVonta Smith,WR,16.45,15.92,0.53,10,0.5,0.0,0.0,0.0,0.0,0.03,0.0,,Sleeper raw-stat projection × league scoring + injury ripple
+2026,1,1389740418316374016,Big Tiger Takeover,1,The Herban Legends,False,9488,Jaxon Smith-Njigba,WR,21.53,21.03,0.5,10,0.5,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
+2026,1,1389740418316374016,Big Tiger Takeover,1,The Herban Legends,False,7525,DeVonta Smith,WR,16.49,15.92,0.57,10,0.5,0.0,0.0,0.0,0.0,0.07,0.0,,Sleeper raw-stat projection × league scoring + injury ripple
 2026,1,1389740418316374016,Big Tiger Takeover,1,The Herban Legends,False,8130,Trey McBride,TE,17.47,16.97,0.5,6,0.5,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
 2026,1,1389740418316374016,Big Tiger Takeover,1,The Herban Legends,False,8148,Jameson Williams,WR,14.05,14.75,-0.7,10,-0.7,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
-2026,1,1389740418316374016,Big Tiger Takeover,1,The Herban Legends,False,9754,Quentin Johnston,WR,11.02,11.78,-0.76,10,-0.7,0.0,0.0,-0.14,0.0,0.08,0.0,,Sleeper raw-stat projection × league scoring + OL health + injury ripple
+2026,1,1389740418316374016,Big Tiger Takeover,1,The Herban Legends,False,9754,Quentin Johnston,WR,11.12,11.78,-0.66,10,-0.7,0.0,0.0,-0.14,0.0,0.18,0.0,,Sleeper raw-stat projection × league scoring + OL health + injury ripple
 2026,1,1389740418316374016,Big Tiger Takeover,1,The Herban Legends,False,12015,Harrison Mevis,K,7.08,7.08,0.0,5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
-2026,1,1389740418316374016,Big Tiger Takeover,1,The Herban Legends,False,LAC,Los Angeles Chargers,DEF,8.44,8.44,0.0,7,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
-2026,1,1389740418316374016,Big Tiger Takeover,10,Mac Daddys,False,6770,Joe Burrow,QB,26.86,25.76,1.1,10,1.1,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
-2026,1,1389740418316374016,Big Tiger Takeover,10,Mac Daddys,False,9221,Jahmyr Gibbs,RB,25.44,24.94,0.5,10,0.5,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
+2026,1,1389740418316374016,Big Tiger Takeover,1,The Herban Legends,False,LAC,Los Angeles Chargers,DEF,8.43,8.43,0.0,7,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
+2026,1,1389740418316374016,Big Tiger Takeover,10,Mac Daddys,False,6770,Joe Burrow,QB,26.88,25.78,1.1,10,1.1,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
+2026,1,1389740418316374016,Big Tiger Takeover,10,Mac Daddys,False,9221,Jahmyr Gibbs,RB,25.46,24.96,0.5,10,0.5,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
 2026,1,1389740418316374016,Big Tiger Takeover,10,Mac Daddys,False,9224,Chase Brown,RB,19.0,17.9,1.1,10,1.1,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
-2026,1,1389740418316374016,Big Tiger Takeover,10,Mac Daddys,False,8137,George Pickens,WR,16.89,17.65,-0.76,10,-0.7,0.0,0.0,-0.14,0.0,0.08,0.0,,Sleeper raw-stat projection × league scoring + OL health + injury ripple
-2026,1,1389740418316374016,Big Tiger Takeover,10,Mac Daddys,False,6801,Tee Higgins,WR,16.71,16.59,0.12,10,-0.1,0.0,0.0,0.0,0.0,0.22,0.0,Questionable,Sleeper raw-stat projection × league scoring + injury ripple
-2026,1,1389740418316374016,Big Tiger Takeover,10,Mac Daddys,False,4217,George Kittle,TE,11.41,10.86,0.55,6,0.5,0.0,0.0,-0.05,0.0,0.1,0.0,Questionable,Sleeper raw-stat projection × league scoring + OL health + injury ripple
+2026,1,1389740418316374016,Big Tiger Takeover,10,Mac Daddys,False,8137,George Pickens,WR,16.99,17.65,-0.66,10,-0.7,0.0,0.0,-0.14,0.0,0.18,0.0,,Sleeper raw-stat projection × league scoring + OL health + injury ripple
+2026,1,1389740418316374016,Big Tiger Takeover,10,Mac Daddys,False,6801,Tee Higgins,WR,16.99,16.59,0.4,10,-0.1,0.0,0.0,0.0,0.0,0.5,0.0,Questionable,Sleeper raw-stat projection × league scoring + injury ripple
+2026,1,1389740418316374016,Big Tiger Takeover,10,Mac Daddys,False,4217,George Kittle,TE,11.31,10.86,0.45,6,0.5,0.0,0.0,-0.05,0.0,0.0,0.0,Questionable,Sleeper raw-stat projection × league scoring + OL health
 2026,1,1389740418316374016,Big Tiger Takeover,10,Mac Daddys,False,8228,Jaylen Warren,RB,14.67,14.17,0.5,10,0.5,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
 2026,1,1389740418316374016,Big Tiger Takeover,10,Mac Daddys,False,4983,DJ Moore,WR,13.43,12.93,0.5,10,0.5,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
-2026,1,1389740418316374016,Big Tiger Takeover,10,Mac Daddys,False,8259,Cameron Dicker,K,7.65,7.15,0.5,5,0.5,0.0,0.0,0.0,0.0,0.0,0.0,Questionable,Sleeper raw-stat projection × league scoring
-2026,1,1389740418316374016,Big Tiger Takeover,10,Mac Daddys,False,NE,New England Patriots,DEF,6.35,6.65,-0.3,7,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
-2026,1,1389740418316374016,Big Tiger Takeover,2,Purdy Cooked,False,8183,Brock Purdy,QB,23.64,23.13,0.51,10,0.5,0.0,0.0,-0.08,0.0,0.09,0.0,,Sleeper raw-stat projection × league scoring + OL health + injury ripple
-2026,1,1389740418316374016,Big Tiger Takeover,2,Purdy Cooked,False,8138,James Cook,RB,18.49,17.99,0.5,10,0.5,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
+2026,1,1389740418316374016,Big Tiger Takeover,10,Mac Daddys,False,8259,Cameron Dicker,K,7.64,7.14,0.5,5,0.5,0.0,0.0,0.0,0.0,0.0,0.0,Questionable,Sleeper raw-stat projection × league scoring
+2026,1,1389740418316374016,Big Tiger Takeover,10,Mac Daddys,False,NE,New England Patriots,DEF,6.36,6.66,-0.3,7,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
+2026,1,1389740418316374016,Big Tiger Takeover,2,Purdy Cooked,False,8183,Brock Purdy,QB,23.75,23.13,0.62,10,0.5,0.0,0.0,-0.08,0.0,0.2,0.0,,Sleeper raw-stat projection × league scoring + OL health + injury ripple
+2026,1,1389740418316374016,Big Tiger Takeover,2,Purdy Cooked,False,8138,James Cook,RB,18.47,17.97,0.5,10,0.5,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
 2026,1,1389740418316374016,Big Tiger Takeover,2,Purdy Cooked,False,7588,Javonte Williams,RB,16.76,16.36,0.4,10,0.5,0.0,0.0,-0.1,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring + OL health
-2026,1,1389740418316374016,Big Tiger Takeover,2,Purdy Cooked,False,7547,Amon-Ra St. Brown,WR,21.79,21.21,0.58,10,0.5,0.0,0.0,0.0,0.0,0.08,0.0,,Sleeper raw-stat projection × league scoring + injury ripple
+2026,1,1389740418316374016,Big Tiger Takeover,2,Purdy Cooked,False,7547,Amon-Ra St. Brown,WR,21.89,21.21,0.68,10,0.5,0.0,0.0,0.0,0.0,0.18,0.0,,Sleeper raw-stat projection × league scoring + injury ripple
 2026,1,1389740418316374016,Big Tiger Takeover,2,Purdy Cooked,False,5927,Terry McLaurin,WR,14.99,14.53,0.46,10,0.5,0.0,0.0,-0.04,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring + OL health
-2026,1,1389740418316374016,Big Tiger Takeover,2,Purdy Cooked,False,12517,Colston Loveland,TE,15.8,15.2,0.6,10,0.5,0.0,0.0,0.0,0.0,0.1,0.0,,Sleeper raw-stat projection × league scoring + injury ripple
-2026,1,1389740418316374016,Big Tiger Takeover,2,Purdy Cooked,False,12519,Luther Burden,WR,13.97,14.45,-0.48,10,-0.7,0.0,0.0,0.0,0.0,0.22,0.0,Questionable,Sleeper raw-stat projection × league scoring + injury ripple
+2026,1,1389740418316374016,Big Tiger Takeover,2,Purdy Cooked,False,12517,Colston Loveland,TE,15.93,15.2,0.73,10,0.5,0.0,0.0,0.0,0.0,0.23,0.0,,Sleeper raw-stat projection × league scoring + injury ripple
+2026,1,1389740418316374016,Big Tiger Takeover,2,Purdy Cooked,False,12519,Luther Burden,WR,14.25,14.45,-0.2,10,-0.7,0.0,0.0,0.0,0.0,0.5,0.0,Questionable,Sleeper raw-stat projection × league scoring + injury ripple
 2026,1,1389740418316374016,Big Tiger Takeover,2,Purdy Cooked,False,10222,Jayden Reed,WR,13.37,14.07,-0.7,10,-0.7,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
 2026,1,1389740418316374016,Big Tiger Takeover,2,Purdy Cooked,False,11792,Will Reichard,K,7.15,6.65,0.5,5,0.5,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
-2026,1,1389740418316374016,Big Tiger Takeover,2,Purdy Cooked,False,CLE,Cleveland Browns,DEF,5.14,5.14,0.0,6,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
-2026,1,1389740418316374016,Big Tiger Takeover,3,Team feliciano,False,3163,Jared Goff,QB,23.72,23.13,0.59,10,0.5,0.0,0.0,0.0,0.0,0.09,0.0,,Sleeper raw-stat projection × league scoring + injury ripple
+2026,1,1389740418316374016,Big Tiger Takeover,2,Purdy Cooked,False,CLE,Cleveland Browns,DEF,5.1,5.1,0.0,6,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
+2026,1,1389740418316374016,Big Tiger Takeover,3,Team feliciano,False,3163,Jared Goff,QB,23.83,23.13,0.7,10,0.5,0.0,0.0,0.0,0.0,0.2,0.0,,Sleeper raw-stat projection × league scoring + injury ripple
 2026,1,1389740418316374016,Big Tiger Takeover,3,Team feliciano,False,9509,Bijan Robinson,RB,23.19,22.69,0.5,10,0.5,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
 2026,1,1389740418316374016,Big Tiger Takeover,3,Team feliciano,False,3198,Derrick Henry,RB,16.78,16.28,0.5,10,0.5,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
-2026,1,1389740418316374016,Big Tiger Takeover,3,Team feliciano,False,11632,Malik Nabers,WR,15.12,14.71,0.41,10,0.5,0.0,0.0,-0.09,0.0,0.0,0.0,Questionable,Sleeper raw-stat projection × league scoring + OL health
-2026,1,1389740418316374016,Big Tiger Takeover,3,Team feliciano,False,2216,Mike Evans,WR,14.07,13.53,0.54,6,0.5,0.0,0.0,-0.04,0.0,0.08,0.0,Questionable,Sleeper raw-stat projection × league scoring + OL health + injury ripple
-2026,1,1389740418316374016,Big Tiger Takeover,3,Team feliciano,False,5012,Mark Andrews,TE,12.24,11.64,0.6,10,0.5,0.0,0.0,0.0,0.0,0.1,0.0,,Sleeper raw-stat projection × league scoring + injury ripple
+2026,1,1389740418316374016,Big Tiger Takeover,3,Team feliciano,False,11632,Malik Nabers,WR,15.29,14.88,0.41,10,0.5,0.0,0.0,-0.09,0.0,0.0,0.0,Questionable,Sleeper raw-stat projection × league scoring + OL health
+2026,1,1389740418316374016,Big Tiger Takeover,3,Team feliciano,False,2216,Mike Evans,WR,14.62,13.53,1.09,6,0.5,0.0,0.0,-0.04,0.0,0.63,0.0,,Sleeper raw-stat projection × league scoring + OL health + injury ripple
+2026,1,1389740418316374016,Big Tiger Takeover,3,Team feliciano,False,5012,Mark Andrews,TE,12.37,11.64,0.73,10,0.5,0.0,0.0,0.0,0.0,0.23,0.0,,Sleeper raw-stat projection × league scoring + injury ripple
 2026,1,1389740418316374016,Big Tiger Takeover,3,Team feliciano,False,8146,Garrett Wilson,WR,15.0,14.5,0.5,10,0.5,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
 2026,1,1389740418316374016,Big Tiger Takeover,3,Team feliciano,False,11584,Bucky Irving,RB,14.04,12.94,1.1,10,1.1,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
-2026,1,1389740418316374016,Big Tiger Takeover,3,Team feliciano,False,12713,Andy Borregales,K,6.26,6.26,0.0,6,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
-2026,1,1389740418316374016,Big Tiger Takeover,3,Team feliciano,False,HOU,Houston Texans,DEF,6.85,7.15,-0.3,8,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
-2026,1,1389740418316374016,Big Tiger Takeover,4,Pinkman,True,6797,Justin Herbert,QB,22.5,22.26,0.24,10,0.5,0.0,0.0,-0.26,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring + OL health
-2026,1,1389740418316374016,Big Tiger Takeover,4,Pinkman,True,12527,Ashton Jeanty,RB,15.18,14.68,0.5,10,0.5,0.0,0.0,0.0,0.0,0.0,0.0,Questionable,Sleeper raw-stat projection × league scoring
-2026,1,1389740418316374016,Big Tiger Takeover,4,Pinkman,True,12512,Quinshon Judkins,RB,13.25,12.86,0.39,10,0.5,0.0,0.0,0.0,-0.11,0.0,0.0,,Sleeper raw-stat projection × league scoring + game-time weather
-2026,1,1389740418316374016,Big Tiger Takeover,4,Pinkman,True,7564,Ja'Marr Chase,WR,22.18,21.08,1.1,10,1.1,0.0,0.0,0.0,0.0,0.0,0.0,Questionable,Sleeper raw-stat projection × league scoring
-2026,1,1389740418316374016,Big Tiger Takeover,4,Pinkman,True,12526,Tetairoa McMillan,WR,15.61,14.83,0.78,10,0.5,0.0,0.0,0.0,0.0,0.28,0.0,,Sleeper raw-stat projection × league scoring + injury ripple
-2026,1,1389740418316374016,Big Tiger Takeover,4,Pinkman,True,8110,Jake Ferguson,TE,10.96,10.58,0.38,6,0.5,0.0,0.0,-0.12,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring + OL health
-2026,1,1389740418316374016,Big Tiger Takeover,4,Pinkman,True,7543,Travis Etienne,RB,16.49,15.99,0.5,10,0.5,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
-2026,1,1389740418316374016,Big Tiger Takeover,4,Pinkman,True,8151,Kenneth Walker,RB,17.14,16.88,0.26,10,0.5,0.0,0.0,-0.24,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring + OL health
-2026,1,1389740418316374016,Big Tiger Takeover,4,Pinkman,True,11533,Brandon Aubrey,K,7.35,6.85,0.5,5,0.5,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
-2026,1,1389740418316374016,Big Tiger Takeover,4,Pinkman,True,PHI,Philadelphia Eagles,DEF,8.72,8.72,0.0,8,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
-2026,1,1389740418316374016,Big Tiger Takeover,5,Sutton My Face,False,6904,Jalen Hurts,QB,24.41,23.82,0.59,10,0.5,0.0,0.0,0.0,0.0,0.09,0.0,,Sleeper raw-stat projection × league scoring + injury ripple
+2026,1,1389740418316374016,Big Tiger Takeover,3,Team feliciano,False,12713,Andy Borregales,K,6.13,6.13,0.0,6,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
+2026,1,1389740418316374016,Big Tiger Takeover,3,Team feliciano,False,HOU,Houston Texans,DEF,6.81,7.11,-0.3,8,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
+2026,1,1389740418316374016,Big Tiger Takeover,4,Third Reich & Long,True,6797,Justin Herbert,QB,22.5,22.26,0.24,10,0.5,0.0,0.0,-0.26,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring + OL health
+2026,1,1389740418316374016,Big Tiger Takeover,4,Third Reich & Long,True,12527,Ashton Jeanty,RB,15.18,14.68,0.5,10,0.5,0.0,0.0,0.0,0.0,0.0,0.0,Questionable,Sleeper raw-stat projection × league scoring
+2026,1,1389740418316374016,Big Tiger Takeover,4,Third Reich & Long,True,12512,Quinshon Judkins,RB,13.25,12.86,0.39,10,0.5,0.0,0.0,0.0,-0.11,0.0,0.0,,Sleeper raw-stat projection × league scoring + game-time weather
+2026,1,1389740418316374016,Big Tiger Takeover,4,Third Reich & Long,True,7564,Ja'Marr Chase,WR,22.18,21.08,1.1,10,1.1,0.0,0.0,0.0,0.0,0.0,0.0,Questionable,Sleeper raw-stat projection × league scoring
+2026,1,1389740418316374016,Big Tiger Takeover,4,Third Reich & Long,True,12526,Tetairoa McMillan,WR,15.96,14.83,1.13,10,0.5,0.0,0.0,0.0,0.0,0.63,0.0,,Sleeper raw-stat projection × league scoring + injury ripple
+2026,1,1389740418316374016,Big Tiger Takeover,4,Third Reich & Long,True,8110,Jake Ferguson,TE,10.96,10.58,0.38,6,0.5,0.0,0.0,-0.12,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring + OL health
+2026,1,1389740418316374016,Big Tiger Takeover,4,Third Reich & Long,True,7543,Travis Etienne,RB,16.49,15.99,0.5,10,0.5,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
+2026,1,1389740418316374016,Big Tiger Takeover,4,Third Reich & Long,True,8151,Kenneth Walker,RB,17.14,16.88,0.26,10,0.5,0.0,0.0,-0.24,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring + OL health
+2026,1,1389740418316374016,Big Tiger Takeover,4,Third Reich & Long,True,11533,Brandon Aubrey,K,7.34,6.84,0.5,5,0.5,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
+2026,1,1389740418316374016,Big Tiger Takeover,4,Third Reich & Long,True,PHI,Philadelphia Eagles,DEF,8.71,8.71,0.0,8,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
+2026,1,1389740418316374016,Big Tiger Takeover,5,Sutton My Face,False,6904,Jalen Hurts,QB,24.52,23.82,0.7,10,0.5,0.0,0.0,0.0,0.0,0.2,0.0,,Sleeper raw-stat projection × league scoring + injury ripple
 2026,1,1389740418316374016,Big Tiger Takeover,5,Sutton My Face,False,9226,De'Von Achane,RB,18.91,18.41,0.5,10,0.5,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
-2026,1,1389740418316374016,Big Tiger Takeover,5,Sutton My Face,False,12481,Cam Skattebo,RB,14.8,14.58,0.22,10,0.5,0.0,0.0,-0.28,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring + OL health
-2026,1,1389740418316374016,Big Tiger Takeover,5,Sutton My Face,False,8112,Drake London,WR,17.47,16.89,0.58,10,0.5,0.0,0.0,0.0,0.0,0.08,0.0,,Sleeper raw-stat projection × league scoring + injury ripple
-2026,1,1389740418316374016,Big Tiger Takeover,5,Sutton My Face,False,10229,Rashee Rice,WR,15.79,15.56,0.23,10,0.5,0.0,0.0,-0.18,0.0,-0.09,0.0,,Sleeper raw-stat projection × league scoring + OL health + injury ripple
-2026,1,1389740418316374016,Big Tiger Takeover,5,Sutton My Face,False,7553,Kyle Pitts,TE,12.26,11.66,0.6,6,0.5,0.0,0.0,0.0,0.0,0.1,0.0,,Sleeper raw-stat projection × league scoring + injury ripple
-2026,1,1389740418316374016,Big Tiger Takeover,5,Sutton My Face,False,7526,Jaylen Waddle,WR,16.51,15.77,0.74,10,0.5,0.0,0.0,-0.04,0.0,0.28,0.0,,Sleeper raw-stat projection × league scoring + OL health + injury ripple
-2026,1,1389740418316374016,Big Tiger Takeover,5,Sutton My Face,False,8167,Christian Watson,WR,15.01,14.46,0.55,10,0.5,0.0,0.0,0.0,0.0,0.05,0.0,,Sleeper raw-stat projection × league scoring + injury ripple
-2026,1,1389740418316374016,Big Tiger Takeover,5,Sutton My Face,False,11786,Cam Little,K,7.01,6.51,0.5,5,0.5,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
-2026,1,1389740418316374016,Big Tiger Takeover,5,Sutton My Face,False,DEN,Denver Broncos,DEF,7.39,7.39,0.0,6,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
-2026,1,1389740418316374016,Big Tiger Takeover,6,My Step-Burrow Is Brown,False,7523,Trevor Lawrence,QB,22.1,21.7,0.4,10,0.5,0.0,0.0,0.0,-0.1,0.0,0.0,,Sleeper raw-stat projection × league scoring + game-time weather
-2026,1,1389740418316374016,Big Tiger Takeover,6,My Step-Burrow Is Brown,False,4034,Christian McCaffrey,RB,22.72,22.36,0.36,10,0.5,0.0,0.0,-0.14,0.0,0.0,0.0,Questionable,Sleeper raw-stat projection × league scoring + OL health
+2026,1,1389740418316374016,Big Tiger Takeover,5,Sutton My Face,False,12481,Cam Skattebo,RB,15.0,14.78,0.22,10,0.5,0.0,0.0,-0.28,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring + OL health
+2026,1,1389740418316374016,Big Tiger Takeover,5,Sutton My Face,False,8112,Drake London,WR,17.57,16.89,0.68,10,0.5,0.0,0.0,0.0,0.0,0.18,0.0,,Sleeper raw-stat projection × league scoring + injury ripple
+2026,1,1389740418316374016,Big Tiger Takeover,5,Sutton My Face,False,10229,Rashee Rice,WR,15.68,15.56,0.12,10,0.5,0.0,0.0,-0.18,0.0,-0.2,0.0,,Sleeper raw-stat projection × league scoring + OL health + injury ripple
+2026,1,1389740418316374016,Big Tiger Takeover,5,Sutton My Face,False,7553,Kyle Pitts,TE,12.39,11.66,0.73,6,0.5,0.0,0.0,0.0,0.0,0.23,0.0,,Sleeper raw-stat projection × league scoring + injury ripple
+2026,1,1389740418316374016,Big Tiger Takeover,5,Sutton My Face,False,7526,Jaylen Waddle,WR,16.86,15.77,1.09,10,0.5,0.0,0.0,-0.04,0.0,0.63,0.0,,Sleeper raw-stat projection × league scoring + OL health + injury ripple
+2026,1,1389740418316374016,Big Tiger Takeover,5,Sutton My Face,False,8167,Christian Watson,WR,15.07,14.46,0.61,10,0.5,0.0,0.0,0.0,0.0,0.11,0.0,,Sleeper raw-stat projection × league scoring + injury ripple
+2026,1,1389740418316374016,Big Tiger Takeover,5,Sutton My Face,False,11786,Cam Little,K,7.03,6.53,0.5,5,0.5,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
+2026,1,1389740418316374016,Big Tiger Takeover,5,Sutton My Face,False,DEN,Denver Broncos,DEF,7.15,7.15,0.0,6,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
+2026,1,1389740418316374016,Big Tiger Takeover,6,My Step-Burrow Is Brown,False,7523,Trevor Lawrence,QB,22.12,21.72,0.4,10,0.5,0.0,0.0,0.0,-0.1,0.0,0.0,,Sleeper raw-stat projection × league scoring + game-time weather
+2026,1,1389740418316374016,Big Tiger Takeover,6,My Step-Burrow Is Brown,False,4034,Christian McCaffrey,RB,22.72,22.36,0.36,10,0.5,0.0,0.0,-0.14,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring + OL health
 2026,1,1389740418316374016,Big Tiger Takeover,6,My Step-Burrow Is Brown,False,6790,D'Andre Swift,RB,14.85,14.35,0.5,10,0.5,0.0,0.0,0.0,0.0,0.0,0.0,Questionable,Sleeper raw-stat projection × league scoring
 2026,1,1389740418316374016,Big Tiger Takeover,6,My Step-Burrow Is Brown,False,5859,A.J. Brown,WR,18.44,17.94,0.5,10,0.5,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
 2026,1,1389740418316374016,Big Tiger Takeover,6,My Step-Burrow Is Brown,False,7569,Nico Collins,WR,19.04,18.54,0.5,10,0.5,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
 2026,1,1389740418316374016,Big Tiger Takeover,6,My Step-Burrow Is Brown,False,12506,Harold Fannin,TE,12.92,12.5,0.42,10,0.5,0.0,0.0,0.0,-0.08,0.0,0.0,,Sleeper raw-stat projection × league scoring + game-time weather
-2026,1,1389740418316374016,Big Tiger Takeover,6,My Step-Burrow Is Brown,False,11646,Jalen Coker,WR,12.31,12.93,-0.62,10,-0.7,0.0,0.0,0.0,0.0,0.08,0.0,,Sleeper raw-stat projection × league scoring + injury ripple
+2026,1,1389740418316374016,Big Tiger Takeover,6,My Step-Burrow Is Brown,False,11646,Jalen Coker,WR,12.41,12.93,-0.52,10,-0.7,0.0,0.0,0.0,0.0,0.18,0.0,,Sleeper raw-stat projection × league scoring + injury ripple
 2026,1,1389740418316374016,Big Tiger Takeover,6,My Step-Burrow Is Brown,False,9500,Josh Downs,WR,12.8,13.5,-0.7,10,-0.7,0.0,0.0,0.0,0.0,0.0,0.0,Questionable,Sleeper raw-stat projection × league scoring
 2026,1,1389740418316374016,Big Tiger Takeover,6,My Step-Burrow Is Brown,False,1945,Chris Boswell,K,6.53,6.03,0.5,5,0.5,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
-2026,1,1389740418316374016,Big Tiger Takeover,6,My Step-Burrow Is Brown,False,SEA,Seattle Seahawks,DEF,8.54,8.84,-0.3,9,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
+2026,1,1389740418316374016,Big Tiger Takeover,6,My Step-Burrow Is Brown,False,SEA,Seattle Seahawks,DEF,8.49,8.79,-0.3,9,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
 2026,1,1389740418316374016,Big Tiger Takeover,7,Hurts Locker,False,3294,Dak Prescott,QB,23.89,23.65,0.24,10,0.5,0.0,0.0,-0.26,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring + OL health
-2026,1,1389740418316374016,Big Tiger Takeover,7,Hurts Locker,False,4866,Saquon Barkley,RB,16.29,15.72,0.57,10,0.5,0.0,0.0,0.0,0.0,0.07,0.0,,Sleeper raw-stat projection × league scoring + injury ripple
-2026,1,1389740418316374016,Big Tiger Takeover,7,Hurts Locker,False,5850,Josh Jacobs,RB,0.0,,,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,NA,weekly projected points
-2026,1,1389740418316374016,Big Tiger Takeover,7,Hurts Locker,False,9493,Puka Nacua,WR,22.52,21.96,0.56,10,0.5,0.0,0.0,-0.14,0.0,0.2,0.0,Questionable,Sleeper raw-stat projection × league scoring + OL health + injury ripple
-2026,1,1389740418316374016,Big Tiger Takeover,7,Hurts Locker,False,9997,Zay Flowers,WR,17.38,16.68,0.7,10,0.5,0.0,0.0,0.0,0.0,0.2,0.0,Questionable,Sleeper raw-stat projection × league scoring + injury ripple
+2026,1,1389740418316374016,Big Tiger Takeover,7,Hurts Locker,False,4866,Saquon Barkley,RB,16.38,15.72,0.66,10,0.5,0.0,0.0,0.0,0.0,0.16,0.0,,Sleeper raw-stat projection × league scoring + injury ripple
+2026,1,1389740418316374016,Big Tiger Takeover,7,Hurts Locker,False,7594,Chuba Hubbard,RB,11.34,10.84,0.5,10,0.5,0.0,0.0,0.0,0.0,0.0,0.0,Questionable,Sleeper raw-stat projection × league scoring
+2026,1,1389740418316374016,Big Tiger Takeover,7,Hurts Locker,False,9493,Puka Nacua,WR,22.77,21.96,0.81,10,0.5,0.0,0.0,-0.14,0.0,0.45,0.0,,Sleeper raw-stat projection × league scoring + OL health + injury ripple
+2026,1,1389740418316374016,Big Tiger Takeover,7,Hurts Locker,False,9997,Zay Flowers,WR,17.63,16.68,0.95,10,0.5,0.0,0.0,0.0,0.0,0.45,0.0,Questionable,Sleeper raw-stat projection × league scoring + injury ripple
 2026,1,1389740418316374016,Big Tiger Takeover,7,Hurts Locker,False,11604,Brock Bowers,TE,17.83,17.33,0.5,10,0.5,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
-2026,1,1389740418316374016,Big Tiger Takeover,7,Hurts Locker,False,2133,Davante Adams,WR,12.53,13.07,-0.54,6,-0.7,0.0,0.0,-0.14,0.0,0.3,0.0,,Sleeper raw-stat projection × league scoring + OL health + injury ripple
+2026,1,1389740418316374016,Big Tiger Takeover,7,Hurts Locker,False,2133,Davante Adams,WR,12.41,13.07,-0.66,6,-0.7,0.0,0.0,-0.14,0.0,0.18,0.0,,Sleeper raw-stat projection × league scoring + OL health + injury ripple
 2026,1,1389740418316374016,Big Tiger Takeover,7,Hurts Locker,False,9756,Jordan Addison,WR,11.29,11.99,-0.7,10,-0.7,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
-2026,1,1389740418316374016,Big Tiger Takeover,7,Hurts Locker,False,2747,Jason Myers,K,7.42,6.92,0.5,5,0.5,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
-2026,1,1389740418316374016,Big Tiger Takeover,7,Hurts Locker,False,BAL,Baltimore Ravens,DEF,7.62,7.62,0.0,6,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
-2026,1,1389740418316374016,Big Tiger Takeover,8,Felic loves jared,False,11560,Caleb Williams,QB,24.72,24.13,0.59,10,0.5,0.0,0.0,0.0,0.0,0.09,0.0,,Sleeper raw-stat projection × league scoring + injury ripple
-2026,1,1389740418316374016,Big Tiger Takeover,8,Felic loves jared,False,8150,Kyren Williams,RB,15.56,15.09,0.47,10,0.5,0.0,0.0,-0.1,0.0,0.07,0.0,,Sleeper raw-stat projection × league scoring + OL health + injury ripple
+2026,1,1389740418316374016,Big Tiger Takeover,7,Hurts Locker,False,2747,Jason Myers,K,7.41,6.91,0.5,5,0.5,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
+2026,1,1389740418316374016,Big Tiger Takeover,7,Hurts Locker,False,BAL,Baltimore Ravens,DEF,7.35,7.35,0.0,6,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
+2026,1,1389740418316374016,Big Tiger Takeover,8,Felic loves jared,False,11560,Caleb Williams,QB,24.85,24.15,0.7,10,0.5,0.0,0.0,0.0,0.0,0.2,0.0,,Sleeper raw-stat projection × league scoring + injury ripple
+2026,1,1389740418316374016,Big Tiger Takeover,8,Felic loves jared,False,8150,Kyren Williams,RB,15.65,15.09,0.56,10,0.5,0.0,0.0,-0.1,0.0,0.16,0.0,,Sleeper raw-stat projection × league scoring + OL health + injury ripple
 2026,1,1389740418316374016,Big Tiger Takeover,8,Felic loves jared,False,13287,Jeremiyah Love,RB,14.67,14.17,0.5,10,0.5,0.0,0.0,0.0,0.0,0.0,0.0,Questionable,Sleeper raw-stat projection × league scoring
-2026,1,1389740418316374016,Big Tiger Takeover,8,Felic loves jared,False,6786,CeeDee Lamb,WR,18.93,18.37,0.56,10,0.5,0.0,0.0,-0.14,0.0,0.2,0.0,,Sleeper raw-stat projection × league scoring + OL health + injury ripple
+2026,1,1389740418316374016,Big Tiger Takeover,8,Felic loves jared,False,6786,CeeDee Lamb,WR,19.18,18.37,0.81,10,0.5,0.0,0.0,-0.14,0.0,0.45,0.0,,Sleeper raw-stat projection × league scoring + OL health + injury ripple
 2026,1,1389740418316374016,Big Tiger Takeover,8,Felic loves jared,False,6794,Justin Jefferson,WR,18.41,17.91,0.5,10,0.5,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
 2026,1,1389740418316374016,Big Tiger Takeover,8,Felic loves jared,False,12518,Tyler Warren,TE,15.48,14.98,0.5,10,0.5,0.0,0.0,0.0,0.0,0.0,0.0,Questionable,Sleeper raw-stat projection × league scoring
-2026,1,1389740418316374016,Big Tiger Takeover,8,Felic loves jared,False,12514,Emeka Egbuka,WR,13.66,12.36,1.3,10,1.1,0.0,0.0,0.0,0.0,0.2,0.0,Questionable,Sleeper raw-stat projection × league scoring + injury ripple
+2026,1,1389740418316374016,Big Tiger Takeover,8,Felic loves jared,False,12514,Emeka Egbuka,WR,13.91,12.36,1.55,10,1.1,0.0,0.0,0.0,0.0,0.45,0.0,Questionable,Sleeper raw-stat projection × league scoring + injury ripple
 2026,1,1389740418316374016,Big Tiger Takeover,8,Felic loves jared,False,9484,Tucker Kraft,TE,12.14,11.64,0.5,6,0.5,0.0,0.0,0.0,0.0,0.0,0.0,Questionable,Sleeper raw-stat projection × league scoring
-2026,1,1389740418316374016,Big Tiger Takeover,8,Felic loves jared,False,11539,Jake Bates,K,7.72,7.22,0.5,5,0.5,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
-2026,1,1389740418316374016,Big Tiger Takeover,8,Felic loves jared,False,LAR,Los Angeles Rams,DEF,6.97,7.27,-0.3,8,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
+2026,1,1389740418316374016,Big Tiger Takeover,8,Felic loves jared,False,11539,Jake Bates,K,7.68,7.18,0.5,5,0.5,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
+2026,1,1389740418316374016,Big Tiger Takeover,8,Felic loves jared,False,LAR,Los Angeles Rams,DEF,6.83,7.13,-0.3,8,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
 2026,1,1389740418316374016,Big Tiger Takeover,9,Downs Kids,False,4984,Josh Allen,QB,25.8,25.3,0.5,10,0.5,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
 2026,1,1389740418316374016,Big Tiger Takeover,9,Downs Kids,False,6813,Jonathan Taylor,RB,21.13,20.63,0.5,10,0.5,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
-2026,1,1389740418316374016,Big Tiger Takeover,9,Downs Kids,False,8155,Breece Hall,RB,15.17,14.67,0.5,10,0.5,0.0,0.0,0.0,0.0,0.0,0.0,Questionable,Sleeper raw-stat projection × league scoring
-2026,1,1389740418316374016,Big Tiger Takeover,9,Downs Kids,False,8144,Chris Olave,WR,18.11,17.41,0.7,10,0.5,0.0,0.0,0.0,0.0,0.2,0.0,,Sleeper raw-stat projection × league scoring + injury ripple
-2026,1,1389740418316374016,Big Tiger Takeover,9,Downs Kids,False,11635,Ladd McConkey,WR,14.8,14.24,0.56,10,0.5,0.0,0.0,-0.14,0.0,0.2,0.0,,Sleeper raw-stat projection × league scoring + OL health + injury ripple
+2026,1,1389740418316374016,Big Tiger Takeover,9,Downs Kids,False,8155,Breece Hall,RB,15.33,14.67,0.66,10,0.5,0.0,0.0,0.0,0.0,0.16,0.0,Questionable,Sleeper raw-stat projection × league scoring + injury ripple
+2026,1,1389740418316374016,Big Tiger Takeover,9,Downs Kids,False,8144,Chris Olave,WR,18.36,17.41,0.95,10,0.5,0.0,0.0,0.0,0.0,0.45,0.0,,Sleeper raw-stat projection × league scoring + injury ripple
+2026,1,1389740418316374016,Big Tiger Takeover,9,Downs Kids,False,11635,Ladd McConkey,WR,15.05,14.24,0.81,10,0.5,0.0,0.0,-0.14,0.0,0.45,0.0,,Sleeper raw-stat projection × league scoring + OL health + injury ripple
 2026,1,1389740418316374016,Big Tiger Takeover,9,Downs Kids,False,10236,Dalton Kincaid,TE,10.66,10.16,0.5,6,0.5,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
 2026,1,1389740418316374016,Big Tiger Takeover,9,Downs Kids,False,12490,Bhayshul Tuten,RB,12.31,11.92,0.39,10,0.5,0.0,0.0,0.0,-0.11,0.0,0.0,Questionable,Sleeper raw-stat projection × league scoring + game-time weather
 2026,1,1389740418316374016,Big Tiger Takeover,9,Downs Kids,False,5846,DK Metcalf,WR,13.14,12.64,0.5,10,0.5,0.0,0.0,0.0,0.0,0.0,0.0,Questionable,Sleeper raw-stat projection × league scoring
-2026,1,1389740418316374016,Big Tiger Takeover,9,Downs Kids,False,3451,Ka'imi Fairbairn,K,7.22,6.72,0.5,5,0.5,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
+2026,1,1389740418316374016,Big Tiger Takeover,9,Downs Kids,False,3451,Ka'imi Fairbairn,K,7.3,6.8,0.5,5,0.5,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring
 2026,1,1389740418316374016,Big Tiger Takeover,9,Downs Kids,False,MIN,Minnesota Vikings,DEF,6.97,7.33,-0.36,7,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,Sleeper raw-stat projection × league scoring

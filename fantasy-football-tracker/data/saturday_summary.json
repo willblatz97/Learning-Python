@@ -10,10 +10,10 @@
           "best_bench_pos": "RB",
           "best_bench_return_points": 0.0,
           "best_bench_return_roles": null,
-          "best_bench_score": "11.46",
+          "best_bench_score": "11.85",
           "league": "12-Team 2-Keeper \u2014 League Is Rigged V2",
           "league_id": "1359546418284494848",
-          "score_delta": -5.31,
+          "score_delta": -4.92,
           "score_source": "Sleeper raw-stat projection \u00d7 league scoring",
           "slot": "RB",
           "starter": "Jeremiyah Love",
@@ -32,10 +32,10 @@
           "best_bench_pos": "WR",
           "best_bench_return_points": 0.0,
           "best_bench_return_roles": null,
-          "best_bench_score": "12.92",
+          "best_bench_score": "13.17",
           "league": "12-Team 2-Keeper \u2014 League Is Rigged V2",
           "league_id": "1359546418284494848",
-          "score_delta": -8.65,
+          "score_delta": -8.4,
           "score_source": "Sleeper raw-stat projection \u00d7 league scoring",
           "slot": "WR",
           "starter": "Ja'Marr Chase",
@@ -68,14 +68,36 @@
           "starter_return_points": 0.0,
           "starter_return_roles": null,
           "starter_score": "11.77"
+        },
+        {
+          "action": "MONITOR",
+          "best_bench": null,
+          "best_bench_id": null,
+          "best_bench_pos": null,
+          "best_bench_return_points": null,
+          "best_bench_return_roles": null,
+          "best_bench_score": null,
+          "league": "12-Team 2-Keeper \u2014 League Is Rigged V2",
+          "league_id": "1359546418284494848",
+          "score_delta": null,
+          "score_source": "league-specific IDP scoring proxy",
+          "slot": "DB",
+          "starter": "Chamarri Conner",
+          "starter_id": "10949",
+          "starter_injury": "QUESTIONABLE",
+          "starter_nfl_opponent": "DEN",
+          "starter_pos": "DB",
+          "starter_return_points": 0.0,
+          "starter_return_roles": null,
+          "starter_score": "11.4"
         }
       ],
-      "my_lineup_score": 176.6,
-      "opponent_or_chop_line": 182.53,
+      "my_lineup_score": 174.58,
+      "opponent_or_chop_line": 182.64,
       "opponent_or_chop_rank": "Daejon love #1 fan",
-      "projected_margin": -5.93,
+      "projected_margin": -8.06,
       "recommended_changes": [],
-      "team": "Lagrange 66ers",
+      "team": "Third Reich & Long",
       "type": "keeper"
     },
     "1366076769534251008": {
@@ -113,7 +135,7 @@
           "best_bench_score": "14.52",
           "league": "10-Team Dynasty \u2014 Dynasty V2",
           "league_id": "1366076769534251008",
-          "score_delta": 1.03,
+          "score_delta": 0.75,
           "score_source": "Sleeper raw-stat projection \u00d7 league scoring + injury ripple",
           "slot": "FLEX",
           "starter": "Luther Burden",
@@ -123,7 +145,7 @@
           "starter_pos": "WR",
           "starter_return_points": 0.0,
           "starter_return_roles": null,
-          "starter_score": "13.49"
+          "starter_score": "13.77"
         },
         {
           "action": "MONITOR",
@@ -135,7 +157,7 @@
           "best_bench_score": "14.52",
           "league": "10-Team Dynasty \u2014 Dynasty V2",
           "league_id": "1366076769534251008",
-          "score_delta": -2.31,
+          "score_delta": -2.56,
           "score_source": "Sleeper raw-stat projection \u00d7 league scoring + injury ripple",
           "slot": "FLEX",
           "starter": "Zay Flowers",
@@ -145,13 +167,13 @@
           "starter_pos": "WR",
           "starter_return_points": 0.0,
           "starter_return_roles": null,
-          "starter_score": "16.83"
+          "starter_score": "17.08"
         }
       ],
-      "my_lineup_score": 156.99,
-      "opponent_or_chop_line": 154.64,
+      "my_lineup_score": 157.97,
+      "opponent_or_chop_line": 155.06,
       "opponent_or_chop_rank": "zthompson1533",
-      "projected_margin": 2.35,
+      "projected_margin": 2.91,
       "recommended_changes": [],
       "team": "Route 66ers",
       "type": "dynasty"
@@ -169,7 +191,7 @@
           "best_bench_score": "11.81",
           "league": "12-Team Dynasty \u2014 One League to Rule Them All",
           "league_id": "1370218620990263296",
-          "score_delta": -1.15,
+          "score_delta": -1.43,
           "score_source": "Sleeper raw-stat projection \u00d7 league scoring + injury ripple",
           "slot": "WR",
           "starter": "Luther Burden",
@@ -179,7 +201,7 @@
           "starter_pos": "WR",
           "starter_return_points": 0.0,
           "starter_return_roles": null,
-          "starter_score": "12.96"
+          "starter_score": "13.24"
         },
         {
           "action": "MONITOR",
@@ -191,7 +213,7 @@
           "best_bench_score": "11.81",
           "league": "12-Team Dynasty \u2014 One League to Rule Them All",
           "league_id": "1370218620990263296",
-          "score_delta": -1.11,
+          "score_delta": -1.36,
           "score_source": "Sleeper raw-stat projection \u00d7 league scoring + injury ripple",
           "slot": "WR",
           "starter": "Emeka Egbuka",
@@ -201,7 +223,7 @@
           "starter_pos": "WR",
           "starter_return_points": 0.0,
           "starter_return_roles": null,
-          "starter_score": "12.92"
+          "starter_score": "13.17"
         },
         {
           "action": "MONITOR",
@@ -226,10 +248,10 @@
           "starter_score": "13.98"
         }
       ],
-      "my_lineup_score": 151.73,
-      "opponent_or_chop_line": 169.53,
+      "my_lineup_score": 152.28,
+      "opponent_or_chop_line": 170.05,
       "opponent_or_chop_rank": "sneekyn33ks",
-      "projected_margin": -17.8,
+      "projected_margin": -17.77,
       "recommended_changes": [
         {
           "action": "LEAN CHANGE",
@@ -262,15 +284,15 @@
       "monitors": [
         {
           "action": "MONITOR",
-          "best_bench": "Barion Brown",
-          "best_bench_id": "13533",
+          "best_bench": "Tory Horton",
+          "best_bench_id": "12497",
           "best_bench_pos": "WR",
-          "best_bench_return_points": 2.32,
-          "best_bench_return_roles": "KR+PR",
-          "best_bench_score": 5.23,
+          "best_bench_return_points": 0.83,
+          "best_bench_return_roles": "PR",
+          "best_bench_score": 3.08,
           "league": "18-Team Chopped \u2014 Surviving the Chamber",
           "league_id": "1370453762442797056",
-          "score_delta": -9.95,
+          "score_delta": -12.27,
           "score_source": "Sleeper raw-stat projection \u00d7 league scoring + OL health",
           "slot": "WR",
           "starter": "Malik Nabers",
@@ -280,7 +302,7 @@
           "starter_pos": "WR",
           "starter_return_points": 0.0,
           "starter_return_roles": null,
-          "starter_score": "15.18"
+          "starter_score": "15.35"
         },
         {
           "action": "MONITOR",
@@ -324,25 +346,25 @@
           "starter_pos": "K",
           "starter_return_points": 0.0,
           "starter_return_roles": null,
-          "starter_score": "8.5"
+          "starter_score": "8.49"
         }
       ],
-      "my_lineup_score": 146.33,
-      "nonreturn_chop_line": 115.42,
-      "nonreturn_margin": 11.66,
-      "nonreturn_projection": 127.08,
-      "nonreturn_rank": 15,
-      "opponent_or_chop_line": 115.42,
-      "opponent_or_chop_rank": "Projected rank 6/18",
-      "projected_margin": 30.91,
+      "my_lineup_score": 142.31,
+      "nonreturn_chop_line": 102.37,
+      "nonreturn_margin": 20.69,
+      "nonreturn_projection": 123.06,
+      "nonreturn_rank": 16,
+      "opponent_or_chop_line": 102.37,
+      "opponent_or_chop_rank": "Projected rank 9/18",
+      "projected_margin": 39.94,
       "projected_return_points_added": 19.25,
       "projection_reconciliation_note": "Nonreturn projection uses the same league-scored weekly player projections and all non-return context, but removes the tracker return-role projection. Treat it as a conservative return-independent anchor, not a statistical floor. Return-adjusted projection adds the confidence-weighted return model.",
       "recommended_changes": [],
-      "return_adjusted_chop_line": 115.42,
-      "return_adjusted_margin": 30.91,
-      "return_adjusted_projection": 146.33,
-      "return_adjusted_rank": 6,
-      "team": "Masta\u2019s",
+      "return_adjusted_chop_line": 102.37,
+      "return_adjusted_margin": 39.94,
+      "return_adjusted_projection": 142.31,
+      "return_adjusted_rank": 9,
+      "team": "Third Reich & Long",
       "type": "chopped"
     },
     "1389740418316374016": {
@@ -377,10 +399,10 @@
           "best_bench_pos": "WR",
           "best_bench_return_points": 0.0,
           "best_bench_return_roles": null,
-          "best_bench_score": "10.23",
+          "best_bench_score": "10.19",
           "league": "10-Team Redraft \u2014 Big Tiger Takeover",
           "league_id": "1389740418316374016",
-          "score_delta": -11.95,
+          "score_delta": -11.99,
           "score_source": "Sleeper raw-stat projection \u00d7 league scoring",
           "slot": "WR",
           "starter": "Ja'Marr Chase",
@@ -393,18 +415,18 @@
           "starter_score": "22.18"
         }
       ],
-      "my_lineup_score": 149.38,
-      "opponent_or_chop_line": 149.56,
+      "my_lineup_score": 149.71,
+      "opponent_or_chop_line": 150.18,
       "opponent_or_chop_rank": "Sutton My Face",
-      "projected_margin": -0.18,
+      "projected_margin": -0.47,
       "recommended_changes": [],
-      "team": "Pinkman",
+      "team": "Third Reich & Long",
       "type": "redraft"
     }
   },
   "return_scoring_integrated": true,
   "season": 2026,
-  "snapshot_utc": "2026-09-07T01:33:05+00:00",
+  "snapshot_utc": "2026-09-08T23:48:51+00:00",
   "week": 1,
   "weekly_consensus_current": true
 }

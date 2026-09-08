@@ -9,13 +9,13 @@ This board favors actionable value: roster need + seller surplus + market arbitr
 ## 12-Team Dynasty — One League to Rule Them All
 - Posture: **DUAL TRACK — evaluate push and rebuild** — record 0-0
 - Push targets: Mike Evans (WR, Brandopoly); Davante Adams (WR, Brandopoly); Jaylen Warren (RB, Spoonfed7); Tyler Warren (TE, Spoonfed7); Derrick Henry (RB, The J-Squad)
-- Rebuild targets: Fernando Mendoza (QB, age 22.0, Sauron’s Commisioner); Jaxson Dart (QB, age 23.0, Brandopoly); Eli Stowers (TE, age 23.0, scarberryt); Jeremiyah Love (RB, age 21.0, Sauron’s Commisioner); Makai Lemon (WR, age 22.0, Jimb083)
+- Rebuild targets: Fernando Mendoza (QB, age 22.0, Sauron’s Commisioner); Jaxson Dart (QB, age 23.0, Brandopoly); Eli Stowers (TE, age 23.0, scarberryt); Jeremiyah Love (RB, age 21.0, Sauron’s Commisioner); Makai Lemon (WR, age 22.0, JimmyJames2027)
 
 ## 10-Team Dynasty — Dynasty V2
 - Posture: **DUAL TRACK — evaluate push and rebuild** — record 0-0
-- Push targets: David Montgomery (RB, TheANT2); Jaylen Warren (RB, GOOBERTON); Travis Kelce (TE, ArogersAchilles); DJ Moore (WR, Manson); Christian Watson (WR, Manson)
+- Push targets: David Montgomery (RB, TheANT2); Rhamondre Stevenson (RB, ArogersAchilles); Travis Kelce (TE, ArogersAchilles); DJ Moore (WR, Manson); Christian Watson (WR, Manson)
 - Rebuild targets: Fernando Mendoza (QB, age 22.0, TheANT2); Jaxson Dart (QB, age 23.0, Felici42); Jeremiyah Love (RB, age 21.0, ArogersAchilles); Jordyn Tyson (WR, age 22.0, TheANT2); Ashton Jeanty (RB, age 22.0, GOOBERTON)
 
 ## 12-Team 2-Keeper — League Is Rigged V2
 - Posture: **PLAYOFF / RECOVERY PUSH** — record 0-0
-- Push targets: Justin Herbert (QB, Saxis); Dak Prescott (QB, liamblatz); Cam Skattebo (RB, Njigbas in paris); D'Andre Swift (RB, jblatz); Jameson Williams (WR, 2kyle)
+- Push targets: Justin Herbert (QB, Saxis); Dak Prescott (QB, liamblatz); Rhamondre Stevenson (RB, 2kyle); Cam Skattebo (RB, Njigbas in paris); Jameson Williams (WR, 2kyle)

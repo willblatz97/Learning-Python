@@ -43,7 +43,7 @@ player_id,full_name,position,nfl_team,active,status,injury_status,practice_parti
 13298,KC Concepcion,WR,CLE,True,Active,,,SWR,2,BENCH,OWNED,OWNED,OWNED,OWNED,0,5,1,0,0,False,False
 11632,Malik Nabers,WR,NYG,True,Active,Questionable,,LWR,1,OWNED,START,OWNED,OWNED,OWNED,0,5,1,1,0,False,False
 11628,Marvin Harrison,WR,ARI,True,Active,,,LWR,1,OWNED,START,OWNED,OWNED,OWNED,0,5,1,1,0,False,False
-2216,Mike Evans,WR,SF,True,Active,Questionable,,LWR,1,OWNED,OWNED,OWNED,BENCH,OWNED,0,5,1,0,0,False,False
+2216,Mike Evans,WR,SF,True,Active,,,LWR,1,OWNED,OWNED,OWNED,BENCH,OWNED,0,5,1,0,0,False,False
 9487,Parker Washington,WR,JAX,True,Active,,,SWR,1,OWNED,OWNED,START,OWNED,OWNED,0,5,1,1,0,False,False
 9754,Quentin Johnston,WR,LAC,True,Active,,,LWR,2,OWNED,OWNED,OWNED,OPP,BENCH,0,5,1,0,1,False,False
 9997,Zay Flowers,WR,BAL,True,Active,Questionable,,SWR,1,OWNED,OWNED,OPP,START,OWNED,0,5,1,1,1,False,False
@@ -55,7 +55,6 @@ player_id,full_name,position,nfl_team,active,status,injury_status,practice_parti
 5001,Dalton Schultz,TE,HOU,True,Active,,,TE,1,FA,OWNED,BENCH,OWNED,OWNED,1,4,1,0,0,False,True
 11533,Brandon Aubrey,K,DAL,True,Active,,,K,1,START,OWNED,FA,FA,OWNED,2,3,1,1,0,True,True
 8259,Cameron Dicker,K,LAC,True,Active,Questionable,,K,1,OWNED,START,FA,FA,OWNED,2,3,1,1,0,True,True
-12015,Harrison Mevis,K,LAR,True,Active,,,K,1,OWNED,OWNED,FA,FA,START,2,3,1,1,0,True,True
 1373,Geno Smith,QB,NYJ,True,Active,,,QB,1,FA,OWNED,START,OPP,FA,2,3,1,1,1,True,True
 6768,Tua Tagovailoa,QB,ATL,True,Active,,,QB,1,FA,BENCH,OWNED,OWNED,FA,2,3,1,0,0,True,True
 4035,Alvin Kamara,RB,NO,True,Active,Questionable,,RB,4,FA,OWNED,BENCH,OWNED,FA,2,3,1,0,0,True,True
@@ -71,25 +70,26 @@ player_id,full_name,position,nfl_team,active,status,injury_status,practice_parti
 12492,Pat Bryant,WR,DEN,True,Active,,,SWR,3,FA,OWNED,OWNED,BENCH,FA,2,3,1,0,0,True,True
 7571,Rashod Bateman,WR,BAL,True,Active,,,LWR,2,FA,OWNED,OWNED,BENCH,FA,2,3,1,0,0,True,True
 9502,Tank Dell,WR,HOU,True,Inactive,IR,,SWR,6,FA,FA,IR,OWNED,OWNED,2,3,1,0,0,True,True
+2020,Cairo Santos,K,CHI,True,Active,,,K,1,FA,OWNED,FA,FA,START,3,2,1,1,0,True,True
 13272,Carson Beck,QB,ARI,True,Active,,,QB,3,FA,FA,OWNED,TAXI,FA,3,2,1,0,0,True,True
 4017,Deshaun Watson,QB,CLE,True,Active,,,QB,1,FA,FA,OWNED,BENCH,FA,3,2,1,0,0,True,True
 2306,Jameis Winston,QB,NYG,True,Active,,,QB,2,FA,FA,BENCH,OWNED,FA,3,2,1,0,0,True,True
 1166,Kirk Cousins,QB,LV,True,Active,,,QB,1,FA,FA,BENCH,OWNED,FA,3,2,1,0,0,True,True
 7527,Mac Jones,QB,SF,True,Active,,,QB,2,FA,FA,OWNED,BENCH,FA,3,2,1,0,0,True,True
 9757,Kendre Miller,RB,NO,True,Active,Questionable,,RB,2,FA,OWNED,BENCH,FA,FA,3,2,1,0,0,True,True
-10235,Roschon Johnson,RB,CHI,True,Active,,,RB,3,FA,FA,OWNED,BENCH,FA,3,2,1,0,0,True,True
+13424,Seth McGowan,RB,IND,True,Active,,,RB,2,FA,FA,OWNED,BENCH,FA,3,2,1,0,0,True,True
 6826,Cole Kmet,TE,CHI,True,Active,,,TE,2,FA,FA,BENCH,OWNED,FA,3,2,1,0,0,True,True
 13421,Eli Raridon,TE,NE,True,Active,,,TE,2,FA,FA,OWNED,TAXI,FA,3,2,1,0,0,True,True
 13349,Eli Stowers,TE,PHI,True,Active,Questionable,,TE,2,FA,FA,OWNED,TAXI,FA,3,2,1,0,0,True,True
 8172,Greg Dulcich,TE,MIA,True,Active,,,TE,1,FA,BENCH,OWNED,FA,FA,3,2,1,0,0,True,True
 13282,Jack Endries,TE,CIN,True,Active,,,TE,4,FA,FA,OWNED,TAXI,FA,3,2,1,0,0,True,True
-13533,Barion Brown,WR,NO,True,Active,,,SWR,4,FA,BENCH,OWNED,FA,FA,3,2,1,0,0,True,True
-10949,Chamarri Conner,DB,KC,True,Active,,,SS,1,FA,FA,FA,FA,START,4,1,1,1,0,True,True
+10949,Chamarri Conner,DB,KC,True,Active,Questionable,,SS,1,FA,FA,FA,FA,START,4,1,1,1,0,True,True
 PHI,Philadelphia Eagles,DEF,PHI,True,,,,,,START,FA,FA,FA,FA,4,1,1,1,0,True,True
 11665,Jared Verse,DL,CLE,True,Active,,,RDE,1,FA,FA,FA,FA,START,4,1,1,1,0,True,True
 10880,Jack Campbell,LB,DET,True,Active,,,MLB,1,FA,FA,FA,FA,START,4,1,1,1,0,True,True
 12494,Kyle McCord,QB,MIA,True,Active,,,QB,3,FA,FA,BENCH,FA,FA,4,1,1,0,0,True,True
 5995,Justice Hill,RB,BAL,True,Active,,,RB,2,FA,FA,BENCH,FA,FA,4,1,1,0,0,True,True
+4147,Samaje Perine,RB,CIN,True,Active,,,RB,2,FA,BENCH,FA,FA,FA,4,1,1,0,0,True,True
 13342,John Michael Gyllenborg,TE,KC,True,Inactive,IR,,TE,6,FA,FA,TAXI,FA,FA,4,1,1,0,0,True,True
 9481,Luke Musgrave,TE,GB,True,Active,PUP,,TE,4,FA,FA,IR,FA,FA,4,1,1,0,0,True,True
 13075,Myles Price,WR,MIN,True,Active,,,SWR,6,FA,START,FA,FA,FA,4,1,1,1,0,True,True
@@ -109,7 +109,7 @@ PHI,Philadelphia Eagles,DEF,PHI,True,,,,,,START,FA,FA,FA,FA,4,1,1,1,0,True,True
 11586,Blake Corum,RB,LAR,True,Active,,,RB,2,OWNED,OWNED,OWNED,OWNED,OWNED,0,5,0,0,0,False,False
 8155,Breece Hall,RB,NYJ,True,Active,Questionable,,RB,1,OWNED,OWNED,OWNED,OPP,OWNED,0,5,0,0,1,False,False
 12481,Cam Skattebo,RB,NYG,True,Active,,,RB,1,OPP,OWNED,OWNED,OPP,OWNED,0,5,0,0,2,False,False
-4034,Christian McCaffrey,RB,SF,True,Active,Questionable,,RB,1,OWNED,OWNED,OPP,OWNED,OWNED,0,5,0,0,1,False,False
+4034,Christian McCaffrey,RB,SF,True,Active,,,RB,1,OWNED,OWNED,OPP,OWNED,OWNED,0,5,0,0,1,False,False
 5892,David Montgomery,RB,HOU,True,Active,,,RB,1,OWNED,OWNED,OWNED,OWNED,OWNED,0,5,0,0,0,False,False
 3198,Derrick Henry,RB,BAL,True,Active,,,RB,1,OWNED,OWNED,OWNED,OPP,OWNED,0,5,0,0,1,False,False
 6806,J.K. Dobbins,RB,DEN,True,Active,,,RB,1,OWNED,OWNED,OWNED,OPP,OWNED,0,5,0,0,1,False,False
@@ -129,7 +129,7 @@ PHI,Philadelphia Eagles,DEF,PHI,True,,,,,,START,FA,FA,FA,FA,4,1,1,1,0,True,True
 7021,Rico Dowdle,RB,PIT,True,Active,,,RB,2,OPP,OWNED,OPP,OWNED,OWNED,0,5,0,0,2,False,False
 4866,Saquon Barkley,RB,PHI,True,Active,,,RB,1,OWNED,OWNED,OWNED,OWNED,OWNED,0,5,0,0,0,False,False
 5967,Tony Pollard,RB,TEN,True,Active,,,RB,1,OWNED,OWNED,OWNED,OWNED,OWNED,0,5,0,0,0,False,False
-12529,TreVeyon Henderson,RB,NE,True,Active,Questionable,,RB,2,OWNED,OWNED,OWNED,OWNED,OWNED,0,5,0,0,0,False,False
+12529,TreVeyon Henderson,RB,NE,True,Active,Out,,RB,2,OWNED,OWNED,OWNED,OWNED,OWNED,0,5,0,0,0,False,False
 11604,Brock Bowers,TE,LV,True,Active,,,TE,1,OWNED,OWNED,OWNED,OWNED,OWNED,0,5,0,0,0,False,False
 12517,Colston Loveland,TE,CHI,True,Active,,,TE,1,OWNED,OWNED,OWNED,OWNED,OPP,0,5,0,0,1,False,False
 5022,Dallas Goedert,TE,PHI,True,Active,,,TE,1,OPP,OWNED,OWNED,OPP,OWNED,0,5,0,0,2,False,False
@@ -148,11 +148,11 @@ PHI,Philadelphia Eagles,DEF,PHI,True,,,,,,START,FA,FA,FA,FA,4,1,1,1,0,True,True
 11631,Brian Thomas,WR,JAX,True,Active,,,LWR,2,OWNED,OWNED,OWNED,OWNED,OWNED,0,5,0,0,0,False,False
 6786,CeeDee Lamb,WR,DAL,True,Active,,,LWR,1,OWNED,OWNED,OWNED,OWNED,OWNED,0,5,0,0,0,False,False
 4037,Chris Godwin,WR,TB,True,Active,,,SWR,2,OWNED,OWNED,OWNED,OWNED,OWNED,0,5,0,0,0,False,False
-8144,Chris Olave,WR,NO,True,Active,,,LWR,1,OWNED,OWNED,OWNED,OWNED,OWNED,0,5,0,0,0,False,False
+8144,Chris Olave,WR,NO,True,Active,,,RWR,1,OWNED,OWNED,OWNED,OWNED,OWNED,0,5,0,0,0,False,False
 8167,Christian Watson,WR,GB,True,Active,,,LWR,1,OPP,OWNED,OWNED,OWNED,OWNED,0,5,0,0,1,False,False
 4983,DJ Moore,WR,BUF,True,Active,,,LWR,1,OWNED,OWNED,OWNED,OWNED,OWNED,0,5,0,0,0,False,False
 5846,DK Metcalf,WR,PIT,True,Active,Questionable,,LWR,1,OWNED,OWNED,OWNED,OWNED,OWNED,0,5,0,0,0,False,False
-2133,Davante Adams,WR,LAR,True,Active,,,RWR,2,OWNED,OWNED,OWNED,OWNED,OPP,0,5,0,0,1,False,False
+2133,Davante Adams,WR,LAR,True,Active,,,LWR,2,OWNED,OWNED,OWNED,OWNED,OPP,0,5,0,0,1,False,False
 7525,DeVonta Smith,WR,PHI,True,Active,,,LWR,1,OWNED,OWNED,OWNED,OWNED,OPP,0,5,0,0,1,False,False
 8137,George Pickens,WR,DAL,True,Active,,,RWR,2,OWNED,OWNED,OWNED,OWNED,OWNED,0,5,0,0,0,False,False
 5947,Jakobi Meyers,WR,JAX,True,Active,Questionable,,RWR,3,OWNED,OWNED,OWNED,OWNED,OWNED,0,5,0,0,0,False,False
@@ -160,7 +160,7 @@ PHI,Philadelphia Eagles,DEF,PHI,True,,,,,,START,FA,FA,FA,FA,4,1,1,1,0,True,True
 9488,Jaxon Smith-Njigba,WR,SEA,True,Active,,,LWR,1,OWNED,OWNED,OWNED,OWNED,OWNED,0,5,0,0,0,False,False
 7526,Jaylen Waddle,WR,DEN,True,Active,,,RWR,1,OPP,OWNED,OWNED,OWNED,OWNED,0,5,0,0,1,False,False
 9756,Jordan Addison,WR,MIN,True,Active,,,RWR,2,OWNED,OWNED,OPP,OWNED,OWNED,0,5,0,0,1,False,False
-13281,Jordyn Tyson,WR,NO,True,Inactive,IR,,RWR,10,OWNED,OWNED,OWNED,OWNED,OWNED,0,5,0,0,0,False,False
+13281,Jordyn Tyson,WR,NO,True,Inactive,IR,,LWR,10,OWNED,OWNED,OWNED,OWNED,OWNED,0,5,0,0,0,False,False
 6794,Justin Jefferson,WR,MIN,True,Active,,,LWR,1,OWNED,OWNED,OWNED,OWNED,OWNED,0,5,0,0,0,False,False
 8134,Khalil Shakir,WR,BUF,True,Active,Questionable,,SWR,2,OWNED,OWNED,OWNED,OWNED,OWNED,0,5,0,0,0,False,False
 11635,Ladd McConkey,WR,LAC,True,Active,,,SWR,1,OWNED,OWNED,OWNED,OWNED,OWNED,0,5,0,0,0,False,False
@@ -169,7 +169,7 @@ PHI,Philadelphia Eagles,DEF,PHI,True,,,,,,START,FA,FA,FA,FA,4,1,1,1,0,True,True
 6819,Michael Pittman,WR,PIT,True,Active,Questionable,,RWR,2,OWNED,OWNED,OWNED,OWNED,OPP,0,5,0,0,1,False,False
 10232,Michael Wilson,WR,ARI,True,Active,,,RWR,2,OWNED,OWNED,OPP,OWNED,OWNED,0,5,0,0,1,False,False
 7569,Nico Collins,WR,HOU,True,Active,,,LWR,1,OWNED,OWNED,OWNED,OWNED,OWNED,0,5,0,0,0,False,False
-9493,Puka Nacua,WR,LAR,True,Active,Questionable,,LWR,1,OWNED,OWNED,OWNED,OWNED,OWNED,0,5,0,0,0,False,False
+9493,Puka Nacua,WR,LAR,True,Active,,,RWR,1,OWNED,OWNED,OWNED,OWNED,OWNED,0,5,0,0,0,False,False
 10229,Rashee Rice,WR,KC,True,Active,,,SWR,1,OPP,OWNED,OWNED,OPP,OWNED,0,5,0,0,2,False,False
 11620,Rome Odunze,WR,CHI,True,Active,Questionable,,LWR,1,OWNED,OWNED,OPP,OWNED,OWNED,0,5,0,0,1,False,False
 8121,Romeo Doubs,WR,NE,True,Active,,,RWR,2,OWNED,OWNED,OWNED,OWNED,OWNED,0,5,0,0,0,False,False
@@ -182,18 +182,18 @@ PHI,Philadelphia Eagles,DEF,PHI,True,,,,,,START,FA,FA,FA,FA,4,1,1,1,0,True,True
 4943,Sam Darnold,QB,SEA,True,Active,,,QB,1,FA,OWNED,OWNED,OWNED,OWNED,1,4,0,0,0,False,True
 13305,Mike Washington,RB,LV,True,Active,,,RB,2,FA,OWNED,OWNED,OWNED,OWNED,1,4,0,0,0,False,True
 8132,Tyler Allgeier,RB,ARI,True,Active,,,RB,2,FA,OWNED,OWNED,OWNED,OWNED,1,4,0,0,0,False,True
-11655,Tyrone Tracy,RB,NYG,True,Active,Questionable,,RB,3,FA,OWNED,OWNED,OWNED,OWNED,1,4,0,0,0,False,True
+11655,Tyrone Tracy,RB,NYG,True,Active,Questionable,,RB,2,FA,OWNED,OWNED,OWNED,OWNED,1,4,0,0,0,False,True
 9480,Brenton Strange,TE,JAX,True,Active,,,TE,1,FA,OWNED,OWNED,OWNED,OWNED,1,4,0,0,0,False,True
-12493,Oronde Gadsden,TE,LAC,True,Active,,,TE,1,FA,OWNED,OWNED,OPP,OWNED,1,4,0,0,1,False,True
+7002,Juwan Johnson,TE,NO,True,Active,,,TE,1,FA,OWNED,OWNED,OWNED,OWNED,1,4,0,0,0,False,True
 13311,Chris Bell,WR,MIA,True,Active,,,LWR,4,FA,OWNED,OWNED,OPP,OWNED,1,4,0,0,1,False,True
 13413,Cyrus Allen,WR,KC,True,Active,,,SWR,4,FA,OWNED,OWNED,OWNED,OWNED,1,4,0,0,0,False,True
-13417,De'Zhaun Stribling,WR,SF,True,Active,Questionable,,SWR,3,FA,OWNED,OWNED,OWNED,OWNED,1,4,0,0,0,False,True
+13417,De'Zhaun Stribling,WR,SF,True,Active,,,SWR,3,FA,OWNED,OWNED,OWNED,OWNED,1,4,0,0,0,False,True
 13293,Ja'Kobi Lane,WR,BAL,True,Active,,,RWR,3,FA,OWNED,OWNED,OWNED,OWNED,1,4,0,0,0,False,True
 11646,Jalen Coker,WR,CAR,True,Active,,,SWR,2,OWNED,OWNED,OWNED,OPP,FA,1,4,0,0,1,False,True
-8180,Jalen Nailor,WR,LV,True,Active,,,SWR,2,FA,OWNED,OWNED,OWNED,OWNED,1,4,0,0,0,False,True
+8180,Jalen Nailor,WR,LV,True,Active,,,RWR,2,FA,OWNED,OWNED,OWNED,OWNED,1,4,0,0,0,False,True
 6783,Jerry Jeudy,WR,CLE,True,Active,,,RWR,1,FA,OWNED,OWNED,OWNED,OPP,1,4,0,0,1,False,True
 8676,Rashid Shaheed,WR,SEA,True,Active,,,RWR,2,FA,OWNED,OWNED,OWNED,OWNED,1,4,0,0,0,False,True
-10213,Tre Tucker,WR,LV,True,Active,,,RWR,1,OPP,OWNED,OWNED,OWNED,FA,1,4,0,0,1,False,True
+10213,Tre Tucker,WR,LV,True,Active,,,LWR,1,OPP,OWNED,OWNED,OWNED,FA,1,4,0,0,1,False,True
 11624,Xavier Worthy,WR,KC,True,Active,,,RWR,2,FA,OWNED,OWNED,OWNED,OWNED,1,4,0,0,0,False,True
 12530,Travis Hunter,DB,JAX,True,Active,,,SWR,4,FA,FA,OWNED,OWNED,OWNED,2,3,0,0,0,True,True
 11786,Cam Little,K,JAX,True,Active,,,K,1,OPP,OWNED,FA,FA,OWNED,2,3,0,0,1,True,True
@@ -226,7 +226,7 @@ PHI,Philadelphia Eagles,DEF,PHI,True,,,,,,START,FA,FA,FA,FA,4,1,1,1,0,True,True
 12504,Kaleb Johnson,RB,GB,True,Active,,,RB,3,FA,OWNED,OWNED,OWNED,FA,2,3,0,0,0,True,True
 13405,Kaytron Allen,RB,WAS,True,Active,,,RB,3,FA,OWNED,OWNED,OWNED,FA,2,3,0,0,0,True,True
 9511,Keaton Mitchell,RB,LAC,True,Active,Questionable,,RB,2,FA,OWNED,OWNED,OWNED,FA,2,3,0,0,0,True,True
-7528,Najee Harris,RB,NYG,True,Active,,,RB,2,FA,OWNED,OPP,OWNED,FA,2,3,0,0,1,True,True
+7528,Najee Harris,RB,NYG,True,Active,,,RB,3,FA,OWNED,OPP,OWNED,FA,2,3,0,0,1,True,True
 13288,Nicholas Singleton,RB,TEN,True,Active,,,RB,3,FA,OWNED,OWNED,OPP,FA,2,3,0,0,1,True,True
 11575,Ray Davis,RB,BUF,True,Active,,,RB,3,FA,OWNED,OWNED,OWNED,FA,2,3,0,0,0,True,True
 9508,Tyjae Spears,RB,TEN,True,Active,,,RB,2,FA,OWNED,OWNED,OWNED,FA,2,3,0,0,0,True,True
@@ -235,11 +235,11 @@ PHI,Philadelphia Eagles,DEF,PHI,True,,,,,,START,FA,FA,FA,FA,4,1,1,1,0,True,True
 4033,David Njoku,TE,LAC,True,Active,,,TE,2,FA,OWNED,OWNED,OWNED,FA,2,3,0,0,0,True,True
 12502,Gunnar Helm,TE,TEN,True,Active,,,TE,1,FA,OWNED,OWNED,OWNED,FA,2,3,0,0,0,True,True
 8698,Jake Tonges,TE,SF,True,Active,,,TE,2,FA,OWNED,OWNED,OWNED,FA,2,3,0,0,0,True,True
-7002,Juwan Johnson,TE,NO,True,Active,,,TE,1,FA,OWNED,OWNED,OWNED,FA,2,3,0,0,0,True,True
 13330,Kenyon Sadiq,TE,NYJ,True,Active,Questionable,,TE,2,FA,OWNED,OWNED,OWNED,FA,2,3,0,0,0,True,True
 12498,Mason Taylor,TE,NYJ,True,Active,,,TE,1,FA,OWNED,OWNED,OWNED,FA,2,3,0,0,0,True,True
+12493,Oronde Gadsden,TE,LAC,True,Active,,,TE,1,FA,OWNED,OWNED,OPP,FA,2,3,0,0,1,True,True
 5844,T.J. Hockenson,TE,MIN,True,Active,,,TE,1,FA,OWNED,OWNED,OWNED,FA,2,3,0,0,0,True,True
-12487,Terrance Ferguson,TE,LAR,True,Active,Questionable,,TE,2,FA,OWNED,OWNED,OWNED,FA,2,3,0,0,0,True,True
+12487,Terrance Ferguson,TE,LAR,True,Active,,,TE,1,FA,OWNED,OWNED,OWNED,FA,2,3,0,0,0,True,True
 11625,Adonai Mitchell,WR,NYJ,True,Active,,,RWR,2,FA,OWNED,OWNED,OWNED,FA,2,3,0,0,0,True,True
 13301,Antonio Williams,WR,WAS,True,Active,,,SWR,3,FA,OWNED,OWNED,OWNED,FA,2,3,0,0,0,True,True
 13296,Caleb Douglas,WR,MIA,True,Active,,,RWR,2,FA,OWNED,OWNED,OWNED,FA,2,3,0,0,0,True,True
@@ -257,7 +257,7 @@ PHI,Philadelphia Eagles,DEF,PHI,True,,,,,,START,FA,FA,FA,FA,4,1,1,1,0,True,True
 1479,Keenan Allen,WR,IND,True,Active,,,RWR,3,FA,OWNED,OWNED,OWNED,FA,2,3,0,0,0,True,True
 11637,Keon Coleman,WR,BUF,True,Active,Questionable,,LWR,3,FA,OWNED,OWNED,OWNED,FA,2,3,0,0,0,True,True
 12547,Kyle Williams,WR,NE,True,Active,,,SWR,5,FA,OWNED,OPP,OWNED,FA,2,3,0,0,1,True,True
-13285,Malachi Fields,WR,NYG,True,Active,,,LWR,3,FA,OWNED,OWNED,OWNED,FA,2,3,0,0,0,True,True
+13285,Malachi Fields,WR,NYG,True,Active,,,RWR,2,FA,OWNED,OWNED,OWNED,FA,2,3,0,0,0,True,True
 9494,Marvin Mims,WR,DEN,True,Active,Questionable,,SWR,4,FA,OWNED,OWNED,OWNED,FA,2,3,0,0,0,True,True
 11783,Ryan Flournoy,WR,DAL,True,Active,,,SWR,3,FA,OWNED,OWNED,OWNED,FA,2,3,0,0,0,True,True
 13317,Ted Hurst,WR,TB,True,Active,,,LWR,4,FA,OWNED,OWNED,OPP,FA,2,3,0,0,1,True,True
@@ -268,6 +268,7 @@ PHI,Philadelphia Eagles,DEF,PHI,True,,,,,,START,FA,FA,FA,FA,4,1,1,1,0,True,True
 12713,Andy Borregales,K,NE,True,Active,,,K,1,OWNED,OWNED,FA,FA,FA,3,2,0,0,0,True,True
 7839,Evan McPherson,K,CIN,True,Active,,,K,1,FA,OWNED,FA,FA,OWNED,3,2,0,0,0,True,True
 4227,Harrison Butker,K,KC,True,Active,,,K,1,FA,OWNED,FA,FA,OWNED,3,2,0,0,0,True,True
+12015,Harrison Mevis,K,LAR,True,Active,,,K,1,OWNED,OWNED,FA,FA,FA,3,2,0,0,0,True,True
 12711,Tyler Loop,K,BAL,True,Active,,,K,1,FA,OWNED,FA,FA,OWNED,3,2,0,0,0,True,True
 9229,Anthony Richardson,QB,IND,True,Active,,,QB,2,FA,FA,OWNED,OWNED,FA,3,2,0,0,0,True,True
 13303,Cade Klubnik,QB,NYJ,True,Active,,,QB,3,FA,FA,OWNED,OWNED,FA,3,2,0,0,0,True,True
@@ -278,8 +279,8 @@ PHI,Philadelphia Eagles,DEF,PHI,True,,,,,,START,FA,FA,FA,FA,4,1,1,1,0,True,True
 13425,Jalon Daniels,QB,TB,True,Active,,,QB,3,FA,FA,OWNED,OWNED,FA,3,2,0,0,0,True,True
 7591,Justin Fields,QB,KC,True,Active,,,QB,2,FA,FA,OWNED,OWNED,FA,3,2,0,0,0,True,True
 2307,Marcus Mariota,QB,WAS,True,Active,Questionable,,QB,2,FA,FA,OWNED,OWNED,FA,3,2,0,0,0,True,True
-11559,Michael Penix,QB,ATL,True,Active,Questionable,,QB,3,FA,FA,OWNED,OWNED,FA,3,2,0,0,0,True,True
-12500,Quinn Ewers,QB,JAX,True,Active,,,QB,4,FA,FA,OWNED,OWNED,FA,3,2,0,0,0,True,True
+11559,Michael Penix,QB,ATL,True,Active,Out,,QB,3,FA,FA,OWNED,OWNED,FA,3,2,0,0,0,True,True
+12500,Quinn Ewers,QB,JAX,True,Active,,,QB,3,FA,FA,OWNED,OWNED,FA,3,2,0,0,0,True,True
 12524,Shedeur Sanders,QB,CLE,True,Active,,,QB,3,FA,FA,OWNED,OWNED,FA,3,2,0,0,0,True,True
 13275,Ty Simpson,QB,LAR,True,Active,,,QB,3,FA,FA,OWNED,OWNED,FA,3,2,0,0,0,True,True
 12511,Will Howard,QB,PIT,True,Active,,,QB,3,FA,FA,OWNED,OWNED,FA,3,2,0,0,0,True,True
@@ -297,32 +298,32 @@ PHI,Philadelphia Eagles,DEF,PHI,True,,,,,,START,FA,FA,FA,FA,4,1,1,1,0,True,True
 9506,Sean Tucker,RB,TB,True,Active,Questionable,,RB,3,FA,OWNED,OPP,FA,FA,3,2,0,0,1,True,True
 11589,Trey Benson,RB,ARI,True,Inactive,IR,,RB,6,FA,FA,OWNED,OWNED,FA,3,2,0,0,0,True,True
 11596,Ben Sinnott,TE,WAS,True,Active,Questionable,,TE,3,FA,FA,OWNED,OWNED,FA,3,2,0,0,0,True,True
-6865,Colby Parkinson,TE,LAR,True,Active,,,TE,1,FA,FA,OWNED,OWNED,FA,3,2,0,0,0,True,True
+6865,Colby Parkinson,TE,LAR,True,Active,,,TE,2,FA,FA,OWNED,OWNED,FA,3,2,0,0,0,True,True
 9479,Darnell Washington,TE,PIT,True,Active,,,TE,2,FA,FA,OWNED,OWNED,FA,3,2,0,0,0,True,True
 12521,Elijah Arroyo,TE,SEA,True,Active,,,TE,2,FA,FA,OWNED,OWNED,FA,3,2,0,0,0,True,True
 4066,Evan Engram,TE,DEN,True,Active,,,TE,1,FA,FA,OWNED,OWNED,FA,3,2,0,0,0,True,True
 11600,Ja'Tavion Sanders,TE,CAR,True,Active,,,TE,3,FA,FA,OWNED,OWNED,FA,3,2,0,0,0,True,True
-13324,Matt Hibner,TE,BAL,True,Active,,,TE,3,FA,FA,OWNED,OWNED,FA,3,2,0,0,0,True,True
-13278,Max Klare,TE,LAR,True,Active,,,TE,4,FA,FA,OWNED,OPP,FA,3,2,0,0,1,True,True
+13324,Matt Hibner,TE,BAL,True,Active,,,TE,2,FA,FA,OWNED,OWNED,FA,3,2,0,0,0,True,True
+13278,Max Klare,TE,LAR,True,Active,,,TE,5,FA,FA,OWNED,OPP,FA,3,2,0,0,1,True,True
 9482,Michael Mayer,TE,LV,True,Active,,,TE,2,FA,FA,OWNED,OWNED,FA,3,2,0,0,0,True,True
 4993,Mike Gesicki,TE,CIN,True,Active,,,TE,1,FA,OWNED,OWNED,FA,FA,3,2,0,0,0,True,True
 7828,Noah Gray,TE,KC,True,Active,,,TE,2,FA,FA,OWNED,OWNED,FA,3,2,0,0,0,True,True
 13319,Oscar Delp,TE,NO,True,Active,Questionable,,TE,3,FA,FA,OWNED,OWNED,FA,3,2,0,0,0,True,True
 11597,Theo Johnson,TE,NYG,True,Active,Questionable,,TE,2,FA,FA,OPP,OWNED,FA,3,2,0,0,1,True,True
-13434,Will Kacmarek,TE,MIA,True,Active,Questionable,,TE,2,FA,FA,OWNED,OWNED,FA,3,2,0,0,0,True,True
+13434,Will Kacmarek,TE,MIA,True,Active,,,TE,2,FA,FA,OWNED,OWNED,FA,3,2,0,0,0,True,True
 6803,Brandon Aiyuk,WR,SF,True,Active,DNR,,,9,FA,FA,OWNED,OWNED,FA,3,2,0,0,0,True,True
 13380,Brenen Thompson,WR,LAC,True,Active,Questionable,,RWR,4,FA,FA,OPP,OWNED,FA,3,2,0,0,1,True,True
-13420,Bryce Lance,WR,NO,True,Active,,,RWR,3,FA,FA,OWNED,OWNED,FA,3,2,0,0,0,True,True
+13420,Bryce Lance,WR,NO,True,Active,,,LWR,3,FA,FA,OWNED,OWNED,FA,3,2,0,0,0,True,True
 4981,Calvin Ridley,WR,TEN,True,Active,,,RWR,3,FA,OWNED,OWNED,FA,FA,3,2,0,0,0,True,True
 13336,Dane Key,WR,DEN,True,Active,,,,,FA,FA,OWNED,OWNED,FA,3,2,0,0,0,True,True
-7090,Darnell Mooney,WR,NYG,True,Active,,,SWR,4,FA,OWNED,OWNED,FA,FA,3,2,0,0,0,True,True
+7090,Darnell Mooney,WR,NYG,True,Active,,,SWR,3,FA,OWNED,OWNED,FA,FA,3,2,0,0,0,True,True
 9501,DeMario Douglas,WR,NE,True,Active,,,SWR,3,FA,FA,OWNED,OWNED,FA,3,2,0,0,0,True,True
 13333,Deion Burks,WR,IND,True,Active,,,SWR,6,FA,FA,OPP,OWNED,FA,3,2,0,0,1,True,True
 12541,Dont'e Thornton,WR,LV,True,Inactive,IR,,LWR,10,FA,FA,OWNED,OWNED,FA,3,2,0,0,0,True,True
 12499,Elic Ayomanor,WR,TEN,True,Active,,,LWR,5,FA,FA,OWNED,OWNED,FA,3,2,0,0,0,True,True
 13268,Elijah Sarratt,WR,BAL,True,Active,,,LWR,5,FA,FA,OWNED,OWNED,FA,3,2,0,0,0,True,True
-12503,Isaiah Bond,WR,CLE,True,Active,Questionable,,SWR,4,FA,FA,OWNED,OWNED,FA,3,2,0,0,0,True,True
-12483,Jack Bech,WR,LV,True,Active,,,LWR,3,FA,FA,OWNED,OWNED,FA,3,2,0,0,0,True,True
+12503,Isaiah Bond,WR,CLE,True,Active,,,SWR,4,FA,FA,OWNED,OWNED,FA,3,2,0,0,0,True,True
+12483,Jack Bech,WR,LV,True,Active,,,SWR,3,FA,FA,OWNED,OWNED,FA,3,2,0,0,0,True,True
 8119,Jahan Dotson,WR,ATL,True,Active,,,RWR,2,FA,OWNED,OWNED,FA,FA,3,2,0,0,0,True,True
 12505,Jalen Royals,WR,KC,True,Active,,,LWR,5,FA,FA,OWNED,OWNED,FA,3,2,0,0,0,True,True
 13338,Kevin Coleman,WR,MIA,True,Active,,,SWR,5,FA,FA,OWNED,OWNED,FA,3,2,0,0,0,True,True
@@ -362,9 +363,8 @@ SEA,Seattle Seahawks,DEF,SEA,True,,,,,,OWNED,FA,FA,FA,FA,4,1,0,0,0,True,True
 8289,Aidan Hutchinson,DL,DET,True,Active,,,LDE,1,FA,FA,FA,FA,OWNED,4,1,0,0,0,True,True
 10898,Tuli Tuipulotu,DL,LAC,True,Active,,,LOLB,1,FA,FA,FA,FA,OWNED,4,1,0,0,0,True,True
 10892,Will Anderson,DL,HOU,True,Active,,,LDE,1,FA,FA,FA,FA,OWNED,4,1,0,0,0,True,True
-2227,Aaron Donald,DT,LAR,True,Active,,,NT,1,FA,FA,FA,FA,OPP,4,1,0,0,1,True,True
+2227,Aaron Donald,DT,LAR,True,Active,Out,,LDE,1,FA,FA,FA,FA,OPP,4,1,0,0,1,True,True
 6125,Jeffery Simmons,DT,TEN,True,Active,,,LDT,1,FA,FA,FA,FA,OWNED,4,1,0,0,0,True,True
-2020,Cairo Santos,K,CHI,True,Active,,,K,1,FA,OWNED,FA,FA,FA,4,1,0,0,0,True,True
 6650,Chase McLaughlin,K,TB,True,Active,,,K,1,FA,OWNED,FA,FA,FA,4,1,0,0,0,True,True
 5189,Eddy Pineiro,K,SF,True,Active,,,K,1,FA,OWNED,FA,FA,FA,4,1,0,0,0,True,True
 4195,Jake Elliott,K,PHI,True,Active,,,K,1,FA,OWNED,FA,FA,FA,4,1,0,0,0,True,True
@@ -378,7 +378,7 @@ SEA,Seattle Seahawks,DEF,SEA,True,,,,,,OWNED,FA,FA,FA,FA,4,1,0,0,0,True,True
 11687,Edgerrin Cooper,LB,GB,True,Active,,,LILB,1,FA,FA,FA,FA,OWNED,4,1,0,0,0,True,True
 5332,Foyesade Oluokun,LB,JAX,True,Active,,,MLB,1,FA,FA,FA,FA,OWNED,4,1,0,0,0,True,True
 5041,Fred Warner,LB,SF,True,Active,,,MLB,1,FA,FA,FA,FA,OWNED,4,1,0,0,0,True,True
-6949,Jordyn Brooks,LB,MIA,True,Active,,,MLB,1,FA,FA,FA,FA,OWNED,4,1,0,0,0,True,True
+6949,Jordyn Brooks,LB,MIA,True,Active,,,LOLB,1,FA,FA,FA,FA,OWNED,4,1,0,0,0,True,True
 8267,Nakobe Dean,LB,LV,True,Active,,,RILB,1,FA,FA,FA,FA,OPP,4,1,0,0,1,True,True
 7648,Nick Bolton,LB,KC,True,Active,,,MLB,1,FA,FA,FA,FA,OWNED,4,1,0,0,0,True,True
 8280,Nik Bonitto,LB,DEN,True,Active,,,ROLB,1,FA,FA,FA,FA,OWNED,4,1,0,0,0,True,True
@@ -406,9 +406,9 @@ SEA,Seattle Seahawks,DEF,SEA,True,,,,,,OWNED,FA,FA,FA,FA,4,1,0,0,0,True,True
 13403,Jam Miller,RB,,True,Active,Questionable,,,,FA,FA,FA,OWNED,FA,4,1,0,0,0,True,True
 12150,Jarveon Howard,RB,,True,Inactive,,,,,FA,OWNED,FA,FA,FA,4,1,0,0,0,True,True
 13300,Le'Veon Moss,RB,,True,Active,NA,,,,FA,FA,OWNED,FA,FA,4,1,0,0,0,True,True
-13964,Myles Montgomery,RB,,True,Active,IR,,,,FA,FA,OWNED,FA,FA,4,1,0,0,0,True,True
+13964,Myles Montgomery,RB,NE,True,Inactive,IR,,,,FA,FA,OWNED,FA,FA,4,1,0,0,0,True,True
 13418,Robert Henry,RB,WAS,True,Active,,,,,FA,FA,OWNED,FA,FA,4,1,0,0,0,True,True
-13424,Seth McGowan,RB,IND,True,Active,,,RB,2,FA,FA,OWNED,FA,FA,4,1,0,0,0,True,True
+10235,Roschon Johnson,RB,CHI,True,Active,,,RB,3,FA,FA,OWNED,FA,FA,4,1,0,0,0,True,True
 12543,Tahj Brooks,RB,CIN,True,Active,,,RB,3,FA,FA,OWNED,FA,FA,4,1,0,0,0,True,True
 12531,Trevor Etienne,RB,CAR,True,Active,IR,,RB,4,FA,FA,OWNED,FA,FA,4,1,0,0,0,True,True
 6039,Ty Johnson,RB,BUF,True,Active,Questionable,,RB,2,FA,FA,OWNED,FA,FA,4,1,0,0,0,True,True
@@ -426,12 +426,12 @@ SEA,Seattle Seahawks,DEF,SEA,True,,,,,,OWNED,FA,FA,FA,FA,4,1,0,0,0,True,True
 13408,Tanner Koziol,TE,JAX,True,Active,,,TE,3,FA,FA,OWNED,FA,FA,4,1,0,0,0,True,True
 13309,Aaron Anderson,WR,,True,Inactive,Questionable,,,,FA,FA,OWNED,FA,FA,4,1,0,0,0,True,True
 10226,Andrei Iosivas,WR,CIN,True,Active,,,SWR,3,FA,FA,OWNED,FA,FA,4,1,0,0,0,True,True
-13270,CJ Daniels,WR,LAR,True,Active,,,RWR,3,FA,FA,OWNED,FA,FA,4,1,0,0,0,True,True
+13533,Barion Brown,WR,NO,True,Active,,,SWR,4,FA,FA,OWNED,FA,FA,4,1,0,0,0,True,True
+13270,CJ Daniels,WR,LAR,True,Active,,,LWR,3,FA,FA,OWNED,FA,FA,4,1,0,0,0,True,True
 10444,Cedric Tillman,WR,NO,True,Active,,,,,FA,FA,OWNED,FA,FA,4,1,0,0,0,True,True
 13477,Colbie Young,WR,CIN,True,Active,,,LWR,4,FA,FA,FA,OWNED,FA,4,1,0,0,0,True,True
-6149,Darius Slayton,WR,NYG,True,Active,,,RWR,2,FA,FA,OWNED,FA,FA,4,1,0,0,0,True,True
+6149,Darius Slayton,WR,,True,Active,,,,,FA,FA,OWNED,FA,FA,4,1,0,0,0,True,True
 10234,Derius Davis,WR,LAC,True,Active,,,SWR,6,FA,OWNED,FA,FA,FA,4,1,0,0,0,True,True
-13316,Eric Rivers,WR,TB,True,Active,,,,,FA,FA,OWNED,FA,FA,4,1,0,0,0,True,True
 11616,Jacob Cowing,WR,SF,True,Active,Questionable,,SWR,5,FA,OWNED,FA,FA,FA,4,1,0,0,0,True,True
 8117,Jalen Tolbert,WR,MIA,True,Active,,,LWR,3,FA,FA,OWNED,FA,FA,4,1,0,0,0,True,True
 13392,Jeff Caldwell,WR,KC,True,Inactive,IR,,,8,FA,FA,OWNED,FA,FA,4,1,0,0,0,True,True
@@ -441,7 +441,7 @@ SEA,Seattle Seahawks,DEF,SEA,True,,,,,,OWNED,FA,FA,FA,FA,4,1,0,0,0,True,True
 11617,Malachi Corley,WR,CLE,True,Active,,,SWR,5,FA,OWNED,FA,FA,FA,4,1,0,0,0,True,True
 5848,Marquise Brown,WR,PHI,True,Active,,,SWR,4,FA,FA,OWNED,FA,FA,4,1,0,0,0,True,True
 8188,Tyquan Thornton,WR,KC,True,Active,,,LWR,3,FA,FA,OWNED,FA,FA,4,1,0,0,0,True,True
-11168,Xavier Smith,WR,LAR,True,Active,,,SWR,6,FA,OWNED,FA,FA,FA,4,1,0,0,0,True,True
+11168,Xavier Smith,WR,LAR,True,Active,,,SWR,7,FA,OWNED,FA,FA,FA,4,1,0,0,0,True,True
 13411,Zavion Thomas,WR,CHI,True,Active,,,SWR,4,FA,FA,OWNED,FA,FA,4,1,0,0,0,True,True
 1674,A.J. Bouye,CB,CAR,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 6876,A.J. Green,CB,MIA,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
@@ -455,7 +455,7 @@ SEA,Seattle Seahawks,DEF,SEA,True,,,,,,OWNED,FA,FA,FA,FA,4,1,0,0,0,True,True
 4124,Ahkello Witherspoon,CB,,True,Active,NA,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 2548,Akeem King,CB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 6695,Alex Brown,CB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
-12094,Alex Johnson,CB,LAR,True,Inactive,IR,,DB,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
+12094,Alex Johnson,CB,,True,Inactive,IR,,DB,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 6266,Alexander Myres,CB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 8788,Allan George,CB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 8695,Allie Green,CB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
@@ -482,7 +482,7 @@ SEA,Seattle Seahawks,DEF,SEA,True,,,,,,OWNED,FA,FA,FA,FA,4,1,0,0,0,True,True
 5694,Antwuan Davis,CB,,True,Inactive,NA,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 180,Aqib Talib,CB,,True,Injured Reserve,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 11220,Arquon Bush,CB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
-11440,Art Green,CB,,True,Active,Questionable,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
+11440,Art Green,CB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 4503,Arthur Maulet,CB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 7655,Asante Samuel,CB,PIT,True,Active,,,RCB,2,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 4492,Ashton Lampkin,CB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
@@ -530,7 +530,7 @@ SEA,Seattle Seahawks,DEF,SEA,True,,,,,,OWNED,FA,FA,FA,FA,4,1,0,0,0,True,True
 7907,Bryce Thompson,CB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 8565,Bryce Watts,CB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 2332,Byron Jones,CB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
-5864,Byron Murphy,CB,MIN,True,Active,,,NB,1,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
+5864,Byron Murphy,CB,MIN,True,Active,,,LCB,1,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 11083,C.J. Coldon,CB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 2869,C.J. Goodwin,CB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 6791,C.J. Henderson,CB,ATL,True,Active,,,LCB,3,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
@@ -541,7 +541,7 @@ SEA,Seattle Seahawks,DEF,SEA,True,,,,,,OWNED,FA,FA,FA,FA,4,1,0,0,0,True,True
 12109,Caleb Nelson,CB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 13858,Caleb Offord,CB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 11503,Cam Brown,CB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
-11749,Cam Hart,CB,LAC,True,Active,,,RCB,1,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
+11749,Cam Hart,CB,LAC,True,Active,,,LCB,2,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 6314,Cam Lewis,CB,CHI,True,Active,,,FS,2,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 13853,Cam Miller,CB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 6871,Cameron Dantzler,CB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
@@ -558,14 +558,14 @@ SEA,Seattle Seahawks,DEF,SEA,True,,,,,,OWNED,FA,FA,FA,FA,4,1,0,0,0,True,True
 5181,Chandon Sullivan,CB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 13828,Channing Canada,CB,NE,True,Active,,,RCB,2,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 4567,Channing Stribling,CB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
-13513,Charles Demmings,CB,MIN,True,Active,,,LCB,2,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
+13513,Charles Demmings,CB,MIN,True,Active,,,RCB,2,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 12137,Charles Woods,CB,NE,True,Active,,,NB,2,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 5493,Charvarius Ward,CB,IND,True,Active,Questionable,,LCB,1,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 12441,Chase Williams,CB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 4107,Chidobe Awuzie,CB,BAL,True,Active,,,RCB,1,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 11938,Chigozie Anusiem,CB,LV,True,Inactive,IR,,DB,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
-5350,Chris Campbell,CB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 5105,Chris Campbell,CB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
+5350,Chris Campbell,CB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 869,Chris Harris,CB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 5815,Chris Jones,CB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 5508,Chris Lammons,CB,,True,Active,Questionable,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
@@ -630,9 +630,9 @@ SEA,Seattle Seahawks,DEF,SEA,True,,,,,,OWNED,FA,FA,FA,FA,4,1,0,0,0,True,True
 6180,Darius Williams,CB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 6882,Darnay Holmes,CB,ATL,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 1887,Darqueze Dennard,CB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
-8666,Darrell Baker,CB,MIA,True,Active,PUP,,LCB,2,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
-10978,Darrell Luter,CB,LV,True,Active,,,NB,3,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
-7730,Darren Hall,CB,ATL,True,Inactive,IR,,DB,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
+8666,Darrell Baker,CB,MIA,True,Active,PUP,,DB,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
+10978,Darrell Luter,CB,LV,True,Active,,,NB,2,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
+7730,Darren Hall,CB,ATL,True,Inactive,Questionable,,DB,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 11442,Darrious Gaines,CB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 2546,Darryl Roberts,CB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 3246,Daryl Worley,CB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
@@ -651,6 +651,7 @@ SEA,Seattle Seahawks,DEF,SEA,True,,,,,,OWNED,FA,FA,FA,FA,4,1,0,0,0,True,True
 13753,DeCarlos Nicholson,CB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 7423,DeMarkus Acy,CB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 12008,DeShawn Gaddie,CB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
+13977,DeVonta Smith,CB,CAR,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 4294,Deante Burton,CB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 11772,Deantre Prince,CB,CHI,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 7033,Debione Renfro,CB,,True,Inactive,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
@@ -666,11 +667,10 @@ SEA,Seattle Seahawks,DEF,SEA,True,,,,,,OWNED,FA,FA,FA,FA,4,1,0,0,0,True,True
 11310,Derrick Langford,CB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 1545,Desmond Trufant,CB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 8920,Devin Jones,CB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
-13496,Devin Moore,CB,DAL,True,Active,IR,,LCB,3,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
+13496,Devin Moore,CB,DAL,True,Inactive,IR,,LCB,3,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 8596,Devin Taylor,CB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 13654,Devon Marshall,CB,,True,Inactive,Questionable,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 2169,Devonta Glover-Wright,CB,,True,Inactive,,,LCB,3,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
-13977,Devonta Smith,CB,CAR,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 3662,Devonte Johnson,CB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 11132,Divaad Wilson,CB,,True,Inactive,Questionable,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 13544,Domani Jackson,CB,GB,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
@@ -683,9 +683,9 @@ SEA,Seattle Seahawks,DEF,SEA,True,,,,,,OWNED,FA,FA,FA,FA,4,1,0,0,0,True,True
 6034,Donnie Lewis,CB,DEN,True,Inactive,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 5492,Donovan Olumba,CB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 2258,Dontae Johnson,CB,,True,Inactive,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
-12885,Dontae Manning,CB,,True,Active,IR,,DB,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
+12885,Dontae Manning,CB,,True,Active,IR,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 3765,Donte Deayon,CB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
-5051,Donte Jackson,CB,LAC,True,Active,,,LCB,2,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
+5051,Donte Jackson,CB,LAC,True,Active,,,RCB,1,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 12734,Donte Kent,CB,PIT,True,Active,PUP,,DB,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 7333,Donte Vaughn,CB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 4586,Dontrell Nelson,CB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
@@ -739,7 +739,7 @@ SEA,Seattle Seahawks,DEF,SEA,True,,,,,,OWNED,FA,FA,FA,FA,4,1,0,0,0,True,True
 5909,Hamp Cheevers,CB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 6961,Harrison Hand,CB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 6640,Herb Miller,CB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
-13508,Hezekiah Masses,CB,LV,True,Active,,,LCB,2,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
+13508,Hezekiah Masses,CB,LV,True,Active,,,RCB,2,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 5214,Holton Hill,CB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 4410,Horace Richardson,CB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 4161,Howard Wilson,CB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
@@ -752,7 +752,7 @@ SEA,Seattle Seahawks,DEF,SEA,True,,,,,,OWNED,FA,FA,FA,FA,4,1,0,0,0,True,True
 5048,Isaac Yiadom,CB,WAS,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 11033,Isaiah Bolden,CB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 5951,Isaiah Johnson,CB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
-5044,Isaiah Oliver,CB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
+5044,Isaiah Oliver,CB,TEN,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 7133,Isaiah Rodgers,CB,MIN,True,Active,,,RCB,1,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 7242,Isiah Swann,CB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 4560,J.D. Harmon,CB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
@@ -785,7 +785,7 @@ SEA,Seattle Seahawks,DEF,SEA,True,,,,,,OWNED,FA,FA,FA,FA,4,1,0,0,0,True,True
 5946,Jamel Dean,CB,PIT,True,Active,,,RCB,1,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 3231,James Bradberry,CB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 11221,James Campbell,CB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
-7419,James Pierre,CB,MIN,True,Active,,,LCB,1,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
+7419,James Pierre,CB,MIN,True,Active,,,LCB,2,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 7250,Jameson Houston,CB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 1203,Janoris Jenkins,CB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 4789,Jarell Carter,CB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
@@ -793,7 +793,7 @@ SEA,Seattle Seahawks,DEF,SEA,True,,,,,,OWNED,FA,FA,FA,FA,4,1,0,0,0,True,True
 7170,Jarren Williams,CB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 11001,Jarrick Bernard-Converse,CB,NYG,True,Inactive,IR,,DB,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 12417,Jason Maitre,CB,,True,Active,Questionable,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
-12675,Jason Marshall,CB,MIA,True,Active,,,LCB,1,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
+12675,Jason Marshall,CB,MIA,True,Active,,,RCB,1,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 7816,Jason Pinnock,CB,NYG,True,Active,,,SS,2,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 2055,Jason Verrett,CB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 6974,Javaris Davis,CB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
@@ -852,7 +852,7 @@ SEA,Seattle Seahawks,DEF,SEA,True,,,,,,OWNED,FA,FA,FA,FA,4,1,0,0,0,True,True
 11535,Josh Butler,CB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 12092,Josh DeBerry,CB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 8587,Josh Drayden,CB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
-10999,Josh Hayes,CB,TB,True,Active,IR,,RCB,2,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
+10999,Josh Hayes,CB,TB,True,Active,IR,,RCB,3,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 11764,Josh Newton,CB,CIN,True,Active,,,NB,2,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 1182,Josh Norman,CB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 5738,Josh Okonye,CB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
@@ -873,7 +873,7 @@ SEA,Seattle Seahawks,DEF,SEA,True,,,,,,OWNED,FA,FA,FA,FA,4,1,0,0,0,True,True
 1913,K'Waun Williams,CB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 6619,Kabion Ento,CB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 8857,Kader Kohou,CB,KC,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
-11489,Kahlef Hailassie,CB,MIN,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
+11489,Kahlef Hailassie,CB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 12952,Kahzir Brown,CB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 12123,Kaleb Ford-Dement,CB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 11134,Kaleb Hayes,CB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
@@ -910,7 +910,7 @@ SEA,Seattle Seahawks,DEF,SEA,True,,,,,,OWNED,FA,FA,FA,FA,4,1,0,0,0,True,True
 7200,Khalil Dorsey,CB,DET,True,Active,,,RCB,3,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 8031,Kiondre Thomas,CB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 7292,Kobe Williams,CB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
-12716,Korie Black,CB,NYG,True,Active,IR,,LCB,3,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
+12716,Korie Black,CB,NYG,True,Inactive,IR,,LCB,3,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 5921,Kris Boyd,CB,,True,Active,Questionable,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 6829,Kristian Fulton,CB,KC,True,Active,,,LCB,2,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 2108,Kyle Fuller,CB,,True,Inactive,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
@@ -983,7 +983,7 @@ SEA,Seattle Seahawks,DEF,SEA,True,,,,,,OWNED,FA,FA,FA,FA,4,1,0,0,0,True,True
 4982,Mike Hughes,CB,ATL,True,Active,,,LCB,1,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 6025,Mike Jackson,CB,CAR,True,Active,,,LCB,1,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 5713,Mike Jones,CB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
-12960,Mike Reid,CB,NO,True,Active,,,SS,3,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
+12960,Mike Reid,CB,NO,True,Active,,,FS,2,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 12116,Mikey Victor,CB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 12182,Miles Battle,CB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 1779,Mitchell White,CB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
@@ -994,7 +994,7 @@ SEA,Seattle Seahawks,DEF,SEA,True,,,,,,OWNED,FA,FA,FA,FA,4,1,0,0,0,True,True
 11515,Myles Brooks,CB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 12236,Myles Jones,CB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 11076,NaJee Thompson,CB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
-7687,Nahshon Wright,CB,NYJ,True,Active,Questionable,,LCB,1,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
+7687,Nahshon Wright,CB,NYJ,True,Active,Questionable,,LCB,2,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 4688,Najee Murray,CB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 13953,Nate Evans,CB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 4202,Nate Hairston,CB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
@@ -1006,7 +1006,7 @@ SEA,Seattle Seahawks,DEF,SEA,True,,,,,,OWNED,FA,FA,FA,FA,4,1,0,0,0,True,True
 1283,Neiko Thorpe,CB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 7365,Nevelle Clarke,CB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 2122,Nevin Lawson,CB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
-11029,Nic Jones,CB,NYG,True,Active,,,NB,3,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
+11029,Nic Jones,CB,NYG,True,Active,,,NB,2,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 8880,Nick Grant,CB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 7974,Nick McCloud,CB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 5382,Nick Nelson,CB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
@@ -1058,9 +1058,9 @@ SEA,Seattle Seahawks,DEF,SEA,True,,,,,,OWNED,FA,FA,FA,FA,4,1,0,0,0,True,True
 2888,Raymon Taylor,CB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 11879,Rayshad Williams,CB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 12037,Reddy Steward,CB,DAL,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
-4840,Reese Fleming,CB,,True,Inactive,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 4471,Reese Fleming,CB,,True,Inactive,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
-11325,Reese Taylor,CB,MIA,True,Active,,,NB,3,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
+4840,Reese Fleming,CB,,True,Inactive,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
+11325,Reese Taylor,CB,MIA,True,Active,,,NB,2,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 5554,Reggie Hall,CB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 7114,Reggie Robinson,CB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 11330,Rejzohn Wright,CB,NO,True,Inactive,IR,,DB,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
@@ -1077,7 +1077,7 @@ SEA,Seattle Seahawks,DEF,SEA,True,,,,,,OWNED,FA,FA,FA,FA,4,1,0,0,0,True,True
 7795,Rodarius Williams,CB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 6256,Rodney Randle,CB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 13633,Rodney Shelley,CB,LAC,True,Active,,,NB,2,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
-12796,Roman Parodie,CB,TB,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
+12796,Roman Parodie,CB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 2355,Ronald Darby,CB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 3613,Ronald Zamort,CB,,True,Inactive,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 1809,Ross Cockrell,CB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
@@ -1213,7 +1213,7 @@ SEA,Seattle Seahawks,DEF,SEA,True,,,,,,OWNED,FA,FA,FA,FA,4,1,0,0,0,True,True
 11888,Zamari Walton,CB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 7168,Zane Lewis,CB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 7717,Zech McPhearson,CB,,True,Inactive,Questionable,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
-12942,Zemaiah Vaughn,CB,MIN,True,Active,,,RCB,2,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
+12942,Zemaiah Vaughn,CB,MIN,True,Active,,,LCB,3,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 13033,Zy Alexander,CB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 5662,A.J. Moore,DB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 8719,A.J. Thomas,DB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
@@ -1245,8 +1245,8 @@ SEA,Seattle Seahawks,DEF,SEA,True,,,,,,OWNED,FA,FA,FA,FA,4,1,0,0,0,True,True
 5908,Amani Hooker,DB,TEN,True,Active,,,SS,1,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 8701,Amari Carter,DB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 5674,Andre Chachere,DB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
-7698,Andre Cisco,DB,NYJ,True,Active,,,FS,1,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
-12102,Andre' Sam,DB,,True,Active,IR,,DB,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
+7698,Andre Cisco,DB,NYJ,True,Active,,,FS,2,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
+12102,Andre' Sam,DB,PHI,True,Inactive,IR,,DB,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 3764,Andrew Adams,DB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 8300,Andrew Booth,DB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 12401,Andrew Hayes,DB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
@@ -1264,7 +1264,7 @@ SEA,Seattle Seahawks,DEF,SEA,True,,,,,,OWNED,FA,FA,FA,FA,4,1,0,0,0,True,True
 6917,Antoine Brooks,DB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 6888,Antoine Winfield,DB,TB,True,Active,,,FS,1,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 10974,Antonio Johnson,DB,JAX,True,Active,,,SS,1,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
-7970,Ar'Darius Washington,DB,NYG,True,Active,,,NB,2,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
+7970,Ar'Darius Washington,DB,NYG,True,Active,,,FS,2,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 11476,Armani Marsh,DB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 5329,Armani Watts,DB,,True,Inactive,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 5578,Arrion Springs,DB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
@@ -1276,11 +1276,11 @@ SEA,Seattle Seahawks,DEF,SEA,True,,,,,,OWNED,FA,FA,FA,FA,4,1,0,0,0,True,True
 13389,Avieon Terrell,DB,ATL,True,Active,,,LCB,2,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 13959,Ayden Garnes,DB,TB,True,Active,,,LCB,2,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 8919,Ayo Oyelola,DB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
-12601,Azareye'h Thomas,DB,NYJ,True,Active,,,LCB,2,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
+12601,Azareye'h Thomas,DB,NYJ,True,Active,,,LCB,1,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 11951,Beau Brade,DB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 7939,Ben DeLuca,DB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 11933,Ben Nikkel,DB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
-12576,Benjamin Morrison,DB,TB,True,Active,,,RCB,1,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
+12576,Benjamin Morrison,DB,TB,True,Active,,,RCB,2,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 7671,Benjamin St-Juste,DB,GB,True,Active,,,RCB,2,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 2083,Bennett Jackson,DB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 11398,Bennett Williams,DB,,True,Inactive,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
@@ -1382,7 +1382,7 @@ SEA,Seattle Seahawks,DEF,SEA,True,,,,,,OWNED,FA,FA,FA,FA,4,1,0,0,0,True,True
 3416,Cre'Von LeBlanc,DB,,True,Inactive,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 2983,Curtis Riley,DB,,True,Inactive,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 7887,D'Angelo Amos,DB,DET,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
-13386,D'Angelo Ponds,DB,NYJ,True,Active,Questionable,,NB,1,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
+13386,D'Angelo Ponds,DB,NYJ,True,Active,Questionable,,NB,2,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 6476,D'Angelo Ross,DB,CLE,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 8795,D'Anthony Bell,DB,SEA,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 1429,D.J. Swearinger,DB,IND,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
@@ -1401,7 +1401,7 @@ SEA,Seattle Seahawks,DEF,SEA,True,,,,,,OWNED,FA,FA,FA,FA,4,1,0,0,0,True,True
 4188,Damontae Kazee,DB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 8737,Dan Isom,DB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 12731,Dan Jackson,DB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
-8395,Dane Belton,DB,NYJ,True,Active,,,SS,2,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
+8395,Dane Belton,DB,NYJ,True,Active,,,FS,1,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 5369,Dane Cruikshank,DB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 10975,Daniel Scott,DB,IND,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 2022,Daniel Sorensen,DB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
@@ -1423,7 +1423,7 @@ SEA,Seattle Seahawks,DEF,SEA,True,,,,,,OWNED,FA,FA,FA,FA,4,1,0,0,0,True,True
 11979,DeAngelo Hardy,DB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 6733,DeJuan Neal,DB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 11050,DeMarcco Hellams,DB,ATL,True,Active,,,SS,2,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
-5071,DeShon Elliott,DB,PIT,True,Active,IR,,SS,1,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
+5071,DeShon Elliott,DB,PIT,True,Inactive,IR,,SS,1,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 13794,DeShon Singleton,DB,KC,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 12920,Dean Clark,DB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 2679,Dean Marlowe,DB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
@@ -1454,7 +1454,7 @@ SEA,Seattle Seahawks,DEF,SEA,True,,,,,,OWNED,FA,FA,FA,FA,4,1,0,0,0,True,True
 13723,Devan Boykin,DB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 13627,Devin Grant,DB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 8724,Devin Hafford,DB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
-13896,Devin Lafayette,DB,LV,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
+13896,Devin Lafayette,DB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 518,Devin McCourty,DB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 13649,Devin Neal,DB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 13717,Devin Pringle,DB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
@@ -1482,7 +1482,7 @@ SEA,Seattle Seahawks,DEF,SEA,True,,,,,,OWNED,FA,FA,FA,FA,4,1,0,0,0,True,True
 11905,Dwight McGlothern,DB,MIN,True,Inactive,Questionable,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 4158,Eddie Jackson,DB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 7252,Elijah Benton,DB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
-5534,Elijah Campbell,DB,NYG,True,Active,,,FS,2,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
+5534,Elijah Campbell,DB,NYG,True,Active,,,FS,3,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 8509,Elijah Hicks,DB,CHI,True,Active,Questionable,,SS,2,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 11717,Elijah Jones,DB,NYG,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 7406,Elijah Riley,DB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
@@ -1504,7 +1504,7 @@ SEA,Seattle Seahawks,DEF,SEA,True,,,,,,OWNED,FA,FA,FA,FA,4,1,0,0,0,True,True
 8586,Ferrod Gardner,DB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 10932,Garrett Williams,DB,ARI,True,Active,,,NB,1,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 11296,Gemon Green,DB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
-13399,Genesis Smith,DB,LAC,True,Active,,,SS,2,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
+13399,Genesis Smith,DB,LAC,True,Active,,,FS,2,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 6923,Geno Stone,DB,BUF,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 1066,George Iloka,DB,,True,Inactive,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 5445,George Odum,DB,HOU,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
@@ -1530,9 +1530,9 @@ SEA,Seattle Seahawks,DEF,SEA,True,,,,,,OWNED,FA,FA,FA,FA,4,1,0,0,0,True,True
 6707,Isaiah Langley,DB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 11323,Isaiah Norman,DB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 13722,Isaiah Nwokobia,DB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
-8838,Isaiah Pola-Mao,DB,LV,True,Active,,,FS,1,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
+8838,Isaiah Pola-Mao,DB,LV,True,Active,,,FS,2,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 6781,Isaiah Simmons,DB,CAR,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
-13131,Isas Waxter,DB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
+13131,Isas Waxter,DB,LAC,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 7776,Israel Mukuamu,DB,,True,Inactive,Questionable,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 5193,J.C. Jackson,DB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 7046,J.R. Reed,DB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
@@ -1550,7 +1550,7 @@ SEA,Seattle Seahawks,DEF,SEA,True,,,,,,OWNED,FA,FA,FA,FA,4,1,0,0,0,True,True
 13098,Jack Henderson,DB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 8261,Jack Jones,DB,SF,True,Active,,,LCB,2,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 8668,Jack Koerner,DB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
-12605,Jacob Parrish,DB,TB,True,Active,,,NB,1,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
+12605,Jacob Parrish,DB,TB,True,Active,,,RCB,1,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 13618,Jacob Thomas,DB,MIN,True,Active,Questionable,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 8546,Jacobi Francis,DB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 11837,Jaden Davis,DB,,True,Inactive,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
@@ -1561,7 +1561,7 @@ SEA,Seattle Seahawks,DEF,SEA,True,,,,,,OWNED,FA,FA,FA,FA,4,1,0,0,0,True,True
 13851,Jahquez Robinson,DB,BAL,True,Inactive,IR,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 8735,Jairon McVea,DB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 13462,Jakobe Thomas,DB,MIN,True,Active,Questionable,,SS,2,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
-10963,Jakorian Bennett,DB,PHI,True,Active,IR,,LCB,2,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
+10963,Jakorian Bennett,DB,PHI,True,Inactive,IR,,LCB,2,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 6631,Jalen Allison,DB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 6902,Jalen Elliott,DB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 11025,Jalen Graham,DB,SF,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
@@ -1586,13 +1586,13 @@ SEA,Seattle Seahawks,DEF,SEA,True,,,,,,OWNED,FA,FA,FA,FA,4,1,0,0,0,True,True
 14065,Jarod Washington,DB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 11725,Jarrian Jones,DB,JAX,True,Active,,,NB,2,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 3550,Jarrod Wilson,DB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
-11766,Jarvis Brownlee,DB,NYJ,True,Active,,,NB,2,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
+11766,Jarvis Brownlee,DB,NYJ,True,Active,,,NB,1,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 368,Jason McCourty,DB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 11040,Jason Taylor,DB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 11686,Javon Bullard,DB,GB,True,Active,,,NB,1,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 7453,Javon Hagan,DB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 6636,Jay Liggins,DB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
-10939,Jay Ward,DB,MIN,True,Active,,,FS,2,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
+10939,Jay Ward,DB,MIN,True,Active,,,NB,1,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 13253,JayVian Farr,DB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 11462,Jaydon Grant,DB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 12813,Jaylen Jones,DB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
@@ -1600,18 +1600,18 @@ SEA,Seattle Seahawks,DEF,SEA,True,,,,,,OWNED,FA,FA,FA,FA,4,1,0,0,0,True,True
 12345,Jaylen Mahoney,DB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 12142,Jaylen McCollough,DB,LAR,True,Active,,,SS,2,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 12710,Jaylen Reed,DB,NE,True,Active,,,FS,2,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
-8373,Jaylen Watson,DB,LAR,True,Active,,,LCB,1,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
+8373,Jaylen Watson,DB,LAR,True,Active,Questionable,,LCB,1,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 11775,Jaylin Simpson,DB,MIA,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 11777,Jaylon Carlies,DB,IND,True,Active,,,LOLB,2,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 6839,Jaylon Johnson,DB,CHI,True,Active,Questionable,,RCB,1,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
-11052,Jaylon Jones,DB,IND,True,Active,,,LCB,2,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
+11052,Jaylon Jones,DB,IND,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 8048,Jaylon McClain-Sapp,DB,,True,Inactive,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 3399,Jayron Kearse,DB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 1700,Jeff Heath,DB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 5792,Jeremy Reaves,DB,WAS,True,Active,,,FS,1,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 8326,Jermaine Waller,DB,,True,Injured Reserve,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
-13368,Jermod McCoy,DB,LV,True,Active,,,RCB,2,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
-10997,Jerrick Reed,DB,TEN,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
+13368,Jermod McCoy,DB,LV,True,Active,,,LCB,2,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
+10997,Jerrick Reed,DB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 13168,Jerrin Thompson,DB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 8768,Jesse Bramble,DB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 5017,Jessie Bates,DB,ATL,True,Active,,,SS,1,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
@@ -1668,7 +1668,7 @@ SEA,Seattle Seahawks,DEF,SEA,True,,,,,,OWNED,FA,FA,FA,FA,4,1,0,0,0,True,True
 7805,Joshuah Bledsoe,DB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 7914,Jovan Grant,DB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 7251,Jovante Moffatt,DB,,True,Inactive,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
-10906,JuJu Brents,DB,MIA,True,Active,,,RCB,1,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
+10906,JuJu Brents,DB,MIA,True,Active,,,LCB,1,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 7347,JuJu Hughes,DB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 6145,Juan Thornhill,DB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 8397,Juanyeh Thomas,DB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
@@ -1696,7 +1696,7 @@ SEA,Seattle Seahawks,DEF,SEA,True,,,,,,OWNED,FA,FA,FA,FA,4,1,0,0,0,True,True
 13406,Kamari Ramsey,DB,HOU,True,Active,,,NB,2,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 11726,Kamren Kinchens,DB,LAR,True,Active,,,FS,1,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 13694,Kani Walker,DB,BUF,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
-13823,Kapena Gushiken,DB,IND,True,Active,,,LCB,3,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
+13823,Kapena Gushiken,DB,IND,True,Active,,,LCB,2,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 544,Kareem Jackson,DB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 6682,Kareem Orr,DB,LAR,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 3191,Karl Joseph,DB,,True,Inactive,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
@@ -1708,7 +1708,7 @@ SEA,Seattle Seahawks,DEF,SEA,True,,,,,,OWNED,FA,FA,FA,FA,4,1,0,0,0,True,True
 3243,KeiVarae Russell,DB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 11395,Keidron Smith,DB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 5317,Keion Crossen,DB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
-13382,Keionte Scott,DB,TB,True,Active,,,NB,2,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
+13382,Keionte Scott,DB,TB,True,Active,,,NB,1,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 13397,Keith Abney,DB,DET,True,Active,,,LCB,1,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 7375,Keith Washington,DB,,True,Inactive,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 8627,Kekaula Kaniho,DB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
@@ -1718,7 +1718,7 @@ SEA,Seattle Seahawks,DEF,SEA,True,,,,,,OWNED,FA,FA,FA,FA,4,1,0,0,0,True,True
 12987,Kendall Paul,DB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 6140,Kendall Sheffield,DB,,True,Active,Questionable,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 11161,Kendall Smith,DB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
-11022,Kendall Williamson,DB,LAC,True,Active,,,FS,3,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
+11022,Kendall Williamson,DB,LAC,True,Active,,,SS,3,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 12338,Kendarin Ray,DB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 11185,Kendell Brooks,DB,,True,Active,IR,,DB,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 8879,Kenneth George,DB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
@@ -1726,7 +1726,7 @@ SEA,Seattle Seahawks,DEF,SEA,True,,,,,,OWNED,FA,FA,FA,FA,4,1,0,0,0,True,True
 7119,Kenny Robinson,DB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 13156,Keondre Jackson,DB,BAL,True,Active,,,SS,2,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 8348,Kerby Joseph,DB,DET,True,Active,PUP,,FS,1,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
-12819,Kevin Knowles,DB,TB,True,Active,,,LDE,3,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
+12819,Kevin Knowles,DB,TB,True,Active,,,NB,2,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 7332,Kevin McGill,DB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 12588,Kevin Winston,DB,TEN,True,Active,,,FS,1,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 13220,Keydrain Calligan,DB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
@@ -1764,7 +1764,7 @@ SEA,Seattle Seahawks,DEF,SEA,True,,,,,,OWNED,FA,FA,FA,FA,4,1,0,0,0,True,True
 1367,Logan Ryan,DB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 5883,Lonnie Johnson,DB,,True,Active,Questionable,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 12161,Loren Strickland,DB,,True,Inactive,Questionable,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
-13509,Lorenzo Styles,DB,NO,True,Inactive,IR,,FS,2,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
+13509,Lorenzo Styles,DB,NO,True,Inactive,IR,,FS,3,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 13817,Louis Moore,DB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 7478,Luther Kirk,DB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 5055,M.J. Stewart,DB,HOU,True,Active,PUP,,FS,2,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
@@ -1773,7 +1773,7 @@ SEA,Seattle Seahawks,DEF,SEA,True,,,,,,OWNED,FA,FA,FA,FA,4,1,0,0,0,True,True
 12748,Major Burns,DB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 13171,Major Williams,DB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 12894,Makari Paige,DB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
-12639,Malachi Moore,DB,NYJ,True,Active,,,FS,2,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
+12639,Malachi Moore,DB,NYJ,True,Active,,,SS,2,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 7386,Malcolm Elmore,DB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 12999,Malik Dixon-Williams,DB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 6324,Malik Gant,DB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
@@ -1786,7 +1786,7 @@ SEA,Seattle Seahawks,DEF,SEA,True,,,,,,OWNED,FA,FA,FA,FA,4,1,0,0,0,True,True
 13692,Marc Stampley,DB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 7269,Marc-Antoine Dequoy,DB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 8837,Marcel Dabo,DB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
-11809,Marcellas Dial,DB,MIA,True,Active,,,NB,2,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
+11809,Marcellas Dial,DB,MIA,True,Active,,,LCB,2,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 11965,Marcus Banks,DB,,True,Inactive,Questionable,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 5417,Marcus Edmond,DB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 6284,Marcus Epps,DB,PHI,True,Active,,,SS,1,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
@@ -1809,7 +1809,7 @@ SEA,Seattle Seahawks,DEF,SEA,True,,,,,,OWNED,FA,FA,FA,FA,4,1,0,0,0,True,True
 12376,Marquis Wilson,DB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 5982,Marquise Blair,DB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 13040,Marquise Robinson,DB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
-10926,Marte Mapu,DB,HOU,True,Inactive,Questionable,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
+10926,Marte Mapu,DB,,True,Inactive,Questionable,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 11326,Martez Manuel,DB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 8390,Martin Emerson,DB,NO,True,Active,,,RCB,2,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 11458,Matthew Jackson,DB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
@@ -1826,7 +1826,7 @@ SEA,Seattle Seahawks,DEF,SEA,True,,,,,,OWNED,FA,FA,FA,FA,4,1,0,0,0,True,True
 12059,Michael Dowell,DB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 8541,Michael Griffin,DB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 1703,Michael J. Thomas,DB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
-13517,Michael Taaffe,DB,MIA,True,Active,,,FS,2,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
+13517,Michael Taaffe,DB,MIA,True,Active,,,FS,1,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 11531,Michael Tutsie,DB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 8532,Mike Brown,DB,NE,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 5959,Mike Edwards,DB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
@@ -1887,7 +1887,7 @@ SEA,Seattle Seahawks,DEF,SEA,True,,,,,,OWNED,FA,FA,FA,FA,4,1,0,0,0,True,True
 11150,Quindell Johnson,DB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 12108,Quinton Newsome,DB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 8393,Qwynnterrio Cole,DB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
-12694,RJ Mickens,DB,LAC,True,Active,,,SS,1,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
+12694,RJ Mickens,DB,LAC,True,Active,,,SS,2,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 8578,Raheem Layne,DB,NYG,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 14000,Randy Franklin,DB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 5050,Rashaan Gaulden,DB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
@@ -1916,14 +1916,14 @@ SEA,Seattle Seahawks,DEF,SEA,True,,,,,,OWNED,FA,FA,FA,FA,4,1,0,0,0,True,True
 8303,Roger McCreary,DB,DET,True,Active,,,NB,1,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 7187,Rojesterman Farris,DB,DEN,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 3808,Rolan Milligan,DB,IND,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
-5025,Ronnie Harrison,DB,MIA,True,Active,Questionable,,ROLB,2,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
+5025,Ronnie Harrison,DB,MIA,True,Active,,,LOLB,2,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 11352,Ronnie Hickman,DB,CLE,True,Active,,,FS,1,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 4223,Rudy Ford,DB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 8510,Russ Yeast,DB,CIN,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 11800,Ryan Watts,DB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 7224,Sam Franklin,DB,BUF,True,Active,,,FS,2,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 12167,Sam Lockett,DB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
-11841,Sanoussi Kane,DB,,True,Inactive,Questionable,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
+11841,Sanoussi Kane,DB,,True,Inactive,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 6013,Saquan Hampton,DB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 8290,Sauce Gardner,DB,IND,True,Active,Questionable,,RCB,1,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 5178,Sean Chandler,DB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
@@ -1964,7 +1964,7 @@ SEA,Seattle Seahawks,DEF,SEA,True,,,,,,OWNED,FA,FA,FA,FA,4,1,0,0,0,True,True
 5519,Tavierre Thomas,DB,MIN,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 1039,Tavon Wilson,DB,SF,True,Inactive,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 8615,Tayler Hawkins,DB,,True,Inactive,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
-5882,Taylor Rapp,DB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
+5882,Taylor Rapp,DB,DEN,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 4181,Tedric Thompson,DB,CLE,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 4087,Teez Tabor,DB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 10972,Terell Smith,DB,WAS,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
@@ -1973,14 +1973,14 @@ SEA,Seattle Seahawks,DEF,SEA,True,,,,,,OWNED,FA,FA,FA,FA,4,1,0,0,0,True,True
 4974,Terrell Edmunds,DB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 1864,Terrence Brooks,DB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 11661,Terrion Arnold,DB,SEA,True,Active,NA,,LCB,3,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
-8496,Theo Jackson,DB,MIN,True,Active,,,FS,3,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
+8496,Theo Jackson,DB,MIN,True,Active,,,FS,2,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 7775,Thomas Graham,DB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 11872,Thomas Harper,DB,DET,True,Active,,,SS,3,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 13138,Tommy McCormick,DB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 8860,Tony Adams,DB,TEN,True,Active,,,SS,2,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 5424,Tony Brown,DB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 13668,Tony Grimes,DB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
-1686,Tony Jefferson,DB,LAC,True,Active,,,FS,2,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
+1686,Tony Jefferson,DB,LAC,True,Active,,,SS,1,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 12450,Tra Fluellen,DB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 5064,Tracy Walker,DB,,True,Active,Sus,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 12032,Travian Blaylock,DB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
@@ -2003,13 +2003,13 @@ SEA,Seattle Seahawks,DEF,SEA,True,,,,,,OWNED,FA,FA,FA,FA,4,1,0,0,0,True,True
 12843,Trey Rucker,DB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 11826,Trey Taylor,DB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 12836,Trey Washington,DB,IND,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
-13398,Treydan Stukes,DB,LV,True,Active,,,NB,2,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
+13398,Treydan Stukes,DB,LV,True,Active,,,FS,1,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 12717,Trikweze Bridges,DB,CIN,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
-8542,Tristin McCollum,DB,LV,True,Active,,,FS,2,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
+8542,Tristin McCollum,DB,LV,True,Active,,,FS,3,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 5365,Troy Apke,DB,,True,Inactive,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 8065,Troy Warner,DB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 13820,Tucker Large,DB,PHI,True,Active,PUP,,FS,2,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
-11233,Ty Okada,DB,SEA,True,Active,Questionable,,FS,1,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
+11233,Ty Okada,DB,SEA,True,Active,Out,,FS,1,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 8377,Tycen Anderson,DB,DEN,True,Active,,,SS,3,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 11120,Tyler Baker-Williams,DB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 7942,Tyler Coyle,DB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
@@ -2024,7 +2024,7 @@ SEA,Seattle Seahawks,DEF,SEA,True,,,,,,OWNED,FA,FA,FA,FA,4,1,0,0,0,True,True
 7349,Tyrique McGhee,DB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 13078,Tysheem Johnson,DB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 6216,Ugo Amadi,DB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
-13567,VJ Payne,DB,NYJ,True,Active,IR,,SS,3,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
+13567,VJ Payne,DB,NYJ,True,Inactive,IR,,SS,3,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 3194,Vernon Hargreaves,DB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 7146,Vernon Scott,DB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 8353,Verone McKinley,DB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
@@ -2045,11 +2045,11 @@ SEA,Seattle Seahawks,DEF,SEA,True,,,,,,OWNED,FA,FA,FA,FA,4,1,0,0,0,True,True
 11069,Xavier Henderson,DB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 6788,Xavier McKinney,DB,GB,True,Active,,,SS,1,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 13793,Xavier Nwankpa,DB,KC,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
-14078,Xavier Williams,DB,TB,True,Inactive,IR,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
+14078,Xavier Williams,DB,,True,Inactive,IR,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 4238,Xavier Woods,DB,CHI,True,Active,Questionable,,FS,3,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 8356,Yusuf Corker,DB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 13522,Zakee Wheatley,DB,CAR,True,Active,,,SS,2,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
-8000,Zayne Anderson,DB,MIA,True,Active,,,FS,1,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
+8000,Zayne Anderson,DB,MIA,True,Active,,,FS,2,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 13790,Zelmar Vedder,DB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 12856,Zion Childress,DB,CAR,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 12343,Zion Puckett,DB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
@@ -2140,7 +2140,7 @@ SEA,Seattle Seahawks,DEF,SEA,True,,,,,,OWNED,FA,FA,FA,FA,4,1,0,0,0,True,True
 125,Calais Campbell,DE,BAL,True,Active,,,LDE,2,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 4231,Caleb Brantley,DE,,True,Inactive,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 4405,Caleb Kidder,DE,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
-11098,Caleb Murphy,DE,LAC,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
+11098,Caleb Murphy,DE,LAC,True,Active,,,LB,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 7214,Calvin Taylor,DE,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 2662,Cameron Botticelli,DE,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 957,Cameron Jordan,DE,NO,True,Active,Questionable,,LOLB,2,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
@@ -2178,7 +2178,7 @@ SEA,Seattle Seahawks,DEF,SEA,True,,,,,,OWNED,FA,FA,FA,FA,4,1,0,0,0,True,True
 757,Clinton McDonald,DE,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 10952,Colby Wooden,DE,NO,True,Active,,,LDE,2,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 4886,Collin Bevins,DE,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
-12669,Collin Oliver,DE,GB,True,Active,IR,,ROLB,3,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
+12669,Collin Oliver,DE,GB,True,Inactive,IR,,ROLB,3,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 5701,Connor Flagel,DE,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 13037,Connor O'Toole,DE,SEA,True,Active,,,ROLB,3,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 4432,Corey Vereen,DE,,True,Inactive,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
@@ -2196,7 +2196,7 @@ SEA,Seattle Seahawks,DEF,SEA,True,,,,,,OWNED,FA,FA,FA,FA,4,1,0,0,0,True,True
 7383,Dana Levine,DE,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 13492,Dani Dennis-Sutton,DE,GB,True,Active,Questionable,,LOLB,3,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 8906,Daniel Joseph,DE,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
-14072,Daniel Rickert,DE,LAR,True,Inactive,IR,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
+14072,Daniel Rickert,DE,,True,Inactive,IR,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 5788,Dante Sawyer,DE,,True,Inactive,NA,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 6649,Dare Odeyingbo,DE,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 7987,Darius Hodge,DE,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
@@ -2214,7 +2214,7 @@ SEA,Seattle Seahawks,DEF,SEA,True,,,,,,OWNED,FA,FA,FA,FA,4,1,0,0,0,True,True
 2064,DeMarcus Lawrence,DE,SEA,True,Active,,,LOLB,1,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 4086,DeMarcus Walker,DE,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 11984,DeVere Levelston,DE,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
-3295,Dean Lowry,DE,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
+3295,Dean Lowry,DE,NYG,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 8846,Deandre Johnson,DE,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 4174,Deatrich Wise,DE,WAS,True,Active,PUP,,LDE,3,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 2015,Dee Ford,DE,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
@@ -2354,10 +2354,10 @@ SEA,Seattle Seahawks,DEF,SEA,True,,,,,,OWNED,FA,FA,FA,FA,4,1,0,0,0,True,True
 12122,John Morgan,DE,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 12770,Johnny Walker,DE,DEN,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 11714,Jonah Elliss,DE,DEN,True,Active,,,LOLB,2,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
-7344,Jonah Williams,DE,,True,Active,Questionable,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
+7344,Jonah Williams,DE,NO,True,Active,Questionable,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 6660,Jonathan Bonner,DE,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 3241,Jonathan Bullard,DE,DAL,True,Active,Questionable,,LDE,2,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
-6900,Jonathan Greenard,DE,PHI,True,Active,PUP,,LOLB,1,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
+6900,Jonathan Greenard,DE,PHI,True,Active,Questionable,,LOLB,1,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 6760,Jonathan Kongbo,DE,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 5945,Jonathan Ledbetter,DE,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 3381,Jonathan Woodard,DE,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
@@ -2418,7 +2418,7 @@ SEA,Seattle Seahawks,DEF,SEA,True,,,,,,OWNED,FA,FA,FA,FA,4,1,0,0,0,True,True
 14075,Malakai Williams,DE,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 7676,Malcolm Koonce,DE,LV,True,Active,,,ROLB,2,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 12430,Malik Fisher,DE,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
-8001,Malik Herring,DE,MIA,True,Active,,,RDE,3,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
+8001,Malik Herring,DE,MIA,True,Active,,,RDE,2,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 795,Marcell Dareus,DE,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 5225,Marcell Frazier,DE,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 4965,Marcus Davenport,DE,CHI,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
@@ -2461,7 +2461,7 @@ SEA,Seattle Seahawks,DEF,SEA,True,,,,,,OWNED,FA,FA,FA,FA,4,1,0,0,0,True,True
 5502,Mychealon Thomas,DE,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 5568,Myles Humphrey,DE,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 6312,Myquon Stout,DE,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
-13589,Nadame Tucker,DE,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
+13589,Nadame Tucker,DE,CLE,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 11892,Nate Latu,DE,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 13254,Nate Matlack,DE,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 2356,Nate Orchard,DE,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
@@ -2517,7 +2517,7 @@ SEA,Seattle Seahawks,DEF,SEA,True,,,,,,OWNED,FA,FA,FA,FA,4,1,0,0,0,True,True
 5015,Sam Hubbard,DE,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 4407,Sam McCaskill,DE,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 2629,Sam Meredith,DE,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
-8540,Sam Okuayinonu,DE,SF,True,Inactive,IR,,LDE,3,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
+8540,Sam Okuayinonu,DE,SF,True,Inactive,IR,,LDE,4,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 8492,Sam Roberts,DE,,True,Active,Questionable,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 4170,Samson Ebukam,DE,ATL,True,Active,,,LOLB,2,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 11876,Savion Jackson,DE,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
@@ -2557,15 +2557,15 @@ SEA,Seattle Seahawks,DEF,SEA,True,,,,,,OWNED,FA,FA,FA,FA,4,1,0,0,0,True,True
 11875,Tre'Mon Morris-Brash,DE,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 2099,Trent Murphy,DE,,True,Inactive,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 4135,Trey Hendrickson,DE,BAL,True,Active,,,ROLB,1,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
-11319,Truman Jones,DE,TEN,True,Active,,,RDE,2,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
+11319,Truman Jones,DE,TEN,True,Active,,,RDE,3,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 14013,Tyce Westland,DE,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 12655,Tyler Baron,DE,NYJ,True,Active,PUP,,LOLB,3,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 8550,Tyler Johnson,DE,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 10941,Tyler Lacy,DE,DET,True,Active,,,RDE,3,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 5057,Tyquan Lewis,DE,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
-13752,Tyreak Sapp,DE,CLE,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
+13752,Tyreak Sapp,DE,CLE,True,Active,,,DL,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 12053,Tyreek Johnson,DE,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
-12683,Tyrion Ingram-Dawkins,DE,MIN,True,Active,,,LDE,2,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
+12683,Tyrion Ingram-Dawkins,DE,MIN,True,Active,,,LDE,1,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 1146,Tyrone Crawford,DE,,True,Injured Reserve,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 11512,Tyrus Wheat,DE,DAL,True,Active,,,LOLB,3,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 7356,Tyshun Render,DE,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
@@ -2635,7 +2635,7 @@ WAS,WAS,DEF,WAS,True,,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 13008,Bill Norton,DL,LAR,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 13532,Bobby Jamison-Travis,DL,NYG,True,Active,,,RDE,2,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 8343,Boye Mafe,DL,CIN,True,Active,,,RDE,1,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
-11677,Braden Fiske,DL,LAR,True,Active,,,LDE,1,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
+11677,Braden Fiske,DL,LAR,True,Active,,,LDE,2,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 12106,Brandon Matterson,DL,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 12004,Branson Deen,DL,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 14074,Brien Taylor,DL,,True,Active,Questionable,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
@@ -2667,7 +2667,7 @@ WAS,WAS,DEF,WAS,True,,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 13087,Dante Barnett,DL,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 12581,Darius Alexander,DL,NYG,True,Active,,,RDE,1,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 11658,Darius Robinson,DL,ARI,True,Active,,,RDE,1,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
-11243,David Ebuka Agoha,DL,DEN,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
+11243,David Agoha,DL,DEN,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 8287,David Ojabo,DL,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 12229,David Olajiga,DL,BAL,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 8372,DeAngelo Malone,DL,ATL,True,Active,PUP,,LB,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
@@ -2774,11 +2774,11 @@ WAS,WAS,DEF,WAS,True,,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 13374,Kayden McDonald,DL,HOU,True,Active,,,LDT,2,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 8355,Kayvon Thibodeaux,DL,NYG,True,Active,,,ROLB,2,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 10904,Keion White,DL,SF,True,Active,Questionable,,LDE,2,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
-12937,Keith Cooper,DL,MIA,True,Active,,,RDE,2,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
+12937,Keith Cooper,DL,MIA,True,Active,,,RDT,2,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 12042,Keith Randolph,DL,,True,Active,Questionable,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 12911,Keivie Rose,DL,,True,Inactive,Questionable,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 13395,Keldric Faulk,DL,TEN,True,Active,Questionable,,LDE,2,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
-12564,Kenneth Grant,DL,MIA,True,Active,IR,,LDT,1,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
+12564,Kenneth Grant,DL,MIA,True,Inactive,IR,,LDT,1,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 11244,Kenneth Odumegwu,DL,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 12447,Keonte Schad,DL,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 13819,Kevin Jobity,DL,PIT,True,Active,,,NT,3,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
@@ -2791,7 +2791,7 @@ WAS,WAS,DEF,WAS,True,,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 11688,Kris Jenkins,DL,CIN,True,Active,,,LDT,3,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 11894,Kyler Baugh,DL,PIT,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 12364,Kyon Barrs,DL,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
-12724,Kyonte Hamilton,DL,,True,Inactive,IR,,DL,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
+12724,Kyonte Hamilton,DL,,True,Inactive,Questionable,,DL,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 8274,LaBryan Ray,DL,,True,Inactive,NA,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 11519,LaTrell Bumphus,DL,,True,Inactive,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 11669,Laiatu Latu,DL,IND,True,Active,,,RDE,1,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
@@ -2837,7 +2837,7 @@ WAS,WAS,DEF,WAS,True,,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 11877,Noah Shannon,DL,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 11936,Norell Pollard,DL,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 14004,Nuer Gatkuoth,DL,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
-12583,Oluwafemi Oladejo,DL,TEN,True,Active,,,RDE,3,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
+12583,Oluwafemi Oladejo,DL,TEN,True,Active,,,RDE,2,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 8331,Otito Ogbonnia,DL,DAL,True,Active,,,LDE,1,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 11926,Owen Porter,DL,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 13223,Patrick Jenkins,DL,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
@@ -2886,7 +2886,7 @@ WAS,WAS,DEF,WAS,True,,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 11853,Tomari Fox,DL,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 13137,Trace Ford,DL,NYG,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 11953,Tramel Walthour,DL,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
-11054,Travis Bell,DL,CLE,True,Inactive,IR,,DL,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
+11054,Travis Bell,DL,,True,Inactive,IR,,DL,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 8400,Travis Jones,DL,BAL,True,Active,,,NT,1,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 8265,Travon Walker,DL,JAX,True,Active,,,LDE,1,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 11976,Tre Colbert,DL,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
@@ -2909,8 +2909,8 @@ WAS,WAS,DEF,WAS,True,,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 10924,Zacch Pickens,DL,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 8295,Zach Carter,DL,ARI,True,Inactive,IR,,LDE,3,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 11346,Zach Morton,DL,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
-12720,Zeek Biggers,DL,MIA,True,Active,,,RDT,2,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
-11798,Zion Logue,DL,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
+12720,Zeek Biggers,DL,MIA,True,Active,,,LDT,3,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
+11798,Zion Logue,DL,CLE,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 13927,Zxavian Harris,DL,,True,Active,Questionable,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 3218,A'Shawn Robinson,DT,TB,True,Active,,,RDE,1,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 7194,Aaron Crawford,DT,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
@@ -2973,7 +2973,7 @@ WAS,WAS,DEF,WAS,True,,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 8898,C.J. Brewer,DT,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 12649,C.J. West,DT,SF,True,Active,,,LDT,2,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 8913,Caeveon Patton,DT,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
-13445,Caleb Banks,DT,MIN,True,Active,,,LDE,1,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
+13445,Caleb Banks,DT,MIN,True,Active,,,LDE,2,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 11294,Caleb Sampson,DT,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 11549,Caleb Sanders,DT,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 11078,Calvin Avery,DT,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
@@ -2998,7 +2998,7 @@ WAS,WAS,DEF,WAS,True,,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 6174,Chris Slayton,DT,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 7283,Chris Williams,DT,CLE,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 4101,Chris Wormley,DT,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
-7664,Christian Barmore,DT,NE,True,Active,Questionable,,RDE,1,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
+7664,Christian Barmore,DT,NE,True,Active,,,RDE,1,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 2517,Christian Covington,DT,LAC,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 2511,Christian Ringo,DT,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 6120,Christian Wilkins,DT,,True,Active,Questionable,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
@@ -3087,7 +3087,7 @@ WAS,WAS,DEF,WAS,True,,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 5563,Eddy Wilson,DT,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 4604,Eli Ankou,DT,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 12903,Eli Mostaert,DT,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
-12319,Elijah Chatman,DT,CLE,True,Inactive,IR,,DL,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
+12319,Elijah Chatman,DT,,True,Inactive,IR,,DL,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 8736,Elijah Garcia,DT,DAL,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 4268,Elijah Qualls,DT,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 12671,Elijah Roberts,DT,TB,True,Active,,,RDE,2,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
@@ -3105,7 +3105,7 @@ WAS,WAS,DEF,WAS,True,,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 2418,Gabe Wright,DT,WAS,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 12420,Gable Steveson,DT,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 4482,Gabriel Mass,DT,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
-13807,Gary Smith,DT,LV,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
+13807,Gary Smith,DT,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 528,Geno Atkins,DT,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 8063,George Silvanic,DT,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 3455,Gerald Dixon,DT,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
@@ -3208,7 +3208,7 @@ WAS,WAS,DEF,WAS,True,,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 11009,Karl Brooks,DT,GB,True,Active,,,LDE,1,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 1549,Kawann Short,DT,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 13642,Keeshawn Silver,DT,,True,Inactive,Questionable,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
-13757,Kelvin Gilliam,DT,,True,Active,IR,,DL,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
+13757,Kelvin Gilliam,DT,DAL,True,Inactive,IR,,DL,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 2854,Kenneth Horsley,DT,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 6546,Kenny Bigelow,DT,,True,Inactive,NA,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 8010,Kenny Randall,DT,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
@@ -3216,7 +3216,7 @@ WAS,WAS,DEF,WAS,True,,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 11002,Keondre Coburn,DT,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 14079,Keveion'ta Spears,DT,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 8614,Kevin Atkins,DT,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
-6005,Kevin Givens,DT,HOU,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
+6005,Kevin Givens,DT,SF,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 4695,Kevin Maurice,DT,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 6177,Khalen Saunders,DT,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 7125,Khalil Davis,DT,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
@@ -3307,7 +3307,7 @@ WAS,WAS,DEF,WAS,True,,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 13980,Parker Petersen,DT,CAR,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 13181,Payton Page,DT,NYJ,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 7772,Phil Hoskins,DT,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
-5226,Poona Ford,DT,LAR,True,Active,,,NT,2,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
+5226,Poona Ford,DT,LAR,True,Active,,,NT,1,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 12010,Popo Aumavae,DT,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 8899,Prince Emili,DT,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 2872,Quayshawne Buckley,DT,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
@@ -3377,7 +3377,7 @@ WAS,WAS,DEF,WAS,True,,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 7301,Tershawn Wharton,DT,CAR,True,Active,PUP,,RDE,1,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 3567,Theiren Cockran,DT,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 13243,Thor Griffith,DT,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
-13558,Tim Keenan,DT,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
+13558,Tim Keenan,DT,LV,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 5366,Tim Settle,DT,WAS,True,Active,Questionable,,NT,1,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 8654,Timmy Horne,DT,TEN,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 1872,Timmy Jernigan,DT,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
@@ -3402,7 +3402,7 @@ WAS,WAS,DEF,WAS,True,,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 8529,Tyarise Stevenson,DT,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 2457,Tyeler Davison,DT,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 7477,Tyler Clark,DT,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
-11799,Tyler Davis,DT,LAR,True,Active,,,LDE,2,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
+11799,Tyler Davis,DT,LAR,True,Active,,,NT,2,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 5483,Tyler Lancaster,DT,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 13472,Tyler Onyedim,DT,DEN,True,Active,,,LDE,2,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 7718,Tyler Shelvin,DT,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
@@ -3445,7 +3445,7 @@ WAS,WAS,DEF,WAS,True,,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 5238,Austin Ramesh,FB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 7808,Ben Mason,FB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 7315,Bobby Holly,FB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
-12983,Brock Lampe,FB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
+12983,Brock Lampe,FB,SEA,True,Inactive,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 982,Bruce Miller,FB,,True,Inactive,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 3832,C.J. Ham,FB,,True,Active,NA,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 6298,Chandler Cox,FB,,True,Inactive,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
@@ -3777,7 +3777,7 @@ WAS,WAS,DEF,WAS,True,,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 12060,Aaron Casey,LB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 8032,Aaron Donkor,LB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 2259,Aaron Lynch,LB,,True,Inactive,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
-13148,Aaron Smith,LB,,True,Active,IR,,LB,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
+13148,Aaron Smith,LB,SEA,True,Inactive,Questionable,,LB,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 4687,Abner Logan,LB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 11074,Abraham Beauplan,LB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 11492,Ace Eley,LB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
@@ -3808,7 +3808,7 @@ WAS,WAS,DEF,WAS,True,,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 14007,Andrew Jones,LB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 12223,Andrew Parker,LB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 8743,Andrzej Hughes-Murray,LB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
-6848,Anfernee Jennings,LB,NO,True,Active,,,ROLB,3,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
+6848,Anfernee Jennings,LB,NO,True,Active,,,ROLB,2,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 11108,Anfernee Orji,LB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 2151,Anthony Barr,LB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 8007,Anthony Butler,LB,,True,Inactive,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
@@ -3889,10 +3889,10 @@ WAS,WAS,DEF,WAS,True,,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 8696,C.J. Avery,LB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 1875,C.J. Mosley,LB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 13388,CJ Allen,LB,IND,True,Active,,,MLB,1,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
-13971,Caden Fordham,LB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
+13971,Caden Fordham,LB,TB,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 7447,Cale Garrett,LB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
-11303,Caleb Johnson,LB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 7846,Caleb Johnson,LB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
+11303,Caleb Johnson,LB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 8599,Caliph Brice,LB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 7902,Calvin Bundage,LB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 4643,Calvin Munson,LB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
@@ -3911,7 +3911,7 @@ WAS,WAS,DEF,WAS,True,,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 7011,Carter Coughlin,LB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 7130,Cassh Maluia,LB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 2275,Cassius Marsh,LB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
-11742,Cedric Gray,LB,TEN,True,Active,,,LOLB,1,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
+11742,Cedric Gray,LB,TEN,True,Active,Questionable,,LOLB,1,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 8371,Chad Muma,LB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 8369,Chance Campbell,LB,PHI,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 1038,Chandler Jones,LB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
@@ -3938,7 +3938,7 @@ WAS,WAS,DEF,WAS,True,,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 7945,Chris Garrett,LB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 7225,Chris Orr,LB,,True,Inactive,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 12659,Chris Paul,LB,,True,Inactive,Questionable,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
-7721,Chris Rumph,LB,NO,True,Active,Questionable,,LOLB,3,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
+7721,Chris Rumph,LB,NO,True,Active,Questionable,,LILB,3,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 12442,Chris Russell,LB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 8720,Christian Albright,LB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 7921,Christian Elliss,LB,NE,True,Active,,,RILB,1,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
@@ -3966,7 +3966,7 @@ WAS,WAS,DEF,WAS,True,,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 1272,Craig Robertson,LB,,True,Inactive,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 12192,Craig Young,LB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 6430,Curtis Bolton,LB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
-12164,Curtis Jacobs,LB,WAS,True,Inactive,IR,,LB,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
+12164,Curtis Jacobs,LB,,True,Inactive,IR,,LB,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 8020,Curtis Robinson,LB,DAL,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 6135,D'Andre Walker,LB,,True,Inactive,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 13198,D'Eryk Jackson,LB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
@@ -4012,8 +4012,8 @@ WAS,WAS,DEF,WAS,True,,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 12645,David Walker,LB,TB,True,Active,,,LOLB,3,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 5673,Davin Bellamy,LB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 6912,Davion Taylor,LB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
-7493,De'Jon Harris,LB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 7504,De'Jon Harris,LB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
+7493,De'Jon Harris,LB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 8641,De'Shaan Dixon,LB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 3276,De'Vondre Campbell,LB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 11170,DeAndre Square,LB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
@@ -4022,13 +4022,13 @@ WAS,WAS,DEF,WAS,True,,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 11981,Deion Jennings,LB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 3222,Deion Jones,LB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 690,Dekoda Watson,LB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
-6348,Del'Shawn Phillips,LB,LAC,True,Active,,,RILB,3,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
+6348,Del'Shawn Phillips,LB,LAC,True,Active,,,RILB,2,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 7487,Delontae Scott,LB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 1052,Demario Davis,LB,NYJ,True,Active,,,RILB,1,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 6610,Demetrius Flannigan-Fowles,LB,,True,Inactive,Questionable,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 12617,Demetrius Knight,LB,CIN,True,Active,,,LOLB,1,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 5158,Dennis Gardeck,LB,JAX,True,Active,,,LOLB,1,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
-2353,Denzel Perryman,LB,LAC,True,Inactive,IR,,LILB,1,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
+2353,Denzel Perryman,LB,LAC,True,Inactive,IR,,LILB,2,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 1774,Deon Lacey,LB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 2240,Deone Bucannon,LB,,True,Inactive,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 13591,Deontae Lawson,LB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
@@ -4063,7 +4063,7 @@ WAS,WAS,DEF,WAS,True,,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 10923,Dorian Williams,LB,BUF,True,Active,,,LILB,1,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 11470,Drake Thomas,LB,SEA,True,Active,,,LILB,1,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 6056,Dre Greenlaw,LB,SF,True,Active,,,ROLB,1,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
-10929,Drew Sanders,LB,,True,Active,IR,,LB,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
+10929,Drew Sanders,LB,,True,Active,Questionable,,LB,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 8593,Drew White,LB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 6141,Drue Tranquill,LB,KC,True,Active,Questionable,,LOLB,1,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 5088,Duke Ejiofor,LB,ATL,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
@@ -4076,7 +4076,7 @@ WAS,WAS,DEF,WAS,True,,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 12242,Easton Gibbs,LB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 13165,Easton Mascarenas-Arnold,LB,CLE,True,Active,,,LOLB,3,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 5675,Ed Shockley,LB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
-11757,Edefuan Ulofoshio,LB,CLE,True,Active,IR,,LB,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
+11757,Edefuan Ulofoshio,LB,,True,Active,IR,,LB,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 2531,Edmond Robinson,LB,SEA,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 11336,Eku Leota,LB,ARI,True,Active,,,ROLB,2,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 3369,Elandon Roberts,LB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
@@ -4112,7 +4112,7 @@ WAS,WAS,DEF,WAS,True,,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 7247,George Obinna,LB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 5894,Germaine Pratt,LB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 8642,Grant Morgan,LB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
-7750,Grant Stuard,LB,LAR,True,Active,,,RILB,2,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
+7750,Grant Stuard,LB,LAR,True,Active,Questionable,,RILB,2,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 4063,Haason Reddick,LB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 7806,Hamsah Nasirildeen,LB,,True,Inactive,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 4368,Hardy Nickerson,LB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
@@ -4133,7 +4133,7 @@ WAS,WAS,DEF,WAS,True,,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 13979,Isaiah Smith,LB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 11893,Isaiah Stalbird,LB,NO,True,Active,,,LILB,2,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 13921,Isiah King,LB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
-11086,Ivan Pace,LB,MIN,True,Active,,,LILB,2,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
+11086,Ivan Pace,LB,MIN,True,Active,,,RILB,2,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 8869,J.J. Russell,LB,,True,Active,Questionable,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 13239,J.J. Weaver,LB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 11770,JD Bertrand,LB,ATL,True,Inactive,IR,,RILB,2,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
@@ -4145,16 +4145,16 @@ WAS,WAS,DEF,WAS,True,,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 8710,Jack Cochrane,LB,KC,True,Active,,,ROLB,2,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 13721,Jack Dingle,LB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 8680,Jack Gibbens,LB,ARI,True,Active,,,LILB,2,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
-13531,Jack Kelly,LB,NYG,True,Active,,,RILB,2,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
+13531,Jack Kelly,LB,NYG,True,Active,,,LILB,2,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 12653,Jack Kiser,LB,JAX,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 8363,Jack Sanborn,LB,CHI,True,Active,,,LOLB,2,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 13586,Jackson Kuwatch,LB,CAR,True,Active,,,LILB,1,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 12021,Jackson Mitchell,LB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 12051,Jackson Sirmon,LB,NO,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
-13130,Jackson Woodard,LB,MIA,True,Active,,,LOLB,3,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
+13130,Jackson Woodard,LB,MIA,True,Active,,,MLB,3,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 7006,Jacob Phillips,LB,,True,Active,Questionable,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 12072,Jacob Roberts,LB,,True,Inactive,Questionable,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
-13453,Jacob Rodriguez,LB,MIA,True,Active,Questionable,,LOLB,1,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
+13453,Jacob Rodriguez,LB,MIA,True,Active,Questionable,,MLB,1,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 5505,Jacob Tuioti-Mariner,LB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 11861,Jacoby Windmon,LB,PIT,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 13520,Jaden Dugger,LB,SF,True,Active,,,LOLB,2,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
@@ -4168,7 +4168,7 @@ WAS,WAS,DEF,WAS,True,,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 6531,Jake Carlock,LB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 13260,Jake Chaney,LB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 6687,Jake Gervase,LB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
-13391,Jake Golday,LB,MIN,True,Active,,,RILB,2,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
+13391,Jake Golday,LB,MIN,True,Active,,,LILB,2,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 8349,Jake Hansen,LB,HOU,True,Active,Questionable,,ROLB,2,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 8733,Jake Hummel,LB,HOU,True,Active,,,MLB,2,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 2434,Jake Ryan,LB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
@@ -4205,7 +4205,7 @@ WAS,WAS,DEF,WAS,True,,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 6721,Jawuan Johnson,LB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 13024,Jay Higgins,LB,BAL,True,Active,Questionable,,RILB,2,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 8704,Jaylan Alexander,LB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
-11747,Jaylan Ford,LB,NO,True,Active,IR,,RILB,3,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
+11747,Jaylan Ford,LB,NO,True,Inactive,IR,,RILB,3,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 11239,Jaylen Moody,LB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 5879,Jaylon Ferguson,LB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 3167,Jaylon Smith,LB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
@@ -4233,7 +4233,7 @@ WAS,WAS,DEF,WAS,True,,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 13494,Jimmy Rolder,LB,DET,True,Active,Questionable,,LOLB,2,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 8340,JoJo Domann,LB,,True,Inactive,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 12397,Joe Andreessen,LB,BUF,True,Active,,,RILB,2,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
-7014,Joe Bachie,LB,DET,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
+7014,Joe Bachie,LB,DET,True,Active,,,LOLB,3,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 6105,Joe Giles-Harris,LB,CIN,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 4572,Joe Jones,LB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 3206,Joe Schobert,LB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
@@ -4322,7 +4322,7 @@ WAS,WAS,DEF,WAS,True,,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 13482,Kendal Daniels,LB,ATL,True,Active,,,LILB,2,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 13836,Kendrick Blackshire,LB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 6811,Kenneth Murray,LB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
-12391,Kenny Dyson,LB,,True,Inactive,Questionable,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
+12391,Kenny Dyson,LB,MIN,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 5300,Kenny Young,LB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 12764,Keonta Jenkins,LB,BUF,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 11194,Keshawn Banks,LB,ATL,True,Inactive,IR,,DL,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
@@ -4348,7 +4348,7 @@ WAS,WAS,DEF,WAS,True,,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 12804,Kylan Guidry,LB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 7489,Kylan Johnson,LB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 2456,Kyle Emanuel,LB,,True,Inactive,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
-13479,Kyle Louis,LB,MIA,True,Active,,,LOLB,2,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
+13479,Kyle Louis,LB,MIA,True,Active,,,LOLB,3,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 11196,Kyle Soelle,LB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 2130,Kyle Van Noy,LB,MIN,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 1148,Kyle Wilber,LB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
@@ -4403,14 +4403,14 @@ WAS,WAS,DEF,WAS,True,,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 11437,Marcus Haynes,LB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 7196,Marcus Willoughby,LB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 11178,Mariano Sori-Marin,LB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
-11720,Marist Liufau,LB,DAL,True,Active,IR,,LILB,3,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
+11720,Marist Liufau,LB,DAL,True,Inactive,IR,,LILB,3,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 1255,Mark Barron,LB,,True,Inactive,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 6530,Mark McLaurin,LB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 2535,Mark Nzeocha,LB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 8525,Mark Robinson,LB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 6891,Markus Bailey,LB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 2363,Markus Golden,LB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
-12835,Marlowe Wax,LB,LAC,True,Active,,,LILB,2,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
+12835,Marlowe Wax,LB,LAC,True,Active,,,LILB,3,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 4212,Marquel Lee,LB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 12446,Marvin Moody,LB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 11200,Marvin Pierre,LB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
@@ -4431,7 +4431,7 @@ WAS,WAS,DEF,WAS,True,,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 1141,Melvin Ingram,LB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 11254,Micah Baskerville,LB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 5074,Micah Kiser,LB,,True,Inactive,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
-8396,Micah McFadden,LB,NYG,True,Active,,,LILB,2,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
+8396,Micah McFadden,LB,NYG,True,Active,,,RILB,2,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 7640,Micah Parsons,LB,GB,True,Active,PUP,,ROLB,1,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 11217,Michael Ayers,LB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 11843,Michael Barrett,LB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
@@ -4510,7 +4510,7 @@ WAS,WAS,DEF,WAS,True,,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 7647,Pete Werner,LB,NO,True,Active,Questionable,,RILB,1,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 5325,Peter Kalambayi,LB,GB,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 4279,Pita Taumoepenu,LB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
-12747,Power Echols,LB,,True,Active,Questionable,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
+12747,Power Echols,LB,SEA,True,Inactive,Questionable,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 1808,Preston Brown,LB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 2343,Preston Smith,LB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 6743,Quart'e Sapp,LB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
@@ -4549,7 +4549,7 @@ WAS,WAS,DEF,WAS,True,,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 5726,Robert Spillane,LB,NE,True,Active,,,LILB,1,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 4834,Rodney Butler,LB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 8517,Rodney Thomas,LB,SEA,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
-13361,Romello Height,LB,SF,True,Active,Questionable,,LDE,4,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
+13361,Romello Height,LB,SF,True,Active,Questionable,,LDE,3,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 7330,Romeo Finley,LB,,True,Inactive,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 3502,Romeo Okwara,LB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 7253,Ron'Dell Carter,LB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
@@ -4653,7 +4653,7 @@ WAS,WAS,DEF,WAS,True,,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 12344,Tristan Wheeler,LB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 8388,Troy Andersen,LB,,True,Active,Questionable,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 11293,Troy Brown,LB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
-6941,Troy Dye,LB,LAC,True,Active,,,RILB,2,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
+6941,Troy Dye,LB,LAC,True,Active,,,LILB,1,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 6353,Troy Reeder,LB,NYJ,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 13093,Tuasivi Nomura,LB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 7920,Tuf Borland,LB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
@@ -4663,7 +4663,7 @@ WAS,WAS,DEF,WAS,True,,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 11712,Ty'Ron Hopper,LB,GB,True,Active,,,LILB,2,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 3401,Tyler Matakevich,LB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 11498,Tyler Murray,LB,,True,Inactive,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
-10889,Tyree Wilson,LB,NO,True,Active,,,ROLB,2,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
+10889,Tyree Wilson,LB,NO,True,Active,,,ROLB,3,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 8580,Tyreek Maddox-Williams,LB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 12995,Tyreem Powell,LB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 6315,Tyrel Dodson,LB,CAR,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
@@ -4707,7 +4707,7 @@ WAS,WAS,DEF,WAS,True,,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 1093,Zach Brown,LB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 4110,Zach Cunningham,LB,,True,Active,Questionable,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 8531,Zach McCloud,LB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
-11000,Zaire Barnes,LB,NYG,True,Active,,,RILB,3,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
+11000,Zaire Barnes,LB,NYG,True,Active,,,LILB,3,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 5346,Zaire Franklin,LB,GB,True,Active,,,RILB,1,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 8301,Zakoby McClain,LB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 7637,Zaven Collins,LB,ARI,True,Active,,,LOLB,1,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
@@ -4940,7 +4940,7 @@ WAS,WAS,DEF,WAS,True,,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 954,Cam Newton,QB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 8158,Carson Strong,QB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 3161,Carson Wentz,QB,MIN,True,Active,,,QB,2,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
-11851,Carter Bradley,QB,JAX,True,Inactive,IR,,QB,3,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
+11851,Carter Bradley,QB,,True,Inactive,IR,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 7376,Case Cookus,QB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 1737,Case Keenum,QB,CHI,True,Active,,,QB,2,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 11848,Casey Bauman,QB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
@@ -5087,7 +5087,7 @@ WAS,WAS,DEF,WAS,True,,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 5709,Luis Perez,QB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 5108,Luke Falk,QB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 6343,Manny Wilkins,QB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
-13816,Mark Gronowski,QB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
+13816,Mark Gronowski,QB,HOU,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 3524,Marquise Williams,QB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 4972,Mason Rudolph,QB,PIT,True,Active,,,QB,2,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 1338,Matt Barkley,QB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
@@ -5142,7 +5142,7 @@ WAS,WAS,DEF,WAS,True,,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 11558,Sam Hartman,QB,WAS,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 8162,Sam Howell,QB,DAL,True,Active,,,QB,2,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 13426,Sawyer Robertson,QB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
-10983,Sean Clifford,QB,SF,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
+10983,Sean Clifford,QB,CIN,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 2394,Sean Mannion,QB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 4475,Sefo Liufau,QB,,True,Inactive,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 12898,Seth Henigan,QB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
@@ -5379,8 +5379,8 @@ WAS,WAS,DEF,WAS,True,,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 5407,Ervin Philips,RB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 9220,Evan Hull,RB,ARI,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 3164,Ezekiel Elliott,RB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
-232,Frank Gore,RB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 11573,Frank Gore,RB,BUF,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
+232,Frank Gore,RB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 7990,Garrett Groshek,RB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 7529,Gary Brightwell,RB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 5791,Gerald Holmes,RB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
@@ -5407,7 +5407,7 @@ WAS,WAS,DEF,WAS,True,,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 12479,Ja'Quinden Jackson,RB,,True,Inactive,Questionable,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 6996,JaMycal Hasty,RB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 7863,JaQuan Hardy,RB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
-12356,Jabari Small,RB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
+12356,Jabari Small,RB,DET,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 13047,Jacardia Wright,RB,SEA,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 11900,Jacob Kibodi,RB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 6108,Jacques Patrick,RB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
@@ -5564,8 +5564,8 @@ WAS,WAS,DEF,WAS,True,,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 8233,Mataeo Durant,RB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 12288,Mathieu Severance,RB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 4455,Matt Breida,RB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
-6385,Matt Colburn,RB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 6352,Matt Colburn,RB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
+6385,Matt Colburn,RB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 8218,Max Borghi,RB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 13516,Max Bredeson,RB,MIN,True,Active,,,RB,4,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 8085,Mekhi Sargent,RB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
@@ -5588,7 +5588,7 @@ WAS,WAS,DEF,WAS,True,,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 7475,Napoleon Maxwell,RB,,True,Inactive,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 8058,Nate McCrary,RB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 12859,Nate Noel,RB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
-12897,Nathan Carter,RB,KC,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
+12897,Nathan Carter,RB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 7466,Nathan Cottrell,RB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 12007,Nathaniel Peat,RB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 13250,Nay'Quan Wright,RB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
@@ -5638,8 +5638,8 @@ WAS,WAS,DEF,WAS,True,,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 1232,Robert Turbin,RB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 5918,Rodney Anderson,RB,,True,Inactive,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 14008,Rodney Hammond,RB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
-7101,Rodney Smith,RB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 2892,Rodney Smith,RB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
+7101,Rodney Smith,RB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 13416,Roman Hemby,RB,LV,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 3883,Romar Morris,RB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 11182,Ronald Awatt,RB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
@@ -5657,7 +5657,6 @@ WAS,WAS,DEF,WAS,True,,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 11104,SaRodorick Thompson,RB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 6918,Salvon Ahmed,RB,CHI,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 13873,Sam Scott,RB,,True,Inactive,Questionable,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
-4147,Samaje Perine,RB,CIN,True,Active,,,RB,2,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 12308,Samson Evans,RB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 7412,Sandro Platzgummer,RB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 7005,Scottie Phillips,RB,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
@@ -5895,7 +5894,7 @@ WAS,WAS,DEF,WAS,True,,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 5268,Ben Johnson,TE,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 2528,Ben Koyack,TE,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 11082,Ben Sims,TE,MIA,True,Inactive,IR,,TE,6,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
-13121,Ben Yurosek,TE,MIN,True,Active,,,TE,3,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
+13121,Ben Yurosek,TE,MIN,True,Inactive,IR,,TE,3,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 663,Benjamin Watson,TE,,True,Injured Reserve,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 8033,Bernhard Seikovits,TE,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 4650,Billy Brown,TE,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
@@ -5933,7 +5932,7 @@ WAS,WAS,DEF,WAS,True,,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 11599,Cade Stover,TE,HOU,True,Active,,,TE,3,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 12933,Caden Prieskorn,TE,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 4621,Caleb Bluiett,TE,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
-12735,Caleb Lohner,TE,DEN,True,Active,IR,,TE,5,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
+12735,Caleb Lohner,TE,DEN,True,Inactive,IR,,TE,5,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 7176,Caleb Repp,TE,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 6142,Caleb Wilson,TE,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 12062,Cam Grandy,TE,MIN,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
@@ -5946,7 +5945,7 @@ WAS,WAS,DEF,WAS,True,,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 7926,Carl Tucker,TE,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 13580,Carsen Ryan,TE,CLE,True,Active,,,TE,3,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 6365,Carson Meier,TE,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
-13407,Carson Towt,TE,IND,True,Inactive,IR,,TE,6,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
+13407,Carson Towt,TE,IND,True,Inactive,IR,,TE,5,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 7624,Carson Williams,TE,,True,Inactive,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 13122,Carter Runyon,TE,LV,True,Active,IR,,TE,5,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 7735,Cary Angeline,TE,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
@@ -6006,7 +6005,7 @@ WAS,WAS,DEF,WAS,True,,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 12357,David Martin-Robinson,TE,TEN,True,Active,,,TE,5,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 3554,David Reeves,TE,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 5235,David Wells,TE,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
-10214,Davis Allen,TE,LAR,True,Active,Questionable,,TE,5,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
+10214,Davis Allen,TE,LAR,True,Active,,,TE,4,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 6469,Davis Koppenhaver,TE,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 5906,Dawson Knox,TE,BUF,True,Active,,,TE,2,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 6016,Dax Raymond,TE,PIT,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
@@ -6032,7 +6031,7 @@ WAS,WAS,DEF,WAS,True,,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 14068,Drew Biber,TE,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 8489,Drew Ogletree,TE,IND,True,Active,,,TE,3,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 6001,Drew Sample,TE,CIN,True,Active,,,TE,3,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
-5008,Durham Smythe,TE,BAL,True,Active,,,TE,2,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
+5008,Durham Smythe,TE,BAL,True,Active,,,TE,3,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 5103,Dylan Cantrell,TE,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 12107,Dylan Leonard,TE,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 8751,Dylan Parham,TE,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
@@ -6101,7 +6100,7 @@ WAS,WAS,DEF,WAS,True,,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 8884,JJ Howland,TE,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 6139,Jace Sternberger,TE,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 1706,Jack Doyle,TE,IND,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
-7946,Jack Stoll,TE,,True,Inactive,Questionable,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
+7946,Jack Stoll,TE,,True,Inactive,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 13846,Jack Velling,TE,ATL,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 12045,Jack Westover,TE,WAS,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 6728,Jackson Harris,TE,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
@@ -6184,7 +6183,7 @@ WAS,WAS,DEF,WAS,True,,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 10212,Josh Whyle,TE,GB,True,Active,,,TE,3,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 12300,Joshua Lingenfelter,TE,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 3668,Joshua Perkins,TE,NYJ,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
-12883,Joshua Simon,TE,WAS,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
+12883,Joshua Simon,TE,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 7050,Josiah Deguara,TE,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 4409,Josiah Price,TE,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 11371,Julian Hill,TE,NE,True,Inactive,IR,,TE,5,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
@@ -6201,7 +6200,7 @@ WAS,WAS,DEF,WAS,True,,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 4545,Keith Towbridge,TE,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 12765,Keleki Latu,TE,BUF,True,Active,,,TE,4,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 6081,Kendall Blanton,TE,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
-13957,Kenny Fletcher,TE,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
+13957,Kenny Fletcher,TE,IND,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 7597,Kenny Yeboah,TE,,True,Inactive,Questionable,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 4861,Kent Taylor,TE,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 12215,Kevin Foelsch,TE,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
@@ -6306,7 +6305,7 @@ WAS,WAS,DEF,WAS,True,,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 6662,Parker Hesse,TE,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 7397,Parker Houston,TE,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 13014,Pat Conroy,TE,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
-13913,Patrick Gurd,TE,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
+13913,Patrick Gurd,TE,LV,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 12901,Patrick Herbert,TE,LAC,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 11245,Patrick Murtagh,TE,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 7499,Paul Quessenberry,TE,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
@@ -6316,7 +6315,7 @@ WAS,WAS,DEF,WAS,True,,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 4725,Phazahn Odom,TE,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 11508,Princeton Fant,TE,DAL,True,Inactive,IR,,TE,5,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 7985,Pro Wells,TE,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
-13870,Quentin Moore,TE,WAS,True,Inactive,IR,,TE,7,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
+13870,Quentin Moore,TE,,True,Inactive,IR,,TE,6,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 7536,Quintin Morris,TE,JAX,True,Active,,,TE,4,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 13430,RJ Maryland,TE,GB,True,Inactive,Questionable,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 2870,Ray Hamilton,TE,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
@@ -6426,7 +6425,7 @@ WAS,WAS,DEF,WAS,True,,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 200,Vernon Davis,TE,,True,Injured Reserve,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 868,Virgil Green,TE,,True,Inactive,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 5010,Will Dissly,TE,,True,Active,Questionable,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
-10220,Will Mallory,TE,IND,True,Active,IR,,TE,5,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
+10220,Will Mallory,TE,IND,True,Active,IR,,TE,4,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 4490,Wyatt Houston,TE,CAR,True,Active,,,TE,40,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 2082,Xavier Grimble,TE,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 7943,Zach Davidson,TE,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
@@ -6439,7 +6438,7 @@ WAS,WAS,DEF,WAS,True,,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 830,A.J. Green,WR,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 6373,A.J. Richardson,WR,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 10863,A.T. Perry,WR,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
-12865,AJ Henning,WR,MIA,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
+12865,AJ Henning,WR,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 6967,Aaron Fuller,WR,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 5772,Aaron Lacombe,WR,,True,Inactive,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 7091,Aaron Parker,WR,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
@@ -6563,7 +6562,7 @@ WAS,WAS,DEF,WAS,True,,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 11959,Bryce Oliver,WR,CLE,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 11157,Brycen Tremayne,WR,CAR,True,Active,,,RWR,6,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 12799,Bryson Green,WR,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
-11748,Bub Means,WR,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
+11748,Bub Means,WR,CLE,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 2502,Bud Sasser,WR,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 5199,Byron Pringle,WR,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 4344,C.J. Board,WR,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
@@ -6578,7 +6577,7 @@ WAS,WAS,DEF,WAS,True,,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 13212,Cade McDonald,WR,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 12399,Caleb Chapman,WR,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 5223,Caleb Scott,WR,TEN,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
-8125,Calvin Austin,WR,NYG,True,Inactive,IR,,,8,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
+8125,Calvin Austin,WR,NYG,True,Inactive,IR,,,7,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 8251,Calvin Jackson,WR,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 12906,Cam Camper,WR,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 12086,Cam Johnson,WR,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
@@ -6622,8 +6621,8 @@ WAS,WAS,DEF,WAS,True,,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 7175,Chris Rowland,WR,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 13043,Chris Tyree,WR,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 5241,Christian Blake,WR,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
-11284,Cody Chrest,WR,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 11523,Cody Chrest,WR,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
+11284,Cody Chrest,WR,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 3355,Cody Core,WR,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 4420,Cody Hollister,WR,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 2004,Cody Latimer,WR,,True,Inactive,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
@@ -6632,8 +6631,8 @@ WAS,WAS,DEF,WAS,True,,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 4738,Colby Pearson,WR,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 1144,Cole Beasley,WR,,True,Inactive,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 12264,Cole Beck,WR,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
-12210,Cole Burgess,WR,PIT,True,Inactive,IR,,,9,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
-12829,Coleman Owen,WR,IND,True,Inactive,IR,,,10,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
+12210,Cole Burgess,WR,,True,Inactive,IR,,,9,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
+12829,Coleman Owen,WR,,True,Inactive,IR,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 6857,Collin Johnson,WR,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 11046,Colton Dowell,WR,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 7954,Connor Wedington,WR,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
@@ -6668,7 +6667,7 @@ WAS,WAS,DEF,WAS,True,,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 12333,Dakereon Joyner,WR,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 12291,Dakota Caton,WR,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 12888,Dalen Cambre,WR,NYG,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
-13202,Dalevon Campbell,WR,LAC,True,Inactive,IR,,,9,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
+13202,Dalevon Campbell,WR,LAC,True,Inactive,IR,,,8,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 11438,Dallas Daniels,WR,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 7320,Dalton Schoen,WR,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 2672,Damarr Aultman,WR,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
@@ -6775,7 +6774,7 @@ WAS,WAS,DEF,WAS,True,,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 8186,Devon Williams,WR,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 5608,Devonte Boyd,WR,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 13632,Devonte Ross,WR,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
-11629,Devontez Walker,WR,BAL,True,Active,,,RWR,4,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
+11629,Devontez Walker,WR,BAL,True,Active,Questionable,,RWR,4,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 8019,Devontres Dukes,WR,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 11913,Devron Harper,WR,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 574,Dez Bryant,WR,,True,Inactive,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
@@ -6837,6 +6836,7 @@ WAS,WAS,DEF,WAS,True,,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 538,Emmanuel Sanders,WR,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 5323,Equanimeous St. Brown,WR,,True,Inactive,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 13354,Eric McAlister,WR,,True,Active,Questionable,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
+13316,Eric Rivers,WR,TB,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 1701,Eric Rogers,WR,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 8114,Erik Ezukanma,WR,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 8831,Ethan Fernea,WR,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
@@ -6857,7 +6857,7 @@ WAS,WAS,DEF,WAS,True,,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 11528,Garett Maag,WR,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 5637,Garrett Johnson,WR,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 4922,Garrett Scantling,WR,ATL,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
-6045,Gary Jennings,WR,LAC,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
+6045,Gary Jennings,WR,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 11478,Gavin Holmes,WR,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 2913,Gavin Lutman,WR,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 4489,Gehrig Dieter,WR,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
@@ -6872,7 +6872,7 @@ WAS,WAS,DEF,WAS,True,,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 11024,Grant DuBose,WR,,True,Active,Questionable,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 5970,Greg Dortch,WR,BUF,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 6744,Greg Ward,WR,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
-6699,Gunner Olszewski,WR,NYG,True,Inactive,IR,,,7,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
+6699,Gunner Olszewski,WR,NYG,True,Inactive,IR,,,6,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 12757,Hal Presley,WR,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 12413,Hamze El-Zayat,WR,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 13776,Hank Beatty,WR,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
@@ -6885,7 +6885,7 @@ WAS,WAS,DEF,WAS,True,,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 13228,Ife Adeyi,WR,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 2916,Ify Umodu,WR,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 7559,Ihmir Smith-Marsette,WR,ARI,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
-8861,Irv Charles,WR,SEA,True,Active,IR,,LWR,5,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
+8861,Irv Charles,WR,SEA,True,Inactive,IR,,LWR,5,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 6626,Isaac Zico,WR,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 7085,Isaiah Coulter,WR,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 4252,Isaiah Ford,WR,,True,Inactive,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
@@ -6922,7 +6922,7 @@ WAS,WAS,DEF,WAS,True,,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 9503,Jacob Copeland,WR,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 13904,Jacob De Jesus,WR,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 7703,Jacob Harris,WR,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
-13120,Jacoby Jones,WR,WAS,True,Inactive,IR,,,8,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
+13120,Jacoby Jones,WR,,True,Inactive,IR,,,9,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 12967,Jacolby George,WR,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 11521,Jadakis Bonds,WR,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 13760,Jaden Bradley,WR,WAS,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
@@ -7034,8 +7034,8 @@ WAS,WAS,DEF,WAS,True,,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 4330,JoJo Natson,WR,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 7370,JoJo Ward,WR,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 12777,Joaquin Davis,WR,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
-6686,Joe Horn,WR,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 6692,Joe Horn,WR,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
+6686,Joe Horn,WR,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 6913,Joe Reed,WR,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 6727,Joe Walker,WR,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 2238,John Brown,WR,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
@@ -7073,7 +7073,7 @@ WAS,WAS,DEF,WAS,True,,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 5293,Jordan Veasy,WR,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 12634,Jordan Watkins,WR,SF,True,Active,,,RWR,6,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 4787,Jordan Westerkamp,WR,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
-11623,Jordan Whittington,WR,LAR,True,Active,,,SWR,5,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
+11623,Jordan Whittington,WR,LAR,True,Active,,,SWR,6,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 3621,Jordan Williams-Lambert,WR,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 11504,Jose Barbon,WR,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 13743,Joseph Manjack,WR,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
@@ -7197,7 +7197,7 @@ WAS,WAS,DEF,WAS,True,,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 13981,Kolbe Katsis,WR,DEN,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 3348,Kolby Listenbee,WR,,True,Inactive,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 13749,Kole Wilson,WR,CLE,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
-12718,Konata Mumpfield,WR,LAR,True,Active,,,LWR,7,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
+12718,Konata Mumpfield,WR,LAR,True,Active,,,LWR,4,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 5210,Korey Robertson,WR,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 4526,Krishawn Hogan,WR,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 7438,Kristian Wilkerson,WR,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
@@ -7294,7 +7294,7 @@ WAS,WAS,DEF,WAS,True,,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 3895,Marvin Hall,WR,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 1067,Marvin Jones,WR,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 7436,Mason Kinsey,WR,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
-11895,Mason Tipton,WR,NO,True,Active,PUP,,LWR,9,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
+11895,Mason Tipton,WR,NO,True,Active,PUP,,RWR,9,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 7619,Mathew Sexton,WR,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 7352,Matt Cole,WR,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 5699,Matt Fleming,WR,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
@@ -7320,7 +7320,7 @@ WAS,WAS,DEF,WAS,True,,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 7944,Michael Strachan,WR,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 3199,Michael Thomas,WR,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 6363,Michael Walker,WR,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
-8202,Michael Woods,WR,DEN,True,Inactive,Questionable,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
+8202,Michael Woods,WR,,True,Inactive,Questionable,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 13645,Michael Wortham,WR,JAX,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 8828,Michael Young,WR,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 5294,Mikah Holder,WR,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
@@ -7330,9 +7330,9 @@ WAS,WAS,DEF,WAS,True,,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 5965,Miles Boykin,WR,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 11536,Milton Wright,WR,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 3516,Mitch Mathews,WR,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
-11068,Mitch Tinsley,WR,HOU,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 13227,Mitch Van Vooren,WR,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 4727,Mitchell Paige,WR,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
+11068,Mitchell Tinsley,WR,HOU,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 1071,Mohamed Sanu,WR,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 12852,Monaray Baldwin,WR,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 13222,Montana Lemonious-Craig,WR,,True,Active,Questionable,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
@@ -7350,8 +7350,8 @@ WAS,WAS,DEF,WAS,True,,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 5710,Nick Holley,WR,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 12478,Nick Nash,WR,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 7496,Nick Westbrook-Ikhine,WR,IND,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
-1604,Nick Williams,WR,DEN,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 11530,Nick Williams,WR,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
+1604,Nick Williams,WR,DEN,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 2790,Nigel King,WR,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 11320,Nikko Remigio,WR,KC,True,Active,,,SWR,6,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 4234,Noah Brown,WR,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
@@ -7363,7 +7363,7 @@ WAS,WAS,DEF,WAS,True,,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 13304,O'Mega Blake,WR,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 12033,OJ Hiliare,WR,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 13850,Octavian Smith,WR,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
-2078,Odell Beckham,WR,NYG,True,Active,,,RWR,5,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
+2078,Odell Beckham,WR,NYG,True,Active,,,LWR,4,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 6271,Olamide Zaccheaus,WR,ATL,True,Active,,,SWR,3,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 11136,Oliver Martin,WR,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 7080,Omar Bayless,WR,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
@@ -7596,7 +7596,7 @@ WAS,WAS,DEF,WAS,True,,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 7009,Trishton Jackson,WR,,True,Inactive,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 13003,Tru Edwards,WR,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 11886,Tulu Griffin,WR,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
-7562,Tutu Atwell,WR,LAR,True,Active,,,LWR,4,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
+7562,Tutu Atwell,WR,LAR,True,Active,,,RWR,5,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 8196,Ty Fryfogle,WR,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 11906,Ty James,WR,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 9491,Ty Scott,WR,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
@@ -7624,7 +7624,7 @@ WAS,WAS,DEF,WAS,True,,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 8656,Tyshaun James,WR,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 1678,Uzoma Nwachukwu,WR,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 3660,Valdez Showers,WR,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
-6853,Van Jefferson,WR,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
+6853,Van Jefferson,WR,WAS,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 8223,Velus Jones,WR,SEA,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 6628,Ventell Bryant,WR,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
 2635,Vernon Johnson,WR,,True,Active,,,,,FA,FA,FA,FA,FA,5,0,0,0,0,True,False
