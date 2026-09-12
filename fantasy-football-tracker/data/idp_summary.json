@@ -1,5 +1,5 @@
 {
-  "current_season_data": false,
+  "current_season_data": true,
   "league_id": "1359546418284494848",
   "lineup_slots": {
     "DB": 1,
@@ -7,7 +7,7 @@
     "LB": 1
   },
   "note": "IDP values use this league's exact Sleeper scoring. Before 2026 games exist, 2025 league-scored production is a labeled baseline proxy; the feed automatically switches to 2026 regular-season data after kickoff.",
-  "players": 839,
+  "players": 67,
   "scoring": {
     "idp_def_td": 6.0,
     "idp_ff": 3.0,
@@ -21,6 +21,6 @@
     "idp_tkl_loss": 2.0,
     "idp_tkl_solo": 2.0
   },
-  "snapshot_utc": "2026-09-08T23:52:59+00:00",
-  "source_season": 2025
+  "snapshot_utc": "2026-09-12T15:57:32+00:00",
+  "source_season": 2026
 }

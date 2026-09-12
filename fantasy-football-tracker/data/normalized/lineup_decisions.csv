@@ -1,50 +1,50 @@
 league_id,league,slot,action,starter_id,starter,starter_pos,starter_score,starter_return_points,starter_return_roles,starter_injury,starter_nfl_opponent,best_bench_id,best_bench,best_bench_pos,best_bench_score,best_bench_return_points,best_bench_return_roles,score_delta,score_source
-1389740418316374016,10-Team Redraft — Big Tiger Takeover,QB,HOLD,6797,Justin Herbert,QB,22.5,0.0,,,ARI,11566,Jayden Daniels,QB,23.26,0.0,,0.76,Sleeper raw-stat projection × league scoring + OL health
-1389740418316374016,10-Team Redraft — Big Tiger Takeover,RB,MONITOR,12527,Ashton Jeanty,RB,15.18,0.0,,QUESTIONABLE,MIA,12533,Jacory Croskey-Merritt,RB,11.75,0.0,,-3.43,Sleeper raw-stat projection × league scoring
-1389740418316374016,10-Team Redraft — Big Tiger Takeover,RB,HOLD,12512,Quinshon Judkins,RB,13.25,0.0,,,JAX,12533,Jacory Croskey-Merritt,RB,11.75,0.0,,-1.5,Sleeper raw-stat projection × league scoring + game-time weather
-1389740418316374016,10-Team Redraft — Big Tiger Takeover,WR,MONITOR,7564,Ja'Marr Chase,WR,22.18,0.0,,QUESTIONABLE,TB,5872,Deebo Samuel,WR,10.19,0.0,,-11.99,Sleeper raw-stat projection × league scoring
-1389740418316374016,10-Team Redraft — Big Tiger Takeover,WR,HOLD,12526,Tetairoa McMillan,WR,15.96,0.0,,,CHI,5872,Deebo Samuel,WR,10.19,0.0,,-5.77,Sleeper raw-stat projection × league scoring + injury ripple
-1389740418316374016,10-Team Redraft — Big Tiger Takeover,TE,HOLD,8110,Jake Ferguson,TE,10.96,0.0,,,NYG,,,,,,,,Sleeper raw-stat projection × league scoring + OL health
-1389740418316374016,10-Team Redraft — Big Tiger Takeover,FLEX,HOLD,7543,Travis Etienne,RB,16.49,0.0,,,DET,12533,Jacory Croskey-Merritt,RB,11.75,0.0,,-4.74,Sleeper raw-stat projection × league scoring
-1389740418316374016,10-Team Redraft — Big Tiger Takeover,FLEX,HOLD,8151,Kenneth Walker,RB,17.14,0.0,,,DEN,12533,Jacory Croskey-Merritt,RB,11.75,0.0,,-5.39,Sleeper raw-stat projection × league scoring + OL health
+1389740418316374016,10-Team Redraft — Big Tiger Takeover,QB,HOLD,6797,Justin Herbert,QB,21.99,0.0,,,ARI,11566,Jayden Daniels,QB,19.22,0.0,,-2.77,Sleeper raw-stat projection × league scoring
+1389740418316374016,10-Team Redraft — Big Tiger Takeover,RB,HOLD,12527,Ashton Jeanty,RB,17.93,0.0,,,MIA,12533,Jacory Croskey-Merritt,RB,10.8,0.0,,-7.13,Sleeper raw-stat projection × league scoring
+1389740418316374016,10-Team Redraft — Big Tiger Takeover,RB,HOLD,12512,Quinshon Judkins,RB,11.66,0.0,,,JAX,12533,Jacory Croskey-Merritt,RB,10.8,0.0,,-0.86,Sleeper raw-stat projection × league scoring + OL health
+1389740418316374016,10-Team Redraft — Big Tiger Takeover,WR,HOLD,7564,Ja'Marr Chase,WR,22.82,0.0,,,TB,8142,Alec Pierce,WR,10.45,0.0,,-12.37,Sleeper raw-stat projection × league scoring
+1389740418316374016,10-Team Redraft — Big Tiger Takeover,WR,HOLD,12526,Tetairoa McMillan,WR,16.51,0.0,,,CHI,8142,Alec Pierce,WR,10.45,0.0,,-6.06,Sleeper raw-stat projection × league scoring + injury ripple
+1389740418316374016,10-Team Redraft — Big Tiger Takeover,TE,HOLD,8110,Jake Ferguson,TE,10.42,0.0,,,NYG,,,,,,,,Sleeper raw-stat projection × league scoring
+1389740418316374016,10-Team Redraft — Big Tiger Takeover,FLEX,HOLD,7543,Travis Etienne,RB,15.93,0.0,,,DET,12533,Jacory Croskey-Merritt,RB,10.8,0.0,,-5.13,Sleeper raw-stat projection × league scoring
+1389740418316374016,10-Team Redraft — Big Tiger Takeover,FLEX,HOLD,8151,Kenneth Walker,RB,15.0,0.0,,,DEN,12533,Jacory Croskey-Merritt,RB,10.8,0.0,,-4.2,Sleeper raw-stat projection × league scoring + OL health
 1389740418316374016,10-Team Redraft — Big Tiger Takeover,K,HOLD,11533,Brandon Aubrey,K,7.34,0.0,,,NYG,,,,,,,,Sleeper raw-stat projection × league scoring
-1389740418316374016,10-Team Redraft — Big Tiger Takeover,DEF,HOLD,PHI,Philadelphia Eagles,DEF,8.71,0.0,,,WAS,,,,,,,,Sleeper raw-stat projection × league scoring
-1370453762442797056,18-Team Chopped — Surviving the Chamber,QB,HOLD,6770,Joe Burrow,QB,26.45,0.0,,,TB,6768,Tua Tagovailoa,QB,20.27,0.0,,-6.18,Sleeper raw-stat projection × league scoring
-1370453762442797056,18-Team Chopped — Surviving the Chamber,RB,HOLD,6813,Jonathan Taylor,RB,28.59,0.0,,,BAL,4147,Samaje Perine,RB,10.35,2.87,KR,-18.24,Sleeper raw-stat projection × league scoring
-1370453762442797056,18-Team Chopped — Surviving the Chamber,RB,HOLD,4199,Aaron Jones,RB,13.53,0.0,,,GB,4147,Samaje Perine,RB,10.35,2.87,KR,-3.18,Sleeper raw-stat projection × league scoring
-1370453762442797056,18-Team Chopped — Surviving the Chamber,WR,MONITOR,11632,Malik Nabers,WR,15.35,0.0,,QUESTIONABLE,DAL,12497,Tory Horton,WR,3.08,0.83,PR,-12.27,Sleeper raw-stat projection × league scoring + OL health
-1370453762442797056,18-Team Chopped — Surviving the Chamber,WR,HOLD,11628,Marvin Harrison,WR,11.82,0.0,,,LAC,12497,Tory Horton,WR,3.08,0.83,PR,-8.74,Sleeper raw-stat projection × league scoring
-1370453762442797056,18-Team Chopped — Surviving the Chamber,TE,MONITOR,9484,Tucker Kraft,TE,13.99,0.0,,QUESTIONABLE,MIN,8172,Greg Dulcich,TE,9.96,0.0,,-4.03,Sleeper raw-stat projection × league scoring
-1370453762442797056,18-Team Chopped — Surviving the Chamber,FLEX,HOLD,13075,Myles Price,WR,11.1,11.1,KR+PR,,GB,4147,Samaje Perine,RB,10.35,2.87,KR,-0.75,weekly projected points + league return scoring
-1370453762442797056,18-Team Chopped — Surviving the Chamber,FLEX,HOLD,11237,Jacob Saylors,RB,12.99,8.15,KR,,NO,4147,Samaje Perine,RB,10.35,2.87,KR,-2.64,Sleeper raw-stat projection × league scoring + league return scoring
-1370453762442797056,18-Team Chopped — Surviving the Chamber,K,MONITOR,8259,Cameron Dicker,K,8.49,0.0,,QUESTIONABLE,ARI,,,,,,,,Sleeper raw-stat projection × league scoring
-1370218620990263296,12-Team Dynasty — One League to Rule Them All,QB,HOLD,6770,Joe Burrow,QB,24.49,0.0,,,TB,1166,Kirk Cousins,QB,17.49,0.0,,-7.0,Sleeper raw-stat projection × league scoring
-1370218620990263296,12-Team Dynasty — One League to Rule Them All,RB,HOLD,12507,Omarion Hampton,RB,15.84,0.0,,,ARI,5995,Justice Hill,RB,4.49,0.0,,-11.35,Sleeper raw-stat projection × league scoring + OL health
-1370218620990263296,12-Team Dynasty — One League to Rule Them All,RB,HOLD,9224,Chase Brown,RB,17.66,0.0,,,TB,5995,Justice Hill,RB,4.49,0.0,,-13.17,Sleeper raw-stat projection × league scoring
-1370218620990263296,12-Team Dynasty — One League to Rule Them All,WR,MONITOR,12519,Luther Burden,WR,13.24,0.0,,QUESTIONABLE,CAR,9500,Josh Downs,WR,11.81,0.0,,-1.43,Sleeper raw-stat projection × league scoring + injury ripple
-1370218620990263296,12-Team Dynasty — One League to Rule Them All,WR,MONITOR,12514,Emeka Egbuka,WR,13.17,0.0,,QUESTIONABLE,CIN,9500,Josh Downs,WR,11.81,0.0,,-1.36,Sleeper raw-stat projection × league scoring + injury ripple
-1370218620990263296,12-Team Dynasty — One League to Rule Them All,WR,HOLD,9487,Parker Washington,WR,12.32,0.0,,,CLE,9500,Josh Downs,WR,11.81,0.0,,-0.51,Sleeper raw-stat projection × league scoring + game-time weather
-1370218620990263296,12-Team Dynasty — One League to Rule Them All,TE,HOLD,8110,Jake Ferguson,TE,12.21,0.0,,,NYG,5001,Dalton Schultz,TE,11.78,0.0,,-0.43,Sleeper raw-stat projection × league scoring + OL health
-1370218620990263296,12-Team Dynasty — One League to Rule Them All,FLEX,HOLD,11584,Bucky Irving,RB,13.16,0.0,,,CIN,9500,Josh Downs,WR,11.81,0.0,,-1.35,Sleeper raw-stat projection × league scoring
-1370218620990263296,12-Team Dynasty — One League to Rule Them All,FLEX,MONITOR,6790,D'Andre Swift,RB,13.98,0.0,,QUESTIONABLE,CAR,9500,Josh Downs,WR,11.81,0.0,,-2.17,Sleeper raw-stat projection × league scoring
-1370218620990263296,12-Team Dynasty — One League to Rule Them All,SUPER_FLEX,LEAN CHANGE,1373,Geno Smith,QB,16.21,0.0,,,TEN,1166,Kirk Cousins,QB,17.49,0.0,,1.28,Sleeper raw-stat projection × league scoring
-1366076769534251008,10-Team Dynasty — Dynasty V2,QB,HOLD,11566,Jayden Daniels,QB,22.18,0.0,,,PHI,4017,Deshaun Watson,QB,16.59,0.0,,-5.59,Sleeper raw-stat projection × league scoring + OL health
-1366076769534251008,10-Team Dynasty — Dynasty V2,RB,HOLD,9226,De'Von Achane,RB,18.45,0.0,,,LV,7594,Chuba Hubbard,RB,11.06,0.0,,-7.39,Sleeper raw-stat projection × league scoring
-1366076769534251008,10-Team Dynasty — Dynasty V2,RB,MONITOR,6790,D'Andre Swift,RB,14.49,0.0,,QUESTIONABLE,CAR,7594,Chuba Hubbard,RB,11.06,0.0,,-3.43,Sleeper raw-stat projection × league scoring
-1366076769534251008,10-Team Dynasty — Dynasty V2,WR,HOLD,7547,Amon-Ra St. Brown,WR,21.18,0.0,,,NO,8146,Garrett Wilson,WR,14.52,0.0,,-6.66,Sleeper raw-stat projection × league scoring + injury ripple
-1366076769534251008,10-Team Dynasty — Dynasty V2,WR,HOLD,12526,Tetairoa McMillan,WR,15.52,0.0,,,CHI,8146,Garrett Wilson,WR,14.52,0.0,,-1.0,Sleeper raw-stat projection × league scoring + injury ripple
-1366076769534251008,10-Team Dynasty — Dynasty V2,TE,HOLD,8110,Jake Ferguson,TE,12.68,0.0,,,NYG,2505,Darren Waller,TE,10.27,0.0,,-2.41,Sleeper raw-stat projection × league scoring + OL health
-1366076769534251008,10-Team Dynasty — Dynasty V2,FLEX,MONITOR,12519,Luther Burden,WR,13.77,0.0,,QUESTIONABLE,CAR,8146,Garrett Wilson,WR,14.52,0.0,,0.75,Sleeper raw-stat projection × league scoring + injury ripple
-1366076769534251008,10-Team Dynasty — Dynasty V2,FLEX,MONITOR,9997,Zay Flowers,WR,17.08,0.0,,QUESTIONABLE,IND,8146,Garrett Wilson,WR,14.52,0.0,,-2.56,Sleeper raw-stat projection × league scoring + injury ripple
-1366076769534251008,10-Team Dynasty — Dynasty V2,SUPER_FLEX,HOLD,3294,Dak Prescott,QB,22.62,0.0,,,NYG,4017,Deshaun Watson,QB,16.59,0.0,,-6.03,Sleeper raw-stat projection × league scoring + OL health
-1359546418284494848,12-Team 2-Keeper — League Is Rigged V2,QB,HOLD,11564,Drake Maye,QB,27.74,0.0,,,SEA,,,,,,,,Sleeper raw-stat projection × league scoring
-1359546418284494848,12-Team 2-Keeper — League Is Rigged V2,RB,MONITOR,13287,Jeremiyah Love,RB,16.77,0.0,,QUESTIONABLE,LAC,11583,Jonathon Brooks,RB,11.85,0.0,,-4.92,Sleeper raw-stat projection × league scoring
-1359546418284494848,12-Team 2-Keeper — League Is Rigged V2,RB,HOLD,12512,Quinshon Judkins,RB,15.93,0.0,,,JAX,11583,Jonathon Brooks,RB,11.85,0.0,,-4.08,Sleeper raw-stat projection × league scoring + game-time weather
-1359546418284494848,12-Team 2-Keeper — League Is Rigged V2,WR,MONITOR,7564,Ja'Marr Chase,WR,21.57,0.0,,QUESTIONABLE,TB,13279,Carnell Tate,WR,13.17,0.0,,-8.4,Sleeper raw-stat projection × league scoring
-1359546418284494848,12-Team 2-Keeper — League Is Rigged V2,WR,HOLD,8112,Drake London,WR,17.05,0.0,,,PIT,13279,Carnell Tate,WR,13.17,0.0,,-3.88,Sleeper raw-stat projection × league scoring + injury ripple
-1359546418284494848,12-Team 2-Keeper — League Is Rigged V2,TE,MONITOR,9484,Tucker Kraft,TE,11.77,0.0,,QUESTIONABLE,MIN,,,,,,,,Sleeper raw-stat projection × league scoring
-1359546418284494848,12-Team 2-Keeper — League Is Rigged V2,FLEX,HOLD,8228,Jaylen Warren,RB,17.16,0.0,,,ATL,13279,Carnell Tate,WR,13.17,0.0,,-3.99,Sleeper raw-stat projection × league scoring
+1389740418316374016,10-Team Redraft — Big Tiger Takeover,DEF,HOLD,PHI,Philadelphia Eagles,DEF,8.72,0.0,,,WAS,,,,,,,,Sleeper raw-stat projection × league scoring
+1370453762442797056,18-Team Chopped — Surviving the Chamber,QB,HOLD,6770,Joe Burrow,QB,28.04,0.0,,,TB,6768,Tua Tagovailoa,QB,0.0,0.0,,-28.04,Sleeper raw-stat projection × league scoring
+1370453762442797056,18-Team Chopped — Surviving the Chamber,RB,HOLD,6813,Jonathan Taylor,RB,28.08,0.0,,,BAL,9225,Tank Bigsby,RB,7.51,0.38,KR,-20.57,Sleeper raw-stat projection × league scoring
+1370453762442797056,18-Team Chopped — Surviving the Chamber,RB,HOLD,4199,Aaron Jones,RB,13.26,0.0,,,GB,9225,Tank Bigsby,RB,7.51,0.38,KR,-5.75,Sleeper raw-stat projection × league scoring + OL health
+1370453762442797056,18-Team Chopped — Surviving the Chamber,WR,CHANGE,13075,Myles Price,WR,11.1,11.1,KR+PR,,GB,11632,Malik Nabers,WR,15.52,0.0,,4.42,weekly projected points + OL health + league return scoring
+1370453762442797056,18-Team Chopped — Surviving the Chamber,WR,CHANGE,11628,Marvin Harrison,WR,10.78,0.0,,,LAC,11632,Malik Nabers,WR,15.52,0.0,,4.74,Sleeper raw-stat projection × league scoring
+1370453762442797056,18-Team Chopped — Surviving the Chamber,TE,HOLD,9484,Tucker Kraft,TE,13.45,0.0,,,MIN,8172,Greg Dulcich,TE,9.96,0.0,,-3.49,Sleeper raw-stat projection × league scoring + OL health
+1370453762442797056,18-Team Chopped — Surviving the Chamber,FLEX,CHANGE,4147,Samaje Perine,RB,7.86,0.34,KR,,TB,11632,Malik Nabers,WR,15.52,0.0,,7.66,Sleeper raw-stat projection × league scoring + league return scoring
+1370453762442797056,18-Team Chopped — Surviving the Chamber,FLEX,CHANGE,11237,Jacob Saylors,RB,12.41,8.15,KR,,NO,11632,Malik Nabers,WR,15.52,0.0,,3.11,Sleeper raw-stat projection × league scoring + league return scoring
+1370453762442797056,18-Team Chopped — Surviving the Chamber,K,HOLD,8259,Cameron Dicker,K,8.5,0.0,,,ARI,,,,,,,,Sleeper raw-stat projection × league scoring
+1370218620990263296,12-Team Dynasty — One League to Rule Them All,QB,HOLD,6770,Joe Burrow,QB,26.13,0.0,,,TB,1373,Geno Smith,QB,18.69,0.0,,-7.44,Sleeper raw-stat projection × league scoring
+1370218620990263296,12-Team Dynasty — One League to Rule Them All,RB,HOLD,12507,Omarion Hampton,RB,16.26,0.0,,,ARI,5995,Justice Hill,RB,4.41,0.0,,-11.85,Sleeper raw-stat projection × league scoring
+1370218620990263296,12-Team Dynasty — One League to Rule Them All,RB,HOLD,9224,Chase Brown,RB,18.02,0.0,,,TB,5995,Justice Hill,RB,4.41,0.0,,-13.61,Sleeper raw-stat projection × league scoring
+1370218620990263296,12-Team Dynasty — One League to Rule Them All,WR,HOLD,12519,Luther Burden,WR,12.87,0.0,,,CAR,9500,Josh Downs,WR,11.34,0.0,,-1.53,Sleeper raw-stat projection × league scoring + injury ripple
+1370218620990263296,12-Team Dynasty — One League to Rule Them All,WR,HOLD,12514,Emeka Egbuka,WR,13.91,0.0,,,CIN,9500,Josh Downs,WR,11.34,0.0,,-2.57,Sleeper raw-stat projection × league scoring
+1370218620990263296,12-Team Dynasty — One League to Rule Them All,WR,HOLD,9487,Parker Washington,WR,12.37,0.0,,,CLE,9500,Josh Downs,WR,11.34,0.0,,-1.03,Sleeper raw-stat projection × league scoring + OL health
+1370218620990263296,12-Team Dynasty — One League to Rule Them All,TE,HOLD,8110,Jake Ferguson,TE,11.63,0.0,,,NYG,11603,AJ Barner,TE,11.53,0.0,,-0.1,Sleeper raw-stat projection × league scoring
+1370218620990263296,12-Team Dynasty — One League to Rule Them All,FLEX,HOLD,11584,Bucky Irving,RB,15.56,0.0,,,CIN,11603,AJ Barner,TE,11.53,0.0,,-4.03,Sleeper raw-stat projection × league scoring
+1370218620990263296,12-Team Dynasty — One League to Rule Them All,FLEX,HOLD,6790,D'Andre Swift,RB,14.15,0.0,,,CAR,11603,AJ Barner,TE,11.53,0.0,,-2.62,Sleeper raw-stat projection × league scoring + injury ripple
+1370218620990263296,12-Team Dynasty — One League to Rule Them All,SUPER_FLEX,HOLD,1166,Kirk Cousins,QB,19.02,0.0,,,MIA,1373,Geno Smith,QB,18.69,0.0,,-0.33,Sleeper raw-stat projection × league scoring
+1366076769534251008,10-Team Dynasty — Dynasty V2,QB,HOLD,11566,Jayden Daniels,QB,18.25,0.0,,,PHI,4017,Deshaun Watson,QB,13.79,0.0,,-4.46,Sleeper raw-stat projection × league scoring
+1366076769534251008,10-Team Dynasty — Dynasty V2,RB,HOLD,9226,De'Von Achane,RB,17.52,0.0,,,LV,7594,Chuba Hubbard,RB,11.61,0.0,,-5.91,Sleeper raw-stat projection × league scoring
+1366076769534251008,10-Team Dynasty — Dynasty V2,RB,HOLD,6790,D'Andre Swift,RB,14.66,0.0,,,CAR,7594,Chuba Hubbard,RB,11.61,0.0,,-3.05,Sleeper raw-stat projection × league scoring + injury ripple
+1366076769534251008,10-Team Dynasty — Dynasty V2,WR,HOLD,7547,Amon-Ra St. Brown,WR,21.61,0.0,,,NO,2216,Mike Evans,WR,14.34,0.0,,-7.27,Sleeper raw-stat projection × league scoring + injury ripple
+1366076769534251008,10-Team Dynasty — Dynasty V2,WR,HOLD,12526,Tetairoa McMillan,WR,16.04,0.0,,,CHI,2216,Mike Evans,WR,14.34,0.0,,-1.7,Sleeper raw-stat projection × league scoring + injury ripple
+1366076769534251008,10-Team Dynasty — Dynasty V2,TE,HOLD,8110,Jake Ferguson,TE,12.09,0.0,,,NYG,2505,Darren Waller,TE,10.83,0.0,,-1.26,Sleeper raw-stat projection × league scoring
+1366076769534251008,10-Team Dynasty — Dynasty V2,FLEX,HOLD,8146,Garrett Wilson,WR,15.33,0.0,,,TEN,2216,Mike Evans,WR,14.34,0.0,,-0.99,Sleeper raw-stat projection × league scoring
+1366076769534251008,10-Team Dynasty — Dynasty V2,FLEX,HOLD,9997,Zay Flowers,WR,16.67,0.0,,,IND,2216,Mike Evans,WR,14.34,0.0,,-2.33,Sleeper raw-stat projection × league scoring
+1366076769534251008,10-Team Dynasty — Dynasty V2,SUPER_FLEX,HOLD,3294,Dak Prescott,QB,20.79,0.0,,,NYG,2216,Mike Evans,WR,14.34,0.0,,-6.45,Sleeper raw-stat projection × league scoring
+1359546418284494848,12-Team 2-Keeper — League Is Rigged V2,QB,HOLD,11564,Drake Maye,QB,28.91,0.0,,,SEA,,,,,,,,Sleeper raw-stat projection × league scoring + current usage
+1359546418284494848,12-Team 2-Keeper — League Is Rigged V2,RB,HOLD,8228,Jaylen Warren,RB,17.85,0.0,,,ATL,13287,Jeremiyah Love,RB,15.14,0.0,,-2.71,Sleeper raw-stat projection × league scoring + injury ripple
+1359546418284494848,12-Team 2-Keeper — League Is Rigged V2,RB,LEAN CHANGE,12512,Quinshon Judkins,RB,14.03,0.0,,,JAX,13287,Jeremiyah Love,RB,15.14,0.0,,1.11,Sleeper raw-stat projection × league scoring + OL health
+1359546418284494848,12-Team 2-Keeper — League Is Rigged V2,WR,HOLD,7564,Ja'Marr Chase,WR,22.19,0.0,,,TB,13279,Carnell Tate,WR,10.96,0.0,,-11.23,Sleeper raw-stat projection × league scoring
+1359546418284494848,12-Team 2-Keeper — League Is Rigged V2,WR,HOLD,8112,Drake London,WR,14.95,0.0,,,PIT,13279,Carnell Tate,WR,10.96,0.0,,-3.99,Sleeper raw-stat projection × league scoring + OL health
+1359546418284494848,12-Team 2-Keeper — League Is Rigged V2,TE,HOLD,9484,Tucker Kraft,TE,11.25,0.0,,,MIN,,,,,,,,Sleeper raw-stat projection × league scoring + OL health
+1359546418284494848,12-Team 2-Keeper — League Is Rigged V2,FLEX,CHANGE,9500,Josh Downs,WR,11.9,0.0,,,BAL,13287,Jeremiyah Love,RB,15.14,0.0,,3.24,Sleeper raw-stat projection × league scoring
 1359546418284494848,12-Team 2-Keeper — League Is Rigged V2,K,HOLD,2020,Cairo Santos,K,6.81,0.0,,,CAR,,,,,,,,Sleeper raw-stat projection × league scoring
-1359546418284494848,12-Team 2-Keeper — League Is Rigged V2,DL,HOLD,11665,Jared Verse,DL,7.99,0.0,,,JAX,,,,,,,,league-specific IDP scoring proxy
-1359546418284494848,12-Team 2-Keeper — League Is Rigged V2,LB,HOLD,10880,Jack Campbell,LB,20.39,0.0,,,NO,,,,,,,,league-specific IDP scoring proxy
-1359546418284494848,12-Team 2-Keeper — League Is Rigged V2,DB,MONITOR,10949,Chamarri Conner,DB,11.4,0.0,,QUESTIONABLE,DEN,,,,,,,,league-specific IDP scoring proxy
+1359546418284494848,12-Team 2-Keeper — League Is Rigged V2,DL,HOLD,11665,Jared Verse,DL,17.4,0.0,,,JAX,,,,,,,,weekly projected points
+1359546418284494848,12-Team 2-Keeper — League Is Rigged V2,LB,HOLD,10880,Jack Campbell,LB,21.5,0.0,,,NO,,,,,,,,weekly projected points
+1359546418284494848,12-Team 2-Keeper — League Is Rigged V2,DB,MONITOR,10949,Chamarri Conner,DB,14.9,0.0,,QUESTIONABLE,DEN,,,,,,,,weekly projected points

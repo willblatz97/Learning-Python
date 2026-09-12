@@ -130,15 +130,6 @@
     },
     {
       "free_agent_leagues": 1,
-      "full_name": "Juwan Johnson",
-      "my_leagues": 0,
-      "nfl_team": "NO",
-      "player_id": "7002",
-      "position": "TE",
-      "rostered_leagues": 4
-    },
-    {
-      "free_agent_leagues": 1,
       "full_name": "Malik Davis",
       "my_leagues": 1,
       "nfl_team": "DAL",
@@ -355,6 +346,15 @@
     },
     {
       "free_agent_leagues": 2,
+      "full_name": "Calvin Ridley",
+      "my_leagues": 0,
+      "nfl_team": "TEN",
+      "player_id": "4981",
+      "position": "WR",
+      "rostered_leagues": 3
+    },
+    {
+      "free_agent_leagues": 2,
       "full_name": "Cam Little",
       "my_leagues": 0,
       "nfl_team": "JAX",
@@ -427,6 +427,15 @@
     },
     {
       "free_agent_leagues": 2,
+      "full_name": "Colby Parkinson",
+      "my_leagues": 0,
+      "nfl_team": "LAR",
+      "player_id": "6865",
+      "position": "TE",
+      "rostered_leagues": 3
+    },
+    {
+      "free_agent_leagues": 2,
       "full_name": "Cooper Kupp",
       "my_leagues": 0,
       "nfl_team": "SEA",
@@ -441,15 +450,6 @@
       "nfl_team": "IND",
       "player_id": "5870",
       "position": "QB",
-      "rostered_leagues": 3
-    },
-    {
-      "free_agent_leagues": 2,
-      "full_name": "Darren Waller",
-      "my_leagues": 1,
-      "nfl_team": "CAR",
-      "player_id": "2505",
-      "position": "TE",
       "rostered_leagues": 3
     }
   ],
@@ -470,24 +470,16 @@
   },
   "players_faced_in_multiple_leagues": 7,
   "players_owned_in_multiple_leagues": 16,
-  "players_started_in_multiple_leagues": 8,
-  "snapshot_utc": "2026-09-08T23:52:28+00:00",
+  "players_started_in_multiple_leagues": 7,
+  "snapshot_utc": "2026-09-12T15:56:51+00:00",
   "top_nfl_team_exposure": [
     {
       "nfl_team": "CIN",
       "players_owned": "Chase Brown | Ja'Marr Chase | Jack Endries | Joe Burrow | Samaje Perine",
-      "players_started": "Chase Brown | Ja'Marr Chase | Joe Burrow",
+      "players_started": "Chase Brown | Ja'Marr Chase | Joe Burrow | Samaje Perine",
       "roster_slots_across_leagues": 7,
-      "starting_slots_across_leagues": 5,
+      "starting_slots_across_leagues": 6,
       "unique_players_owned": 5
-    },
-    {
-      "nfl_team": "CHI",
-      "players_owned": "Cairo Santos | Cole Kmet | D'Andre Swift | Luther Burden",
-      "players_started": "Cairo Santos | D'Andre Swift | Luther Burden",
-      "roster_slots_across_leagues": 6,
-      "starting_slots_across_leagues": 5,
-      "unique_players_owned": 4
     },
     {
       "nfl_team": "DAL",
@@ -495,6 +487,14 @@
       "players_started": "Brandon Aubrey | Dak Prescott | Jake Ferguson",
       "roster_slots_across_leagues": 6,
       "starting_slots_across_leagues": 5,
+      "unique_players_owned": 4
+    },
+    {
+      "nfl_team": "CHI",
+      "players_owned": "Cairo Santos | Cole Kmet | D'Andre Swift | Luther Burden",
+      "players_started": "Cairo Santos | D'Andre Swift | Luther Burden",
+      "roster_slots_across_leagues": 6,
+      "starting_slots_across_leagues": 4,
       "unique_players_owned": 4
     },
     {
@@ -530,6 +530,14 @@
       "unique_players_owned": 5
     },
     {
+      "nfl_team": "IND",
+      "players_owned": "Alec Pierce | Jonathan Taylor | Josh Downs | Seth McGowan",
+      "players_started": "Jonathan Taylor | Josh Downs",
+      "roster_slots_across_leagues": 5,
+      "starting_slots_across_leagues": 2,
+      "unique_players_owned": 4
+    },
+    {
       "nfl_team": "GB",
       "players_owned": "Jayden Reed | Luke Musgrave | Tucker Kraft",
       "players_started": "Tucker Kraft",
@@ -546,25 +554,17 @@
       "unique_players_owned": 4
     },
     {
-      "nfl_team": "ARI",
-      "players_owned": "Carson Beck | Jeremiyah Love | Marvin Harrison",
-      "players_started": "Jeremiyah Love | Marvin Harrison",
-      "roster_slots_across_leagues": 3,
-      "starting_slots_across_leagues": 2,
-      "unique_players_owned": 3
-    },
-    {
-      "nfl_team": "MIN",
-      "players_owned": "Aaron Jones | Myles Price",
-      "players_started": "Aaron Jones | Myles Price",
+      "nfl_team": "LV",
+      "players_owned": "Ashton Jeanty | Kirk Cousins",
+      "players_started": "Ashton Jeanty | Kirk Cousins",
       "roster_slots_across_leagues": 2,
       "starting_slots_across_leagues": 2,
       "unique_players_owned": 2
     },
     {
-      "nfl_team": "TB",
-      "players_owned": "Bucky Irving | Emeka Egbuka",
-      "players_started": "Bucky Irving | Emeka Egbuka",
+      "nfl_team": "MIN",
+      "players_owned": "Aaron Jones | Myles Price",
+      "players_started": "Aaron Jones | Myles Price",
       "roster_slots_across_leagues": 2,
       "starting_slots_across_leagues": 2,
       "unique_players_owned": 2
@@ -627,15 +627,6 @@
     },
     {
       "exposure_pct": 40.0,
-      "full_name": "Luther Burden",
-      "leagues_owned": 2,
-      "leagues_started": 2,
-      "nfl_team": "CHI",
-      "player_id": "12519",
-      "position": "WR"
-    },
-    {
-      "exposure_pct": 40.0,
       "full_name": "Tetairoa McMillan",
       "leagues_owned": 2,
       "leagues_started": 2,
@@ -651,6 +642,24 @@
       "nfl_team": "WAS",
       "player_id": "11566",
       "position": "QB"
+    },
+    {
+      "exposure_pct": 40.0,
+      "full_name": "Josh Downs",
+      "leagues_owned": 2,
+      "leagues_started": 1,
+      "nfl_team": "IND",
+      "player_id": "9500",
+      "position": "WR"
+    },
+    {
+      "exposure_pct": 40.0,
+      "full_name": "Luther Burden",
+      "leagues_owned": 2,
+      "leagues_started": 1,
+      "nfl_team": "CHI",
+      "player_id": "12519",
+      "position": "WR"
     },
     {
       "exposure_pct": 40.0,
@@ -686,15 +695,6 @@
       "leagues_started": 0,
       "nfl_team": "CAR",
       "player_id": "13353",
-      "position": "WR"
-    },
-    {
-      "exposure_pct": 40.0,
-      "full_name": "Josh Downs",
-      "leagues_owned": 2,
-      "leagues_started": 0,
-      "nfl_team": "IND",
-      "player_id": "9500",
       "position": "WR"
     },
     {

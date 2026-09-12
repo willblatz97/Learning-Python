@@ -3,18 +3,18 @@
 Soft Questionable/DNP/Limited signals are damped until official weekly injury reports exist. Defensive CB1-to-WR1 is matchup leverage, not a confirmed shadow assignment.
 
 ## Biggest current positive ripples
-- Braelon Allen (NYJ RB) +0.70 — RB1 QUESTIONABLE/DNP: backfield opportunity moves to RB2
-- Chris Rodriguez (JAX RB) +0.70 — RB1 QUESTIONABLE/DNP: backfield opportunity moves to RB2
-- Dylan Laube (LV RB) +0.70 — RB1 QUESTIONABLE/DNP: backfield opportunity moves to RB2
-- Jonathon Brooks (CAR RB) +0.70 — RB1 QUESTIONABLE/DNP: backfield opportunity moves to RB2
-- Kyle Monangai (CHI RB) +0.70 — RB1 QUESTIONABLE/DNP: backfield opportunity moves to RB2
-- Rachaad White (WAS RB) +0.70 — RB1 QUESTIONABLE/DNP: backfield opportunity moves to RB2
+- Drew Lock (SEA QB) +1.20 — QB1 OUT/IR: QB2 becomes relevant
+- Michael Penix (ATL QB) +1.20 — QB1 OUT/IR: QB2 becomes relevant
+- Michael Mayer (LV TE) +0.85 — TE1 OUT/IR: TE2 route/target opportunity rises
+- Colston Loveland (CHI TE) +0.78 — Starting linebacker OUT/IR: TE coverage improves | WR1 QUESTIONABLE/DNP: TE target share can rise
 - Tyler Allgeier (ARI RB) +0.70 — RB1 QUESTIONABLE/DNP: backfield opportunity moves to RB2
-- Chris Godwin (TB WR) +0.68 — Opponent CB1 QUESTIONABLE/DNP: secondary WR matchup improves | WR1 QUESTIONABLE/DNP: target concentration rises for next WR
-- Rashod Bateman (BAL WR) +0.68 — WR1 QUESTIONABLE/DNP: target concentration rises for next WR | Opponent CB1 QUESTIONABLE/DNP: secondary WR matchup improves
-- Wan'Dale Robinson (TEN WR) +0.68 — Opponent CB1 QUESTIONABLE/DNP: secondary WR matchup improves | WR1 QUESTIONABLE/DNP: target concentration rises for next WR
-- Jaylen Waddle (DEN WR) +0.63 — Opponent CB1 QUESTIONABLE/DNP: projected WR1 coverage matchup improves (not confirmed shadow) | Starting safety QUESTIONABLE/DNP: downfield coverage improves
-- Tetairoa McMillan (CAR WR) +0.63 — Opponent CB1 QUESTIONABLE/DNP: projected WR1 coverage matchup improves (not confirmed shadow) | Starting safety QUESTIONABLE/DNP: downfield coverage improves
-- Mike Evans (SF WR) +0.56 — Opponent CB1 QUESTIONABLE/DNP: projected WR1 coverage matchup improves (not confirmed shadow) | TE1 QUESTIONABLE/DNP: WR1 target share can rise
-- Justin Fields (KC QB) +0.54 — QB1 QUESTIONABLE/DNP: QB2 becomes relevant
-- Darnell Mooney (NYG WR) +0.50 — WR1 QUESTIONABLE/DNP: target concentration rises for next WR
+- Mason Taylor (NYJ TE) +0.55 — Starting linebacker OUT/IR: TE coverage improves
+- Luther Burden (CHI WR) +0.50 — WR1 QUESTIONABLE/DNP: target concentration rises for next WR
+- Malachi Fields (NYG WR) +0.50 — WR1 QUESTIONABLE/DNP: target concentration rises for next WR
+- Daniel Jones (IND QB) +0.45 — Top edge rusher OUT/IR: QB pressure environment improves
+- Jared Goff (DET QB) +0.45 — Top edge rusher OUT/IR: QB pressure environment improves
+- Breece Hall (NYJ RB) +0.35 — Starting linebacker OUT/IR: RB run/checkdown environment improves
+- D'Andre Swift (CHI RB) +0.35 — Starting linebacker OUT/IR: RB run/checkdown environment improves
+- Darnell Mooney (NYG WR) +0.25 — WR1 QUESTIONABLE/DNP: WR3 role/targets can expand
+- Kalif Raymond (CHI WR) +0.25 — WR1 QUESTIONABLE/DNP: WR3 role/targets can expand
+- Pat Freiermuth (PIT TE) +0.25 — Starting linebacker QUESTIONABLE/DNP: TE coverage improves
