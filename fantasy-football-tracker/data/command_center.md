@@ -1,35 +1,36 @@
-# Fantasy Command Center — Week 1
+# Fantasy Command Center — Week 2
 
 Projection mode: **WEEKLY CONSENSUS**
 Usage: **CURRENT SEASON ACTIVE**
 
 ## 10-Team Redraft — Big Tiger Takeover
-- **TOSS-UP** — Third Reich & Long — projection 148.32 vs 147.37 (Sutton My Face); margin +0.95
-- **Action:** HOLD — No lineup action above threshold
-- **Projected finish:** seed #7 · 5.48 expected wins · 41.5% playoff odds · range #6-#8 · roster power #7 · schedule HARD (75.0th percentile difficulty)
-- **Waiver:** Brenton Strange (TE) — MEDIUM — FAAB 3-7 — consensus ECR 139.67 | rostered in most comparable leagues | depth-chart starter | thin TE depth on your roster
+- **FAVORED** — Third Reich & Long — projection 140.94 vs 122.6 (My Step-Burrow Is Brown); margin +18.34
+- **Action:** CHANGE — QB: Justin Herbert -> Jayden Daniels (+3.74)
+- **Projected finish:** seed #7 · 5.57 expected wins · 36.9% playoff odds · range #5-#9 · roster power #6 · schedule HARD (75.0th percentile difficulty)
+- **Waiver:** Dalton Schultz (TE) — MEDIUM — FAAB 7-12 — consensus ECR 138.33 | rostered in most comparable leagues | depth-chart starter | thin TE depth on your roster | 2026 usage STABLE — snaps L3 66.0%, opps 8.0/g
 
 ## 18-Team Chopped — Surviving the Chamber
-- **COMFORTABLE** — Third Reich & Long — projection 133.48 vs 100.3 (Projected rank 10/18); margin +33.18
-- **Action:** CHANGE — WR: Myles Price -> Malik Nabers (+4.42)
-- **Waiver:** Seth McGowan (RB) — SPECULATIVE — FAAB 20-50 — return-scoring league candidate injected before final ranking | return role KR +0.17 pts/g | offense+return dual role
+- **COMFORTABLE** — Third Reich & Long — projection 127.46 vs 0 (Projected rank 12/18); margin +127.46
+- **Action:** CHANGE — WR: Myles Price -> Malik Nabers (+4.30)
+- **Waiver:** CeeDee Lamb (WR) — MUST ADD — FAAB 280-450 — consensus ECR 10 | rostered in most comparable leagues | depth-chart starter | thin WR depth on your roster | 2026 usage STABLE — snaps L3 81.0%, opps 8.0/g
 
 ## 12-Team Dynasty — One League to Rule Them All
-- **LEAN OPPONENT** — Nazgûl Nation — projection 159.92 vs 164.71 (sneekyn33ks); margin -4.79
-- **Action:** HOLD — No lineup action above threshold
-- **Projected finish:** seed #4 · 8.89 expected wins · 84.5% playoff odds · range #2-#6 · roster power #5 · schedule EASY (12.5th percentile difficulty)
+- **FAVORED** — Nazgûl Nation — projection 137.2 vs 102.96 (Sauron’s Commisioner); margin +34.24
+- **Action:** LEAN CHANGE — FLEX: D'Andre Swift -> Dalton Schultz (+0.98)
+- **Projected finish:** seed #9 · 5.25 expected wins · 8.2% playoff odds · range #8-#10 · roster power #9 · schedule EASY (12.5th percentile difficulty)
 
 ## 10-Team Dynasty — Dynasty V2
-- **TRAILING** — Route 66ers — projection 152.96 vs 161.35 (zthompson1533); margin -8.39
-- **Action:** HOLD — No lineup action above threshold
-- **Projected finish:** seed #7 · 6.83 expected wins · 43.3% playoff odds · range #5-#7 · roster power #7 · schedule AVERAGE (55.0th percentile difficulty)
-- **Waiver:** Greg Dulcich (TE) — WATCH — FAAB 0-1 — consensus ECR 226.29 | depth-chart starter | 1 recent cross-league add(s)
+- **FAVORED** — Route 66ers — projection 155.63 vs 124.88 (cburt31); margin +30.75
+- **Action:** LEAN CHANGE — RB: D'Andre Swift -> Chuba Hubbard (+0.96)
+- **Projected finish:** seed #3 · 9.28 expected wins · 97.7% playoff odds · range #2-#4 · roster power #3 · schedule AVERAGE (35.0th percentile difficulty)
+- **Waiver:** Greg Dulcich (TE) — WATCH — FAAB 0-1 — consensus ECR 226.29 | depth-chart starter | 1 recent cross-league add(s) | 2026 usage STABLE — snaps L3 77.0%, opps 2.0/g
 
 ## 12-Team 2-Keeper — League Is Rigged V2
-- **TRAILING** — Third Reich & Long — projection 181.69 vs 196.94 (Daejon love #1 fan); margin -15.25
-- **Action:** LEAN CHANGE — RB: Quinshon Judkins -> Jeremiyah Love (+1.11)
-- **Projected finish:** seed #6 · 7.96 expected wins · 71.1% playoff odds · range #4-#7 · roster power #6 · schedule AVERAGE (54.2th percentile difficulty)
-- **Waiver:** Josh Jobe (DB) — MUST ADD — FAAB 12-20 — current-season IDP value proxy 22.0 pts/g; keeper value ignored
-- **Injury decisions:** 1 starter monitor(s)
+- **FAVORED** — Third Reich & Long — projection 157.98 vs 151.52 (jblatz); margin +6.46
+- **Action:** CHANGE — FLEX: Josh Downs -> Jeremiyah Love (+3.64)
+- **Projected finish:** seed #10 · 4.67 expected wins · 3.8% playoff odds · range #8-#11 · roster power #10 · schedule AVERAGE (54.2th percentile difficulty)
+- **Waiver:** Andrew Wingard (DB) — MUST ADD — FAAB 12-20 — current-season IDP value proxy 23.0 pts/g; keeper value ignored
 
+## NFL Environment Alerts
+- OL degraded: GB, DET
 - High-impact weather: none currently

@@ -1,5 +1,5 @@
 {
-  "all_ownership_rows": 1294,
+  "all_ownership_rows": 1279,
   "configured_leagues": 5,
   "league_names": {
     "1359546418284494848": "League Is Rigged V2",
@@ -22,17 +22,17 @@
     "display_week": 1,
     "league_create_season": "2026",
     "league_season": "2026",
-    "leg": 1,
+    "leg": 2,
     "previous_season": "2025",
     "season": "2026",
     "season_has_scores": true,
     "season_start_date": "2026-09-09",
     "season_type": "regular",
-    "week": 1
+    "week": 2
   },
   "owned_player_rows": 111,
   "sleeper_user_id": "779583277362245632",
   "sleeper_username": "blatzzy",
-  "snapshot_utc": "2026-09-12T15:56:51+00:00",
-  "transactions_rows": 141
+  "snapshot_utc": "2026-09-15T10:41:55+00:00",
+  "transactions_rows": 146
 }

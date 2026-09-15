@@ -1,5 +1,5 @@
 {
-  "current_week": 1,
+  "current_week": 2,
   "leagues": 5,
   "market_signal_players": [
     {
@@ -18,6 +18,15 @@
       "nfl_team": "SF",
       "player_id": "8183",
       "position": "QB",
+      "rostered_leagues": 4
+    },
+    {
+      "free_agent_leagues": 1,
+      "full_name": "CeeDee Lamb",
+      "my_leagues": 0,
+      "nfl_team": "DAL",
+      "player_id": "6786",
+      "position": "WR",
       "rostered_leagues": 4
     },
     {
@@ -49,6 +58,15 @@
     },
     {
       "free_agent_leagues": 1,
+      "full_name": "DK Metcalf",
+      "my_leagues": 0,
+      "nfl_team": "PIT",
+      "player_id": "5846",
+      "position": "WR",
+      "rostered_leagues": 4
+    },
+    {
+      "free_agent_leagues": 1,
       "full_name": "Dalton Schultz",
       "my_leagues": 1,
       "nfl_team": "HOU",
@@ -58,20 +76,20 @@
     },
     {
       "free_agent_leagues": 1,
-      "full_name": "De'Zhaun Stribling",
-      "my_leagues": 0,
-      "nfl_team": "SF",
-      "player_id": "13417",
-      "position": "WR",
-      "rostered_leagues": 4
-    },
-    {
-      "free_agent_leagues": 1,
       "full_name": "Emmett Johnson",
       "my_leagues": 1,
       "nfl_team": "KC",
       "player_id": "13337",
       "position": "RB",
+      "rostered_leagues": 4
+    },
+    {
+      "free_agent_leagues": 1,
+      "full_name": "George Kittle",
+      "my_leagues": 0,
+      "nfl_team": "SF",
+      "player_id": "4217",
+      "position": "TE",
       "rostered_leagues": 4
     },
     {
@@ -94,19 +112,19 @@
     },
     {
       "free_agent_leagues": 1,
-      "full_name": "Jalen Coker",
+      "full_name": "Jakobi Meyers",
       "my_leagues": 0,
-      "nfl_team": "CAR",
-      "player_id": "11646",
+      "nfl_team": "JAX",
+      "player_id": "5947",
       "position": "WR",
       "rostered_leagues": 4
     },
     {
       "free_agent_leagues": 1,
-      "full_name": "Jalen Nailor",
+      "full_name": "Jalen Coker",
       "my_leagues": 0,
-      "nfl_team": "LV",
-      "player_id": "8180",
+      "nfl_team": "CAR",
+      "player_id": "11646",
       "position": "WR",
       "rostered_leagues": 4
     },
@@ -126,6 +144,24 @@
       "nfl_team": "GB",
       "player_id": "6804",
       "position": "QB",
+      "rostered_leagues": 4
+    },
+    {
+      "free_agent_leagues": 1,
+      "full_name": "Kenneth Walker",
+      "my_leagues": 1,
+      "nfl_team": "KC",
+      "player_id": "8151",
+      "position": "RB",
+      "rostered_leagues": 4
+    },
+    {
+      "free_agent_leagues": 1,
+      "full_name": "Malachi Fields",
+      "my_leagues": 0,
+      "nfl_team": "NYG",
+      "player_id": "13285",
+      "position": "WR",
       "rostered_leagues": 4
     },
     {
@@ -175,11 +211,29 @@
     },
     {
       "free_agent_leagues": 1,
+      "full_name": "Tetairoa McMillan",
+      "my_leagues": 2,
+      "nfl_team": "CAR",
+      "player_id": "12526",
+      "position": "WR",
+      "rostered_leagues": 4
+    },
+    {
+      "free_agent_leagues": 1,
       "full_name": "Tre Tucker",
       "my_leagues": 0,
       "nfl_team": "LV",
       "player_id": "10213",
       "position": "WR",
+      "rostered_leagues": 4
+    },
+    {
+      "free_agent_leagues": 1,
+      "full_name": "TreVeyon Henderson",
+      "my_leagues": 0,
+      "nfl_team": "NE",
+      "player_id": "12529",
+      "position": "RB",
       "rostered_leagues": 4
     },
     {
@@ -301,15 +355,6 @@
     },
     {
       "free_agent_leagues": 2,
-      "full_name": "Brian Robinson",
-      "my_leagues": 0,
-      "nfl_team": "ATL",
-      "player_id": "8154",
-      "position": "RB",
-      "rostered_leagues": 3
-    },
-    {
-      "free_agent_leagues": 2,
       "full_name": "Bryce Young",
       "my_leagues": 0,
       "nfl_team": "CAR",
@@ -406,72 +451,27 @@
       "player_id": "1945",
       "position": "K",
       "rostered_leagues": 3
-    },
-    {
-      "free_agent_leagues": 2,
-      "full_name": "Chris Brooks",
-      "my_leagues": 0,
-      "nfl_team": "GB",
-      "player_id": "11370",
-      "position": "RB",
-      "rostered_leagues": 3
-    },
-    {
-      "free_agent_leagues": 2,
-      "full_name": "Christian Kirk",
-      "my_leagues": 1,
-      "nfl_team": "SF",
-      "player_id": "4950",
-      "position": "WR",
-      "rostered_leagues": 3
-    },
-    {
-      "free_agent_leagues": 2,
-      "full_name": "Colby Parkinson",
-      "my_leagues": 0,
-      "nfl_team": "LAR",
-      "player_id": "6865",
-      "position": "TE",
-      "rostered_leagues": 3
-    },
-    {
-      "free_agent_leagues": 2,
-      "full_name": "Cooper Kupp",
-      "my_leagues": 0,
-      "nfl_team": "SEA",
-      "player_id": "4039",
-      "position": "WR",
-      "rostered_leagues": 3
-    },
-    {
-      "free_agent_leagues": 2,
-      "full_name": "Daniel Jones",
-      "my_leagues": 0,
-      "nfl_team": "IND",
-      "player_id": "5870",
-      "position": "QB",
-      "rostered_leagues": 3
     }
   ],
   "opponent_roster_ids": {
     "1359546418284494848": [
-      "6"
+      "4"
     ],
     "1366076769534251008": [
-      "6"
+      "2"
     ],
     "1370218620990263296": [
-      "7"
+      "1"
     ],
     "1370453762442797056": [],
     "1389740418316374016": [
-      "5"
+      "6"
     ]
   },
-  "players_faced_in_multiple_leagues": 7,
+  "players_faced_in_multiple_leagues": 6,
   "players_owned_in_multiple_leagues": 16,
   "players_started_in_multiple_leagues": 7,
-  "snapshot_utc": "2026-09-12T15:56:51+00:00",
+  "snapshot_utc": "2026-09-15T10:41:55+00:00",
   "top_nfl_team_exposure": [
     {
       "nfl_team": "CIN",
@@ -546,9 +546,9 @@
       "unique_players_owned": 3
     },
     {
-      "nfl_team": "KC",
-      "players_owned": "Chamarri Conner | Emmett Johnson | John Michael Gyllenborg | Kenneth Walker",
-      "players_started": "Chamarri Conner | Kenneth Walker",
+      "nfl_team": "PHI",
+      "players_owned": "Cooper DeJean | Eli Stowers | Philadelphia Eagles | Tank Bigsby",
+      "players_started": "Cooper DeJean | Philadelphia Eagles",
       "roster_slots_across_leagues": 4,
       "starting_slots_across_leagues": 2,
       "unique_players_owned": 4
@@ -717,11 +717,11 @@
     },
     {
       "exposure_pct": 20.0,
-      "full_name": "Chamarri Conner",
+      "full_name": "Cooper DeJean",
       "leagues_owned": 1,
       "leagues_started": 1,
-      "nfl_team": "KC",
-      "player_id": "10949",
+      "nfl_team": "PHI",
+      "player_id": "11678",
       "position": "DB"
     },
     {

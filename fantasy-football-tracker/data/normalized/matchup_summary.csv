@@ -1,6 +1,6 @@
 league_id,league,league_type,team,opponent_or_chop_rank,my_lineup_score,opponent_or_chop_line,projected_margin,recommended_changes,injury_monitors,score_mode,return_adjusted_projection,projected_return_points_added,nonreturn_projection,return_adjusted_chop_line,nonreturn_chop_line,return_adjusted_margin,nonreturn_margin,return_adjusted_rank,nonreturn_rank
-1389740418316374016,10-Team Redraft — Big Tiger Takeover,redraft,Third Reich & Long,Sutton My Face,148.32,147.37,0.95,0,0,weekly consensus + return scoring,,,,,,,,,
-1370453762442797056,18-Team Chopped — Surviving the Chamber,chopped,Third Reich & Long,Projected rank 10/18,133.48,100.3,33.18,4,0,league-scored weekly projection + separate return reconciliation,133.48,19.59,113.89,100.3,100.3,33.18,13.59,10,17
-1370218620990263296,12-Team Dynasty — One League to Rule Them All,dynasty,Nazgûl Nation,sneekyn33ks,159.92,164.71,-4.79,0,0,weekly consensus + return scoring,,,,,,,,,
-1366076769534251008,10-Team Dynasty — Dynasty V2,dynasty,Route 66ers,zthompson1533,152.96,161.35,-8.39,0,0,weekly consensus + return scoring,,,,,,,,,
-1359546418284494848,12-Team 2-Keeper — League Is Rigged V2,keeper,Third Reich & Long,Daejon love #1 fan,181.69,196.94,-15.25,2,1,weekly consensus + return scoring,,,,,,,,,
+1389740418316374016,10-Team Redraft — Big Tiger Takeover,redraft,Third Reich & Long,My Step-Burrow Is Brown,140.94,122.6,18.34,2,0,weekly consensus + return scoring,,,,,,,,,
+1370453762442797056,18-Team Chopped — Surviving the Chamber,chopped,Third Reich & Long,Projected rank 12/18,127.46,0,127.46,4,0,league-scored weekly projection + separate return reconciliation,127.46,19.59,107.87,0.0,0.0,127.46,107.87,12,14
+1370218620990263296,12-Team Dynasty — One League to Rule Them All,dynasty,Nazgûl Nation,Sauron’s Commisioner,137.2,102.96,34.24,2,0,weekly consensus + return scoring,,,,,,,,,
+1366076769534251008,10-Team Dynasty — Dynasty V2,dynasty,Route 66ers,cburt31,155.63,124.88,30.75,2,0,weekly consensus + return scoring,,,,,,,,,
+1359546418284494848,12-Team 2-Keeper — League Is Rigged V2,keeper,Third Reich & Long,jblatz,157.98,151.52,6.46,1,0,weekly consensus + return scoring,,,,,,,,,
