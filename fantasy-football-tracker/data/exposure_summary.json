@@ -471,7 +471,7 @@
   "players_faced_in_multiple_leagues": 6,
   "players_owned_in_multiple_leagues": 16,
   "players_started_in_multiple_leagues": 7,
-  "snapshot_utc": "2026-09-15T10:47:44+00:00",
+  "snapshot_utc": "2026-09-15T23:59:18+00:00",
   "top_nfl_team_exposure": [
     {
       "nfl_team": "CIN",
@@ -506,14 +506,6 @@
       "unique_players_owned": 4
     },
     {
-      "nfl_team": "DET",
-      "players_owned": "Amon-Ra St. Brown | Isiah Pacheco | Jack Campbell | Jacob Saylors",
-      "players_started": "Amon-Ra St. Brown | Jack Campbell | Jacob Saylors",
-      "roster_slots_across_leagues": 4,
-      "starting_slots_across_leagues": 3,
-      "unique_players_owned": 4
-    },
-    {
       "nfl_team": "LAC",
       "players_owned": "Cameron Dicker | Justin Herbert | Omarion Hampton | Quentin Johnston",
       "players_started": "Cameron Dicker | Justin Herbert | Omarion Hampton",
@@ -534,6 +526,14 @@
       "players_owned": "Alec Pierce | Jonathan Taylor | Josh Downs | Seth McGowan",
       "players_started": "Jonathan Taylor | Josh Downs",
       "roster_slots_across_leagues": 5,
+      "starting_slots_across_leagues": 2,
+      "unique_players_owned": 4
+    },
+    {
+      "nfl_team": "DET",
+      "players_owned": "Amon-Ra St. Brown | Isiah Pacheco | Jack Campbell | Jacob Saylors",
+      "players_started": "Amon-Ra St. Brown | Jack Campbell",
+      "roster_slots_across_leagues": 4,
       "starting_slots_across_leagues": 2,
       "unique_players_owned": 4
     },

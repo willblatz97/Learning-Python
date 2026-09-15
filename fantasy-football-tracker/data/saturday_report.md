@@ -2,77 +2,74 @@
 
 ## 10-Team Redraft — Big Tiger Takeover
 Team: Third Reich & Long
-Opponent: My Step-Burrow Is Brown — lineup proxy 140.94 vs 122.60; margin +18.34
+Opponent: My Step-Burrow Is Brown — lineup proxy 146.39 vs 141.60; margin +4.79
 
 ### Lineup actions
-- CHANGE QB: Justin Herbert (20.76) -> Jayden Daniels (24.5); delta 3.74; injury clear
-- LEAN CHANGE FLEX: Travis Etienne (11.28) -> Jacory Croskey-Merritt (13.05); delta 1.77; injury clear
+- CHANGE QB: Justin Herbert (21.38) -> Jayden Daniels (25.58); delta 4.2; injury clear
+- CHANGE FLEX: Travis Etienne (11.78) -> Jacory Croskey-Merritt (14.15); delta 2.37; injury clear
 
 ### Your injury / practice watch
 No monitor-level starter flags.
 
 ### Opponent threats
-- Christian McCaffrey (RB SF) — 21.31 vs MIA
-- Nico Collins (WR HOU) — 19.32 vs CIN
-- Trevor Lawrence (QB JAX) — 18.99 vs DEN
+- Christian McCaffrey (RB SF) — 21.81 vs MIA
+- Trevor Lawrence (QB JAX) — 20.93 vs DEN
+- Nico Collins (WR HOU) — 19.82 vs CIN
 
 ### Opponent injury leverage
-- A.J. Brown — IR/PUP; current lineup score 0.16
+- Jalen Coker — QUESTIONABLE; current lineup score 13.18
 
 ## 18-Team Chopped — Surviving the Chamber
 Team: Third Reich & Long
-Projected rank 12/18 — lineup proxy 127.46; projected chop line 0.00; safety margin +127.46
+Projected rank 9/18 — lineup proxy 136.77; projected chop line 0.00; safety margin +136.77
 
 ### Lineup actions
-- CHANGE WR: Myles Price (11.1) -> Malik Nabers (15.4); delta 4.3; injury clear
-- CHANGE WR: Marvin Harrison (10.13) -> Malik Nabers (15.4); delta 5.27; injury clear
-- CHANGE FLEX: Samaje Perine (7.54) -> Malik Nabers (15.4); delta 7.86; injury clear
-- CHANGE FLEX: Jacob Saylors (9.0) -> Malik Nabers (15.4); delta 6.4; injury clear
+- LEAN CHANGE FLEX: Samaje Perine (6.92) -> Jacob Saylors (8.15); delta 1.23; injury clear
 
 ### Your injury / practice watch
 No monitor-level starter flags.
 
 ### Chop-field injury leverage
-- Brock Bowers (TE LV) — OUT; could lower another roster's floor
-- Zay Flowers (WR BAL) — OUT; could lower another roster's floor
-- Jordan Mason (RB MIN) — QUESTIONABLE; could lower another roster's floor
 - Ladd McConkey (WR LAC) — QUESTIONABLE; could lower another roster's floor
+- Jordan Mason (RB MIN) — QUESTIONABLE; could lower another roster's floor
 - Jalen Coker (WR CAR) — QUESTIONABLE; could lower another roster's floor
+- Brock Bowers (TE LV) — OUT; could lower another roster's floor
+- Alec Pierce (WR IND) — QUESTIONABLE; could lower another roster's floor
 
 ## 12-Team Dynasty — One League to Rule Them All
 Team: Nazgûl Nation
-Opponent: Sauron’s Commisioner — lineup proxy 137.20 vs 102.96; margin +34.24
+Opponent: Sauron’s Commisioner — lineup proxy 141.35 vs 102.19; margin +39.16
 
 ### Lineup actions
-- LEAN CHANGE FLEX: D'Andre Swift (11.27) -> Dalton Schultz (12.25); delta 0.98; injury clear
-- CHANGE SUPER_FLEX: Kirk Cousins (14.27) -> Geno Smith (16.81); delta 2.54; injury clear
+- LEAN CHANGE FLEX: D'Andre Swift (11.78) -> Dalton Schultz (12.75); delta 0.97; injury clear
+- LEAN CHANGE SUPER_FLEX: Kirk Cousins (15.47) -> Geno Smith (17.31); delta 1.84; injury clear
 
 ### Your injury / practice watch
 No monitor-level starter flags.
 
 ### Opponent threats
-- Jayden Daniels (QB WAS) — 22.76 vs DAL
-- Aaron Rodgers (QB PIT) — 19.21 vs NE
-- Jeremiyah Love (RB ARI) — 12.53 vs SEA
+- Jayden Daniels (QB WAS) — 23.86 vs DAL
+- Aaron Rodgers (QB PIT) — 19.71 vs NE
+- Jeremiyah Love (RB ARI) — 13.01 vs SEA
 
 ### Opponent injury leverage
 No opponent starter injury/practice flags currently detected.
 
 ## 10-Team Dynasty — Dynasty V2
 Team: Route 66ers
-Opponent: cburt31 — lineup proxy 155.63 vs 124.88; margin +30.75
+Opponent: cburt31 — lineup proxy 148.81 vs 128.76; margin +20.05
 
 ### Lineup actions
-- LEAN CHANGE RB: D'Andre Swift (11.76) -> Chuba Hubbard (12.72); delta 0.96; injury clear
-- MUST CHANGE FLEX: Zay Flowers (15.18) -> Mike Evans (14.57); delta -0.61; injury OUT
+- LEAN CHANGE RB: D'Andre Swift (12.26) -> Chuba Hubbard (13.22); delta 0.96; injury clear
+- MUST CHANGE FLEX: Zay Flowers (1.98) -> Mike Evans (15.07); delta 13.09; injury OUT
 
 ### Your injury / practice watch
 No monitor-level starter flags.
 
 ### Opponent threats
-- Lamar Jackson (QB BAL) — 24.65 vs NO
-- Puka Nacua (WR LAR) — 21.34 vs NYG
-- Javonte Williams (RB DAL) — 17.66 vs WAS
+- Lamar Jackson (QB BAL) — 25.15 vs NO
+- Puka Nacua (WR LAR) — 21.84 vs NYG
+- Javonte Williams (RB DAL) — 19.48 vs WAS
 
 ### Opponent injury leverage
 - A.J. Brown — IR/PUP; current lineup score 0.16
@@ -80,18 +77,18 @@ No monitor-level starter flags.
 
 ## 12-Team 2-Keeper — League Is Rigged V2
 Team: Third Reich & Long
-Opponent: jblatz — lineup proxy 157.98 vs 151.52; margin +6.46
+Opponent: jblatz — lineup proxy 160.34 vs 156.47; margin +3.87
 
 ### Lineup actions
-- CHANGE FLEX: Josh Downs (11.7) -> Jeremiyah Love (15.34); delta 3.64; injury clear
+- CHANGE FLEX: Josh Downs (11.0) -> Jeremiyah Love (15.81); delta 4.81; injury clear
 
 ### Your injury / practice watch
 No monitor-level starter flags.
 
 ### Opponent threats
-- Josh Allen (QB BUF) — 30.75 vs DET
-- Puka Nacua (WR LAR) — 21.51 vs NYG
-- Foyesade Oluokun (LB JAX) — 16.00 vs DEN
+- Josh Allen (QB BUF) — 31.85 vs DET
+- Puka Nacua (WR LAR) — 22.01 vs NYG
+- Christian Watson (WR GB) — 16.22 vs NYJ
 
 ### Opponent injury leverage
 No opponent starter injury/practice flags currently detected.

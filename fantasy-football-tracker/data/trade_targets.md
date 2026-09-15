@@ -4,7 +4,7 @@ This board favors actionable value: roster need + seller surplus + market arbitr
 
 ## 10-Team Redraft — Big Tiger Takeover
 - Posture: **PLAYOFF / RECOVERY PUSH** — record 0-1
-- Push targets: Dak Prescott (QB, Hurts Locker); David Montgomery (RB, The Herban Legends); Brock Purdy (QB, Purdy Cooked); Javonte Williams (RB, Purdy Cooked); Michael Pittman (WR, Jesus is God Amen!)
+- Push targets: Dak Prescott (QB, Hurts Locker); David Montgomery (RB, The Herban Legends); Javonte Williams (RB, Purdy Cooked); Jaxson Dart (QB, Sutton My Face); Garrett Wilson (WR, Jesus is God Amen!)
 
 ## 12-Team Dynasty — One League to Rule Them All
 - Posture: **DUAL TRACK — evaluate push and rebuild** — record 0-1
@@ -13,9 +13,9 @@ This board favors actionable value: roster need + seller surplus + market arbitr
 
 ## 10-Team Dynasty — Dynasty V2
 - Posture: **DUAL TRACK — evaluate push and rebuild** — record 1-0
-- Push targets: David Montgomery (RB, TheANT2); Stefon Diggs (WR, ArogersAchilles); Davante Adams (WR, jblatz); Cam Skattebo (RB, zthompson1533); Travis Kelce (TE, ArogersAchilles)
+- Push targets: David Montgomery (RB, TheANT2); Stefon Diggs (WR, ArogersAchilles); Javonte Williams (RB, cburt31); Davante Adams (WR, jblatz); Trey McBride (TE, ArogersAchilles)
 - Rebuild targets: Fernando Mendoza (QB, age 22.0, TheANT2); Jaxson Dart (QB, age 23.0, Jesus is God Amen!); Jeremiyah Love (RB, age 21.0, ArogersAchilles); Jordyn Tyson (WR, age 22.0, TheANT2); Malik Nabers (WR, age 23.0, Jesus is God Amen!)
 
 ## 12-Team 2-Keeper — League Is Rigged V2
 - Posture: **PLAYOFF / RECOVERY PUSH** — record 0-1
-- Push targets: Justin Herbert (QB, Saxis); Dak Prescott (QB, liamblatz); David Montgomery (RB, Brock Bottom); Javonte Williams (RB, 2kyle); Jameson Williams (WR, 2kyle)
+- Push targets: Justin Herbert (QB, Saxis); Javonte Williams (RB, 2kyle); Dak Prescott (QB, liamblatz); David Montgomery (RB, Brock Bottom); Jameson Williams (WR, 2kyle)

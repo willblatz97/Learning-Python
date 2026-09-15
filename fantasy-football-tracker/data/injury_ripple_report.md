@@ -17,4 +17,4 @@ Soft Questionable/DNP/Limited signals are damped until official weekly injury re
 - Mark Andrews (BAL TE) +0.50 — WR1 OUT/IR: TE target share can rise
 - Parker Washington (JAX WR) +0.50 — WR1 QUESTIONABLE/DNP: target concentration rises for next WR
 - Quentin Johnston (LAC WR) +0.50 — WR1 QUESTIONABLE/DNP: target concentration rises for next WR
-- Jared Goff (DET QB) +0.45 — Top edge rusher OUT/IR: QB pressure environment improves
+- DJ Moore (BUF WR) +0.45 — Opponent CB1 QUESTIONABLE/DNP: projected WR1 coverage matchup improves (not confirmed shadow)

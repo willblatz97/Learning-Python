@@ -38,8 +38,8 @@ IDP values use this league's exact Sleeper scoring. Before 2026 games exist, 202
 - Nehemiah Pritchett (SEA) — 23.0 proxy pts/g; tackles 5.0 solo + 1.0 ast; sacks 0.0; PD 2.0
 - Keisean Nixon (GB) — 22.0 proxy pts/g; tackles 3.0 solo + 2.0 ast; sacks 0.5; PD 1.0
 - Josh Jobe (SEA) — 22.0 proxy pts/g; tackles 5.0 solo + 1.0 ast; sacks 0.0; PD 1.0
-- D.J. Reed (DET) — 20.0 proxy pts/g; tackles 7.0 solo + 3.0 ast; sacks 0.0; PD 1.0
 - Derwin James (LAC) — 20.0 proxy pts/g; tackles 7.0 solo + 3.0 ast; sacks 0.0; PD 1.0
 - James Pierre (MIN) — 20.0 proxy pts/g; tackles 4.0 solo + 0.0 ast; sacks 0.0; PD 2.0
 - Jaquan Brisker (PIT) — 19.0 proxy pts/g; tackles 4.0 solo + 2.0 ast; sacks 0.0; PD 1.0
 - Jonas Sanker (NO) — 19.0 proxy pts/g; tackles 7.0 solo + 3.0 ast; sacks 0.0; PD 0.0
+- Byron Murphy (MIN) — 18.0 proxy pts/g; tackles 7.0 solo + 1.0 ast; sacks 0.0; PD 1.0
