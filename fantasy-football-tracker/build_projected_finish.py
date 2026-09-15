@@ -19,24 +19,19 @@ def read_csv(name: str) -> list[dict]:
     p = OUT / name
     if not p.exists(): return []
     with p.open("r", newline="", encoding="utf-8") as f: return list(csv.DictReader(f))
-
 def num(v, d=0.0):
     try: return float(v)
     except (TypeError, ValueError): return d
-
 def integer(v, d=0):
     try: return int(float(v))
     except (TypeError, ValueError): return d
-
 def truth(v): return str(v).lower() in {"true","1","yes"}
-
 def kind(label: str) -> str:
     s=label.lower()
     if "chopped" in s:return "chopped"
     if "dynasty" in s:return "dynasty"
     if "keeper" in s:return "keeper"
     return "redraft"
-
 def eligible(slot: str, pos: str) -> bool:
     slot=str(slot or '').upper(); pos=str(pos or '').upper()
     if slot == pos:return True
@@ -45,14 +40,11 @@ def eligible(slot: str, pos: str) -> bool:
     if slot in {"FLEX","REC_FLEX","WRRB_FLEX"}:return pos in {"RB","WR","TE"}
     if slot == "SUPER_FLEX":return pos in {"QB","RB","WR","TE"}
     return False
-
 def parse_settings(r: dict) -> dict:
     try:return json.loads(r.get("settings") or "{}")
     except:return {}
-
 def record(r: dict) -> tuple[float,float,float]:
     s=parse_settings(r); w=num(s.get("wins")); l=num(s.get("losses")); t=num(s.get("ties")); return w,l,t
-
 def optimize_lineup(players: list[dict], slots: list[str]) -> tuple[float,list[dict],float]:
     # Fill constrained slots first, then flexes. Good enough for power ranking and deterministic.
     order=[]
@@ -69,26 +61,32 @@ def optimize_lineup(players: list[dict], slots: list[str]) -> tuple[float,list[d
     bench=sorted([num(p.get("lineup_score")) for p in remaining if str(p.get("position")) in {"QB","RB","WR","TE"}],reverse=True)
     depth=sum(bench[:4]) * 0.10
     return round(total+depth,2),chosen,round(depth,2)
-
 def pct_rank(values: list[float], x: float) -> float:
     if len(values)<=1:return 50.0
     less=sum(v<x for v in values); equal=sum(v==x for v in values)
     return round(100*(less+0.5*equal)/len(values),1)
-
 def logistic(z: float) -> float:
     z=max(-6,min(6,z)); return 1/(1+math.exp(-z))
+def early_season_confidence(week: int) -> float:
+    """Confidence that one current-week projection is representative of season-long roster power.
 
+    Current weekly projections remain the right input for start/sit decisions, but they should not
+    be treated as a perfectly stable season-strength estimate after only one or two games.  We
+    gradually release this shrinkage as 2026 role/usage information accumulates.  Week 4 remains
+    intentionally below full confidence so the larger post-Week-4 calibration audit can decide
+    whether the curve should change.
+    """
+    completed=max(0,week-1)
+    return round(min(1.0,0.30+0.15*completed),2)
 def replace_table(name: str, rows: list[dict]):
     con=sqlite3.connect(DB)
     try:
         con.execute(f'DROP TABLE IF EXISTS "{name}"')
         if rows:
             fs=list(rows[0]); defs=', '.join(f'"{c}" TEXT' for c in fs); cols=','.join(f'"{c}"' for c in fs); qs=','.join('?' for _ in fs)
-            con.execute(f'CREATE TABLE "{name}" ({defs})')
-            con.executemany(f'INSERT INTO "{name}" ({cols}) VALUES ({qs})',[[None if r.get(c) is None else str(r.get(c)) for c in fs] for r in rows])
+            con.execute(f'CREATE TABLE "{name}" ({defs})');con.executemany(f'INSERT INTO "{name}" ({cols}) VALUES ({qs})',[[None if r.get(c) is None else str(r.get(c)) for c in fs] for r in rows])
         con.commit()
     finally: con.close()
-
 def write_csv(name: str, rows: list[dict]):
     if not rows:return
     fs=[]; seen=set()
@@ -101,11 +99,12 @@ def write_csv(name: str, rows: list[dict]):
 def main():
     cfg=json.loads(CFG.read_text(encoding='utf-8')); labels=cfg.get('league_labels',{})
     summary=json.loads((DATA/'summary.json').read_text(encoding='utf-8')); week=integer((summary.get('nfl_state') or {}).get('week'),1)
+    power_conf=early_season_confidence(week)
     leagues={str(r['league_id']):r for r in read_csv('leagues.csv')}; rosters=read_csv('rosters.csv'); scores=read_csv('player_week_scores.csv'); matchups=read_csv('matchups.csv')
     by_roster=defaultdict(list)
     for p in scores:by_roster[(str(p.get('league_id')),str(p.get('roster_id')))].append(p)
-    result={'snapshot_utc':summary.get('snapshot_utc'),'week':week,'method':'league-relative roster power + current health + bench depth + actual fantasy H2H schedule Monte Carlo','simulations':5000,'leagues':{}}
-    rows=[]; md=[f'# Projected Finish — Week {week}','', 'Projected finish is probabilistic. Roster power uses the latest lineup scoring, current injury status and bench depth; schedule difficulty uses actual Sleeper H2H opponents when available.','']
+    result={'snapshot_utc':summary.get('snapshot_utc'),'week':week,'method':'league-relative current-week roster power, early-season confidence shrinkage, current health, bench depth, and actual fantasy H2H schedule Monte Carlo','simulations':5000,'season_power_confidence':power_conf,'leagues':{}}
+    rows=[]; md=[f'# Projected Finish — Week {week}','', 'Projected finish is probabilistic. Weekly start/sit projections remain fully matchup-specific; season-outlook simulations deliberately shrink current-week roster-power differences early in the season so one game or one matchup environment cannot create false certainty.','',f'Current season-power confidence: **{round(power_conf*100)}%** (full confidence is phased in as 2026 evidence accumulates; larger calibration audit planned after Week 4).','']
 
     for lid,l in leagues.items():
         label=labels.get(lid,l.get('name',lid)); k=kind(label)
@@ -121,7 +120,11 @@ def main():
             inj=sum(1 for p in chosen if str(p.get('injury_status') or '').lower() in {'out','doubtful','questionable'} or str(p.get('injury_note') or ''))
             strengths[rid]=power; details[rid]={'depth_bonus':depth,'injury_flags':inj,'team':r.get('team_name') or r.get('owner_display_name') or f'Roster {rid}','is_my_roster':truth(r.get('is_my_roster'))}
         vals=list(strengths.values()); mean=sum(vals)/len(vals); sd=(sum((x-mean)**2 for x in vals)/max(1,len(vals)))**0.5 or 1.0
-        z={rid:(v-mean)/sd for rid,v in strengths.items()}
+        raw_z={rid:(v-mean)/sd for rid,v in strengths.items()}
+        # Key distinction: a weekly matchup projection is evidence about season strength, not the
+        # season-strength truth.  Shrink toward league average early; weekly lineup calls themselves
+        # are NOT shrunk anywhere else in the pipeline.
+        z={rid:raw_z[rid]*power_conf for rid in raw_z}
 
         playoff_teams=integer(l.get('setting_playoff_teams'),max(4,len(lr)//2)); playoff_start=integer(l.get('setting_playoff_week_start'),15); reg_end=max(week,playoff_start-1)
         pairings=defaultdict(dict)
@@ -137,7 +140,6 @@ def main():
         future_counts=defaultdict(int); opp_power=defaultdict(list)
         for w,a,b in games:
             future_counts[a]+=1;future_counts[b]+=1;opp_power[a].append(strengths.get(b,mean));opp_power[b].append(strengths.get(a,mean))
-        # If Sleeper has not exposed future pairing IDs, fall back to league-average schedule strength.
         expected_remaining=max(0,reg_end-week+1)
         schedule_coverage={rid:min(1.0,future_counts[rid]/expected_remaining) if expected_remaining else 1.0 for rid in strengths}
         schedule_strength={rid:(sum(opp_power[rid])/len(opp_power[rid]) if opp_power[rid] else mean) for rid in strengths}
@@ -157,7 +159,6 @@ def main():
                     if rng.random()<p:sw[a]+=1
                     else:sw[b]+=1
             else:
-                # Low-confidence fallback: simulate remaining games against league-average opposition.
                 for rid in rids:
                     p=logistic(z[rid]*0.90)
                     for _g in range(expected_remaining):sw[rid]+=1 if rng.random()<p else 0
@@ -171,18 +172,18 @@ def main():
         league_rows=[]
         for r in lr:
             rid=str(r.get('roster_id')); ranks=finish[rid]; wins=wins_dist[rid]
-            row={'league_id':lid,'league':label,'roster_id':rid,'team':details[rid]['team'],'is_my_roster':details[rid]['is_my_roster'],'power_score':round(strengths[rid],2),'power_percentile':pct_rank(vals,strengths[rid]),'league_power_rank':1+sum(v>strengths[rid] for v in vals),'injury_flags':details[rid]['injury_flags'],'depth_bonus':details[rid]['depth_bonus'],'current_wins':base_w[rid],'current_losses':base_l[rid],'expected_wins':round(sum(wins)/len(wins),2),'projected_seed':round(sum(ranks)/len(ranks),1),'most_likely_seed':max(set(ranks),key=ranks.count),'finish_range_low':quant(ranks,.20),'finish_range_high':quant(ranks,.80),'playoff_odds':round(100*playoff_hits[rid]/5000,1),'schedule_strength':round(schedule_strength[rid],2),'schedule_difficulty_percentile':sos_pct[rid],'schedule_label':'HARD' if sos_pct[rid]>=67 else 'EASY' if sos_pct[rid]<=33 else 'AVERAGE','schedule_coverage_pct':round(schedule_coverage[rid]*100,1)}
+            row={'league_id':lid,'league':label,'roster_id':rid,'team':details[rid]['team'],'is_my_roster':details[rid]['is_my_roster'],'power_score':round(strengths[rid],2),'power_percentile':pct_rank(vals,strengths[rid]),'league_power_rank':1+sum(v>strengths[rid] for v in vals),'season_power_confidence':power_conf,'raw_power_z':round(raw_z[rid],3),'effective_power_z':round(z[rid],3),'injury_flags':details[rid]['injury_flags'],'depth_bonus':details[rid]['depth_bonus'],'current_wins':base_w[rid],'current_losses':base_l[rid],'expected_wins':round(sum(wins)/len(wins),2),'projected_seed':round(sum(ranks)/len(ranks),1),'most_likely_seed':max(set(ranks),key=ranks.count),'finish_range_low':quant(ranks,.20),'finish_range_high':quant(ranks,.80),'playoff_odds':round(100*playoff_hits[rid]/5000,1),'schedule_strength':round(schedule_strength[rid],2),'schedule_difficulty_percentile':sos_pct[rid],'schedule_label':'HARD' if sos_pct[rid]>=67 else 'EASY' if sos_pct[rid]<=33 else 'AVERAGE','schedule_coverage_pct':round(schedule_coverage[rid]*100,1)}
             rows.append(row);league_rows.append(row)
         mine=next((x for x in league_rows if x['is_my_roster']),None)
-        result['leagues'][lid]={'league':label,'status':'ACTIVE','playoff_teams':playoff_teams,'regular_season_end_week':reg_end,'schedule_games_loaded':len(games),'schedule_source':'actual Sleeper H2H' if games else 'league-average fallback','my_outlook':mine,'power_table':sorted(league_rows,key=lambda x:x['league_power_rank'])}
+        result['leagues'][lid]={'league':label,'status':'ACTIVE','playoff_teams':playoff_teams,'regular_season_end_week':reg_end,'season_power_confidence':power_conf,'schedule_games_loaded':len(games),'schedule_source':'actual Sleeper H2H' if games else 'league-average fallback','my_outlook':mine,'power_table':sorted(league_rows,key=lambda x:x['league_power_rank'])}
         md.append(f'## {label}')
         if mine:
             md.append(f"- {mine['team']}: projected seed **#{mine['most_likely_seed']}** (average {mine['projected_seed']}); expected wins **{mine['expected_wins']}**; playoff odds **{mine['playoff_odds']}%**")
-            md.append(f"- Likely finish range: #{mine['finish_range_low']}–#{mine['finish_range_high']} · roster power rank #{mine['league_power_rank']}/{len(lr)} · schedule {mine['schedule_label']} ({mine['schedule_difficulty_percentile']}th percentile difficulty)")
-            md.append(f"- Current injury flags in optimized lineup: {mine['injury_flags']} · future H2H schedule coverage {mine['schedule_coverage_pct']}%")
+            md.append(f"- Likely finish range: #{mine['finish_range_low']}–#{mine['finish_range_high']} · current-week roster power rank #{mine['league_power_rank']}/{len(lr)} · schedule {mine['schedule_label']} ({mine['schedule_difficulty_percentile']}th percentile difficulty)")
+            md.append(f"- Season-power confidence: {round(power_conf*100)}% · current injury flags in optimized lineup: {mine['injury_flags']} · future H2H schedule coverage {mine['schedule_coverage_pct']}%")
         md.append('')
     write_csv('projected_finish.csv',rows);replace_table('projected_finish',rows)
     (DATA/'projected_finish.json').write_text(json.dumps(result,indent=2,sort_keys=True),encoding='utf-8');(DATA/'projected_finish.md').write_text('\n'.join(md),encoding='utf-8')
-    print(json.dumps({'leagues':len(result['leagues']),'rows':len(rows),'simulations':5000},indent=2))
+    print(json.dumps({'leagues':len(result['leagues']),'rows':len(rows),'simulations':5000,'season_power_confidence':power_conf},indent=2))
 
 if __name__=='__main__':main()
