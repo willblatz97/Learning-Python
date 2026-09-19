@@ -1,5 +1,5 @@
 {
-  "all_ownership_rows": 1278,
+  "all_ownership_rows": 1281,
   "configured_leagues": 5,
   "league_names": {
     "1359546418284494848": "League Is Rigged V2",
@@ -19,7 +19,7 @@
   },
   "my_rosters_found": 5,
   "nfl_state": {
-    "display_week": 1,
+    "display_week": 2,
     "league_create_season": "2026",
     "league_season": "2026",
     "leg": 2,
@@ -30,9 +30,9 @@
     "season_type": "regular",
     "week": 2
   },
-  "owned_player_rows": 111,
+  "owned_player_rows": 113,
   "sleeper_user_id": "779583277362245632",
   "sleeper_username": "blatzzy",
-  "snapshot_utc": "2026-09-15T23:59:18+00:00",
-  "transactions_rows": 147
+  "snapshot_utc": "2026-09-19T16:10:29+00:00",
+  "transactions_rows": 215
 }

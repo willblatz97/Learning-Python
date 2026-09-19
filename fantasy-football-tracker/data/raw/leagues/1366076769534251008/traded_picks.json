@@ -1,1 +1,9 @@
-[]
+[
+  {
+    "owner_id": 1,
+    "previous_owner_id": 4,
+    "roster_id": 4,
+    "round": 3,
+    "season": "2027"
+  }
+]

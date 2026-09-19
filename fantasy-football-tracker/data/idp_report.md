@@ -4,17 +4,17 @@ IDP values use this league's exact Sleeper scoring. Before 2026 games exist, 202
 
 ## DL
 - T.J. Watt (PIT) — 35.0 proxy pts/g; tackles 4.0 solo + 0.0 ast; sacks 2.0; PD 1.0
-- Greg Rousseau (BUF) — 30.0 proxy pts/g; tackles 4.0 solo + 0.0 ast; sacks 2.0; PD 1.0
-- Derrick Barnes (DET) — 26.0 proxy pts/g; tackles 3.0 solo + 3.0 ast; sacks 1.0; PD 2.0
+- Greg Rousseau (BUF) — 25.5 proxy pts/g; tackles 3.5 solo + 0.0 ast; sacks 2.0; PD 0.5
 - Donovan Ezeiruaku (DAL) — 22.0 proxy pts/g; tackles 4.0 solo + 6.0 ast; sacks 0.5; PD 0.0
-- Aidan Hutchinson (DET) — 21.0 proxy pts/g; tackles 4.0 solo + 1.0 ast; sacks 2.0; PD 0.0
+- Derrick Barnes (DET) — 21.5 proxy pts/g; tackles 4.0 solo + 2.5 ast; sacks 1.0; PD 1.0
 - Josh Hines-Allen (JAX) — 20.0 proxy pts/g; tackles 2.0 solo + 3.0 ast; sacks 1.5; PD 0.0
 - Zach Allen (DEN) — 19.0 proxy pts/g; tackles 3.0 solo + 2.0 ast; sacks 2.0; PD 0.0
 - Kwity Paye (LV) — 19.0 proxy pts/g; tackles 2.0 solo + 3.0 ast; sacks 2.0; PD 0.0
 - Andrew Van Ginkel (MIN) — 18.0 proxy pts/g; tackles 2.0 solo + 1.0 ast; sacks 1.5; PD 0.0
+- Aidan Hutchinson (DET) — 17.5 proxy pts/g; tackles 3.0 solo + 1.0 ast; sacks 1.5; PD 0.0
 - Za'Darius Smith (ATL) — 16.0 proxy pts/g; tackles 2.0 solo + 0.0 ast; sacks 2.0; PD 0.0
 - Dallas Turner (MIN) — 16.0 proxy pts/g; tackles 2.0 solo + 0.0 ast; sacks 1.0; PD 0.0
-- Deone Walker (BUF) — 16.0 proxy pts/g; tackles 3.0 solo + 3.0 ast; sacks 1.0; PD 0.0
+- Alex Highsmith (PIT) — 15.0 proxy pts/g; tackles 2.0 solo + 1.0 ast; sacks 2.0; PD 0.0
 
 ## LB
 - Josiah Trotter (TB) — 37.0 proxy pts/g; tackles 4.0 solo + 7.0 ast; sacks 1.0; PD 1.0

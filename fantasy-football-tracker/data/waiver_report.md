@@ -6,12 +6,12 @@ Consensus-enhanced board. FAAB is a range, not a precise bid.
 FAAB remaining: 100 / 100
 
 ### Adds
-1. Dalton Schultz (TE HOU) — MEDIUM 66.6 — ECR 138.33 — FAAB 7-12 — consensus ECR 138.33 | rostered in most comparable leagues | depth-chart starter | thin TE depth on your roster | 2026 usage STABLE — snaps L3 66.0%, opps 8.0/g
-2. Brenton Strange (TE JAX) — MEDIUM 63.6 — ECR 139.67 — FAAB 3-7 — consensus ECR 139.67 | rostered in most comparable leagues | depth-chart starter | thin TE depth on your roster | 2026 usage STABLE — snaps L3 68.0%, opps 3.0/g
-3. T.J. Hockenson (TE MIN) — SPECULATIVE 55.1 — ECR 152.33 — FAAB 3-7 — consensus ECR 152.33 | rostered in most comparable leagues | depth-chart starter | thin TE depth on your roster | 2026 usage STABLE — snaps L3 66.0%, opps 5.0/g
-4. Malik Washington (WR MIA) — SPECULATIVE 53.4 — ECR 235.0 — FAAB 1-3 — consensus ECR 235 | rostered in most comparable leagues | depth-chart starter | 1 recent cross-league add(s) | 2026 usage STABLE — snaps L3 98.0%, opps 8.0/g
-5. AJ Barner (TE SEA) — SPECULATIVE 53.1 — ECR 155.0 — FAAB 1-3 — consensus ECR 155 | rostered in most comparable leagues | depth-chart starter | thin TE depth on your roster | 2026 usage STABLE — snaps L3 88.0%, opps 2.0/g
-6. Cade Otton (TE TB) — SPECULATIVE 53.1 — ECR 176.33 — FAAB 1-3 — consensus ECR 176.33 | rostered in most comparable leagues | depth-chart starter | 1 recent cross-league add(s) | thin TE depth on your roster | 2026 usage STABLE — snaps L3 98.0%, opps 5.0/g
+1. Dalton Schultz (TE HOU) — MEDIUM 66.6 — ECR 136.83 — FAAB 7-12 — consensus ECR 136.83 | rostered in most comparable leagues | depth-chart starter | thin TE depth on your roster | 2026 usage STABLE — snaps L3 66.0%, opps 8.0/g
+2. MarShawn Lloyd (RB GB) — MEDIUM 66.1 — ECR 136.17 — FAAB 7-12 — consensus ECR 136.17 | rostered in most comparable leagues | depth-chart starter | 3 recent cross-league add(s) | 2026 usage STABLE — snaps L3 44.0%, opps 14.0/g
+3. Brenton Strange (TE JAX) — MEDIUM 63.6 — ECR 135.83 — FAAB 3-7 — consensus ECR 135.83 | rostered in most comparable leagues | depth-chart starter | thin TE depth on your roster | 2026 usage STABLE — snaps L3 68.0%, opps 3.0/g
+4. Kyle Pitts (TE ATL) — MEDIUM 62.8 — ECR 108.67 — FAAB 3-7 — consensus ECR 108.67 | rostered in most comparable leagues | depth-chart starter | thin TE depth on your roster
+5. T.J. Hockenson (TE MIN) — SPECULATIVE 61.1 — ECR 149.0 — FAAB 3-7 — consensus ECR 149 | rostered in most comparable leagues | depth-chart starter | thin TE depth on your roster | 2026 usage STABLE — snaps L3 66.0%, opps 5.0/g
+6. Kenyon Sadiq (TE NYJ) — SPECULATIVE 58.0 — ECR 155.33 — FAAB 3-7 — consensus ECR 155.33 | rostered in most comparable leagues | depth-chart starter | 1 recent cross-league add(s) | thin TE depth on your roster
 
 ### Recommended cuts
 No recommended cuts from the current roster-value model.
@@ -20,12 +20,12 @@ No recommended cuts from the current roster-value model.
 FAAB remaining: 1000 / 1000
 
 ### Adds
-1. CeeDee Lamb (WR DAL) — MUST ADD 92.6 — ECR 10.0 — FAAB 280-450 — consensus ECR 10 | rostered in most comparable leagues | depth-chart starter | thin WR depth on your roster | 2026 usage STABLE — snaps L3 81.0%, opps 8.0/g
-2. Tetairoa McMillan (WR CAR) — MUST ADD 88.0 — ECR 43.0 — FAAB 280-450 — consensus ECR 43 | rostered in most comparable leagues | depth-chart starter | 1 recent cross-league add(s) | thin WR depth on your roster | 2026 usage STABLE — snaps L3 82.0%, opps 8.0/g
-3. Kenneth Walker (RB KC) — MUST ADD 87.9 — ECR 11.0 — FAAB 280-450 — consensus ECR 11 | rostered in most comparable leagues | depth-chart starter | 1 recent cross-league add(s) | 2026 usage STABLE — snaps L3 68.0%, opps 29.0/g
-4. DK Metcalf (WR PIT) — HIGH 81.6 — ECR 72.67 — FAAB 170-300 — consensus ECR 72.67 | rostered in most comparable leagues | depth-chart starter | thin WR depth on your roster | 2026 usage STABLE — snaps L3 96.0%, opps 10.0/g
-5. George Kittle (TE SF) — MEDIUM 71.1 — ECR 109.0 — FAAB 100-180 — consensus ECR 109 | rostered in most comparable leagues | depth-chart starter | thin TE depth on your roster | 2026 usage STABLE — snaps L3 46.0%, opps 5.0/g
-6. Jakobi Meyers (WR JAX) — MEDIUM 66.7 — ECR 88.33 — FAAB 100-180 — consensus ECR 88.33 | rostered in most comparable leagues | thin WR depth on your roster | 2026 usage STABLE — snaps L3 65.0%, opps 2.0/g
+1. DeMario Douglas (WR NE) — SPECULATIVE 53.6 — ECR 247.83 — FAAB 20-50 — return-scoring league candidate injected before final ranking | 2026 usage STABLE — snaps L3 62.0%, opps 7.0/g | return role PR +0.04 pts/g | offense+return dual role
+2. Greg Dulcich (TE MIA) — WATCH 49.3 — ECR 149.83 — FAAB 20-50 — consensus ECR 149.83 | depth-chart starter | 1 recent cross-league add(s) | thin TE depth on your roster | 2026 usage STABLE — snaps L3 77.0%, opps 2.0/g
+3. Jahan Dotson (WR ATL) — WATCH 47.6 — ECR 273.17 — FAAB 20-50 — return-scoring league candidate injected before final ranking | 2026 usage STABLE — snaps L3 63.0%, opps 3.0/g | return role PR +0.04 pts/g | offense+return dual role
+4. Seth McGowan (RB IND) — WATCH 46.8 — ECR 278.0 — FAAB 20-50 — return-scoring league candidate injected before final ranking | 2026 usage STABLE — snaps L3 11.0%, opps 1.0/g | return role KR +0.17 pts/g | offense+return dual role
+5. Justice Hill (RB BAL) — WATCH 46.4 — ECR 269.0 — FAAB 20-50 — return-scoring league candidate injected before final ranking | return role KR +0.22 pts/g | offense+return dual role
+6. Xavier Legette (WR CAR) — WATCH 45.3 — ECR 268.67 — FAAB 20-50 — return-scoring league candidate injected before final ranking | return role KR+PR +0.21 pts/g | offense+return dual role
 
 ### Recommended cuts
 No recommended cuts from the current roster-value model.
@@ -42,9 +42,10 @@ No recommended cuts from the current roster-value model.
 FAAB remaining: 100 / 100
 
 ### Adds
-1. Greg Dulcich (TE MIA) — WATCH 36.0 — ECR 226.29 — FAAB 0-1 — consensus ECR 226.29 | depth-chart starter | 1 recent cross-league add(s) | 2026 usage STABLE — snaps L3 77.0%, opps 2.0/g
-2. Mike Gesicki (TE CIN) — WATCH 34.9 — ECR 271.5 — FAAB 0-1 — consensus ECR 271.5 | depth-chart starter | 1 recent cross-league add(s) | 2026 usage STABLE — snaps L3 33.0%, opps 7.0/g
-3. Emari Demercado (RB DAL) — WATCH 22.1 — ECR 340.67 — FAAB 0-1 — consensus ECR 340.67 | primary backup | 2 recent cross-league add(s) | 2026 usage STABLE — snaps L3 9.0%, opps 2.0/g
+1. Mike Gesicki (TE CIN) — SPECULATIVE 52.6 — ECR 243.33 — FAAB 1-3 — consensus ECR 243.33 | rostered in most comparable leagues | depth-chart starter | 3 recent cross-league add(s) | 2026 usage STABLE — snaps L3 33.0%, opps 7.0/g
+2. Drew Lock (QB SEA) — WATCH 33.6 — ECR 284.0 — FAAB 0-1 — consensus ECR 284 | depth-chart starter | 1 recent cross-league add(s) | 2026 usage STABLE — snaps L3 90.0%, opps 0.0/g
+3. Xavier Hutchinson (WR HOU) — WATCH 31.6 — ECR 298.0 — FAAB 0-1 — consensus ECR 298 | depth-chart starter | 3 recent cross-league add(s) | 2026 usage STABLE — snaps L3 56.0%, opps 6.0/g
+4. Carson Wentz (QB MIN) — WATCH 24.6 — ECR n/a — FAAB 0-1 — depth-chart starter | 1 recent cross-league add(s) | 2026 usage STABLE — snaps L3 83.0%, opps 0.0/g
 
 ### Recommended cuts
 No recommended cuts from the current roster-value model.
