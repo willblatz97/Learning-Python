@@ -10,11 +10,11 @@ Game times are interpreted from the nflverse schedule as Eastern Time, converted
 - PIT @ NE — LOW — no material weather signal — pass +0.00, kick +0.00
 - GB @ NYJ — LOW — no material weather signal — pass +0.00, kick +0.00
 - CLE @ TB — LOW — no material weather signal — pass +0.00, kick +0.00
-- PHI @ TEN — LOW — 98F heat — pass -0.10, kick +0.00
+- PHI @ TEN — LOW — 96F heat — pass -0.10, kick +0.00
 - JAX @ DEN — LOW — no material weather signal — pass +0.00, kick +0.00
 - LV @ LAC — INDOOR — indoor — pass +0.00, kick +0.00
-- SEA @ ARI — LOW — 99F heat — pass -0.10, kick +0.00
-- WAS @ DAL — LOW — no material weather signal — pass +0.00, kick +0.00
+- SEA @ ARI — LOW — 100F heat — pass -0.10, kick +0.00
+- WAS @ DAL — LOW — 98F heat — pass -0.10, kick +0.00
 - MIA @ SF — LOW — no material weather signal — pass +0.00, kick +0.00
 - IND @ KC — LOW — no material weather signal — pass +0.00, kick +0.00
 - NYG @ LAR — INDOOR — indoor — pass +0.00, kick +0.00

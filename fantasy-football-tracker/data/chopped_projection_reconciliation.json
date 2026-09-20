@@ -15,11 +15,11 @@
           "return_roles": ""
         },
         {
-          "nonreturn_projection": 29.33,
+          "nonreturn_projection": 29.31,
           "player": "Jonathan Taylor",
           "player_id": "6813",
           "position": "RB",
-          "return_adjusted_projection": 29.33,
+          "return_adjusted_projection": 29.31,
           "return_confidence": "",
           "return_points_applied": 0.0,
           "return_roles": ""
@@ -45,11 +45,11 @@
           "return_roles": "KR+PR"
         },
         {
-          "nonreturn_projection": 14.41,
+          "nonreturn_projection": 16.84,
           "player": "DK Metcalf",
           "player_id": "5846",
           "position": "WR",
-          "return_adjusted_projection": 14.41,
+          "return_adjusted_projection": 16.84,
           "return_confidence": "",
           "return_points_applied": 0.0,
           "return_roles": ""
@@ -75,11 +75,11 @@
           "return_roles": ""
         },
         {
-          "nonreturn_projection": 15.72,
+          "nonreturn_projection": 16.04,
           "player": "Malik Nabers",
           "player_id": "11632",
           "position": "WR",
-          "return_adjusted_projection": 15.72,
+          "return_adjusted_projection": 16.04,
           "return_confidence": "",
           "return_points_applied": 0.0,
           "return_roles": ""
@@ -96,15 +96,15 @@
         }
       ],
       "nonreturn_chop_line": 0.0,
-      "nonreturn_margin": 134.54,
-      "nonreturn_projection": 134.54,
+      "nonreturn_margin": 137.27,
+      "nonreturn_projection": 137.27,
       "nonreturn_rank": 9,
       "note": "Nonreturn projection uses the same league-scored weekly player projections and all non-return context, but removes the tracker return-role projection. Treat it as a conservative return-independent anchor, not a statistical floor. Return-adjusted projection adds the confidence-weighted return model.",
       "projected_return_points_added": 11.1,
       "return_adjusted_chop_line": 0.0,
-      "return_adjusted_margin": 145.64,
-      "return_adjusted_projection": 145.64,
-      "return_adjusted_rank": 6,
+      "return_adjusted_margin": 148.37,
+      "return_adjusted_projection": 148.37,
+      "return_adjusted_rank": 4,
       "team": "Third Reich & Long"
     }
   },

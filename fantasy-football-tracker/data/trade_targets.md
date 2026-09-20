@@ -18,4 +18,4 @@ This board favors actionable value: roster need + seller surplus + market arbitr
 
 ## 12-Team 2-Keeper — League Is Rigged V2
 - Posture: **PLAYOFF / RECOVERY PUSH** — record 0-1
-- Push targets: Joe Burrow (QB, Saxis); Justin Herbert (QB, Saxis); Javonte Williams (RB, 2kyle); David Montgomery (RB, Brock Bottom); Jameson Williams (WR, 2kyle)
+- Push targets: Joe Burrow (QB, Saxis); Jayden Daniels (QB, Stutterboyzzzz); Javonte Williams (RB, 2kyle); David Montgomery (RB, Brock Bottom); Jameson Williams (WR, 2kyle)

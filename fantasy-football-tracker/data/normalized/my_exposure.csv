@@ -6,9 +6,9 @@ player_id,full_name,position,nfl_team,injury_status,practice_participation,depth
 12512,Quinshon Judkins,RB,CLE,,,RB,1,START,OWNED,OWNED,OWNED,START,2,40.0,2,40.0,0,0,0,10-Team Redraft — Big Tiger Takeover | 12-Team 2-Keeper — League Is Rigged V2,10-Team Redraft — Big Tiger Takeover | 12-Team 2-Keeper — League Is Rigged V2,,
 9484,Tucker Kraft,TE,GB,,,TE,1,OWNED,START,OWNED,OWNED,START,2,40.0,2,40.0,0,0,0,18-Team Chopped — Surviving the Chamber | 12-Team 2-Keeper — League Is Rigged V2,18-Team Chopped — Surviving the Chamber | 12-Team 2-Keeper — League Is Rigged V2,,
 7564,Ja'Marr Chase,WR,CIN,,,LWR,1,START,OWNED,OWNED,OWNED,START,2,40.0,2,40.0,0,0,0,10-Team Redraft — Big Tiger Takeover | 12-Team 2-Keeper — League Is Rigged V2,10-Team Redraft — Big Tiger Takeover | 12-Team 2-Keeper — League Is Rigged V2,,
+12519,Luther Burden,WR,CHI,,,RWR,2,OWNED,OWNED,START,START,OWNED,2,40.0,2,40.0,0,0,0,12-Team Dynasty — One League to Rule Them All | 10-Team Dynasty — Dynasty V2,12-Team Dynasty — One League to Rule Them All | 10-Team Dynasty — Dynasty V2,,
 12526,Tetairoa McMillan,WR,CAR,,,LWR,1,START,OWNED,OWNED,START,OWNED,2,40.0,2,40.0,0,0,0,10-Team Redraft — Big Tiger Takeover | 10-Team Dynasty — Dynasty V2,10-Team Redraft — Big Tiger Takeover | 10-Team Dynasty — Dynasty V2,,
 12472,Raheim Sanders,RB,CLE,,,RB,2,FA,START,BENCH,OWNED,FA,2,40.0,1,20.0,0,0,0,18-Team Chopped — Surviving the Chamber | 12-Team Dynasty — One League to Rule Them All,18-Team Chopped — Surviving the Chamber,,10-Team Redraft — Big Tiger Takeover | 12-Team 2-Keeper — League Is Rigged V2
-12519,Luther Burden,WR,CHI,,,RWR,2,OWNED,OWNED,START,BENCH,OWNED,2,40.0,1,20.0,0,0,0,12-Team Dynasty — One League to Rule Them All | 10-Team Dynasty — Dynasty V2,12-Team Dynasty — One League to Rule Them All,,
 10219,Chris Rodriguez,RB,JAX,,,RB,2,FA,OWNED,OPP,BENCH,BENCH,2,40.0,0,0.0,0,0,1,10-Team Dynasty — Dynasty V2 | 12-Team 2-Keeper — League Is Rigged V2,,12-Team Dynasty — One League to Rule Them All,10-Team Redraft — Big Tiger Takeover
 11583,Jonathon Brooks,RB,CAR,,,RB,2,OWNED,OWNED,OWNED,BENCH,BENCH,2,40.0,0,0.0,0,0,0,10-Team Dynasty — Dynasty V2 | 12-Team 2-Keeper — League Is Rigged V2,,,
 12544,LeQuint Allen,RB,JAX,,,RB,3,FA,FA,TAXI,BENCH,FA,2,40.0,0,0.0,0,1,0,12-Team Dynasty — One League to Rule Them All | 10-Team Dynasty — Dynasty V2,,,10-Team Redraft — Big Tiger Takeover | 18-Team Chopped — Surviving the Chamber | 12-Team 2-Keeper — League Is Rigged V2
@@ -45,7 +45,6 @@ PHI,Philadelphia Eagles,DEF,PHI,,,,,START,FA,FA,FA,FA,1,20.0,1,20.0,0,0,0,10-Tea
 11632,Malik Nabers,WR,NYG,,,LWR,1,OWNED,START,OWNED,OWNED,OWNED,1,20.0,1,20.0,0,0,0,18-Team Chopped — Surviving the Chamber,18-Team Chopped — Surviving the Chamber,,
 13075,Myles Price,WR,MIN,,,SWR,4,FA,START,FA,FA,FA,1,20.0,1,20.0,0,0,0,18-Team Chopped — Surviving the Chamber,18-Team Chopped — Surviving the Chamber,,10-Team Redraft — Big Tiger Takeover | 12-Team Dynasty — One League to Rule Them All | 10-Team Dynasty — Dynasty V2 | 12-Team 2-Keeper — League Is Rigged V2
 9487,Parker Washington,WR,JAX,,,SWR,1,OPP,OWNED,START,OWNED,OWNED,1,20.0,1,20.0,0,0,1,12-Team Dynasty — One League to Rule Them All,12-Team Dynasty — One League to Rule Them All,10-Team Redraft — Big Tiger Takeover,
-9997,Zay Flowers,WR,BAL,Doubtful,,SWR,2,OWNED,OWNED,OWNED,START,OWNED,1,20.0,1,20.0,0,0,0,10-Team Dynasty — Dynasty V2,10-Team Dynasty — Dynasty V2,,
 13272,Carson Beck,QB,ARI,,,QB,3,FA,FA,OWNED,TAXI,FA,1,20.0,0,0.0,0,1,0,10-Team Dynasty — Dynasty V2,,,10-Team Redraft — Big Tiger Takeover | 18-Team Chopped — Surviving the Chamber | 12-Team 2-Keeper — League Is Rigged V2
 4017,Deshaun Watson,QB,CLE,,,QB,1,FA,FA,OWNED,BENCH,FA,1,20.0,0,0.0,0,0,0,10-Team Dynasty — Dynasty V2,,,10-Team Redraft — Big Tiger Takeover | 18-Team Chopped — Surviving the Chamber | 12-Team 2-Keeper — League Is Rigged V2
 1373,Geno Smith,QB,NYJ,,,QB,1,FA,OWNED,BENCH,OWNED,FA,1,20.0,0,0.0,0,0,0,12-Team Dynasty — One League to Rule Them All,,,10-Team Redraft — Big Tiger Takeover | 12-Team 2-Keeper — League Is Rigged V2
@@ -64,8 +63,8 @@ PHI,Philadelphia Eagles,DEF,PHI,,,,,START,FA,FA,FA,FA,1,20.0,1,20.0,0,0,0,10-Tea
 9757,Kendre Miller,RB,NO,,,RB,3,FA,OWNED,BENCH,FA,FA,1,20.0,0,0.0,0,0,0,12-Team Dynasty — One League to Rule Them All,,,10-Team Redraft — Big Tiger Takeover | 10-Team Dynasty — Dynasty V2 | 12-Team 2-Keeper — League Is Rigged V2
 8800,Malik Davis,RB,DAL,IR,,RB,5,FA,IR,OWNED,OWNED,FA,1,20.0,0,0.0,1,0,0,18-Team Chopped — Surviving the Chamber,,,10-Team Redraft — Big Tiger Takeover | 12-Team 2-Keeper — League Is Rigged V2
 11581,MarShawn Lloyd,RB,GB,,,RB,1,FA,OWNED,OWNED,BENCH,OWNED,1,20.0,0,0.0,0,0,0,10-Team Dynasty — Dynasty V2,,,10-Team Redraft — Big Tiger Takeover
+13288,Nicholas Singleton,RB,TEN,,,RB,4,FA,OWNED,OWNED,BENCH,FA,1,20.0,0,0.0,0,0,0,10-Team Dynasty — Dynasty V2,,,10-Team Redraft — Big Tiger Takeover | 12-Team 2-Keeper — League Is Rigged V2
 4147,Samaje Perine,RB,CIN,,,RB,2,FA,BENCH,FA,FA,FA,1,20.0,0,0.0,0,0,0,18-Team Chopped — Surviving the Chamber,,,10-Team Redraft — Big Tiger Takeover | 12-Team Dynasty — One League to Rule Them All | 10-Team Dynasty — Dynasty V2 | 12-Team 2-Keeper — League Is Rigged V2
-13424,Seth McGowan,RB,IND,,,RB,2,FA,FA,OWNED,BENCH,FA,1,20.0,0,0.0,0,0,0,10-Team Dynasty — Dynasty V2,,,10-Team Redraft — Big Tiger Takeover | 18-Team Chopped — Surviving the Chamber | 12-Team 2-Keeper — League Is Rigged V2
 9225,Tank Bigsby,RB,PHI,,,RB,2,FA,BENCH,OWNED,OWNED,FA,1,20.0,0,0.0,0,0,0,18-Team Chopped — Surviving the Chamber,,,10-Team Redraft — Big Tiger Takeover | 12-Team 2-Keeper — League Is Rigged V2
 7543,Travis Etienne,RB,NO,,,RB,1,BENCH,OWNED,OWNED,OWNED,OWNED,1,20.0,0,0.0,0,0,0,10-Team Redraft — Big Tiger Takeover,,,
 12529,TreVeyon Henderson,RB,NE,,,RB,2,OWNED,BENCH,OWNED,OWNED,OWNED,1,20.0,0,0.0,0,0,0,18-Team Chopped — Surviving the Chamber,,,
@@ -89,9 +88,10 @@ PHI,Philadelphia Eagles,DEF,PHI,,,,,START,FA,FA,FA,FA,1,20.0,1,20.0,0,0,0,10-Tea
 13298,KC Concepcion,WR,CLE,,,SWR,1,BENCH,OWNED,OWNED,OWNED,OWNED,1,20.0,0,0.0,0,0,0,10-Team Redraft — Big Tiger Takeover,,,
 11610,Malik Washington,WR,MIA,,,SWR,1,FA,OWNED,OWNED,BENCH,FA,1,20.0,0,0.0,0,0,0,10-Team Dynasty — Dynasty V2,,,10-Team Redraft — Big Tiger Takeover | 12-Team 2-Keeper — League Is Rigged V2
 11628,Marvin Harrison,WR,ARI,,,LWR,1,OWNED,BENCH,OWNED,OWNED,OWNED,1,20.0,0,0.0,0,0,0,18-Team Chopped — Surviving the Chamber,,,
-13276,Omar Cooper,WR,NYJ,Out,,SWR,9,FA,OWNED,TAXI,OWNED,FA,1,20.0,0,0.0,0,1,0,12-Team Dynasty — One League to Rule Them All,,,10-Team Redraft — Big Tiger Takeover | 12-Team 2-Keeper — League Is Rigged V2
+13276,Omar Cooper,WR,NYJ,IR,,SWR,9,FA,FA,TAXI,OWNED,FA,1,20.0,0,0.0,0,1,0,12-Team Dynasty — One League to Rule Them All,,,10-Team Redraft — Big Tiger Takeover | 18-Team Chopped — Surviving the Chamber | 12-Team 2-Keeper — League Is Rigged V2
 12492,Pat Bryant,WR,DEN,,,SWR,3,FA,OWNED,OWNED,BENCH,FA,1,20.0,0,0.0,0,0,0,10-Team Dynasty — Dynasty V2,,,10-Team Redraft — Big Tiger Takeover | 12-Team 2-Keeper — League Is Rigged V2
 9754,Quentin Johnston,WR,LAC,,,LWR,2,OWNED,OWNED,OWNED,OWNED,BENCH,1,20.0,0,0.0,0,0,0,12-Team 2-Keeper — League Is Rigged V2,,,
 7571,Rashod Bateman,WR,BAL,,,LWR,1,FA,OWNED,OWNED,BENCH,FA,1,20.0,0,0.0,0,0,0,10-Team Dynasty — Dynasty V2,,,10-Team Redraft — Big Tiger Takeover | 12-Team 2-Keeper — League Is Rigged V2
 9502,Tank Dell,WR,HOU,IR,,SWR,6,FA,FA,IR,OWNED,OWNED,1,20.0,0,0.0,1,0,0,12-Team Dynasty — One League to Rule Them All,,,10-Team Redraft — Big Tiger Takeover | 18-Team Chopped — Surviving the Chamber
 12497,Tory Horton,WR,SEA,,,SWR,4,FA,FA,TAXI,OWNED,FA,1,20.0,0,0.0,0,1,0,12-Team Dynasty — One League to Rule Them All,,,10-Team Redraft — Big Tiger Takeover | 18-Team Chopped — Surviving the Chamber | 12-Team 2-Keeper — League Is Rigged V2
+9997,Zay Flowers,WR,BAL,Out,,SWR,6,OWNED,OWNED,OWNED,BENCH,OWNED,1,20.0,0,0.0,0,0,0,10-Team Dynasty — Dynasty V2,,,

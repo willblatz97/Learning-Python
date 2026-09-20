@@ -3,10 +3,10 @@
     "1359546418284494848": {
       "league": "12-Team 2-Keeper \u2014 League Is Rigged V2",
       "monitors": [],
-      "my_lineup_score": 154.8,
-      "opponent_or_chop_line": 180.5,
+      "my_lineup_score": 152.43,
+      "opponent_or_chop_line": 180.4,
       "opponent_or_chop_rank": "jblatz",
-      "projected_margin": -25.7,
+      "projected_margin": -27.97,
       "recommended_changes": [],
       "team": "Third Reich & Long",
       "type": "keeper"
@@ -14,10 +14,10 @@
     "1366076769534251008": {
       "league": "10-Team Dynasty \u2014 Dynasty V2",
       "monitors": [],
-      "my_lineup_score": 143.54,
-      "opponent_or_chop_line": 163.17,
+      "my_lineup_score": 154.79,
+      "opponent_or_chop_line": 162.72,
       "opponent_or_chop_rank": "cburt31",
-      "projected_margin": -19.63,
+      "projected_margin": -7.93,
       "recommended_changes": [
         {
           "action": "CHANGE",
@@ -26,10 +26,10 @@
           "best_bench_pos": "RB",
           "best_bench_return_points": 0.0,
           "best_bench_return_roles": null,
-          "best_bench_score": "18.5",
+          "best_bench_score": "18.49",
           "league": "10-Team Dynasty \u2014 Dynasty V2",
           "league_id": "1366076769534251008",
-          "score_delta": 4.9,
+          "score_delta": 4.89,
           "score_source": "Sleeper raw-stat projection \u00d7 league scoring + current usage",
           "slot": "RB",
           "starter": "Chuba Hubbard",
@@ -48,10 +48,10 @@
           "best_bench_pos": "RB",
           "best_bench_return_points": 0.0,
           "best_bench_return_roles": null,
-          "best_bench_score": "18.5",
+          "best_bench_score": "18.49",
           "league": "10-Team Dynasty \u2014 Dynasty V2",
           "league_id": "1366076769534251008",
-          "score_delta": 4.75,
+          "score_delta": 4.72,
           "score_source": "Sleeper raw-stat projection \u00d7 league scoring + current usage",
           "slot": "RB",
           "starter": "D'Andre Swift",
@@ -61,7 +61,7 @@
           "starter_pos": "RB",
           "starter_return_points": 0.0,
           "starter_return_roles": null,
-          "starter_score": "13.75"
+          "starter_score": "13.77"
         },
         {
           "action": "LEAN CHANGE",
@@ -70,10 +70,10 @@
           "best_bench_pos": "RB",
           "best_bench_return_points": 0.0,
           "best_bench_return_roles": null,
-          "best_bench_score": "18.5",
+          "best_bench_score": "18.49",
           "league": "10-Team Dynasty \u2014 Dynasty V2",
           "league_id": "1366076769534251008",
-          "score_delta": 1.85,
+          "score_delta": 1.84,
           "score_source": "Sleeper raw-stat projection \u00d7 league scoring + current usage",
           "slot": "FLEX",
           "starter": "Garrett Wilson",
@@ -92,20 +92,20 @@
           "best_bench_pos": "RB",
           "best_bench_return_points": 0.0,
           "best_bench_return_roles": null,
-          "best_bench_score": "18.5",
+          "best_bench_score": "18.49",
           "league": "10-Team Dynasty \u2014 Dynasty V2",
           "league_id": "1366076769534251008",
-          "score_delta": 18.5,
-          "score_source": "weekly projected points + current usage + OL health",
+          "score_delta": 6.98,
+          "score_source": "Sleeper raw-stat projection \u00d7 league scoring + current usage",
           "slot": "FLEX",
-          "starter": "Zay Flowers",
-          "starter_id": "9997",
-          "starter_injury": "DOUBTFUL",
-          "starter_nfl_opponent": "NO",
+          "starter": "Luther Burden",
+          "starter_id": "12519",
+          "starter_injury": "",
+          "starter_nfl_opponent": "MIN",
           "starter_pos": "WR",
           "starter_return_points": 0.0,
           "starter_return_roles": null,
-          "starter_score": "0.0"
+          "starter_score": "11.51"
         }
       ],
       "team": "Route 66ers",
@@ -137,10 +137,10 @@
           "starter_score": "20.99"
         }
       ],
-      "my_lineup_score": 145.76,
-      "opponent_or_chop_line": 99.85,
+      "my_lineup_score": 145.78,
+      "opponent_or_chop_line": 99.92,
       "opponent_or_chop_rank": "Sauron\u2019s Commisioner",
-      "projected_margin": 45.91,
+      "projected_margin": 45.86,
       "recommended_changes": [
         {
           "action": "CHANGE",
@@ -194,14 +194,14 @@
           "starter_score": "22.79"
         }
       ],
-      "my_lineup_score": 145.64,
+      "my_lineup_score": 148.37,
       "nonreturn_chop_line": 0.0,
-      "nonreturn_margin": 134.54,
-      "nonreturn_projection": 134.54,
+      "nonreturn_margin": 137.27,
+      "nonreturn_projection": 137.27,
       "nonreturn_rank": 9,
       "opponent_or_chop_line": 0.0,
-      "opponent_or_chop_rank": "Projected rank 6/18",
-      "projected_margin": 145.64,
+      "opponent_or_chop_rank": "Projected rank 4/18",
+      "projected_margin": 148.37,
       "projected_return_points_added": 11.1,
       "projection_reconciliation_note": "Nonreturn projection uses the same league-scored weekly player projections and all non-return context, but removes the tracker return-role projection. Treat it as a conservative return-independent anchor, not a statistical floor. Return-adjusted projection adds the confidence-weighted return model.",
       "recommended_changes": [
@@ -229,19 +229,19 @@
         }
       ],
       "return_adjusted_chop_line": 0.0,
-      "return_adjusted_margin": 145.64,
-      "return_adjusted_projection": 145.64,
-      "return_adjusted_rank": 6,
+      "return_adjusted_margin": 148.37,
+      "return_adjusted_projection": 148.37,
+      "return_adjusted_rank": 4,
       "team": "Third Reich & Long",
       "type": "chopped"
     },
     "1389740418316374016": {
       "league": "10-Team Redraft \u2014 Big Tiger Takeover",
       "monitors": [],
-      "my_lineup_score": 152.39,
-      "opponent_or_chop_line": 126.34,
+      "my_lineup_score": 152.26,
+      "opponent_or_chop_line": 126.35,
       "opponent_or_chop_rank": "My Step-Burrow Is Brown",
-      "projected_margin": 26.05,
+      "projected_margin": 25.91,
       "recommended_changes": [
         {
           "action": "CHANGE",
@@ -250,10 +250,10 @@
           "best_bench_pos": "RB",
           "best_bench_return_points": 0.0,
           "best_bench_return_roles": null,
-          "best_bench_score": "14.34",
+          "best_bench_score": "14.23",
           "league": "10-Team Redraft \u2014 Big Tiger Takeover",
           "league_id": "1389740418316374016",
-          "score_delta": 3.58,
+          "score_delta": 3.47,
           "score_source": "Sleeper raw-stat projection \u00d7 league scoring + current usage",
           "slot": "FLEX",
           "starter": "Deebo Samuel",
@@ -272,7 +272,7 @@
   },
   "return_scoring_integrated": true,
   "season": 2026,
-  "snapshot_utc": "2026-09-19T16:10:29+00:00",
+  "snapshot_utc": "2026-09-20T13:25:00+00:00",
   "week": 2,
   "weekly_consensus_current": true
 }

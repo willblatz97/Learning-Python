@@ -23,9 +23,9 @@ FAAB remaining: 1000 / 1000
 1. DeMario Douglas (WR NE) — SPECULATIVE 53.6 — ECR 247.83 — FAAB 20-50 — return-scoring league candidate injected before final ranking | 2026 usage STABLE — snaps L3 62.0%, opps 7.0/g | return role PR +0.04 pts/g | offense+return dual role
 2. Greg Dulcich (TE MIA) — WATCH 49.3 — ECR 149.83 — FAAB 20-50 — consensus ECR 149.83 | depth-chart starter | 1 recent cross-league add(s) | thin TE depth on your roster | 2026 usage STABLE — snaps L3 77.0%, opps 2.0/g
 3. Jahan Dotson (WR ATL) — WATCH 47.6 — ECR 273.17 — FAAB 20-50 — return-scoring league candidate injected before final ranking | 2026 usage STABLE — snaps L3 63.0%, opps 3.0/g | return role PR +0.04 pts/g | offense+return dual role
-4. Seth McGowan (RB IND) — WATCH 46.8 — ECR 278.0 — FAAB 20-50 — return-scoring league candidate injected before final ranking | 2026 usage STABLE — snaps L3 11.0%, opps 1.0/g | return role KR +0.17 pts/g | offense+return dual role
-5. Justice Hill (RB BAL) — WATCH 46.4 — ECR 269.0 — FAAB 20-50 — return-scoring league candidate injected before final ranking | return role KR +0.22 pts/g | offense+return dual role
-6. Xavier Legette (WR CAR) — WATCH 45.3 — ECR 268.67 — FAAB 20-50 — return-scoring league candidate injected before final ranking | return role KR+PR +0.21 pts/g | offense+return dual role
+4. Justice Hill (RB BAL) — WATCH 46.4 — ECR 269.0 — FAAB 20-50 — return-scoring league candidate injected before final ranking | return role KR +0.22 pts/g | offense+return dual role
+5. Xavier Legette (WR CAR) — WATCH 45.3 — ECR 268.67 — FAAB 20-50 — return-scoring league candidate injected before final ranking | return role KR+PR +0.21 pts/g | offense+return dual role
+6. Jacob Saylors (RB DET) — WATCH 40.1 — ECR 315.67 — FAAB 0-20 — return-scoring league candidate injected before final ranking | 2026 usage STABLE — snaps L3 0.0%, opps 0.0/g | return role KR +2.28 pts/g | offense+return dual role
 
 ### Recommended cuts
 No recommended cuts from the current roster-value model.
@@ -43,8 +43,8 @@ FAAB remaining: 100 / 100
 
 ### Adds
 1. Mike Gesicki (TE CIN) — SPECULATIVE 52.6 — ECR 243.33 — FAAB 1-3 — consensus ECR 243.33 | rostered in most comparable leagues | depth-chart starter | 3 recent cross-league add(s) | 2026 usage STABLE — snaps L3 33.0%, opps 7.0/g
-2. Drew Lock (QB SEA) — WATCH 33.6 — ECR 284.0 — FAAB 0-1 — consensus ECR 284 | depth-chart starter | 1 recent cross-league add(s) | 2026 usage STABLE — snaps L3 90.0%, opps 0.0/g
-3. Xavier Hutchinson (WR HOU) — WATCH 31.6 — ECR 298.0 — FAAB 0-1 — consensus ECR 298 | depth-chart starter | 3 recent cross-league add(s) | 2026 usage STABLE — snaps L3 56.0%, opps 6.0/g
+2. Xavier Hutchinson (WR HOU) — WATCH 40.6 — ECR 298.0 — FAAB 0-1 — consensus ECR 298 | rostered in most comparable leagues | depth-chart starter | 5 recent cross-league add(s) | 2026 usage STABLE — snaps L3 56.0%, opps 6.0/g
+3. Drew Lock (QB SEA) — WATCH 33.6 — ECR 284.0 — FAAB 0-1 — consensus ECR 284 | depth-chart starter | 1 recent cross-league add(s) | 2026 usage STABLE — snaps L3 90.0%, opps 0.0/g
 4. Carson Wentz (QB MIN) — WATCH 24.6 — ECR n/a — FAAB 0-1 — depth-chart starter | 1 recent cross-league add(s) | 2026 usage STABLE — snaps L3 83.0%, opps 0.0/g
 
 ### Recommended cuts

@@ -22,7 +22,6 @@ Current KR/PR role + 2025 return baseline. Dual-role status uses Sleeper offensi
 - Brian Robinson (RB ATL) — KR; offensive depth RB 2; proj return yds 22.2/g; HIGH confidence
 - Parker Washington (WR JAX) — PR; offensive depth SWR 1; proj return yds 21.3/g; HIGH confidence; yours: 12-Team Dynasty — One League to Rule Them All
 - KC Concepcion (WR CLE) — PR; offensive depth SWR 1; proj return yds 7.0/g; MEDIUM confidence; yours: 10-Team Redraft — Big Tiger Takeover
-- Josh Downs (WR IND) — PR; offensive depth SWR 2; proj return yds 4.2/g; HIGH confidence; yours: 12-Team 2-Keeper — League Is Rigged V2 | 12-Team Dynasty — One League to Rule Them All
 
 ## Chopped / return-yard league value
 ### 18-Team Chopped — Surviving the Chamber
@@ -33,6 +32,7 @@ Current KR/PR role + 2025 return baseline. Dual-role status uses Sleeper offensi
 - Devin Duvernay — +7.65 return pts/g (KR+PR, HIGH) — FA
 - Marvin Mims Jr. — +7.4 return pts/g (KR+PR, HIGH) — OWNED
 - Malik Washington — +7.21 return pts/g (KR+PR + OFF, HIGH) — OWNED
+- Anthony Gould — +7.07 return pts/g (KR+PR, HIGH) — FA
 - Jaylin Noel — +6.67 return pts/g (KR+PR + OFF, HIGH) — OWNED
 - Nikko Remigio — +6.65 return pts/g (KR+PR, HIGH) — FA
 - Kene Nwangwu — +6.04 return pts/g (KR, HIGH) — FA
@@ -45,4 +45,3 @@ Current KR/PR role + 2025 return baseline. Dual-role status uses Sleeper offensi
 - Isaiah Williams — +4.59 return pts/g (KR+PR + OFF, HIGH) — BENCH
 - Deonte Banks — +4.44 return pts/g (KR, HIGH) — FA
 - Rashid Shaheed — +4.36 return pts/g (KR+PR + OFF, HIGH) — OWNED
-- Ameer Abdullah — +4.33 return pts/g (KR, HIGH) — FA

@@ -31,6 +31,15 @@
     },
     {
       "free_agent_leagues": 1,
+      "full_name": "Bryce Young",
+      "my_leagues": 0,
+      "nfl_team": "CAR",
+      "player_id": "9228",
+      "position": "QB",
+      "rostered_leagues": 4
+    },
+    {
+      "free_agent_leagues": 1,
       "full_name": "Chris Bell",
       "my_leagues": 0,
       "nfl_team": "MIA",
@@ -292,15 +301,6 @@
     },
     {
       "free_agent_leagues": 2,
-      "full_name": "Bryce Young",
-      "my_leagues": 0,
-      "nfl_team": "CAR",
-      "player_id": "9228",
-      "position": "QB",
-      "rostered_leagues": 3
-    },
-    {
-      "free_agent_leagues": 2,
       "full_name": "C.J. Stroud",
       "my_leagues": 0,
       "nfl_team": "HOU",
@@ -470,15 +470,15 @@
   },
   "players_faced_in_multiple_leagues": 5,
   "players_owned_in_multiple_leagues": 16,
-  "players_started_in_multiple_leagues": 8,
-  "snapshot_utc": "2026-09-19T16:10:29+00:00",
+  "players_started_in_multiple_leagues": 9,
+  "snapshot_utc": "2026-09-20T13:25:00+00:00",
   "top_nfl_team_exposure": [
     {
       "nfl_team": "CHI",
       "players_owned": "Cairo Santos | Cole Kmet | D'Andre Swift | Dillon Thieneman | Luther Burden",
       "players_started": "Cairo Santos | D'Andre Swift | Dillon Thieneman | Luther Burden",
       "roster_slots_across_leagues": 7,
-      "starting_slots_across_leagues": 5,
+      "starting_slots_across_leagues": 6,
       "unique_players_owned": 5
     },
     {
@@ -636,6 +636,15 @@
     },
     {
       "exposure_pct": 40.0,
+      "full_name": "Luther Burden",
+      "leagues_owned": 2,
+      "leagues_started": 2,
+      "nfl_team": "CHI",
+      "player_id": "12519",
+      "position": "WR"
+    },
+    {
+      "exposure_pct": 40.0,
       "full_name": "Tetairoa McMillan",
       "leagues_owned": 2,
       "leagues_started": 2,
@@ -651,15 +660,6 @@
       "nfl_team": "CLE",
       "player_id": "12472",
       "position": "RB"
-    },
-    {
-      "exposure_pct": 40.0,
-      "full_name": "Luther Burden",
-      "leagues_owned": 2,
-      "leagues_started": 1,
-      "nfl_team": "CHI",
-      "player_id": "12519",
-      "position": "WR"
     },
     {
       "exposure_pct": 40.0,

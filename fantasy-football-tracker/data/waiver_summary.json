@@ -207,6 +207,17 @@
           "waiver_score": "52.6"
         },
         {
+          "consensus_ecr": "298.0",
+          "faab_high": "1",
+          "faab_low": "0",
+          "nfl_team": "HOU",
+          "player": "Xavier Hutchinson",
+          "position": "WR",
+          "priority": "WATCH",
+          "reasons": "consensus ECR 298 | rostered in most comparable leagues | depth-chart starter | 5 recent cross-league add(s) | 2026 usage STABLE \u2014 snaps L3 56.0%, opps 6.0/g",
+          "waiver_score": "40.6"
+        },
+        {
           "consensus_ecr": "284.0",
           "faab_high": "1",
           "faab_low": "0",
@@ -216,17 +227,6 @@
           "priority": "WATCH",
           "reasons": "consensus ECR 284 | depth-chart starter | 1 recent cross-league add(s) | 2026 usage STABLE \u2014 snaps L3 90.0%, opps 0.0/g",
           "waiver_score": "33.6"
-        },
-        {
-          "consensus_ecr": "298.0",
-          "faab_high": "1",
-          "faab_low": "0",
-          "nfl_team": "HOU",
-          "player": "Xavier Hutchinson",
-          "position": "WR",
-          "priority": "WATCH",
-          "reasons": "consensus ECR 298 | depth-chart starter | 3 recent cross-league add(s) | 2026 usage STABLE \u2014 snaps L3 56.0%, opps 6.0/g",
-          "waiver_score": "31.6"
         },
         {
           "consensus_ecr": "",
@@ -382,17 +382,6 @@
           "waiver_score": "47.6"
         },
         {
-          "consensus_ecr": "278.0",
-          "faab_high": "50",
-          "faab_low": "20",
-          "nfl_team": "IND",
-          "player": "Seth McGowan",
-          "position": "RB",
-          "priority": "WATCH",
-          "reasons": "return-scoring league candidate injected before final ranking | 2026 usage STABLE \u2014 snaps L3 11.0%, opps 1.0/g | return role KR +0.17 pts/g | offense+return dual role",
-          "waiver_score": "46.8"
-        },
-        {
           "consensus_ecr": "269.0",
           "faab_high": "50",
           "faab_low": "20",
@@ -424,6 +413,17 @@
           "priority": "WATCH",
           "reasons": "return-scoring league candidate injected before final ranking | 2026 usage STABLE \u2014 snaps L3 0.0%, opps 0.0/g | return role KR +2.28 pts/g | offense+return dual role",
           "waiver_score": "40.1"
+        },
+        {
+          "consensus_ecr": "",
+          "faab_high": "20",
+          "faab_low": "0",
+          "nfl_team": "PIT",
+          "player": "Roman Wilson",
+          "position": "WR",
+          "priority": "WATCH",
+          "reasons": "return-scoring league candidate injected before final ranking | 2026 usage STABLE \u2014 snaps L3 55.0%, opps 6.0/g | return role KR+PR +0.04 pts/g | offense+return dual role",
+          "waiver_score": "38.6"
         },
         {
           "consensus_ecr": "251.0",
@@ -589,6 +589,6 @@
   ],
   "ranking_source": "DynastyProcess ffverse FantasyPros consensus mirror",
   "skipped_predraft_leagues": [],
-  "snapshot_utc": "2026-09-19T16:10:29+00:00",
+  "snapshot_utc": "2026-09-20T13:25:00+00:00",
   "week": 2
 }

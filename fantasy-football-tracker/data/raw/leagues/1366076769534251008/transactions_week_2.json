@@ -118,6 +118,39 @@
   },
   {
     "adds": {
+      "13288": 1,
+      "13424": 6
+    },
+    "consenter_ids": [
+      1,
+      6
+    ],
+    "created": 1789687836918,
+    "creator": "779583277362245632",
+    "draft_picks": [],
+    "drops": {
+      "13288": 6,
+      "13424": 1
+    },
+    "leg": 2,
+    "metadata": {
+      "notes": "Your trade was processed successfully!",
+      "poll_id": "1406464617768640512",
+      "veto_msg_id": "1406464617839972352"
+    },
+    "roster_ids": [
+      1,
+      6
+    ],
+    "settings": null,
+    "status": "complete",
+    "status_updated": 1789885171789,
+    "transaction_id": "1406456362921185280",
+    "type": "trade",
+    "waiver_budget": []
+  },
+  {
+    "adds": {
       "6130": 4
     },
     "consenter_ids": [
