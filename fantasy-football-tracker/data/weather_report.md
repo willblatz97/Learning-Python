@@ -2,19 +2,19 @@
 
 Game times are interpreted from the nflverse schedule as Eastern Time, converted to UTC, then matched to the nearest Open-Meteo forecast hour. Retractable-roof weather impact is halved until roof state is known.
 
-- DET @ BUF — LOW — no material weather signal — pass +0.00, kick +0.00
-- CAR @ ATL — LOW — no material weather signal — pass +0.00, kick +0.00
-- NO @ BAL — LOW — no material weather signal — pass +0.00, kick +0.00
-- MIN @ CHI — LOW — no material weather signal — pass +0.00, kick +0.00
-- CIN @ HOU — LOW — no material weather signal — pass +0.00, kick +0.00
-- PIT @ NE — LOW — no material weather signal — pass +0.00, kick +0.00
-- GB @ NYJ — LOW — no material weather signal — pass +0.00, kick +0.00
-- CLE @ TB — LOW — no material weather signal — pass +0.00, kick +0.00
-- PHI @ TEN — LOW — 96F heat — pass -0.10, kick +0.00
-- JAX @ DEN — LOW — no material weather signal — pass +0.00, kick +0.00
-- LV @ LAC — INDOOR — indoor — pass +0.00, kick +0.00
-- SEA @ ARI — LOW — 100F heat — pass -0.10, kick +0.00
-- WAS @ DAL — LOW — 98F heat — pass -0.10, kick +0.00
-- MIA @ SF — LOW — no material weather signal — pass +0.00, kick +0.00
-- IND @ KC — LOW — no material weather signal — pass +0.00, kick +0.00
-- NYG @ LAR — INDOOR — indoor — pass +0.00, kick +0.00
+- ATL @ GB — LOW — no material weather signal — pass +0.00, kick +0.00
+- LAC @ BUF — LOW — no material weather signal — pass +0.00, kick +0.00
+- CAR @ CLE — LOW — no material weather signal — pass +0.00, kick +0.00
+- NYJ @ DET — INDOOR — indoor — pass +0.00, kick +0.00
+- HOU @ IND — LOW — no material weather signal — pass +0.00, kick +0.00
+- NE @ JAX — LOW — no material weather signal — pass +0.00, kick +0.00
+- KC @ MIA — LOW — no material weather signal — pass +0.00, kick +0.00
+- TEN @ NYG — LOW — no material weather signal — pass +0.00, kick +0.00
+- CIN @ PIT — LOW — no material weather signal — pass +0.00, kick +0.00
+- SEA @ WAS — LOW — no material weather signal — pass +0.00, kick +0.00
+- ARI @ SF — LOW — no material weather signal — pass +0.00, kick +0.00
+- MIN @ TB — LOW — no material weather signal — pass +0.00, kick +0.00
+- BAL @ DAL — LOW — 96F heat — pass -0.10, kick +0.00
+- LV @ NO — INDOOR — indoor — pass +0.00, kick +0.00
+- LAR @ DEN — LOW — no material weather signal — pass +0.00, kick +0.00
+- PHI @ CHI — LOW — no material weather signal — pass +0.00, kick +0.00

@@ -3,18 +3,18 @@
 Soft Questionable/DNP/Limited signals are damped until official weekly injury reports exist. Defensive CB1-to-WR1 is matchup leverage, not a confirmed shadow assignment.
 
 ## Biggest current positive ripples
+- Rashod Bateman (BAL WR) +1.28 — WR1 OUT/IR: target concentration rises for next WR | Opponent CB1 QUESTIONABLE/DNP: secondary WR matchup improves
 - Carson Wentz (MIN QB) +1.20 — QB1 OUT/IR: QB2 becomes relevant
 - Drew Lock (SEA QB) +1.20 — QB1 OUT/IR: QB2 becomes relevant
+- Jameis Winston (NYG QB) +1.20 — QB1 OUT/IR: QB2 becomes relevant
+- Marcus Mariota (WAS QB) +1.20 — QB1 OUT/IR: QB2 becomes relevant
 - Tua Tagovailoa (ATL QB) +1.20 — QB1 OUT/IR: QB2 becomes relevant
+- Tyson Bagent (CHI QB) +1.20 — QB1 OUT/IR: QB2 becomes relevant
+- Davante Adams (LAR WR) +1.10 — WR1 OUT/IR: target concentration rises for next WR
+- Josh Downs (IND WR) +1.10 — WR1 OUT/IR: target concentration rises for next WR
 - Khalil Shakir (BUF WR) +1.10 — WR1 OUT/IR: target concentration rises for next WR
-- Rashod Bateman (BAL WR) +1.10 — WR1 OUT/IR: target concentration rises for next WR
 - Xavier Hutchinson (HOU WR) +1.10 — WR1 OUT/IR: target concentration rises for next WR
-- DK Metcalf (PIT WR) +1.00 — Opponent CB1 OUT/IR: projected WR1 coverage matchup improves (not confirmed shadow)
-- Romeo Doubs (NE WR) +1.00 — Opponent CB1 OUT/IR: projected WR1 coverage matchup improves (not confirmed shadow)
-- John Bates (WAS TE) +0.85 — TE1 OUT/IR: TE2 route/target opportunity rises
-- Davante Adams (LAR WR) +0.68 — WR1 QUESTIONABLE/DNP: target concentration rises for next WR | Opponent CB1 QUESTIONABLE/DNP: secondary WR matchup improves
-- Michael Mayer (LV TE) +0.68 — TE1 DOUBTFUL: TE2 route/target opportunity rises
-- Terry McLaurin (WAS WR) +0.65 — Starting safety OUT/IR: downfield coverage improves | TE1 OUT/IR: WR1 target share can rise
-- Tre Tucker (LV WR) +0.60 — Starting safety OUT/IR: downfield coverage improves | TE1 DOUBTFUL: WR1 target share can rise
-- Devontez Walker (BAL WR) +0.55 — WR1 OUT/IR: WR3 role/targets can expand
-- Kayshon Boutte (HOU WR) +0.55 — WR1 OUT/IR: WR3 role/targets can expand
+- Carnell Tate (TEN WR) +1.00 — Opponent CB1 OUT/IR: projected WR1 coverage matchup improves (not confirmed shadow)
+- Dalton Kincaid (BUF TE) +1.00 — WR1 OUT/IR: TE target share can rise | Starting safety OUT/IR: TE middle/deep matchup improves
+- Ja'Marr Chase (CIN WR) +1.00 — Opponent CB1 OUT/IR: projected WR1 coverage matchup improves (not confirmed shadow)
+- Mark Andrews (BAL TE) +1.00 — WR1 OUT/IR: TE target share can rise | Starting safety OUT/IR: TE middle/deep matchup improves

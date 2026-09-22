@@ -1,12 +1,12 @@
 league_id,roster_id,is_my_roster,player_id,player,position,nfl_team,keeper_eligible,keeper_round,keeper_cost_source,redraft_ecr,market_round,round_surplus,keeper_value_score,valuation_role
 1359546418284494848,1,True,11564,Drake Maye,QB,NE,True,14,known override,45.67,4,10,27.3,secondary tiebreaker only
 1359546418284494848,9,False,8142,Alec Pierce,WR,IND,True,17,draft round,79.17,7,10,25.2,secondary tiebreaker only
+1359546418284494848,9,False,8183,Brock Purdy,QB,SF,True,15,draft round,82.33,7,8,23.1,secondary tiebreaker only
 1359546418284494848,6,False,6819,Michael Pittman,WR,PIT,True,14,draft round,79.33,7,7,22.2,secondary tiebreaker only
 1359546418284494848,2,False,8137,George Pickens,WR,DAL,True,5,draft round,17.5,2,3,21.9,secondary tiebreaker only
 1359546418284494848,11,False,2449,Stefon Diggs,WR,WAS,True,12,draft round,70.83,6,6,21.8,secondary tiebreaker only
 1359546418284494848,6,False,8138,James Cook,RB,BUF,True,3,draft round,4.67,1,2,21.7,secondary tiebreaker only
 1359546418284494848,10,False,5947,Jakobi Meyers,WR,JAX,True,15,draft round,91.33,8,7,21.5,secondary tiebreaker only
-1359546418284494848,9,False,12508,Jaxson Dart,QB,NYG,True,15,draft round,93.33,8,7,21.4,secondary tiebreaker only
 1359546418284494848,8,False,7523,Trevor Lawrence,QB,JAX,True,11,draft round,61.17,6,5,21.3,secondary tiebreaker only
 1359546418284494848,4,False,4037,Chris Godwin,WR,TB,True,11,draft round,63.33,6,5,21.2,secondary tiebreaker only
 1359546418284494848,5,False,8144,Chris Olave,WR,NO,True,4,draft round,17.17,2,2,21.0,secondary tiebreaker only
@@ -161,7 +161,7 @@ league_id,roster_id,is_my_roster,player_id,player,position,nfl_team,keeper_eligi
 1359546418284494848,2,False,11533,Brandon Aubrey,K,DAL,False,,not keeper eligible,187.0,,,0.0,redraft-only; keeper ignored
 1359546418284494848,2,False,5041,Fred Warner,LB,SF,False,,not keeper eligible,7.5,,,0.0,redraft-only; keeper ignored
 1359546418284494848,2,False,5840,Josh Hines-Allen,DE,JAX,False,,not keeper eligible,86.0,,,0.0,redraft-only; keeper ignored
-1359546418284494848,2,False,7016,Jeremy Chinn,DB,LV,False,,not keeper eligible,49.5,,,0.0,redraft-only; keeper ignored
+1359546418284494848,2,False,5876,Julian Love,DB,SEA,False,,not keeper eligible,76.33,,,0.0,redraft-only; keeper ignored
 1359546418284494848,3,False,4081,Budda Baker,DB,ARI,False,,not keeper eligible,46.25,,,0.0,redraft-only; keeper ignored
 1359546418284494848,3,False,5862,Brian Burns,DE,NYG,False,,not keeper eligible,58.67,,,0.0,redraft-only; keeper ignored
 1359546418284494848,3,False,6949,Jordyn Brooks,LB,MIA,False,,not keeper eligible,3.25,,,0.0,redraft-only; keeper ignored

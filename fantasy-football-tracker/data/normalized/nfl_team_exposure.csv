@@ -1,12 +1,13 @@
 nfl_team,roster_slots_across_leagues,starting_slots_across_leagues,unique_players_owned,players_owned,players_started
-CHI,7,6,5,Cairo Santos | Cole Kmet | D'Andre Swift | Dillon Thieneman | Luther Burden,Cairo Santos | D'Andre Swift | Dillon Thieneman | Luther Burden
+CHI,7,5,5,Cairo Santos | Cole Kmet | D'Andre Swift | Dillon Thieneman | Luther Burden,Cairo Santos | D'Andre Swift | Dillon Thieneman | Luther Burden
 CIN,7,5,5,Chase Brown | Ja'Marr Chase | Jack Endries | Joe Burrow | Samaje Perine,Chase Brown | Ja'Marr Chase | Joe Burrow
-CLE,7,4,5,Deshaun Watson | Jared Verse | KC Concepcion | Quinshon Judkins | Raheim Sanders,Jared Verse | Quinshon Judkins | Raheim Sanders
 DAL,6,4,4,Brandon Aubrey | Dak Prescott | Jake Ferguson | Malik Davis,Brandon Aubrey | Dak Prescott | Jake Ferguson
 CAR,8,3,5,Chris Brazzell | Chuba Hubbard | Darren Waller | Jonathon Brooks | Tetairoa McMillan,Chuba Hubbard | Tetairoa McMillan
+CLE,7,3,5,Deshaun Watson | Jared Verse | KC Concepcion | Quinshon Judkins | Raheim Sanders,Jared Verse | Quinshon Judkins
 GB,5,2,4,Jayden Reed | Luke Musgrave | MarShawn Lloyd | Tucker Kraft,Tucker Kraft
 LAC,4,2,4,Cameron Dicker | Justin Herbert | Omarion Hampton | Quentin Johnston,Cameron Dicker | Omarion Hampton
 DET,3,2,3,Amon-Ra St. Brown | Isiah Pacheco | Jack Campbell,Amon-Ra St. Brown | Jack Campbell
+NE,3,2,3,Drake Maye | Eli Raridon | TreVeyon Henderson,Drake Maye | TreVeyon Henderson
 PIT,3,2,3,DK Metcalf | Jaylen Warren | Pat Freiermuth,DK Metcalf | Jaylen Warren
 WAS,3,2,2,Jacory Croskey-Merritt | Jayden Daniels,Jayden Daniels
 LV,2,2,2,Ashton Jeanty | Kirk Cousins,Ashton Jeanty | Kirk Cousins
@@ -18,7 +19,7 @@ NYJ,4,1,4,Garrett Wilson | Geno Smith | Isaiah Williams | Omar Cooper,Garrett Wi
 ARI,3,1,3,Carson Beck | Jeremiyah Love | Marvin Harrison,Jeremiyah Love
 HOU,3,1,3,Dalton Schultz | Tank Dell | Woody Marks,Dalton Schultz
 KC,3,1,3,Emmett Johnson | John Michael Gyllenborg | Kenneth Walker,Kenneth Walker
-NE,3,1,3,Drake Maye | Eli Raridon | TreVeyon Henderson,Drake Maye
+MIA,3,1,3,De'Von Achane | Kyle McCord | Malik Washington,De'Von Achane
 PHI,3,1,3,Eli Stowers | Philadelphia Eagles | Tank Bigsby,Philadelphia Eagles
 SF,3,1,3,Christian Kirk | Deebo Samuel | Mac Jones,Deebo Samuel
 ATL,2,1,2,Drake London | Tua Tagovailoa,Drake London
@@ -26,6 +27,5 @@ NYG,2,1,2,Jameis Winston | Malik Nabers,Malik Nabers
 NO,5,0,4,Alvin Kamara | Devaughn Vele | Kendre Miller | Travis Etienne,
 SEA,4,0,4,AJ Barner | Emanuel Wilson | Tory Horton | Zach Charbonnet,
 BAL,3,0,3,Justice Hill | Rashod Bateman | Zay Flowers,
-MIA,3,0,3,De'Von Achane | Kyle McCord | Malik Washington,
 DEN,2,0,2,Courtland Sutton | Pat Bryant,
 TEN,2,0,2,Carnell Tate | Nicholas Singleton,

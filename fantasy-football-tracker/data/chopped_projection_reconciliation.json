@@ -5,31 +5,31 @@
       "league_id": "1370453762442797056",
       "my_starters": [
         {
-          "nonreturn_projection": 22.79,
+          "nonreturn_projection": 24.42,
           "player": "Joe Burrow",
           "player_id": "6770",
           "position": "QB",
-          "return_adjusted_projection": 22.79,
+          "return_adjusted_projection": 24.42,
           "return_confidence": "",
           "return_points_applied": 0.0,
           "return_roles": ""
         },
         {
-          "nonreturn_projection": 29.31,
+          "nonreturn_projection": 30.99,
           "player": "Jonathan Taylor",
           "player_id": "6813",
           "position": "RB",
-          "return_adjusted_projection": 29.31,
+          "return_adjusted_projection": 30.99,
           "return_confidence": "",
           "return_points_applied": 0.0,
           "return_roles": ""
         },
         {
-          "nonreturn_projection": 21.49,
+          "nonreturn_projection": 20.63,
           "player": "Aaron Jones",
           "player_id": "4199",
           "position": "RB",
-          "return_adjusted_projection": 21.49,
+          "return_adjusted_projection": 20.63,
           "return_confidence": "",
           "return_points_applied": 0.0,
           "return_roles": ""
@@ -45,68 +45,68 @@
           "return_roles": "KR+PR"
         },
         {
-          "nonreturn_projection": 16.84,
+          "nonreturn_projection": 13.16,
           "player": "DK Metcalf",
           "player_id": "5846",
           "position": "WR",
-          "return_adjusted_projection": 16.84,
+          "return_adjusted_projection": 13.16,
           "return_confidence": "",
           "return_points_applied": 0.0,
           "return_roles": ""
         },
         {
-          "nonreturn_projection": 15.7,
+          "nonreturn_projection": 14.84,
           "player": "Tucker Kraft",
           "player_id": "9484",
           "position": "TE",
-          "return_adjusted_projection": 15.7,
+          "return_adjusted_projection": 14.84,
           "return_confidence": "",
           "return_points_applied": 0.0,
           "return_roles": ""
         },
         {
-          "nonreturn_projection": 6.37,
-          "player": "Raheim Sanders",
-          "player_id": "12472",
+          "nonreturn_projection": 20.12,
+          "player": "TreVeyon Henderson",
+          "player_id": "12529",
           "position": "RB",
-          "return_adjusted_projection": 6.37,
+          "return_adjusted_projection": 20.12,
           "return_confidence": "",
           "return_points_applied": 0.0,
           "return_roles": ""
         },
         {
-          "nonreturn_projection": 16.04,
+          "nonreturn_projection": 17.09,
           "player": "Malik Nabers",
           "player_id": "11632",
           "position": "WR",
-          "return_adjusted_projection": 16.04,
+          "return_adjusted_projection": 17.09,
           "return_confidence": "",
           "return_points_applied": 0.0,
           "return_roles": ""
         },
         {
-          "nonreturn_projection": 8.73,
+          "nonreturn_projection": 8.32,
           "player": "Cameron Dicker",
           "player_id": "8259",
           "position": "K",
-          "return_adjusted_projection": 8.73,
+          "return_adjusted_projection": 8.32,
           "return_confidence": "",
           "return_points_applied": 0.0,
           "return_roles": ""
         }
       ],
       "nonreturn_chop_line": 0.0,
-      "nonreturn_margin": 137.27,
-      "nonreturn_projection": 137.27,
-      "nonreturn_rank": 9,
+      "nonreturn_margin": 149.57,
+      "nonreturn_projection": 149.57,
+      "nonreturn_rank": 2,
       "note": "Nonreturn projection uses the same league-scored weekly player projections and all non-return context, but removes the tracker return-role projection. Treat it as a conservative return-independent anchor, not a statistical floor. Return-adjusted projection adds the confidence-weighted return model.",
       "projected_return_points_added": 11.1,
       "return_adjusted_chop_line": 0.0,
-      "return_adjusted_margin": 148.37,
-      "return_adjusted_projection": 148.37,
-      "return_adjusted_rank": 4,
+      "return_adjusted_margin": 160.67,
+      "return_adjusted_projection": 160.67,
+      "return_adjusted_rank": 3,
       "team": "Third Reich & Long"
     }
   },
-  "week": 2
+  "week": 3
 }
