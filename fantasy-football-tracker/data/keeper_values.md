@@ -14,7 +14,7 @@ Rules: 2 keepers; fixed round forever; FA pickup = R7; future picks tradable; ID
 - Carnell Tate (WR) — keeper R6; market R6; surplus 0 rounds; keeper tiebreaker score 16.3
 - Quinshon Judkins (RB) — keeper R4; market R6; surplus -2 rounds; keeper tiebreaker score 15.9
 - Tucker Kraft (TE) — keeper R5; market R8; surplus -3 rounds; keeper tiebreaker score 14.7
-- Jonathon Brooks (RB) — keeper R8; market R8; surplus 0 rounds; keeper tiebreaker score 14.3
+- Jonah Coleman (RB) — keeper R7; market R16; surplus -9 rounds; keeper tiebreaker score 8.7
 - Devaughn Vele (WR) — keeper R7; market R17; surplus -10 rounds; keeper tiebreaker score 8.2
 
 ## Future picks currently controlled

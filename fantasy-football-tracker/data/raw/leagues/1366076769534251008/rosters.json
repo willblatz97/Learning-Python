@@ -20,7 +20,6 @@
       "12492",
       "12519",
       "12526",
-      "12544",
       "13272",
       "13282",
       "13288",
@@ -28,6 +27,7 @@
       "13349",
       "13353",
       "13421",
+      "2307",
       "2505",
       "3294",
       "4017",
@@ -64,7 +64,7 @@
       "6790",
       "7547",
       "12526",
-      "8110",
+      "7600",
       "8146",
       "9226",
       "4017"
@@ -210,7 +210,7 @@
       "ties": 0,
       "total_moves": 0,
       "waiver_budget_used": 0,
-      "waiver_position": 8,
+      "waiver_position": 7,
       "wins": 1
     },
     "starters": [
@@ -290,7 +290,7 @@
       "ties": 0,
       "total_moves": 0,
       "waiver_budget_used": 0,
-      "waiver_position": 9,
+      "waiver_position": 8,
       "wins": 2
     },
     "starters": [
@@ -496,10 +496,10 @@
       "4892",
       "4983",
       "5045",
+      "5854",
       "5967",
       "6813",
       "6865",
-      "7828",
       "8111",
       "8144",
       "8154",
@@ -522,7 +522,7 @@
       "ties": 0,
       "total_moves": 0,
       "waiver_budget_used": 0,
-      "waiver_position": 6,
+      "waiver_position": 9,
       "wins": 1
     },
     "starters": [
@@ -599,7 +599,7 @@
       "ties": 0,
       "total_moves": 0,
       "waiver_budget_used": 0,
-      "waiver_position": 7,
+      "waiver_position": 6,
       "wins": 1
     },
     "starters": [

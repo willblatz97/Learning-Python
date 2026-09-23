@@ -17,13 +17,14 @@ Current KR/PR role + 2025 return baseline. Dual-role status uses Sleeper offensi
 - Isaiah Williams (WR NYJ) — KR+PR; offensive depth SWR 3; proj return yds 45.9/g; HIGH confidence; yours: 18-Team Chopped — Surviving the Chamber
 - Rashid Shaheed (WR SEA) — KR+PR; offensive depth RWR 2; proj return yds 43.6/g; HIGH confidence
 - Ameer Abdullah (RB JAX) — KR; offensive depth RB 3; proj return yds 43.3/g; HIGH confidence
+- Jordan Whittington (WR LAR) — KR; offensive depth SWR 3; proj return yds 28.9/g; HIGH confidence
 - Deebo Samuel Sr. (WR SF) — KR; offensive depth RWR 2; proj return yds 28.2/g; HIGH confidence; yours: 10-Team Redraft — Big Tiger Takeover
 - Kalif Raymond (WR CHI) — KR+PR; offensive depth SWR 3; proj return yds 26.8/g; HIGH confidence
 - Brian Robinson (RB ATL) — KR; offensive depth RB 2; proj return yds 22.2/g; HIGH confidence
 - Parker Washington (WR JAX) — PR; offensive depth SWR 1; proj return yds 21.3/g; HIGH confidence; yours: 12-Team Dynasty — One League to Rule Them All
 - Jacob Cowing (WR SF) — KR+PR; offensive depth SWR 3; proj return yds 9.8/g; MEDIUM confidence
 - KC Concepcion (WR CLE) — PR; offensive depth SWR 2; proj return yds 7.0/g; MEDIUM confidence; yours: 10-Team Redraft — Big Tiger Takeover
-- Josh Downs (WR IND) — PR; offensive depth SWR 2; proj return yds 4.2/g; HIGH confidence; yours: 12-Team 2-Keeper — League Is Rigged V2 | 12-Team Dynasty — One League to Rule Them All
+- Josh Downs (WR IND) — PR; offensive depth SWR 1; proj return yds 4.2/g; HIGH confidence; yours: 12-Team 2-Keeper — League Is Rigged V2 | 12-Team Dynasty — One League to Rule Them All
 
 ## Chopped / return-yard league value
 ### 18-Team Chopped — Surviving the Chamber
@@ -43,7 +44,7 @@ Current KR/PR role + 2025 return baseline. Dual-role status uses Sleeper offensi
 - Rasheen Ali — +5.09 return pts/g (KR + OFF, HIGH) — FA
 - Dylan Laube — +5.03 return pts/g (KR+PR, HIGH) — FA
 - Derius Davis — +4.92 return pts/g (KR+PR, HIGH) — OWNED
-- Isaiah Williams — +4.59 return pts/g (KR+PR + OFF, HIGH) — BENCH
+- Isaiah Williams — +4.59 return pts/g (KR+PR + OFF, HIGH) — START
 - Deonte Banks — +4.44 return pts/g (KR, HIGH) — FA
 - Rashid Shaheed — +4.36 return pts/g (KR+PR + OFF, HIGH) — OWNED
 - Ameer Abdullah — +4.33 return pts/g (KR + OFF, HIGH) — FA

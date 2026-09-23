@@ -1,17 +1,17 @@
 game_id,season,week,gameday,weekday,gametime,home_team,away_team,spread_line,total_line,roof,surface,temp,wind,stadium,location
-2026_03_ATL_GB,2026,3,2026-09-24,Thursday,20:15,GB,ATL,6,43.5,outdoors,grass,,,Lambeau Field,Home
+2026_03_ATL_GB,2026,3,2026-09-24,Thursday,20:15,GB,ATL,5.5,43.5,outdoors,grass,,,Lambeau Field,Home
 2026_03_LAC_BUF,2026,3,2026-09-27,Sunday,13:00,BUF,LAC,7,50.5,outdoors,a_turf,,,Highmark Stadium,Home
 2026_03_CAR_CLE,2026,3,2026-09-27,Sunday,13:00,CLE,CAR,-2.5,42.5,outdoors,grass,,,Huntington Bank Field,Home
 2026_03_NYJ_DET,2026,3,2026-09-27,Sunday,13:00,DET,NYJ,6.5,47.5,dome,fieldturf,,,Ford Field,Home
 2026_03_HOU_IND,2026,3,2026-09-27,Sunday,13:00,IND,HOU,-3,42.5,,fieldturf,,,Lucas Oil Stadium,Home
 2026_03_NE_JAX,2026,3,2026-09-27,Sunday,13:00,JAX,NE,3,45.5,outdoors,grass,,,EverBank Stadium,Home
 2026_03_KC_MIA,2026,3,2026-09-27,Sunday,13:00,MIA,KC,-11.5,46.5,outdoors,grass,,,Hard Rock Stadium,Home
-2026_03_TEN_NYG,2026,3,2026-09-27,Sunday,13:00,NYG,TEN,3,39.5,outdoors,fieldturf,,,MetLife Stadium,Home
+2026_03_TEN_NYG,2026,3,2026-09-27,Sunday,13:00,NYG,TEN,2.5,39.5,outdoors,fieldturf,,,MetLife Stadium,Home
 2026_03_CIN_PIT,2026,3,2026-09-27,Sunday,13:00,PIT,CIN,-3.5,42.5,outdoors,grass,,,Acrisure Stadium,Home
 2026_03_SEA_WAS,2026,3,2026-09-27,Sunday,13:00,WAS,SEA,-7,40.5,outdoors,grass,,,Northwest Stadium,Home
 2026_03_ARI_SF,2026,3,2026-09-27,Sunday,16:05,SF,ARI,8.5,47.5,outdoors,grass,,,Levi's Stadium,Home
 2026_03_MIN_TB,2026,3,2026-09-27,Sunday,16:05,TB,MIN,-1.5,42.5,outdoors,grass,,,Raymond James Stadium,Home
 2026_03_BAL_DAL,2026,3,2026-09-27,Sunday,16:25,DAL,BAL,-3.5,52.5,,matrixturf,,,Maracana Stadium,Neutral
-2026_03_LV_NO,2026,3,2026-09-27,Sunday,16:25,NO,LV,3,43.5,dome,sportturf,,,Caesars Superdome,Home
+2026_03_LV_NO,2026,3,2026-09-27,Sunday,16:25,NO,LV,3,44.5,dome,sportturf,,,Caesars Superdome,Home
 2026_03_LA_DEN,2026,3,2026-09-27,Sunday,20:20,DEN,LAR,-2.5,45.5,outdoors,grass,,,Empower Field at Mile High,Home
 2026_03_PHI_CHI,2026,3,2026-09-28,Monday,20:15,CHI,PHI,-4.5,41.5,outdoors,grass,,,Soldier Field,Home
