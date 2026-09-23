@@ -470,8 +470,8 @@
   },
   "players_faced_in_multiple_leagues": 6,
   "players_owned_in_multiple_leagues": 16,
-  "players_started_in_multiple_leagues": 8,
-  "snapshot_utc": "2026-09-22T12:22:56+00:00",
+  "players_started_in_multiple_leagues": 7,
+  "snapshot_utc": "2026-09-23T00:03:12+00:00",
   "top_nfl_team_exposure": [
     {
       "nfl_team": "CHI",
@@ -507,11 +507,11 @@
     },
     {
       "nfl_team": "CLE",
-      "players_owned": "Deshaun Watson | Jared Verse | KC Concepcion | Quinshon Judkins | Raheim Sanders",
-      "players_started": "Jared Verse | Quinshon Judkins",
-      "roster_slots_across_leagues": 7,
+      "players_owned": "Deshaun Watson | KC Concepcion | Quinshon Judkins | Raheim Sanders",
+      "players_started": "Deshaun Watson | Quinshon Judkins",
+      "roster_slots_across_leagues": 6,
       "starting_slots_across_leagues": 3,
-      "unique_players_owned": 5
+      "unique_players_owned": 4
     },
     {
       "nfl_team": "GB",
@@ -554,17 +554,17 @@
       "unique_players_owned": 3
     },
     {
-      "nfl_team": "WAS",
-      "players_owned": "Jacory Croskey-Merritt | Jayden Daniels",
-      "players_started": "Jayden Daniels",
-      "roster_slots_across_leagues": 3,
+      "nfl_team": "LV",
+      "players_owned": "Ashton Jeanty | Kirk Cousins",
+      "players_started": "Ashton Jeanty | Kirk Cousins",
+      "roster_slots_across_leagues": 2,
       "starting_slots_across_leagues": 2,
       "unique_players_owned": 2
     },
     {
-      "nfl_team": "LV",
-      "players_owned": "Ashton Jeanty | Kirk Cousins",
-      "players_started": "Ashton Jeanty | Kirk Cousins",
+      "nfl_team": "MIN",
+      "players_owned": "Aaron Jones | Myles Price",
+      "players_started": "Aaron Jones | Myles Price",
       "roster_slots_across_leagues": 2,
       "starting_slots_across_leagues": 2,
       "unique_players_owned": 2
@@ -579,15 +579,6 @@
       "nfl_team": "DAL",
       "player_id": "8110",
       "position": "TE"
-    },
-    {
-      "exposure_pct": 40.0,
-      "full_name": "Jayden Daniels",
-      "leagues_owned": 2,
-      "leagues_started": 2,
-      "nfl_team": "WAS",
-      "player_id": "11566",
-      "position": "QB"
     },
     {
       "exposure_pct": 40.0,
@@ -642,6 +633,15 @@
       "nfl_team": "CAR",
       "player_id": "12526",
       "position": "WR"
+    },
+    {
+      "exposure_pct": 40.0,
+      "full_name": "Jayden Daniels",
+      "leagues_owned": 2,
+      "leagues_started": 1,
+      "nfl_team": "WAS",
+      "player_id": "11566",
+      "position": "QB"
     },
     {
       "exposure_pct": 40.0,
@@ -735,22 +735,22 @@
     },
     {
       "exposure_pct": 20.0,
-      "full_name": "Jared Verse",
-      "leagues_owned": 1,
-      "leagues_started": 1,
-      "nfl_team": "CLE",
-      "player_id": "11665",
-      "position": "DL"
-    },
-    {
-      "exposure_pct": 20.0,
       "full_name": "Brandon Aubrey",
       "leagues_owned": 1,
       "leagues_started": 1,
       "nfl_team": "DAL",
       "player_id": "11533",
       "position": "K"
+    },
+    {
+      "exposure_pct": 20.0,
+      "full_name": "Cairo Santos",
+      "leagues_owned": 1,
+      "leagues_started": 1,
+      "nfl_team": "CHI",
+      "player_id": "2020",
+      "position": "K"
     }
   ],
-  "unique_players_owned": 96
+  "unique_players_owned": 95
 }

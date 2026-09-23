@@ -11,18 +11,18 @@ Current KR/PR role + 2025 return baseline. Dual-role status uses Sleeper offensi
 
 ## Primary returners with offensive role
 - Malik Washington (WR MIA) — KR+PR; offensive depth SWR 1; proj return yds 72.1/g; HIGH confidence; yours: 10-Team Dynasty — Dynasty V2
-- Jaylin Noel (WR HOU) — KR+PR; offensive depth SWR 3; proj return yds 66.7/g; HIGH confidence
 - Ray Davis (RB BUF) — KR+PR; offensive depth RB 3; proj return yds 55.5/g; HIGH confidence
 - Will Shipley (RB PHI) — KR; offensive depth RB 3; proj return yds 55.5/g; HIGH confidence
 - Rasheen Ali (RB BAL) — KR; offensive depth RB 3; proj return yds 50.9/g; HIGH confidence
 - Isaiah Williams (WR NYJ) — KR+PR; offensive depth SWR 3; proj return yds 45.9/g; HIGH confidence; yours: 18-Team Chopped — Surviving the Chamber
 - Rashid Shaheed (WR SEA) — KR+PR; offensive depth RWR 2; proj return yds 43.6/g; HIGH confidence
+- Ameer Abdullah (RB JAX) — KR; offensive depth RB 3; proj return yds 43.3/g; HIGH confidence
 - Deebo Samuel Sr. (WR SF) — KR; offensive depth RWR 2; proj return yds 28.2/g; HIGH confidence; yours: 10-Team Redraft — Big Tiger Takeover
+- Kalif Raymond (WR CHI) — KR+PR; offensive depth SWR 3; proj return yds 26.8/g; HIGH confidence
 - Brian Robinson (RB ATL) — KR; offensive depth RB 2; proj return yds 22.2/g; HIGH confidence
-- Parker Washington (WR JAX) — PR; offensive depth SWR 2; proj return yds 21.3/g; HIGH confidence; yours: 12-Team Dynasty — One League to Rule Them All
+- Parker Washington (WR JAX) — PR; offensive depth SWR 1; proj return yds 21.3/g; HIGH confidence; yours: 12-Team Dynasty — One League to Rule Them All
+- Jacob Cowing (WR SF) — KR+PR; offensive depth SWR 3; proj return yds 9.8/g; MEDIUM confidence
 - KC Concepcion (WR CLE) — PR; offensive depth SWR 2; proj return yds 7.0/g; MEDIUM confidence; yours: 10-Team Redraft — Big Tiger Takeover
-- Zachariah Branch (WR ATL) — KR+PR; offensive depth SWR 3; proj return yds 7.0/g; MEDIUM confidence
-- Malik Benson (WR LV) — PR; offensive depth SWR 3; proj return yds 7.0/g; MEDIUM confidence
 - Josh Downs (WR IND) — PR; offensive depth SWR 2; proj return yds 4.2/g; HIGH confidence; yours: 12-Team 2-Keeper — League Is Rigged V2 | 12-Team Dynasty — One League to Rule Them All
 
 ## Chopped / return-yard league value
@@ -34,7 +34,7 @@ Current KR/PR role + 2025 return baseline. Dual-role status uses Sleeper offensi
 - Devin Duvernay — +7.65 return pts/g (KR+PR, HIGH) — FA
 - Marvin Mims Jr. — +7.4 return pts/g (KR+PR, HIGH) — OWNED
 - Malik Washington — +7.21 return pts/g (KR+PR + OFF, HIGH) — OWNED
-- Jaylin Noel — +6.67 return pts/g (KR+PR + OFF, HIGH) — OWNED
+- Jaylin Noel — +6.67 return pts/g (KR+PR, HIGH) — OWNED
 - Nikko Remigio — +6.65 return pts/g (KR+PR, HIGH) — FA
 - Kene Nwangwu — +6.04 return pts/g (KR, HIGH) — FA
 - Kameron Johnson — +5.74 return pts/g (KR+PR, HIGH) — FA
@@ -46,4 +46,4 @@ Current KR/PR role + 2025 return baseline. Dual-role status uses Sleeper offensi
 - Isaiah Williams — +4.59 return pts/g (KR+PR + OFF, HIGH) — BENCH
 - Deonte Banks — +4.44 return pts/g (KR, HIGH) — FA
 - Rashid Shaheed — +4.36 return pts/g (KR+PR + OFF, HIGH) — OWNED
-- Ameer Abdullah — +4.33 return pts/g (KR, HIGH) — FA
+- Ameer Abdullah — +4.33 return pts/g (KR + OFF, HIGH) — FA

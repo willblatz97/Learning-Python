@@ -5,16 +5,16 @@ season,week,team,opponent,home_away,gameday,weekday,gametime,spread_line,total_l
 2026,3,LAC,BUF,away,2026-09-27,Sunday,13:00,7,50.5,outdoors,a_turf,,,Highmark Stadium
 2026,3,CLE,CAR,home,2026-09-27,Sunday,13:00,-2.5,42.5,outdoors,grass,,,Huntington Bank Field
 2026,3,CAR,CLE,away,2026-09-27,Sunday,13:00,-2.5,42.5,outdoors,grass,,,Huntington Bank Field
-2026,3,DET,NYJ,home,2026-09-27,Sunday,13:00,6.5,48.5,dome,fieldturf,,,Ford Field
-2026,3,NYJ,DET,away,2026-09-27,Sunday,13:00,6.5,48.5,dome,fieldturf,,,Ford Field
-2026,3,IND,HOU,home,2026-09-27,Sunday,13:00,-2.5,43.5,,fieldturf,,,Lucas Oil Stadium
-2026,3,HOU,IND,away,2026-09-27,Sunday,13:00,-2.5,43.5,,fieldturf,,,Lucas Oil Stadium
+2026,3,DET,NYJ,home,2026-09-27,Sunday,13:00,6.5,47.5,dome,fieldturf,,,Ford Field
+2026,3,NYJ,DET,away,2026-09-27,Sunday,13:00,6.5,47.5,dome,fieldturf,,,Ford Field
+2026,3,IND,HOU,home,2026-09-27,Sunday,13:00,-3,42.5,,fieldturf,,,Lucas Oil Stadium
+2026,3,HOU,IND,away,2026-09-27,Sunday,13:00,-3,42.5,,fieldturf,,,Lucas Oil Stadium
 2026,3,JAX,NE,home,2026-09-27,Sunday,13:00,3,45.5,outdoors,grass,,,EverBank Stadium
 2026,3,NE,JAX,away,2026-09-27,Sunday,13:00,3,45.5,outdoors,grass,,,EverBank Stadium
 2026,3,MIA,KC,home,2026-09-27,Sunday,13:00,-11.5,46.5,outdoors,grass,,,Hard Rock Stadium
 2026,3,KC,MIA,away,2026-09-27,Sunday,13:00,-11.5,46.5,outdoors,grass,,,Hard Rock Stadium
-2026,3,NYG,TEN,home,2026-09-27,Sunday,13:00,3.5,40.5,outdoors,fieldturf,,,MetLife Stadium
-2026,3,TEN,NYG,away,2026-09-27,Sunday,13:00,3.5,40.5,outdoors,fieldturf,,,MetLife Stadium
+2026,3,NYG,TEN,home,2026-09-27,Sunday,13:00,3,39.5,outdoors,fieldturf,,,MetLife Stadium
+2026,3,TEN,NYG,away,2026-09-27,Sunday,13:00,3,39.5,outdoors,fieldturf,,,MetLife Stadium
 2026,3,PIT,CIN,home,2026-09-27,Sunday,13:00,-3.5,42.5,outdoors,grass,,,Acrisure Stadium
 2026,3,CIN,PIT,away,2026-09-27,Sunday,13:00,-3.5,42.5,outdoors,grass,,,Acrisure Stadium
 2026,3,WAS,SEA,home,2026-09-27,Sunday,13:00,-7,40.5,outdoors,grass,,,Northwest Stadium
@@ -23,11 +23,11 @@ season,week,team,opponent,home_away,gameday,weekday,gametime,spread_line,total_l
 2026,3,ARI,SF,away,2026-09-27,Sunday,16:05,8.5,47.5,outdoors,grass,,,Levi's Stadium
 2026,3,TB,MIN,home,2026-09-27,Sunday,16:05,-1.5,42.5,outdoors,grass,,,Raymond James Stadium
 2026,3,MIN,TB,away,2026-09-27,Sunday,16:05,-1.5,42.5,outdoors,grass,,,Raymond James Stadium
-2026,3,DAL,BAL,home,2026-09-27,Sunday,16:25,-3,52.5,,matrixturf,,,Maracana Stadium
-2026,3,BAL,DAL,away,2026-09-27,Sunday,16:25,-3,52.5,,matrixturf,,,Maracana Stadium
+2026,3,DAL,BAL,home,2026-09-27,Sunday,16:25,-3.5,52.5,,matrixturf,,,Maracana Stadium
+2026,3,BAL,DAL,away,2026-09-27,Sunday,16:25,-3.5,52.5,,matrixturf,,,Maracana Stadium
 2026,3,NO,LV,home,2026-09-27,Sunday,16:25,3,43.5,dome,sportturf,,,Caesars Superdome
 2026,3,LV,NO,away,2026-09-27,Sunday,16:25,3,43.5,dome,sportturf,,,Caesars Superdome
-2026,3,DEN,LAR,home,2026-09-27,Sunday,20:20,-1.5,45.5,outdoors,grass,,,Empower Field at Mile High
-2026,3,LAR,DEN,away,2026-09-27,Sunday,20:20,-1.5,45.5,outdoors,grass,,,Empower Field at Mile High
-2026,3,CHI,PHI,home,2026-09-28,Monday,20:15,-3,44.5,outdoors,grass,,,Soldier Field
-2026,3,PHI,CHI,away,2026-09-28,Monday,20:15,-3,44.5,outdoors,grass,,,Soldier Field
+2026,3,DEN,LAR,home,2026-09-27,Sunday,20:20,-2.5,45.5,outdoors,grass,,,Empower Field at Mile High
+2026,3,LAR,DEN,away,2026-09-27,Sunday,20:20,-2.5,45.5,outdoors,grass,,,Empower Field at Mile High
+2026,3,CHI,PHI,home,2026-09-28,Monday,20:15,-4.5,41.5,outdoors,grass,,,Soldier Field
+2026,3,PHI,CHI,away,2026-09-28,Monday,20:15,-4.5,41.5,outdoors,grass,,,Soldier Field

@@ -1,89 +1,87 @@
 snapshot_utc,sleeper_id,player,team,position,injury_ripple_points,confidence,reasons
-2026-09-22T12:23:54+00:00,7571,Rashod Bateman,BAL,WR,1.28,HIGH,WR1 OUT/IR: target concentration rises for next WR | Opponent CB1 QUESTIONABLE/DNP: secondary WR matchup improves
-2026-09-22T12:23:54+00:00,3161,Carson Wentz,MIN,QB,1.2,HIGH,QB1 OUT/IR: QB2 becomes relevant
-2026-09-22T12:23:54+00:00,5854,Drew Lock,SEA,QB,1.2,HIGH,QB1 OUT/IR: QB2 becomes relevant
-2026-09-22T12:23:54+00:00,2306,Jameis Winston,NYG,QB,1.2,HIGH,QB1 OUT/IR: QB2 becomes relevant
-2026-09-22T12:23:54+00:00,2307,Marcus Mariota,WAS,QB,1.2,HIGH,QB1 OUT/IR: QB2 becomes relevant
-2026-09-22T12:23:54+00:00,6768,Tua Tagovailoa,ATL,QB,1.2,HIGH,QB1 OUT/IR: QB2 becomes relevant
-2026-09-22T12:23:54+00:00,11256,Tyson Bagent,CHI,QB,1.2,HIGH,QB1 OUT/IR: QB2 becomes relevant
-2026-09-22T12:23:54+00:00,2133,Davante Adams,LAR,WR,1.1,HIGH,WR1 OUT/IR: target concentration rises for next WR
-2026-09-22T12:23:54+00:00,9500,Josh Downs,IND,WR,1.1,HIGH,WR1 OUT/IR: target concentration rises for next WR
-2026-09-22T12:23:54+00:00,8134,Khalil Shakir,BUF,WR,1.1,HIGH,WR1 OUT/IR: target concentration rises for next WR
-2026-09-22T12:23:54+00:00,10218,Xavier Hutchinson,HOU,WR,1.1,HIGH,WR1 OUT/IR: target concentration rises for next WR
-2026-09-22T12:23:54+00:00,13279,Carnell Tate,TEN,WR,1.0,MEDIUM,Opponent CB1 OUT/IR: projected WR1 coverage matchup improves (not confirmed shadow)
-2026-09-22T12:23:54+00:00,10236,Dalton Kincaid,BUF,TE,1.0,MEDIUM,WR1 OUT/IR: TE target share can rise | Starting safety OUT/IR: TE middle/deep matchup improves
-2026-09-22T12:23:54+00:00,7564,Ja'Marr Chase,CIN,WR,1.0,MEDIUM,Opponent CB1 OUT/IR: projected WR1 coverage matchup improves (not confirmed shadow)
-2026-09-22T12:23:54+00:00,5012,Mark Andrews,BAL,TE,1.0,MEDIUM,WR1 OUT/IR: TE target share can rise | Starting safety OUT/IR: TE middle/deep matchup improves
-2026-09-22T12:23:54+00:00,9487,Parker Washington,JAX,WR,1.0,MEDIUM,Opponent CB1 OUT/IR: projected WR1 coverage matchup improves (not confirmed shadow)
-2026-09-22T12:23:54+00:00,11596,Ben Sinnott,WAS,TE,0.85,HIGH,TE1 OUT/IR: TE2 route/target opportunity rises
-2026-09-22T12:23:54+00:00,9482,Michael Mayer,LV,TE,0.85,HIGH,TE1 OUT/IR: TE2 route/target opportunity rises
-2026-09-22T12:23:54+00:00,9997,Zay Flowers,BAL,WR,0.85,MEDIUM,Opponent CB1 QUESTIONABLE/DNP: projected WR1 coverage matchup improves (not confirmed shadow) | Starting safety OUT/IR: downfield coverage improves
-2026-09-22T12:23:54+00:00,12506,Harold Fannin,CLE,TE,0.78,MEDIUM,Starting safety QUESTIONABLE/DNP: TE middle/deep matchup improves | Starting linebacker OUT/IR: TE coverage improves
-2026-09-22T12:23:54+00:00,13347,Demond Claiborne,MIN,RB,0.7,HIGH,RB1 QUESTIONABLE/DNP: backfield opportunity moves to RB2
-2026-09-22T12:23:54+00:00,11435,Emanuel Wilson,SEA,RB,0.7,HIGH,RB1 QUESTIONABLE/DNP: backfield opportunity moves to RB2
-2026-09-22T12:23:54+00:00,12489,RJ Harvey,DEN,RB,0.7,HIGH,RB1 QUESTIONABLE/DNP: backfield opportunity moves to RB2
-2026-09-22T12:23:54+00:00,9225,Tank Bigsby,PHI,RB,0.7,HIGH,RB1 QUESTIONABLE/DNP: backfield opportunity moves to RB2
-2026-09-22T12:23:54+00:00,5872,Deebo Samuel,SF,WR,0.68,HIGH,Opponent CB1 QUESTIONABLE/DNP: secondary WR matchup improves | WR1 QUESTIONABLE/DNP: target concentration rises for next WR
-2026-09-22T12:23:54+00:00,11629,Devontez Walker,BAL,WR,0.55,MEDIUM,WR1 OUT/IR: WR3 role/targets can expand
-2026-09-22T12:23:54+00:00,11623,Jordan Whittington,LAR,WR,0.55,MEDIUM,WR1 OUT/IR: WR3 role/targets can expand
-2026-09-22T12:23:54+00:00,9504,Kayshon Boutte,HOU,WR,0.55,MEDIUM,WR1 OUT/IR: WR3 role/targets can expand
-2026-09-22T12:23:54+00:00,1479,Keenan Allen,IND,WR,0.55,MEDIUM,WR1 OUT/IR: WR3 role/targets can expand
-2026-09-22T12:23:54+00:00,11637,Keon Coleman,BUF,WR,0.55,MEDIUM,WR1 OUT/IR: WR3 role/targets can expand
-2026-09-22T12:23:54+00:00,11632,Malik Nabers,NYG,WR,0.55,MEDIUM,QB1 OUT/IR: pass-catcher efficiency risk with backup QB | Opponent CB1 OUT/IR: projected WR1 coverage matchup improves (not confirmed shadow)
-2026-09-22T12:23:54+00:00,6865,Colby Parkinson,LAR,TE,0.5,MEDIUM,WR1 OUT/IR: TE target share can rise
-2026-09-22T12:23:54+00:00,5001,Dalton Schultz,HOU,TE,0.5,MEDIUM,WR1 OUT/IR: TE target share can rise
-2026-09-22T12:23:54+00:00,4066,Evan Engram,DEN,TE,0.5,MEDIUM,Starting safety OUT/IR: TE middle/deep matchup improves
-2026-09-22T12:23:54+00:00,10859,Sam LaPorta,DET,TE,0.5,MEDIUM,Starting safety OUT/IR: TE middle/deep matchup improves
-2026-09-22T12:23:54+00:00,12518,Tyler Warren,IND,TE,0.5,MEDIUM,WR1 OUT/IR: TE target share can rise
-2026-09-22T12:23:54+00:00,9509,Bijan Robinson,ATL,RB,0.45,MEDIUM,Starting interior DL OUT/IR: rushing matchup improves
-2026-09-22T12:23:54+00:00,8167,Christian Watson,GB,WR,0.45,MEDIUM,Opponent CB1 QUESTIONABLE/DNP: projected WR1 coverage matchup improves (not confirmed shadow)
-2026-09-22T12:23:54+00:00,3294,Dak Prescott,DAL,QB,0.45,MEDIUM,Top edge rusher OUT/IR: QB pressure environment improves
-2026-09-22T12:23:54+00:00,6797,Justin Herbert,LAC,QB,0.45,MEDIUM,Top edge rusher OUT/IR: QB pressure environment improves
-2026-09-22T12:23:54+00:00,13285,Malachi Fields,NYG,WR,0.45,HIGH,QB1 OUT/IR: pass-catcher efficiency risk with backup QB | WR1 QUESTIONABLE/DNP: target concentration rises for next WR | Opponent CB1 OUT/IR: secondary WR matchup improves
-2026-09-22T12:23:54+00:00,2216,Mike Evans,SF,WR,0.45,MEDIUM,Opponent CB1 QUESTIONABLE/DNP: projected WR1 coverage matchup improves (not confirmed shadow)
-2026-09-22T12:23:54+00:00,4046,Patrick Mahomes,KC,QB,0.45,MEDIUM,Top edge rusher OUT/IR: QB pressure environment improves
-2026-09-22T12:23:54+00:00,7547,Amon-Ra St. Brown,DET,WR,0.4,MEDIUM,Starting safety OUT/IR: downfield coverage improves
-2026-09-22T12:23:54+00:00,11631,Brian Thomas,JAX,WR,0.4,MEDIUM,Opponent CB1 OUT/IR: secondary WR matchup improves
-2026-09-22T12:23:54+00:00,4983,DJ Moore,BUF,WR,0.4,MEDIUM,Starting safety OUT/IR: downfield coverage improves
-2026-09-22T12:23:54+00:00,7526,Jaylen Waddle,DEN,WR,0.4,MEDIUM,Starting safety OUT/IR: downfield coverage improves
-2026-09-22T12:23:54+00:00,6801,Tee Higgins,CIN,WR,0.4,MEDIUM,Opponent CB1 OUT/IR: secondary WR matchup improves
-2026-09-22T12:23:54+00:00,8126,Wan'Dale Robinson,TEN,WR,0.4,MEDIUM,Opponent CB1 OUT/IR: secondary WR matchup improves
-2026-09-22T12:23:54+00:00,4314,Johnny Mundt,PHI,TE,0.38,HIGH,TE1 QUESTIONABLE/DNP: TE2 route/target opportunity rises
-2026-09-22T12:23:54+00:00,13330,Kenyon Sadiq,NYJ,TE,0.38,HIGH,TE1 QUESTIONABLE/DNP: TE2 route/target opportunity rises
-2026-09-22T12:23:54+00:00,12512,Quinshon Judkins,CLE,RB,0.35,MEDIUM,Starting linebacker OUT/IR: RB run/checkdown environment improves
-2026-09-22T12:23:54+00:00,7090,Darnell Mooney,NYG,WR,0.25,MEDIUM,WR1 QUESTIONABLE/DNP: WR3 role/targets can expand
-2026-09-22T12:23:54+00:00,3286,Demarcus Robinson,SF,WR,0.25,MEDIUM,WR1 QUESTIONABLE/DNP: WR3 role/targets can expand
-2026-09-22T12:23:54+00:00,12502,Gunnar Helm,TEN,TE,0.25,MEDIUM,Starting linebacker QUESTIONABLE/DNP: TE coverage improves
-2026-09-22T12:23:54+00:00,10213,Tre Tucker,LV,WR,0.25,MEDIUM,TE1 OUT/IR: WR1 target share can rise
-2026-09-22T12:23:54+00:00,4217,George Kittle,SF,TE,0.23,MEDIUM,WR1 QUESTIONABLE/DNP: TE target share can rise
-2026-09-22T12:23:54+00:00,7002,Juwan Johnson,NO,TE,0.23,MEDIUM,Starting safety QUESTIONABLE/DNP: TE middle/deep matchup improves
-2026-09-22T12:23:54+00:00,6931,DeeJay Dallas,MIN,RB,0.2,MEDIUM,RB1 QUESTIONABLE/DNP: secondary backfield opportunity
-2026-09-22T12:23:54+00:00,12048,George Holani,SEA,RB,0.2,MEDIUM,RB1 QUESTIONABLE/DNP: secondary backfield opportunity
-2026-09-22T12:23:54+00:00,8138,James Cook,BUF,RB,0.2,MEDIUM,Starting interior DL QUESTIONABLE/DNP: rushing matchup improves
-2026-09-22T12:23:54+00:00,13345,Jonah Coleman,DEN,RB,0.2,MEDIUM,RB1 QUESTIONABLE/DNP: secondary backfield opportunity
-2026-09-22T12:23:54+00:00,11577,Will Shipley,PHI,RB,0.2,MEDIUM,RB1 QUESTIONABLE/DNP: secondary backfield opportunity
-2026-09-22T12:23:54+00:00,8144,Chris Olave,NO,WR,0.18,MEDIUM,Starting safety QUESTIONABLE/DNP: downfield coverage improves
-2026-09-22T12:23:54+00:00,13346,Denzel Boston,CLE,WR,0.18,MEDIUM,Starting safety QUESTIONABLE/DNP: downfield coverage improves
-2026-09-22T12:23:54+00:00,10222,Jayden Reed,GB,WR,0.18,MEDIUM,Opponent CB1 QUESTIONABLE/DNP: secondary WR matchup improves
-2026-09-22T12:23:54+00:00,5967,Tony Pollard,TEN,RB,0.16,MEDIUM,Starting linebacker QUESTIONABLE/DNP: RB run/checkdown environment improves
-2026-09-22T12:23:54+00:00,6786,CeeDee Lamb,DAL,WR,0.15,MEDIUM,Top edge rusher OUT/IR: more time helps primary WR routes
-2026-09-22T12:23:54+00:00,11635,Ladd McConkey,LAC,WR,0.15,MEDIUM,Top edge rusher OUT/IR: more time helps primary WR routes
-2026-09-22T12:23:54+00:00,10229,Rashee Rice,KC,WR,0.15,MEDIUM,Top edge rusher OUT/IR: more time helps primary WR routes
-2026-09-22T12:23:54+00:00,7525,DeVonta Smith,PHI,WR,0.11,MEDIUM,TE1 QUESTIONABLE/DNP: WR1 target share can rise
-2026-09-22T12:23:54+00:00,8146,Garrett Wilson,NYJ,WR,0.11,MEDIUM,TE1 QUESTIONABLE/DNP: WR1 target share can rise
-2026-09-22T12:23:54+00:00,5927,Terry McLaurin,WAS,WR,-0.2,MEDIUM,QB1 OUT/IR: pass-catcher efficiency risk with backup QB | TE1 OUT/IR: WR1 target share can rise
-2026-09-22T12:23:54+00:00,8131,Isaiah Likely,NYG,TE,-0.22,MEDIUM,QB1 OUT/IR: pass-catcher efficiency risk with backup QB | WR1 QUESTIONABLE/DNP: TE target share can rise
-2026-09-22T12:23:54+00:00,11603,AJ Barner,SEA,TE,-0.45,MEDIUM,QB1 OUT/IR: pass-catcher efficiency risk with backup QB
-2026-09-22T12:23:54+00:00,8210,Chig Okonkwo,WAS,TE,-0.45,MEDIUM,QB1 OUT/IR: pass-catcher efficiency risk with backup QB
-2026-09-22T12:23:54+00:00,12517,Colston Loveland,CHI,TE,-0.45,MEDIUM,QB1 OUT/IR: pass-catcher efficiency risk with backup QB
-2026-09-22T12:23:54+00:00,8112,Drake London,ATL,WR,-0.45,MEDIUM,QB1 OUT/IR: pass-catcher efficiency risk with backup QB
-2026-09-22T12:23:54+00:00,8119,Jahan Dotson,ATL,WR,-0.45,MEDIUM,QB1 OUT/IR: pass-catcher efficiency risk with backup QB
-2026-09-22T12:23:54+00:00,9488,Jaxon Smith-Njigba,SEA,WR,-0.45,MEDIUM,QB1 OUT/IR: pass-catcher efficiency risk with backup QB
-2026-09-22T12:23:54+00:00,9756,Jordan Addison,MIN,WR,-0.45,MEDIUM,QB1 OUT/IR: pass-catcher efficiency risk with backup QB
-2026-09-22T12:23:54+00:00,6794,Justin Jefferson,MIN,WR,-0.45,MEDIUM,QB1 OUT/IR: pass-catcher efficiency risk with backup QB
-2026-09-22T12:23:54+00:00,7553,Kyle Pitts,ATL,TE,-0.45,MEDIUM,QB1 OUT/IR: pass-catcher efficiency risk with backup QB
-2026-09-22T12:23:54+00:00,12519,Luther Burden,CHI,WR,-0.45,MEDIUM,QB1 OUT/IR: pass-catcher efficiency risk with backup QB
-2026-09-22T12:23:54+00:00,8676,Rashid Shaheed,SEA,WR,-0.45,MEDIUM,QB1 OUT/IR: pass-catcher efficiency risk with backup QB
-2026-09-22T12:23:54+00:00,11620,Rome Odunze,CHI,WR,-0.45,MEDIUM,QB1 OUT/IR: pass-catcher efficiency risk with backup QB
-2026-09-22T12:23:54+00:00,2449,Stefon Diggs,WAS,WR,-0.45,MEDIUM,QB1 OUT/IR: pass-catcher efficiency risk with backup QB
-2026-09-22T12:23:54+00:00,5844,T.J. Hockenson,MIN,TE,-0.45,MEDIUM,QB1 OUT/IR: pass-catcher efficiency risk with backup QB
+2026-09-23T00:04:18+00:00,7571,Rashod Bateman,BAL,WR,1.5,HIGH,WR1 OUT/IR: target concentration rises for next WR | Opponent CB1 OUT/IR: secondary WR matchup improves
+2026-09-23T00:04:18+00:00,9997,Zay Flowers,BAL,WR,1.4,MEDIUM,Opponent CB1 OUT/IR: projected WR1 coverage matchup improves (not confirmed shadow) | Starting safety OUT/IR: downfield coverage improves
+2026-09-23T00:04:18+00:00,3161,Carson Wentz,MIN,QB,1.2,HIGH,QB1 OUT/IR: QB2 becomes relevant
+2026-09-23T00:04:18+00:00,5854,Drew Lock,SEA,QB,1.2,HIGH,QB1 OUT/IR: QB2 becomes relevant
+2026-09-23T00:04:18+00:00,2306,Jameis Winston,NYG,QB,1.2,HIGH,QB1 OUT/IR: QB2 becomes relevant
+2026-09-23T00:04:18+00:00,2307,Marcus Mariota,WAS,QB,1.2,HIGH,QB1 OUT/IR: QB2 becomes relevant
+2026-09-23T00:04:18+00:00,6768,Tua Tagovailoa,ATL,QB,1.2,HIGH,QB1 OUT/IR: QB2 becomes relevant
+2026-09-23T00:04:18+00:00,11256,Tyson Bagent,CHI,QB,1.2,HIGH,QB1 OUT/IR: QB2 becomes relevant
+2026-09-23T00:04:18+00:00,2133,Davante Adams,LAR,WR,1.1,HIGH,WR1 OUT/IR: target concentration rises for next WR
+2026-09-23T00:04:18+00:00,9500,Josh Downs,IND,WR,1.1,HIGH,WR1 OUT/IR: target concentration rises for next WR
+2026-09-23T00:04:18+00:00,8134,Khalil Shakir,BUF,WR,1.1,HIGH,WR1 OUT/IR: target concentration rises for next WR
+2026-09-23T00:04:18+00:00,10218,Xavier Hutchinson,HOU,WR,1.1,HIGH,WR1 OUT/IR: target concentration rises for next WR
+2026-09-23T00:04:18+00:00,13279,Carnell Tate,TEN,WR,1.0,MEDIUM,Opponent CB1 OUT/IR: projected WR1 coverage matchup improves (not confirmed shadow)
+2026-09-23T00:04:18+00:00,10236,Dalton Kincaid,BUF,TE,1.0,MEDIUM,WR1 OUT/IR: TE target share can rise | Starting safety OUT/IR: TE middle/deep matchup improves
+2026-09-23T00:04:18+00:00,7564,Ja'Marr Chase,CIN,WR,1.0,MEDIUM,Opponent CB1 OUT/IR: projected WR1 coverage matchup improves (not confirmed shadow)
+2026-09-23T00:04:18+00:00,5012,Mark Andrews,BAL,TE,1.0,MEDIUM,WR1 OUT/IR: TE target share can rise | Starting safety OUT/IR: TE middle/deep matchup improves
+2026-09-23T00:04:18+00:00,2216,Mike Evans,SF,WR,1.0,MEDIUM,Opponent CB1 OUT/IR: projected WR1 coverage matchup improves (not confirmed shadow)
+2026-09-23T00:04:18+00:00,9487,Parker Washington,JAX,WR,1.0,MEDIUM,Opponent CB1 OUT/IR: projected WR1 coverage matchup improves (not confirmed shadow)
+2026-09-23T00:04:18+00:00,5872,Deebo Samuel,SF,WR,0.9,HIGH,Opponent CB1 OUT/IR: secondary WR matchup improves | WR1 QUESTIONABLE/DNP: target concentration rises for next WR
+2026-09-23T00:04:18+00:00,11596,Ben Sinnott,WAS,TE,0.85,HIGH,TE1 OUT/IR: TE2 route/target opportunity rises
+2026-09-23T00:04:18+00:00,9482,Michael Mayer,LV,TE,0.85,HIGH,TE1 OUT/IR: TE2 route/target opportunity rises
+2026-09-23T00:04:18+00:00,12506,Harold Fannin,CLE,TE,0.78,MEDIUM,Starting safety QUESTIONABLE/DNP: TE middle/deep matchup improves | Starting linebacker OUT/IR: TE coverage improves
+2026-09-23T00:04:18+00:00,13347,Demond Claiborne,MIN,RB,0.7,HIGH,RB1 QUESTIONABLE/DNP: backfield opportunity moves to RB2
+2026-09-23T00:04:18+00:00,11435,Emanuel Wilson,SEA,RB,0.7,HIGH,RB1 QUESTIONABLE/DNP: backfield opportunity moves to RB2
+2026-09-23T00:04:18+00:00,12489,RJ Harvey,DEN,RB,0.7,HIGH,RB1 QUESTIONABLE/DNP: backfield opportunity moves to RB2
+2026-09-23T00:04:18+00:00,9225,Tank Bigsby,PHI,RB,0.7,HIGH,RB1 QUESTIONABLE/DNP: backfield opportunity moves to RB2
+2026-09-23T00:04:18+00:00,11629,Devontez Walker,BAL,WR,0.55,MEDIUM,WR1 OUT/IR: WR3 role/targets can expand
+2026-09-23T00:04:18+00:00,11623,Jordan Whittington,LAR,WR,0.55,MEDIUM,WR1 OUT/IR: WR3 role/targets can expand
+2026-09-23T00:04:18+00:00,9504,Kayshon Boutte,HOU,WR,0.55,MEDIUM,WR1 OUT/IR: WR3 role/targets can expand
+2026-09-23T00:04:18+00:00,1479,Keenan Allen,IND,WR,0.55,MEDIUM,WR1 OUT/IR: WR3 role/targets can expand
+2026-09-23T00:04:18+00:00,11637,Keon Coleman,BUF,WR,0.55,MEDIUM,WR1 OUT/IR: WR3 role/targets can expand
+2026-09-23T00:04:18+00:00,11632,Malik Nabers,NYG,WR,0.55,MEDIUM,QB1 OUT/IR: pass-catcher efficiency risk with backup QB | Opponent CB1 OUT/IR: projected WR1 coverage matchup improves (not confirmed shadow)
+2026-09-23T00:04:18+00:00,6865,Colby Parkinson,LAR,TE,0.5,MEDIUM,WR1 OUT/IR: TE target share can rise
+2026-09-23T00:04:18+00:00,5001,Dalton Schultz,HOU,TE,0.5,MEDIUM,WR1 OUT/IR: TE target share can rise
+2026-09-23T00:04:18+00:00,4066,Evan Engram,DEN,TE,0.5,MEDIUM,Starting safety OUT/IR: TE middle/deep matchup improves
+2026-09-23T00:04:18+00:00,10859,Sam LaPorta,DET,TE,0.5,MEDIUM,Starting safety OUT/IR: TE middle/deep matchup improves
+2026-09-23T00:04:18+00:00,12518,Tyler Warren,IND,TE,0.5,MEDIUM,WR1 OUT/IR: TE target share can rise
+2026-09-23T00:04:18+00:00,9509,Bijan Robinson,ATL,RB,0.45,MEDIUM,Starting interior DL OUT/IR: rushing matchup improves
+2026-09-23T00:04:18+00:00,3294,Dak Prescott,DAL,QB,0.45,MEDIUM,Top edge rusher OUT/IR: QB pressure environment improves
+2026-09-23T00:04:18+00:00,6797,Justin Herbert,LAC,QB,0.45,MEDIUM,Top edge rusher OUT/IR: QB pressure environment improves
+2026-09-23T00:04:18+00:00,13285,Malachi Fields,NYG,WR,0.45,HIGH,QB1 OUT/IR: pass-catcher efficiency risk with backup QB | WR1 QUESTIONABLE/DNP: target concentration rises for next WR | Opponent CB1 OUT/IR: secondary WR matchup improves
+2026-09-23T00:04:18+00:00,4046,Patrick Mahomes,KC,QB,0.45,MEDIUM,Top edge rusher OUT/IR: QB pressure environment improves
+2026-09-23T00:04:18+00:00,7547,Amon-Ra St. Brown,DET,WR,0.4,MEDIUM,Starting safety OUT/IR: downfield coverage improves
+2026-09-23T00:04:18+00:00,11631,Brian Thomas,JAX,WR,0.4,MEDIUM,Opponent CB1 OUT/IR: secondary WR matchup improves
+2026-09-23T00:04:18+00:00,4983,DJ Moore,BUF,WR,0.4,MEDIUM,Starting safety OUT/IR: downfield coverage improves
+2026-09-23T00:04:18+00:00,7526,Jaylen Waddle,DEN,WR,0.4,MEDIUM,Starting safety OUT/IR: downfield coverage improves
+2026-09-23T00:04:18+00:00,6801,Tee Higgins,CIN,WR,0.4,MEDIUM,Opponent CB1 OUT/IR: secondary WR matchup improves
+2026-09-23T00:04:18+00:00,8126,Wan'Dale Robinson,TEN,WR,0.4,MEDIUM,Opponent CB1 OUT/IR: secondary WR matchup improves
+2026-09-23T00:04:18+00:00,4314,Johnny Mundt,PHI,TE,0.38,HIGH,TE1 QUESTIONABLE/DNP: TE2 route/target opportunity rises
+2026-09-23T00:04:18+00:00,13330,Kenyon Sadiq,NYJ,TE,0.38,HIGH,TE1 QUESTIONABLE/DNP: TE2 route/target opportunity rises
+2026-09-23T00:04:18+00:00,12512,Quinshon Judkins,CLE,RB,0.35,MEDIUM,Starting linebacker OUT/IR: RB run/checkdown environment improves
+2026-09-23T00:04:18+00:00,7090,Darnell Mooney,NYG,WR,0.25,MEDIUM,WR1 QUESTIONABLE/DNP: WR3 role/targets can expand
+2026-09-23T00:04:18+00:00,3286,Demarcus Robinson,SF,WR,0.25,MEDIUM,WR1 QUESTIONABLE/DNP: WR3 role/targets can expand
+2026-09-23T00:04:18+00:00,12502,Gunnar Helm,TEN,TE,0.25,MEDIUM,Starting linebacker QUESTIONABLE/DNP: TE coverage improves
+2026-09-23T00:04:18+00:00,10213,Tre Tucker,LV,WR,0.25,MEDIUM,TE1 OUT/IR: WR1 target share can rise
+2026-09-23T00:04:18+00:00,4217,George Kittle,SF,TE,0.23,MEDIUM,WR1 QUESTIONABLE/DNP: TE target share can rise
+2026-09-23T00:04:18+00:00,7002,Juwan Johnson,NO,TE,0.23,MEDIUM,Starting safety QUESTIONABLE/DNP: TE middle/deep matchup improves
+2026-09-23T00:04:18+00:00,6931,DeeJay Dallas,MIN,RB,0.2,MEDIUM,RB1 QUESTIONABLE/DNP: secondary backfield opportunity
+2026-09-23T00:04:18+00:00,12048,George Holani,SEA,RB,0.2,MEDIUM,RB1 QUESTIONABLE/DNP: secondary backfield opportunity
+2026-09-23T00:04:18+00:00,8138,James Cook,BUF,RB,0.2,MEDIUM,Starting interior DL QUESTIONABLE/DNP: rushing matchup improves
+2026-09-23T00:04:18+00:00,13345,Jonah Coleman,DEN,RB,0.2,MEDIUM,RB1 QUESTIONABLE/DNP: secondary backfield opportunity
+2026-09-23T00:04:18+00:00,11577,Will Shipley,PHI,RB,0.2,MEDIUM,RB1 QUESTIONABLE/DNP: secondary backfield opportunity
+2026-09-23T00:04:18+00:00,8144,Chris Olave,NO,WR,0.18,MEDIUM,Starting safety QUESTIONABLE/DNP: downfield coverage improves
+2026-09-23T00:04:18+00:00,13346,Denzel Boston,CLE,WR,0.18,MEDIUM,Starting safety QUESTIONABLE/DNP: downfield coverage improves
+2026-09-23T00:04:18+00:00,5967,Tony Pollard,TEN,RB,0.16,MEDIUM,Starting linebacker QUESTIONABLE/DNP: RB run/checkdown environment improves
+2026-09-23T00:04:18+00:00,6786,CeeDee Lamb,DAL,WR,0.15,MEDIUM,Top edge rusher OUT/IR: more time helps primary WR routes
+2026-09-23T00:04:18+00:00,11635,Ladd McConkey,LAC,WR,0.15,MEDIUM,Top edge rusher OUT/IR: more time helps primary WR routes
+2026-09-23T00:04:18+00:00,10229,Rashee Rice,KC,WR,0.15,MEDIUM,Top edge rusher OUT/IR: more time helps primary WR routes
+2026-09-23T00:04:18+00:00,7525,DeVonta Smith,PHI,WR,0.11,MEDIUM,TE1 QUESTIONABLE/DNP: WR1 target share can rise
+2026-09-23T00:04:18+00:00,8146,Garrett Wilson,NYJ,WR,0.11,MEDIUM,TE1 QUESTIONABLE/DNP: WR1 target share can rise
+2026-09-23T00:04:18+00:00,5927,Terry McLaurin,WAS,WR,-0.2,MEDIUM,QB1 OUT/IR: pass-catcher efficiency risk with backup QB | TE1 OUT/IR: WR1 target share can rise
+2026-09-23T00:04:18+00:00,8131,Isaiah Likely,NYG,TE,-0.22,MEDIUM,QB1 OUT/IR: pass-catcher efficiency risk with backup QB | WR1 QUESTIONABLE/DNP: TE target share can rise
+2026-09-23T00:04:18+00:00,11603,AJ Barner,SEA,TE,-0.45,MEDIUM,QB1 OUT/IR: pass-catcher efficiency risk with backup QB
+2026-09-23T00:04:18+00:00,8210,Chig Okonkwo,WAS,TE,-0.45,MEDIUM,QB1 OUT/IR: pass-catcher efficiency risk with backup QB
+2026-09-23T00:04:18+00:00,12517,Colston Loveland,CHI,TE,-0.45,MEDIUM,QB1 OUT/IR: pass-catcher efficiency risk with backup QB
+2026-09-23T00:04:18+00:00,8112,Drake London,ATL,WR,-0.45,MEDIUM,QB1 OUT/IR: pass-catcher efficiency risk with backup QB
+2026-09-23T00:04:18+00:00,8119,Jahan Dotson,ATL,WR,-0.45,MEDIUM,QB1 OUT/IR: pass-catcher efficiency risk with backup QB
+2026-09-23T00:04:18+00:00,9488,Jaxon Smith-Njigba,SEA,WR,-0.45,MEDIUM,QB1 OUT/IR: pass-catcher efficiency risk with backup QB
+2026-09-23T00:04:18+00:00,9756,Jordan Addison,MIN,WR,-0.45,MEDIUM,QB1 OUT/IR: pass-catcher efficiency risk with backup QB
+2026-09-23T00:04:18+00:00,6794,Justin Jefferson,MIN,WR,-0.45,MEDIUM,QB1 OUT/IR: pass-catcher efficiency risk with backup QB
+2026-09-23T00:04:18+00:00,7553,Kyle Pitts,ATL,TE,-0.45,MEDIUM,QB1 OUT/IR: pass-catcher efficiency risk with backup QB
+2026-09-23T00:04:18+00:00,12519,Luther Burden,CHI,WR,-0.45,MEDIUM,QB1 OUT/IR: pass-catcher efficiency risk with backup QB
+2026-09-23T00:04:18+00:00,8676,Rashid Shaheed,SEA,WR,-0.45,MEDIUM,QB1 OUT/IR: pass-catcher efficiency risk with backup QB
+2026-09-23T00:04:18+00:00,11620,Rome Odunze,CHI,WR,-0.45,MEDIUM,QB1 OUT/IR: pass-catcher efficiency risk with backup QB
+2026-09-23T00:04:18+00:00,2449,Stefon Diggs,WAS,WR,-0.45,MEDIUM,QB1 OUT/IR: pass-catcher efficiency risk with backup QB
+2026-09-23T00:04:18+00:00,5844,T.J. Hockenson,MIN,TE,-0.45,MEDIUM,QB1 OUT/IR: pass-catcher efficiency risk with backup QB

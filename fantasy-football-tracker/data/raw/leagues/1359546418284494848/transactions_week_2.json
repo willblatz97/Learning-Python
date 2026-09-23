@@ -1,5 +1,51 @@
 [
   {
+    "adds": null,
+    "consenter_ids": [
+      1
+    ],
+    "created": 1790086665110,
+    "creator": "779583277362245632",
+    "draft_picks": [],
+    "drops": {
+      "11665": 1
+    },
+    "leg": 2,
+    "metadata": null,
+    "roster_ids": [
+      1
+    ],
+    "settings": null,
+    "status": "complete",
+    "status_updated": 1790086665110,
+    "transaction_id": "1408129169606373376",
+    "type": "free_agent",
+    "waiver_budget": []
+  },
+  {
+    "adds": null,
+    "consenter_ids": [
+      3
+    ],
+    "created": 1790086562510,
+    "creator": "779583497248550912",
+    "draft_picks": [],
+    "drops": {
+      "5862": 3
+    },
+    "leg": 2,
+    "metadata": null,
+    "roster_ids": [
+      3
+    ],
+    "settings": null,
+    "status": "complete",
+    "status_updated": 1790086562510,
+    "transaction_id": "1408128739270774784",
+    "type": "free_agent",
+    "waiver_budget": []
+  },
+  {
     "adds": {
       "8183": 9
     },

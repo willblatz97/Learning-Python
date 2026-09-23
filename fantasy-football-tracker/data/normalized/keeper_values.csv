@@ -155,7 +155,6 @@ league_id,roster_id,is_my_roster,player_id,player,position,nfl_team,keeper_eligi
 1359546418284494848,6,False,10218,Xavier Hutchinson,WR,HOU,True,7,FA/default round,330.5,17,-10,0.2,secondary tiebreaker only
 1359546418284494848,7,False,167,Tom Brady,QB,,True,15,draft round,,,,0.0,secondary tiebreaker only
 1359546418284494848,1,True,10880,Jack Campbell,LB,DET,False,,not keeper eligible,3.5,,,0.0,redraft-only; keeper ignored
-1359546418284494848,1,True,11665,Jared Verse,DL,CLE,False,,not keeper eligible,24.0,,,0.0,redraft-only; keeper ignored
 1359546418284494848,1,True,13371,Dillon Thieneman,DB,CHI,False,,not keeper eligible,,,,0.0,redraft-only; keeper ignored
 1359546418284494848,1,True,2020,Cairo Santos,K,CHI,False,,not keeper eligible,217.0,,,0.0,redraft-only; keeper ignored
 1359546418284494848,2,False,11533,Brandon Aubrey,K,DAL,False,,not keeper eligible,187.0,,,0.0,redraft-only; keeper ignored
@@ -163,7 +162,6 @@ league_id,roster_id,is_my_roster,player_id,player,position,nfl_team,keeper_eligi
 1359546418284494848,2,False,5840,Josh Hines-Allen,DE,JAX,False,,not keeper eligible,86.0,,,0.0,redraft-only; keeper ignored
 1359546418284494848,2,False,5876,Julian Love,DB,SEA,False,,not keeper eligible,76.33,,,0.0,redraft-only; keeper ignored
 1359546418284494848,3,False,4081,Budda Baker,DB,ARI,False,,not keeper eligible,46.25,,,0.0,redraft-only; keeper ignored
-1359546418284494848,3,False,5862,Brian Burns,DE,NYG,False,,not keeper eligible,58.67,,,0.0,redraft-only; keeper ignored
 1359546418284494848,3,False,6949,Jordyn Brooks,LB,MIA,False,,not keeper eligible,3.25,,,0.0,redraft-only; keeper ignored
 1359546418284494848,3,False,7839,Evan McPherson,K,CIN,False,,not keeper eligible,214.33,,,0.0,redraft-only; keeper ignored
 1359546418284494848,4,False,11786,Cam Little,K,JAX,False,,not keeper eligible,197.17,,,0.0,redraft-only; keeper ignored

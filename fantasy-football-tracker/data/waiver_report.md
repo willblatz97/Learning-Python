@@ -25,7 +25,7 @@ FAAB remaining: 1000 / 1000
 3. Sam LaPorta (TE DET) — HIGH 81.6 — ECR 88.0 — FAAB 170-300 — consensus ECR 88 | rostered in most comparable leagues | depth-chart starter | thin TE depth on your roster | 2026 usage STABLE — snaps L3 89.5%, opps 7.5/g
 4. Quinshon Judkins (RB CLE) — HIGH 76.5 — ECR 68.33 — FAAB 170-300 — consensus ECR 68.33 | rostered in most comparable leagues | depth-chart starter | 2026 usage STABLE — snaps L3 66.0%, opps 15.5/g
 5. Josh Downs (WR IND) — HIGH 74.9 — ECR 81.0 — FAAB 100-180 — consensus ECR 81 | rostered in most comparable leagues | primary backup | 2026 usage STABLE — snaps L3 86.0%, opps 6.5/g | return role PR +0.42 pts/g | offense+return dual role
-6. Makai Lemon (WR PHI) — MEDIUM 71.3 — ECR 79.5 — FAAB 100-180 — consensus ECR 79.5 | rostered in most comparable leagues | primary backup | 2026 usage STABLE — snaps L3 63.5%, opps 2.5/g | return role PR +0.04 pts/g | offense+return dual role
+6. Makai Lemon (WR PHI) — MEDIUM 68.6 — ECR 79.5 — FAAB 100-180 — consensus ECR 79.5 | rostered in most comparable leagues | 2026 usage STABLE — snaps L3 63.5%, opps 2.5/g | return role PR +0.04 pts/g | offense+return dual role
 
 ### Recommended cuts
 No recommended cuts from the current roster-value model.
@@ -43,7 +43,8 @@ FAAB remaining: 100 / 100
 
 ### Adds
 1. Mike Gesicki (TE CIN) — WATCH 48.6 — ECR 243.33 — FAAB 1-3 — consensus ECR 243.33 | rostered in most comparable leagues | depth-chart starter | 2026 usage STABLE — snaps L3 34.0%, opps 7.0/g
-2. Xavier Hutchinson (WR HOU) — WATCH 34.6 — ECR 298.0 — FAAB 0-1 — consensus ECR 298 | rostered in most comparable leagues | 2 recent cross-league add(s) | 2026 usage STABLE — snaps L3 68.5%, opps 7.5/g
+2. Xavier Hutchinson (WR HOU) — WATCH 36.4 — ECR 298.0 — FAAB 0-1 — consensus ECR 298 | rostered in most comparable leagues | 2 recent cross-league add(s) | 2026 usage STABLE — snaps L3 68.5%, opps 7.5/g
+3. Emari Demercado (RB DAL) — WATCH 20.3 — ECR 318.67 — FAAB 0-1 — consensus ECR 318.67 | primary backup | 1 recent cross-league add(s) | 2026 usage STABLE — snaps L3 12.5%, opps 2.5/g
 
 ### Recommended cuts
 No recommended cuts from the current roster-value model.
