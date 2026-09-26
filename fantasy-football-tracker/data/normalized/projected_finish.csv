@@ -1,45 +1,45 @@
 league_id,league,roster_id,team,is_my_roster,power_score,power_percentile,league_power_rank,season_power_confidence,raw_power_z,effective_power_z,injury_flags,depth_bonus,current_wins,current_losses,expected_wins,projected_seed,most_likely_seed,finish_range_low,finish_range_high,playoff_odds,schedule_strength,schedule_difficulty_percentile,schedule_label,schedule_coverage_pct
-1389740418316374016,10-Team Redraft — Big Tiger Takeover,1,The Herban Legends,False,168.86,85.0,2,0.6,1.006,0.604,1,5.07,1.0,1.0,8.86,3.1,2,2,4,95.9,159.75,15.0,EASY,100.0
-1389740418316374016,10-Team Redraft — Big Tiger Takeover,2,Purdy Cooked,False,153.72,25.0,8,0.6,-1.033,-0.62,0,4.01,0.0,2.0,4.48,8.3,9,7,10,11.7,161.33,55.0,AVERAGE,100.0
-1389740418316374016,10-Team Redraft — Big Tiger Takeover,3,Jesus is God Amen!,False,168.24,75.0,3,0.6,0.923,0.554,2,6.31,2.0,0.0,9.43,2.7,2,2,4,98.3,161.04,25.0,EASY,100.0
-1389740418316374016,10-Team Redraft — Big Tiger Takeover,4,Third Reich & Long,True,161.43,45.0,6,0.6,0.006,0.003,0,5.42,1.0,1.0,6.95,5.6,5,4,7,69.6,161.61,75.0,HARD,100.0
-1389740418316374016,10-Team Redraft — Big Tiger Takeover,5,Sutton My Face,False,150.56,15.0,9,0.6,-1.458,-0.875,0,3.99,1.0,1.0,4.45,8.5,10,7,10,10.0,163.72,95.0,HARD,100.0
-1389740418316374016,10-Team Redraft — Big Tiger Takeover,6,My Step-Burrow Is Brown,False,159.95,35.0,7,0.6,-0.194,-0.116,1,5.04,1.0,1.0,6.64,6.1,7,5,8,56.0,161.47,65.0,AVERAGE,100.0
-1389740418316374016,10-Team Redraft — Big Tiger Takeover,7,Hurts Locker,False,164.43,65.0,4,0.6,0.41,0.246,4,5.94,0.0,2.0,6.63,5.6,5,4,7,68.3,161.3,45.0,AVERAGE,100.0
-1389740418316374016,10-Team Redraft — Big Tiger Takeover,8,I got a fag qb,False,149.97,5.0,10,0.6,-1.538,-0.923,0,3.59,1.0,1.0,4.45,8.7,10,8,10,8.2,163.19,85.0,HARD,100.0
-1389740418316374016,10-Team Redraft — Big Tiger Takeover,9,Downs Kids,False,172.46,95.0,1,0.6,1.491,0.895,0,4.8,2.0,0.0,10.52,1.6,1,1,2,99.6,159.18,5.0,EASY,100.0
-1389740418316374016,10-Team Redraft — Big Tiger Takeover,10,Mac Daddys,False,164.25,55.0,5,0.6,0.386,0.231,0,5.67,1.0,1.0,7.6,4.8,4,3,6,82.3,161.29,35.0,AVERAGE,100.0
-1370218620990263296,12-Team Dynasty — One League to Rule Them All,1,Sauron’s Commisioner,False,123.21,4.2,12,0.6,-2.193,-1.316,1,3.1,0.0,2.0,2.59,11.6,12,11,12,0.3,167.06,95.8,HARD,100.0
-1370218620990263296,12-Team Dynasty — One League to Rule Them All,2,Brandopoly,False,156.64,45.8,7,0.6,-0.288,-0.173,3,3.54,1.0,1.0,6.28,7.5,8,6,9,32.2,164.22,87.5,HARD,100.0
-1370218620990263296,12-Team Dynasty — One League to Rule Them All,3,Nazgûl Nation,True,162.62,54.2,6,0.6,0.052,0.031,0,5.73,1.0,1.0,7.15,6.3,6,4,8,56.6,160.61,37.5,AVERAGE,100.0
-1370218620990263296,12-Team Dynasty — One League to Rule Them All,4,RoboJVB,False,151.71,29.2,9,0.6,-0.569,-0.342,0,3.21,1.0,1.0,6.14,8.0,9,6,10,25.2,161.48,45.8,AVERAGE,100.0
-1370218620990263296,12-Team Dynasty — One League to Rule Them All,5,Average at Best,False,169.66,70.8,4,0.6,0.454,0.272,0,4.0,2.0,0.0,8.74,4.1,4,3,5,89.1,160.61,29.2,EASY,100.0
-1370218620990263296,12-Team Dynasty — One League to Rule Them All,6,scarberryt,False,149.07,12.5,11,0.6,-0.72,-0.432,1,5.69,0.0,2.0,4.9,9.7,11,8,11,7.6,161.92,54.2,AVERAGE,100.0
-1370218620990263296,12-Team Dynasty — One League to Rule Them All,7,sneekyn33ks,False,187.55,95.8,1,0.6,1.473,0.884,2,3.34,2.0,0.0,10.55,1.9,1,1,3,98.9,156.34,4.2,EASY,100.0
-1370218620990263296,12-Team Dynasty — One League to Rule Them All,8,Shaboomaboom,False,181.0,79.2,3,0.6,1.1,0.66,1,5.03,2.0,0.0,9.73,2.9,2,2,4,96.6,160.44,20.8,EASY,100.0
-1370218620990263296,12-Team Dynasty — One League to Rule Them All,9,Spoonfed7,False,149.6,20.8,10,0.6,-0.69,-0.414,1,4.31,1.0,1.0,5.91,8.4,10,7,10,19.7,162.78,62.5,AVERAGE,100.0
-1370218620990263296,12-Team Dynasty — One League to Rule Them All,10,JimmyJames2027,False,156.62,37.5,8,0.6,-0.289,-0.174,1,4.68,0.0,2.0,5.39,8.7,10,7,11,15.1,162.79,70.8,HARD,100.0
-1370218620990263296,12-Team Dynasty — One League to Rule Them All,11,The J-Squad,False,165.82,62.5,5,0.6,0.235,0.141,0,5.27,1.0,1.0,7.27,5.9,5,4,8,63.3,162.97,79.2,HARD,100.0
-1370218620990263296,12-Team Dynasty — One League to Rule Them All,12,Sonic & Knuckles,False,186.9,87.5,2,0.6,1.436,0.862,1,4.8,1.0,1.0,9.33,3.1,2,2,4,95.4,159.18,12.5,EASY,100.0
-1366076769534251008,10-Team Dynasty — Dynasty V2,1,Route 66ers,True,165.86,25.0,8,0.6,0.091,0.055,1,5.35,2.0,0.0,8.44,4.3,2,2,7,79.6,162.94,5.0,EASY,100.0
-1366076769534251008,10-Team Dynasty — Dynasty V2,2,cburt31,False,166.89,35.0,7,0.6,0.207,0.124,3,4.22,1.0,1.0,7.12,5.9,8,4,8,54.1,165.98,85.0,HARD,100.0
-1366076769534251008,10-Team Dynasty — Dynasty V2,3,Jesus is God Amen!,False,157.83,15.0,9,0.6,-0.814,-0.489,2,5.62,1.0,1.0,5.93,7.6,9,6,9,22.1,163.94,25.0,EASY,100.0
-1366076769534251008,10-Team Dynasty — Dynasty V2,4,ArogersAchilles,False,169.2,55.0,5,0.6,0.468,0.281,1,5.46,2.0,0.0,8.87,3.3,1,1,5,89.5,163.55,15.0,EASY,100.0
-1366076769534251008,10-Team Dynasty — Dynasty V2,5,jblatz,False,169.61,65.0,4,0.6,0.514,0.308,1,7.11,1.0,1.0,7.57,4.8,6,2,7,71.2,165.79,65.0,AVERAGE,100.0
-1366076769534251008,10-Team Dynasty — Dynasty V2,6,zthompson1533,False,169.75,75.0,3,0.6,0.53,0.318,0,6.38,0.0,2.0,6.61,5.9,8,4,8,53.4,165.85,75.0,HARD,100.0
-1366076769534251008,10-Team Dynasty — Dynasty V2,7,Manson,False,171.95,95.0,1,0.6,0.778,0.467,1,6.09,1.0,1.0,8.13,3.7,1,1,6,85.8,165.16,45.0,AVERAGE,100.0
-1366076769534251008,10-Team Dynasty — Dynasty V2,8,Stutterboyzzzz,False,167.87,45.0,6,0.6,0.318,0.191,0,5.65,1.0,1.0,7.44,5.3,7,3,8,64.3,164.94,35.0,AVERAGE,100.0
-1366076769534251008,10-Team Dynasty — Dynasty V2,9,TheANT2,False,140.9,5.0,10,0.6,-2.723,-1.634,0,4.45,0.0,2.0,2.1,9.9,10,10,10,0.1,166.88,95.0,HARD,100.0
-1366076769534251008,10-Team Dynasty — Dynasty V2,10,GOOBERTON,False,170.65,85.0,2,0.6,0.631,0.379,0,4.52,1.0,1.0,7.81,4.2,2,2,6,80.0,165.47,55.0,AVERAGE,100.0
-1359546418284494848,12-Team 2-Keeper — League Is Rigged V2,1,Third Reich & Long,True,186.67,62.5,5,0.6,0.108,0.065,0,4.57,0.0,2.0,6.39,7.1,8,5,10,41.9,184.36,12.5,EASY,100.0
-1359546418284494848,12-Team 2-Keeper — League Is Rigged V2,2,Stutterboyzzzz,False,177.96,20.8,10,0.6,-0.752,-0.451,2,2.74,0.0,2.0,4.83,9.9,11,8,12,7.8,185.88,62.5,AVERAGE,100.0
-1359546418284494848,12-Team 2-Keeper — League Is Rigged V2,3,Njigbas in paris,False,191.31,87.5,2,0.6,0.567,0.34,1,4.3,1.0,1.0,7.93,4.4,2,2,6,80.5,185.2,20.8,EASY,100.0
-1359546418284494848,12-Team 2-Keeper — League Is Rigged V2,4,jblatz,False,190.07,79.2,3,0.6,0.444,0.267,2,6.28,2.0,0.0,8.75,3.6,2,2,5,89.1,185.24,29.2,EASY,100.0
-1359546418284494848,12-Team 2-Keeper — League Is Rigged V2,5,zthompson1533,False,214.03,95.8,1,0.6,2.811,1.687,0,2.72,1.0,1.0,10.98,1.3,1,1,1,99.7,183.01,4.2,EASY,100.0
-1359546418284494848,12-Team 2-Keeper — League Is Rigged V2,6,Daejon love #1 fan,False,179.2,29.2,9,0.6,-0.629,-0.378,1,3.81,2.0,0.0,7.11,6.7,8,4,9,46.3,185.44,45.8,AVERAGE,100.0
-1359546418284494848,12-Team 2-Keeper — League Is Rigged V2,7,GOOBERTON,False,186.06,54.2,6,0.6,0.048,0.029,1,4.09,1.0,1.0,7.12,6.2,5,4,9,56.1,185.91,70.8,HARD,100.0
-1359546418284494848,12-Team 2-Keeper — League Is Rigged V2,8,2kyle,False,177.61,12.5,11,0.6,-0.786,-0.472,1,6.53,1.0,1.0,5.86,8.8,11,7,11,17.6,185.7,54.2,AVERAGE,100.0
-1359546418284494848,12-Team 2-Keeper — League Is Rigged V2,9,liamblatz,False,186.87,70.8,4,0.6,0.128,0.077,1,5.96,1.0,1.0,7.2,5.7,4,3,8,63.6,185.94,79.2,HARD,100.0
-1359546418284494848,12-Team 2-Keeper — League Is Rigged V2,10,Brock Bottom,False,172.11,4.2,12,0.6,-1.33,-0.798,2,5.04,0.0,2.0,3.95,11.0,12,10,12,2.3,186.78,87.5,HARD,100.0
-1359546418284494848,12-Team 2-Keeper — League Is Rigged V2,11,Saxis,False,183.32,45.8,7,0.6,-0.222,-0.133,1,4.94,2.0,0.0,7.37,6.0,6,4,8,58.7,188.13,95.8,HARD,100.0
-1359546418284494848,12-Team 2-Keeper — League Is Rigged V2,12,League is rigged,False,181.65,37.5,8,0.6,-0.387,-0.232,1,5.09,1.0,1.0,6.52,7.4,9,5,10,36.4,185.26,37.5,AVERAGE,100.0
+1389740418316374016,10-Team Redraft — Big Tiger Takeover,1,The Herban Legends,False,165.56,65.0,4,0.6,0.538,0.323,1,4.81,1.0,1.0,8.15,4.0,3,3,5,91.8,159.81,15.0,EASY,100.0
+1389740418316374016,10-Team Redraft — Big Tiger Takeover,2,Purdy Cooked,False,158.63,35.0,7,0.6,-0.352,-0.211,0,3.96,0.0,2.0,5.56,7.1,7,6,9,35.1,160.89,35.0,AVERAGE,100.0
+1389740418316374016,10-Team Redraft — Big Tiger Takeover,3,Jesus is God Amen!,False,166.99,85.0,2,0.6,0.722,0.433,1,5.7,2.0,0.0,9.13,2.8,2,2,4,97.6,161.14,45.0,AVERAGE,100.0
+1389740418316374016,10-Team Redraft — Big Tiger Takeover,4,Third Reich & Long,True,164.66,55.0,5,0.6,0.423,0.254,0,5.48,1.0,1.0,7.6,4.7,5,3,6,85.3,161.6,55.0,AVERAGE,100.0
+1389740418316374016,10-Team Redraft — Big Tiger Takeover,5,Sutton My Face,False,150.09,15.0,9,0.6,-1.449,-0.869,0,4.75,1.0,1.0,4.57,8.4,10,7,10,11.8,163.33,85.0,HARD,100.0
+1389740418316374016,10-Team Redraft — Big Tiger Takeover,6,My Step-Burrow Is Brown,False,154.8,25.0,8,0.6,-0.844,-0.506,1,4.02,1.0,1.0,5.62,7.2,8,6,9,31.6,161.71,65.0,AVERAGE,100.0
+1389740418316374016,10-Team Redraft — Big Tiger Takeover,7,Hurts Locker,False,161.12,45.0,6,0.6,-0.032,-0.019,2,5.78,0.0,2.0,5.84,6.7,6,5,8,47.7,162.02,75.0,HARD,100.0
+1389740418316374016,10-Team Redraft — Big Tiger Takeover,8,I got a fag qb,False,149.86,5.0,10,0.6,-1.479,-0.887,0,2.94,1.0,1.0,4.43,8.8,10,8,10,8.8,163.79,95.0,HARD,100.0
+1389740418316374016,10-Team Redraft — Big Tiger Takeover,9,Downs Kids,False,176.01,95.0,1,0.6,1.881,1.128,0,4.81,2.0,0.0,11.08,1.4,1,1,2,99.8,158.72,5.0,EASY,100.0
+1389740418316374016,10-Team Redraft — Big Tiger Takeover,10,Mac Daddys,False,165.98,75.0,3,0.6,0.592,0.355,2,5.5,1.0,1.0,8.02,4.0,3,2,5,90.5,160.69,25.0,EASY,100.0
+1370218620990263296,12-Team Dynasty — One League to Rule Them All,1,Sauron’s Commisioner,False,108.08,4.2,12,0.6,-2.582,-1.549,1,1.53,0.0,2.0,2.16,11.8,12,12,12,0.0,165.47,95.8,HARD,100.0
+1370218620990263296,12-Team Dynasty — One League to Rule Them All,2,Brandopoly,False,148.72,20.8,10,0.6,-0.529,-0.317,2,2.88,1.0,1.0,5.92,8.5,10,7,10,16.8,162.01,87.5,HARD,100.0
+1370218620990263296,12-Team Dynasty — One League to Rule Them All,3,Nazgûl Nation,True,163.36,54.2,6,0.6,0.211,0.127,0,5.39,1.0,1.0,7.37,6.1,6,4,8,57.5,157.97,20.8,EASY,100.0
+1370218620990263296,12-Team Dynasty — One League to Rule Them All,4,RoboJVB,False,158.08,45.8,7,0.6,-0.056,-0.034,1,2.85,1.0,1.0,6.96,6.8,7,5,9,44.4,158.09,29.2,EASY,100.0
+1370218620990263296,12-Team Dynasty — One League to Rule Them All,5,Average at Best,False,169.75,70.8,4,0.6,0.534,0.32,1,3.47,2.0,0.0,8.83,4.0,4,2,6,87.9,158.21,37.5,AVERAGE,100.0
+1370218620990263296,12-Team Dynasty — One League to Rule Them All,6,scarberryt,False,144.95,12.5,11,0.6,-0.719,-0.432,0,5.03,0.0,2.0,4.78,9.9,11,9,11,5.5,160.28,70.8,HARD,100.0
+1370218620990263296,12-Team Dynasty — One League to Rule Them All,7,sneekyn33ks,False,183.52,95.8,1,0.6,1.23,0.738,1,2.17,2.0,0.0,10.23,2.0,1,1,3,98.0,152.9,4.2,EASY,100.0
+1370218620990263296,12-Team Dynasty — One League to Rule Them All,8,Shaboomaboom,False,177.51,79.2,3,0.6,0.926,0.555,0,5.18,2.0,0.0,9.43,3.1,2,2,5,94.2,158.31,45.8,AVERAGE,100.0
+1370218620990263296,12-Team Dynasty — One League to Rule Them All,9,Spoonfed7,False,148.76,29.2,9,0.6,-0.527,-0.316,1,3.62,1.0,1.0,6.12,8.1,9,6,10,21.7,160.4,79.2,HARD,100.0
+1370218620990263296,12-Team Dynasty — One League to Rule Them All,10,JimmyJames2027,False,157.97,37.5,8,0.6,-0.062,-0.037,0,4.48,0.0,2.0,5.74,8.4,9,7,10,17.2,160.17,62.5,AVERAGE,100.0
+1370218620990263296,12-Team Dynasty — One League to Rule Them All,11,The J-Squad,False,166.98,62.5,5,0.6,0.394,0.236,0,5.36,1.0,1.0,7.51,5.7,5,4,8,65.2,160.06,54.2,AVERAGE,100.0
+1370218620990263296,12-Team Dynasty — One League to Rule Them All,12,Sonic & Knuckles,False,182.57,87.5,2,0.6,1.182,0.709,0,4.24,1.0,1.0,8.97,3.4,2,2,5,91.6,156.37,12.5,EASY,100.0
+1366076769534251008,10-Team Dynasty — Dynasty V2,1,Route 66ers,True,167.73,45.0,6,0.6,0.39,0.234,1,5.44,2.0,0.0,8.94,3.5,1,1,5,90.1,160.75,5.0,EASY,100.0
+1366076769534251008,10-Team Dynasty — Dynasty V2,2,cburt31,False,156.69,25.0,8,0.6,-0.642,-0.385,0,4.51,1.0,1.0,5.67,7.5,8,6,9,21.5,166.13,95.0,HARD,100.0
+1366076769534251008,10-Team Dynasty — Dynasty V2,3,Jesus is God Amen!,False,149.81,15.0,9,0.6,-1.285,-0.771,0,4.63,1.0,1.0,5.11,8.2,9,7,9,11.6,163.48,45.0,AVERAGE,100.0
+1366076769534251008,10-Team Dynasty — Dynasty V2,4,ArogersAchilles,False,164.91,35.0,7,0.6,0.126,0.076,1,4.65,2.0,0.0,8.22,4.5,5,2,7,79.9,163.0,35.0,AVERAGE,100.0
+1366076769534251008,10-Team Dynasty — Dynasty V2,5,jblatz,False,171.14,75.0,3,0.6,0.709,0.425,2,6.9,1.0,1.0,8.01,4.1,3,2,6,83.8,163.59,55.0,AVERAGE,100.0
+1366076769534251008,10-Team Dynasty — Dynasty V2,6,zthompson1533,False,170.46,65.0,4,0.6,0.645,0.387,1,6.31,0.0,2.0,6.77,5.8,7,4,8,57.5,164.69,75.0,HARD,100.0
+1366076769534251008,10-Team Dynasty — Dynasty V2,7,Manson,False,171.49,85.0,2,0.6,0.741,0.445,1,5.44,1.0,1.0,8.01,4.0,2,2,6,85.2,164.29,65.0,AVERAGE,100.0
+1366076769534251008,10-Team Dynasty — Dynasty V2,8,Stutterboyzzzz,False,168.5,55.0,5,0.6,0.462,0.277,0,5.29,1.0,1.0,7.85,4.6,5,2,7,77.0,162.09,15.0,EASY,100.0
+1366076769534251008,10-Team Dynasty — Dynasty V2,9,TheANT2,False,139.8,5.0,10,0.6,-2.221,-1.332,0,3.16,0.0,2.0,2.75,9.7,10,10,10,0.8,164.85,85.0,HARD,100.0
+1366076769534251008,10-Team Dynasty — Dynasty V2,10,GOOBERTON,False,175.06,95.0,1,0.6,1.075,0.645,1,4.84,1.0,1.0,8.67,3.0,1,1,5,92.5,162.72,25.0,EASY,100.0
+1359546418284494848,12-Team 2-Keeper — League Is Rigged V2,1,Third Reich & Long,True,183.42,70.8,4,0.6,0.352,0.211,1,4.23,0.0,2.0,6.68,6.8,7,5,9,43.8,178.96,20.8,EASY,100.0
+1359546418284494848,12-Team 2-Keeper — League Is Rigged V2,2,Stutterboyzzzz,False,156.21,4.2,12,0.6,-2.442,-1.465,1,3.17,0.0,2.0,2.4,11.8,12,12,12,0.1,181.84,95.8,HARD,100.0
+1359546418284494848,12-Team 2-Keeper — League Is Rigged V2,3,Njigbas in paris,False,190.36,87.5,2,0.6,1.065,0.639,0,4.67,1.0,1.0,8.45,4.0,2,2,6,83.9,180.5,70.8,HARD,100.0
+1359546418284494848,12-Team 2-Keeper — League Is Rigged V2,4,jblatz,False,181.72,54.2,6,0.6,0.178,0.107,0,5.25,2.0,0.0,8.3,4.9,4,3,7,74.7,179.64,37.5,AVERAGE,100.0
+1359546418284494848,12-Team 2-Keeper — League Is Rigged V2,5,zthompson1533,False,174.26,20.8,10,0.6,-0.588,-0.353,1,2.77,1.0,1.0,5.88,8.7,10,7,10,15.7,181.07,87.5,HARD,100.0
+1359546418284494848,12-Team 2-Keeper — League Is Rigged V2,6,Daejon love #1 fan,False,181.98,62.5,5,0.6,0.205,0.123,1,3.82,2.0,0.0,8.3,4.7,4,2,7,76.5,179.91,45.8,AVERAGE,100.0
+1359546418284494848,12-Team 2-Keeper — League Is Rigged V2,7,GOOBERTON,False,177.56,29.2,9,0.6,-0.249,-0.15,2,5.06,1.0,1.0,6.58,7.7,9,6,10,28.6,180.34,62.5,AVERAGE,100.0
+1359546418284494848,12-Team 2-Keeper — League Is Rigged V2,8,2kyle,False,181.05,45.8,7,0.6,0.109,0.065,1,6.59,1.0,1.0,7.12,6.6,7,4,9,46.1,180.07,54.2,AVERAGE,100.0
+1359546418284494848,12-Team 2-Keeper — League Is Rigged V2,9,liamblatz,False,196.53,95.8,1,0.6,1.699,1.019,1,5.59,1.0,1.0,9.51,2.5,1,1,4,95.3,179.47,29.2,EASY,100.0
+1359546418284494848,12-Team 2-Keeper — League Is Rigged V2,10,Brock Bottom,False,171.12,12.5,11,0.6,-0.911,-0.546,1,4.86,0.0,2.0,4.48,10.3,11,9,11,3.6,181.01,79.2,HARD,100.0
+1359546418284494848,12-Team 2-Keeper — League Is Rigged V2,11,Saxis,False,187.18,79.2,3,0.6,0.739,0.443,1,4.98,2.0,0.0,9.28,3.2,1,1,5,91.9,178.91,12.5,EASY,100.0
+1359546418284494848,12-Team 2-Keeper — League Is Rigged V2,12,League is rigged,False,178.47,37.5,8,0.6,-0.156,-0.094,0,4.89,1.0,1.0,7.01,6.9,8,5,9,39.9,178.13,4.2,EASY,100.0

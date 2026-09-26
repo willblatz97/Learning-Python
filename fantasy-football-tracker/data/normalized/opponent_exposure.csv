@@ -1,5 +1,5 @@
 player_id,full_name,position,nfl_team,opponent_leagues,injury_status
-13286,Jadarian Price,RB,SEA,3,Questionable
+13286,Jadarian Price,RB,SEA,3,
 11628,Marvin Harrison,WR,ARI,2,
 5892,David Montgomery,RB,HOU,2,
 12467,Jordan James,RB,SF,2,
@@ -10,7 +10,7 @@ player_id,full_name,position,nfl_team,opponent_leagues,injury_status
 12507,Omarion Hampton,RB,LAC,1,
 4881,Lamar Jackson,QB,BAL,1,
 6804,Jordan Love,QB,GB,1,
-7525,DeVonta Smith,WR,PHI,1,
+7525,DeVonta Smith,WR,PHI,1,Questionable
 7567,Kenny Gainwell,RB,TB,1,
 8130,Trey McBride,TE,ARI,1,
 8131,Isaiah Likely,TE,NYG,1,
@@ -33,15 +33,15 @@ LAC,Los Angeles Chargers,DEF,LAC,1,
 13268,Elijah Sarratt,WR,BAL,1,
 13288,Nicholas Singleton,RB,TEN,1,
 13418,Robert Henry,RB,WAS,1,
-3321,Tyreek Hill,WR,,1,Out
+3321,Tyreek Hill,WR,,1,
 5846,DK Metcalf,WR,PIT,1,
-6806,J.K. Dobbins,RB,DEN,1,Questionable
+6806,J.K. Dobbins,RB,DEN,1,
 7523,Trevor Lawrence,QB,JAX,1,
 7527,Mac Jones,QB,SF,1,
 7547,Amon-Ra St. Brown,WR,DET,1,
 8126,Wan'Dale Robinson,WR,TEN,1,
-8228,Jaylen Warren,RB,PIT,1,
-9508,Tyjae Spears,RB,TEN,1,
+8228,Jaylen Warren,RB,PIT,1,Questionable
+9508,Tyjae Spears,RB,TEN,1,Questionable
 9511,Keaton Mitchell,RB,LAC,1,
 10232,Michael Wilson,WR,ARI,1,
 11435,Emanuel Wilson,RB,SEA,1,
@@ -59,7 +59,7 @@ LAC,Los Angeles Chargers,DEF,LAC,1,
 4983,DJ Moore,WR,BUF,1,Questionable
 5045,Courtland Sutton,WR,DEN,1,
 6813,Jonathan Taylor,RB,IND,1,
-6865,Colby Parkinson,TE,LAR,1,
+6865,Colby Parkinson,TE,LAR,1,Questionable
 8111,Cade Otton,TE,TB,1,
 8144,Chris Olave,WR,NO,1,
 8154,Brian Robinson,RB,ATL,1,
@@ -70,6 +70,7 @@ LAC,Los Angeles Chargers,DEF,LAC,1,
 96,Aaron Rodgers,QB,PIT,1,
 10892,Will Anderson,DL,HOU,1,
 11604,Brock Bowers,TE,LV,1,Questionable
+11678,Cooper DeJean,DB,PHI,1,
 12526,Tetairoa McMillan,WR,CAR,1,
 13298,KC Concepcion,WR,CLE,1,
 13375,Sonny Styles,LB,WAS,1,
@@ -82,4 +83,4 @@ LAC,Los Angeles Chargers,DEF,LAC,1,
 6794,Justin Jefferson,WR,MIN,1,
 7543,Travis Etienne,RB,NO,1,
 8289,Aidan Hutchinson,DL,DET,1,
-8392,Nick Cross,DB,WAS,1,Questionable
+8392,Nick Cross,DB,WAS,1,Out
