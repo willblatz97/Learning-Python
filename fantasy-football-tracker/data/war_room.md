@@ -1,47 +1,47 @@
-# Fantasy War Room — Week 3
+# Fantasy War Room — Week 4
 
 Projection mode: **WEEKLY CONSENSUS** · Usage: **CURRENT SEASON ACTIVE**
 
 ## 10-Team Redraft — Big Tiger Takeover
-- LEAN OPPONENT — projection 157.45 · margin -2.2
-- Projected finish: seed #5 · 7.6 wins · 85.3% playoffs · range #3-#6 · roster power #5 · schedule AVERAGE
-- Action: LEAN CHANGE — QB: Bryce Young -> Justin Herbert (+1.20)
+- TRAILING — projection 156.57 · margin -16.01
+- Projected finish: seed #7 · 6.43 wins · 52.5% playoffs · range #5-#8 · roster power #6 · schedule AVERAGE
+- Action: CHANGE — FLEX: Quinshon Judkins -> Jacory Croskey-Merritt (+3.85)
 - Waiver: Jake Ferguson · MEDIUM · FAAB 3-7
 - Trade posture: PLAYOFF / RECOVERY PUSH
-- Push targets: Trevor Lawrence, Dak Prescott, Jalen Coker, Terry McLaurin, Dalton Kincaid
+- Push targets: Trevor Lawrence, Drake Maye, Terry McLaurin, Luther Burden, Chuba Hubbard
 - Rebuild targets: none
 
 ## 18-Team Chopped — Surviving the Chamber
-- COMFORTABLE — projection 152.35 · margin 152.35
-- Action: CHANGE — WR: Myles Price -> DK Metcalf (+2.38)
-- Waiver: Makai Lemon · MEDIUM · FAAB 100-180
+- COMFORTABLE — projection 156.08 · margin 156.08
+- Action: LEAN CHANGE — WR: Myles Price -> DK Metcalf (+0.86)
+- Waiver: Zay Flowers · MUST ADD · FAAB 280-450
 - Trade posture: Not active yet
 - Push targets: none
 - Rebuild targets: none
 
 ## 12-Team Dynasty — One League to Rule Them All
-- FAVORED — projection 153.15 · margin 10.91
-- Projected finish: seed #6 · 7.37 wins · 57.5% playoffs · range #4-#8 · roster power #6 · schedule EASY
-- Action: CHANGE — FLEX: Devaughn Vele -> D'Andre Swift (+4.28)
+- TRAILING — projection 158.24 · margin -24.53
+- Projected finish: seed #4 · 8.74 wins · 92.8% playoffs · range #3-#5 · roster power #4 · schedule EASY
+- Action: CHANGE — RB: Omarion Hampton -> D'Andre Swift (+7.43)
 - Waiver: — ·  · FAAB —
 - Trade posture: DUAL TRACK — evaluate push and rebuild
-- Push targets: Jalen Coker, Matthew Golden, Jaylen Warren, Derrick Henry, Brock Purdy
-- Rebuild targets: Fernando Mendoza, Jayden Daniels, Malik Nabers, Jaxon Smith-Njigba, Jeremiyah Love
+- Push targets: Jaylen Warren, Bhayshul Tuten, Stefon Diggs, Davante Adams, Brock Purdy
+- Rebuild targets: Fernando Mendoza, Jayden Daniels, Malik Nabers, Jaxon Smith-Njigba, Colston Loveland
 
 ## 10-Team Dynasty — Dynasty V2
-- LEAN OPPONENT — projection 156.51 · margin -3.97
-- Projected finish: seed #1 · 8.94 wins · 90.1% playoffs · range #1-#5 · roster power #6 · schedule EASY
-- Action: CHANGE — WR: Tetairoa McMillan -> Zay Flowers (+3.94)
+- FAVORED — projection 165.7 · margin 11.18
+- Projected finish: seed #1 · 9.79 wins · 97.8% playoffs · range #1-#4 · roster power #4 · schedule EASY
+- Action: CHANGE — TE: Pat Freiermuth -> Darren Waller (+2.03)
 - Waiver: Mike Gesicki · WATCH · FAAB 0-1
 - Trade posture: DUAL TRACK — evaluate push and rebuild
-- Push targets: David Montgomery, Trey McBride, Dalton Kincaid, Trevor Lawrence, Jalen Coker
-- Rebuild targets: Fernando Mendoza, Caleb Williams, Carnell Tate, Jordyn Tyson, Kenyon Sadiq
+- Push targets: David Montgomery, Trevor Lawrence, Cam Skattebo, Trey McBride, Joe Burrow
+- Rebuild targets: Fernando Mendoza, Caleb Williams, Carnell Tate, Malik Nabers, Kenyon Sadiq
 
 ## 12-Team 2-Keeper — League Is Rigged V2
-- FAVORED — projection 185.63 · margin 21.79
-- Projected finish: seed #7 · 6.68 wins · 43.8% playoffs · range #5-#9 · roster power #4 · schedule EASY
-- Action: LEAN CHANGE — RB: Quinshon Judkins -> Jeremiyah Love (+1.17)
-- Waiver: Amani Hooker · MUST ADD · FAAB 12-20
+- FAVORED — projection 182.22 · margin 26.07
+- Projected finish: seed #7 · 6.9 wins · 43.2% playoffs · range #5-#8 · roster power #6 · schedule AVERAGE
+- Action: CHANGE — RB: Quinshon Judkins -> Jeremiyah Love (+9.22)
+- Waiver: Andrew Wingard · MUST ADD · FAAB 12-20
 - Trade posture: PLAYOFF / RECOVERY PUSH
-- Push targets: Trevor Lawrence, Joe Burrow, Cam Skattebo, Dalton Kincaid, Chuba Hubbard
+- Push targets: Brock Purdy, Dak Prescott, Chuba Hubbard, Cam Skattebo, Michael Wilson
 - Rebuild targets: none

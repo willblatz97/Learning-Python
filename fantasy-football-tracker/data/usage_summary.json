@@ -2,9 +2,9 @@
   "current_season_data": true,
   "latest_week": 3,
   "note": "2025 is context only until 2026 regular-season snap data exists; current-season usage adjustments automatically activate after games are played.",
-  "players": 448,
+  "players": 474,
   "snap_source": "https://github.com/nflverse/nflverse-data/releases/download/snap_counts/snap_counts_2026.csv",
-  "snapshot_utc": "2026-09-26T16:50:26+00:00",
+  "snapshot_utc": "2026-09-30T01:08:15+00:00",
   "stats_source": "https://github.com/nflverse/nflverse-data/releases/download/stats_player/stats_player_week_2026.csv",
   "usage_season": 2026
 }
