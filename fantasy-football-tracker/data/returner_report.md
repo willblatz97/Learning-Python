@@ -13,38 +13,38 @@ Current KR/PR role + 2025 return baseline. Dual-role status uses Sleeper offensi
 - Malik Washington (WR MIA) — KR+PR; offensive depth SWR 1; proj return yds 72.1/g; HIGH confidence; yours: 10-Team Dynasty — Dynasty V2
 - Will Shipley (RB PHI) — KR; offensive depth RB 3; proj return yds 55.5/g; HIGH confidence
 - Rasheen Ali (RB BAL) — KR; offensive depth RB 3; proj return yds 50.9/g; HIGH confidence
-- Isaiah Williams (WR NYJ) — KR+PR; offensive depth SWR 3; proj return yds 45.9/g; HIGH confidence; yours: 18-Team Chopped — Surviving the Chamber
+- Isaiah Williams (WR NYJ) — KR+PR; offensive depth SWR 2; proj return yds 45.9/g; HIGH confidence; yours: 18-Team Chopped — Surviving the Chamber
 - Rashid Shaheed (WR SEA) — KR+PR; offensive depth RWR 2; proj return yds 43.6/g; HIGH confidence
 - Ameer Abdullah (RB JAX) — KR; offensive depth RB 3; proj return yds 43.3/g; HIGH confidence
 - Skyy Moore (WR GB) — KR+PR; offensive depth SWR 3; proj return yds 35.8/g; HIGH confidence
 - Dohnte Meyers (WR CIN) — KR+PR; offensive depth SWR 3; proj return yds 29.0/g; MEDIUM confidence
 - Deebo Samuel Sr. (WR SF) — KR; offensive depth SWR 2; proj return yds 28.2/g; HIGH confidence
-- Kalif Raymond (WR CHI) — KR+PR; offensive depth SWR 3; proj return yds 26.8/g; HIGH confidence
+- Kalif Raymond (WR CHI) — KR+PR; offensive depth SWR 3; proj return yds 26.8/g; HIGH confidence; yours: 10-Team Redraft — Big Tiger Takeover | 12-Team 2-Keeper — League Is Rigged V2
 - Brian Robinson (RB ATL) — KR; offensive depth RB 2; proj return yds 22.2/g; HIGH confidence
 - Parker Washington (WR JAX) — PR; offensive depth SWR 1; proj return yds 21.3/g; HIGH confidence; yours: 12-Team Dynasty — One League to Rule Them All
 - Jacob Cowing (WR SF) — KR+PR; offensive depth RWR 3; proj return yds 9.8/g; MEDIUM confidence
 - KC Concepcion (WR CLE) — PR; offensive depth SWR 2; proj return yds 7.0/g; MEDIUM confidence
-- Josh Downs (WR IND) — PR; offensive depth SWR 1; proj return yds 4.2/g; HIGH confidence; yours: 12-Team 2-Keeper — League Is Rigged V2 | 12-Team Dynasty — One League to Rule Them All
+- Kyren Williams (RB LAR) — PR; offensive depth RB 1; proj return yds 0.5/g; HIGH confidence
 
 ## Chopped / return-yard league value
 ### 18-Team Chopped — Surviving the Chamber
 - KaVontae Turpin — +12.46 return pts/g (KR+PR, HIGH) — OWNED
 - Chimere Dike — +11.68 return pts/g (KR+PR, HIGH) — OWNED
-- Myles Price — +11.1 return pts/g (KR+PR, HIGH) — START
-- Greg Dortch — +8.3 return pts/g (KR+PR, HIGH) — FA
+- Myles Price — +11.1 return pts/g (KR+PR, HIGH) — BENCH
+- Greg Dortch — +8.3 return pts/g (KR+PR, HIGH) — OWNED
 - Tom Kennedy — +8.28 return pts/g (KR+PR, HIGH) — FA
 - Devin Duvernay — +7.65 return pts/g (KR+PR, HIGH) — FA
 - Marvin Mims Jr. — +7.4 return pts/g (KR+PR, HIGH) — OWNED
 - Malik Washington — +7.21 return pts/g (KR+PR + OFF, HIGH) — OWNED
+- Anthony Gould — +7.07 return pts/g (KR+PR, HIGH) — FA
 - Jaylin Noel — +6.67 return pts/g (KR+PR, HIGH) — FA
 - Nikko Remigio — +6.65 return pts/g (KR+PR, HIGH) — FA
 - Kene Nwangwu — +6.04 return pts/g (KR, HIGH) — FA
-- Kameron Johnson — +5.74 return pts/g (KR+PR, HIGH) — OWNED
+- Kameron Johnson — +5.74 return pts/g (KR+PR, HIGH) — FA
 - Will Shipley — +5.55 return pts/g (KR + OFF, HIGH) — FA
 - Rasheen Ali — +5.09 return pts/g (KR + OFF, HIGH) — FA
 - Dylan Laube — +5.03 return pts/g (KR+PR, HIGH) — FA
 - Derius Davis — +4.92 return pts/g (KR+PR, HIGH) — OWNED
 - Isaiah Williams — +4.59 return pts/g (KR+PR + OFF, HIGH) — START
-- Deonte Banks — +4.44 return pts/g (KR, HIGH) — FA
 - Rashid Shaheed — +4.36 return pts/g (KR+PR + OFF, HIGH) — OWNED
 - Ameer Abdullah — +4.33 return pts/g (KR + OFF, HIGH) — FA

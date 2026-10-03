@@ -456,7 +456,6 @@
       "13330",
       "2216",
       "3294",
-      "3321",
       "4866",
       "5189",
       "8112",
@@ -473,7 +472,6 @@
       "13330": 33.0,
       "2216": 12.4,
       "3294": 23.24,
-      "3321": 0.0,
       "4866": 14.0,
       "5189": 8.0,
       "8112": 36.4,
@@ -572,7 +570,7 @@
   {
     "custom_points": null,
     "matchup_id": 10,
-    "players": [],
+    "players": null,
     "players_points": {},
     "points": 0.0,
     "roster_id": 10,
@@ -794,7 +792,7 @@
   {
     "custom_points": null,
     "matchup_id": 14,
-    "players": [],
+    "players": null,
     "players_points": {},
     "points": 0.0,
     "roster_id": 14,

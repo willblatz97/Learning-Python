@@ -1,17 +1,17 @@
 game_id,season,week,gameday,weekday,gametime,home_team,away_team,spread_line,total_line,roof,surface,temp,wind,stadium,location
-2026_04_PIT_CLE,2026,4,2026-10-01,Thursday,20:15,CLE,PIT,-2.5,38.5,outdoors,grass,,,Huntington Bank Field,Home
-2026_04_IND_WAS,2026,4,2026-10-04,Sunday,09:30,WAS,IND,-3.5,47.5,outdoors,grass,,,Tottenham Hotspur Stadium,Neutral
-2026_04_TEN_BAL,2026,4,2026-10-04,Sunday,13:00,BAL,TEN,11.5,43.5,outdoors,grass,,,M&T Bank Stadium,Home
-2026_04_NE_BUF,2026,4,2026-10-04,Sunday,13:00,BUF,NE,7,48.5,outdoors,a_turf,,,Highmark Stadium,Home
+2026_04_PIT_CLE,2026,4,2026-10-01,Thursday,20:15,CLE,PIT,-2.5,38.5,outdoors,grass,77,11,Huntington Bank Field,Home
+2026_04_IND_WAS,2026,4,2026-10-04,Sunday,09:30,WAS,IND,-4.5,46.5,outdoors,grass,,,Tottenham Hotspur Stadium,Neutral
+2026_04_TEN_BAL,2026,4,2026-10-04,Sunday,13:00,BAL,TEN,11.5,42.5,outdoors,grass,,,M&T Bank Stadium,Home
+2026_04_NE_BUF,2026,4,2026-10-04,Sunday,13:00,BUF,NE,7,49.5,outdoors,a_turf,,,Highmark Stadium,Home
 2026_04_NYJ_CHI,2026,4,2026-10-04,Sunday,13:00,CHI,NYJ,3.5,43.5,outdoors,grass,,,Soldier Field,Home
 2026_04_JAX_CIN,2026,4,2026-10-04,Sunday,13:00,CIN,JAX,2.5,51.5,outdoors,fieldturf,,,Paycor Stadium,Home
-2026_04_DAL_HOU,2026,4,2026-10-04,Sunday,13:00,HOU,DAL,2.5,48.5,,astroturf,,,Reliant Stadium,Home
-2026_04_ARI_NYG,2026,4,2026-10-04,Sunday,13:00,NYG,ARI,-1.5,44.5,outdoors,fieldturf,,,MetLife Stadium,Home
-2026_04_LA_PHI,2026,4,2026-10-04,Sunday,13:00,PHI,LAR,-3,43.5,outdoors,grass,,,Lincoln Financial Field,Home
-2026_04_GB_TB,2026,4,2026-10-04,Sunday,13:00,TB,GB,-3.5,39.5,outdoors,grass,,,Raymond James Stadium,Home
-2026_04_MIA_MIN,2026,4,2026-10-04,Sunday,16:05,MIN,MIA,10.5,38.5,dome,sportturf,,,U.S. Bank Stadium,Home
+2026_04_DAL_HOU,2026,4,2026-10-04,Sunday,13:00,HOU,DAL,3,48.5,,astroturf,,,Reliant Stadium,Home
+2026_04_ARI_NYG,2026,4,2026-10-04,Sunday,13:00,NYG,ARI,-2.5,44.5,outdoors,fieldturf,,,MetLife Stadium,Home
+2026_04_LA_PHI,2026,4,2026-10-04,Sunday,13:00,PHI,LAR,-3.5,42.5,outdoors,grass,,,Lincoln Financial Field,Home
+2026_04_GB_TB,2026,4,2026-10-04,Sunday,13:00,TB,GB,-3,39.5,outdoors,grass,,,Raymond James Stadium,Home
+2026_04_MIA_MIN,2026,4,2026-10-04,Sunday,16:05,MIN,MIA,10,38.5,dome,sportturf,,,U.S. Bank Stadium,Home
 2026_04_KC_LV,2026,4,2026-10-04,Sunday,16:25,LV,KC,-4.5,47.5,dome,grass,,,Allegiant Stadium,Home
 2026_04_LAC_SEA,2026,4,2026-10-04,Sunday,16:25,SEA,LAC,7,42.5,outdoors,fieldturf,,,Lumen Field,Home
 2026_04_DEN_SF,2026,4,2026-10-04,Sunday,16:25,SF,DEN,3,47.5,outdoors,grass,,,Levi's Stadium,Home
 2026_04_DET_CAR,2026,4,2026-10-04,Sunday,20:20,CAR,DET,-3.5,50.5,outdoors,grass,,,Bank of America Stadium,Home
-2026_04_ATL_NO,2026,4,2026-10-05,Monday,20:15,NO,ATL,3,48.5,dome,sportturf,,,Caesars Superdome,Home
+2026_04_ATL_NO,2026,4,2026-10-05,Monday,20:15,NO,ATL,2.5,47.5,dome,sportturf,,,Caesars Superdome,Home

@@ -120,7 +120,8 @@
     "metadata": {
       "allow_pn": "on",
       "allow_sms": "on",
-      "mention_pn": "on"
+      "mention_pn": "on",
+      "team_name": "Joe-Burritos"
     },
     "settings": null,
     "user_id": "1128436496693874688"

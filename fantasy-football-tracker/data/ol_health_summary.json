@@ -1,7 +1,5 @@
 {
   "degraded_teams": [
-    "CLE",
-    "GB",
     "ATL"
   ],
   "depth_source": "https://github.com/nflverse/nflverse-data/releases/download/depth_charts/depth_charts_2026.csv.gz",
@@ -11,7 +9,7 @@
   "note": "Current depth-chart starters plus Sleeper injury designations are always available. Offensive-line IDs use public IDs first and a same-team Sleeper name fallback. Unmapped metadata carries zero injury penalty. Official 2026 injury-report data is automatically layered in when available.",
   "official_injury_report_available": true,
   "official_injury_source": "https://github.com/nflverse/nflverse-data/releases/download/injuries/injuries_2026.csv",
-  "snapshot_utc": "2026-09-30T01:08:17+00:00",
+  "snapshot_utc": "2026-10-03T16:55:16+00:00",
   "starter_rows": 160,
   "teams": 32
 }
