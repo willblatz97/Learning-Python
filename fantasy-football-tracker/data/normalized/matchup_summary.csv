@@ -1,6 +1,6 @@
 league_id,league,league_type,team,opponent_or_chop_rank,my_lineup_score,opponent_or_chop_line,projected_margin,recommended_changes,injury_monitors,score_mode,return_adjusted_projection,projected_return_points_added,nonreturn_projection,return_adjusted_chop_line,nonreturn_chop_line,return_adjusted_margin,nonreturn_margin,return_adjusted_rank,nonreturn_rank
-1389740418316374016,10-Team Redraft — Big Tiger Takeover,redraft,Third Reich & Long,Mac Daddys,161.32,175.44,-14.12,1,0,weekly consensus + return scoring,,,,,,,,,
-1370453762442797056,18-Team Chopped — Surviving the Chamber,chopped,Third Reich & Long,Projected rank 4/18,161.45,0.0,161.45,0,0,league-scored weekly projection + separate return reconciliation,161.45,4.59,156.86,0.0,0.0,161.45,156.86,4,4
-1370218620990263296,12-Team Dynasty — One League to Rule Them All,dynasty,Nazgûl Nation,Shaboomaboom,168.54,184.27,-15.73,0,0,weekly consensus + return scoring,,,,,,,,,
-1366076769534251008,10-Team Dynasty — Dynasty V2,dynasty,Route 66ers,Jesus is God Amen!,166.3,162.69,3.61,1,1,weekly consensus + return scoring,,,,,,,,,
-1359546418284494848,12-Team 2-Keeper — League Is Rigged V2,keeper,Third Reich & Long,GOOBERTON,204.89,145.75,59.14,1,0,weekly consensus + return scoring,,,,,,,,,
+1389740418316374016,10-Team Redraft — Big Tiger Takeover,redraft,Third Reich & Long,Purdy Cooked,144.79,145.3,-0.51,3,0,weekly consensus + return scoring,,,,,,,,,
+1370453762442797056,18-Team Chopped — Surviving the Chamber,chopped,Third Reich & Long,Projected rank 1/18,167.94,0.0,167.94,2,0,league-scored weekly projection + separate return reconciliation,167.94,4.59,163.35,0.0,0.0,167.94,163.35,1,1
+1370218620990263296,12-Team Dynasty — One League to Rule Them All,dynasty,Nazgûl Nation,RoboJVB,153.82,142.49,11.33,2,0,weekly consensus + return scoring,,,,,,,,,
+1366076769534251008,10-Team Dynasty — Dynasty V2,dynasty,Route 66ers,TheANT2,154.27,120.83,33.44,2,0,weekly consensus + return scoring,,,,,,,,,
+1359546418284494848,12-Team 2-Keeper — League Is Rigged V2,keeper,Third Reich & Long,2kyle,191.2,194.05,-2.85,2,2,weekly consensus + return scoring,,,,,,,,,

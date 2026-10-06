@@ -1,93 +1,99 @@
-# Saturday Lineup & Matchup Board — Week 4
+# Saturday Lineup & Matchup Board — Week 5
 
 ## 10-Team Redraft — Big Tiger Takeover
 Team: Third Reich & Long
-Opponent: Mac Daddys — lineup proxy 161.32 vs 175.44; margin -14.12
+Opponent: Purdy Cooked — lineup proxy 144.79 vs 145.30; margin -0.51
 
 ### Lineup actions
-- CHANGE FLEX: Kalif Raymond (10.18) -> Jacory Croskey-Merritt (15.2); delta 5.02; injury clear
+- MUST CHANGE WR: Ja'Marr Chase (12.54) -> Denzel Boston (13.03); delta 0.49; injury OUT
+- CHANGE FLEX: Kalif Raymond (6.56) -> Quinshon Judkins (13.92); delta 7.36; injury clear
+- CHANGE FLEX: Braelon Allen (11.59) -> Quinshon Judkins (13.92); delta 2.33; injury clear
 
 ### Your injury / practice watch
 No monitor-level starter flags.
 
 ### Opponent threats
-- Jahmyr Gibbs (RB DET) — 28.61 vs CAR
-- Joe Burrow (QB CIN) — 25.76 vs JAX
-- Jaylen Warren (RB PIT) — 22.13 vs CLE
+- Amon-Ra St. Brown (WR DET) — 24.72 vs ARI
+- Brock Purdy (QB SF) — 22.38 vs SEA
+- Ashton Jeanty (RB LV) — 18.53 vs NE
 
 ### Opponent injury leverage
 No opponent starter injury/practice flags currently detected.
 
 ## 18-Team Chopped — Surviving the Chamber
 Team: Third Reich & Long
-Projected rank 4/18 — lineup proxy 161.45; projected chop line 0.00; safety margin +161.45
+Projected rank 1/18 — lineup proxy 167.94; projected chop line 0.00; safety margin +167.94
 
 ### Lineup actions
-No lineup changes clear the current action threshold.
+- CHANGE WR: Isaiah Williams (12.04) -> DK Metcalf (16.23); delta 4.19; injury clear
+- LEAN CHANGE FLEX: TreVeyon Henderson (14.49) -> DK Metcalf (16.23); delta 1.74; injury clear
 
 ### Your injury / practice watch
 No monitor-level starter flags.
 
 ### Chop-field injury leverage
-- Jalen Coker (WR CAR) — QUESTIONABLE; could lower another roster's floor
-- Zay Flowers (WR BAL) — QUESTIONABLE; could lower another roster's floor
-- Mike Evans (WR SF) — QUESTIONABLE; could lower another roster's floor
-- Kenyon Sadiq (TE NYJ) — QUESTIONABLE; could lower another roster's floor
-- Ladd McConkey (WR LAC) — QUESTIONABLE; could lower another roster's floor
+- Breece Hall (RB NYJ) — OUT; could lower another roster's floor
+- Jeremiyah Love (RB ARI) — QUESTIONABLE; could lower another roster's floor
+- Rashee Rice (WR KC) — QUESTIONABLE; could lower another roster's floor
+- Tee Higgins (WR CIN) — QUESTIONABLE; could lower another roster's floor
+- Kyle Monangai (RB CHI) — QUESTIONABLE; could lower another roster's floor
 
 ## 12-Team Dynasty — One League to Rule Them All
 Team: Nazgûl Nation
-Opponent: Shaboomaboom — lineup proxy 168.54 vs 184.27; margin -15.73
+Opponent: RoboJVB — lineup proxy 153.82 vs 142.49; margin +11.33
 
 ### Lineup actions
-No lineup changes clear the current action threshold.
+- LEAN CHANGE TE: Dalton Schultz (11.08) -> Jake Ferguson (12.33); delta 1.25; injury clear
+- CHANGE FLEX: Luther Burden (11.29) -> Emanuel Wilson (14.12); delta 2.83; injury clear
 
 ### Your injury / practice watch
 No monitor-level starter flags.
 
 ### Opponent threats
-- Bijan Robinson (RB ATL) — 23.35 vs NO
-- Bo Nix (QB DEN) — 21.85 vs SF
-- Tyler Shough (QB NO) — 21.19 vs ATL
+- Jaxon Smith-Njigba (WR SEA) — 24.84 vs SF
+- Tetairoa McMillan (WR CAR) — 22.84 vs TBD
+- Kyren Williams (RB LAR) — 20.73 vs BUF
 
 ### Opponent injury leverage
-No opponent starter injury/practice flags currently detected.
+- Kyle Monangai — QUESTIONABLE; current lineup score 9.42
+- Mack Hollins — QUESTIONABLE; current lineup score 8.79
+- Ladd McConkey — OUT; current lineup score 1.25
 
 ## 10-Team Dynasty — Dynasty V2
 Team: Route 66ers
-Opponent: Jesus is God Amen! — lineup proxy 166.30 vs 162.69; margin +3.61
+Opponent: TheANT2 — lineup proxy 154.27 vs 120.83; margin +33.44
 
 ### Lineup actions
-- CHANGE TE: Pat Freiermuth (10.53) -> Darren Waller (12.93); delta 2.4; injury clear
-
-### Your injury / practice watch
-- Zay Flowers — QUESTIONABLE; best legal bench option: Luther Burden
-
-### Opponent threats
-- Bijan Robinson (RB ATL) — 24.17 vs NO
-- C.J. Stroud (QB HOU) — 22.29 vs DAL
-- Nico Collins (WR HOU) — 19.97 vs DAL
-
-### Opponent injury leverage
-No opponent starter injury/practice flags currently detected.
-
-## 12-Team 2-Keeper — League Is Rigged V2
-Team: Third Reich & Long
-Opponent: GOOBERTON — lineup proxy 204.89 vs 145.75; margin +59.14
-
-### Lineup actions
-- CHANGE QB: Sam Darnold (24.68) -> Drake Maye (27.09); delta 2.41; injury clear
+- LEAN CHANGE TE: Pat Freiermuth (11.52) -> Jake Ferguson (12.69); delta 1.17; injury clear
+- MUST CHANGE SUPER_FLEX: Marcus Mariota (1.2) -> Deshaun Watson (18.56); delta 17.36; injury OUT
 
 ### Your injury / practice watch
 No monitor-level starter flags.
 
 ### Opponent threats
-- Patrick Mahomes (QB KC) — 31.25 vs LV
-- Chuba Hubbard (RB CAR) — 22.13 vs DET
-- CeeDee Lamb (WR DAL) — 19.79 vs HOU
+- James Cook (RB BUF) — 18.01 vs LAR
+- Tee Higgins (WR CIN) — 16.70 vs MIA
+- Justin Herbert (QB LAC) — 16.44 vs DEN
 
 ### Opponent injury leverage
-- Edgerrin Cooper — QUESTIONABLE; current lineup score 13.32
-- Terry McLaurin — DOUBTFUL; current lineup score 3.07
-- Breece Hall — OUT; current lineup score 0.81
-- Nick Bosa — OUT; current lineup score 0.00
+- Tee Higgins — QUESTIONABLE; current lineup score 16.70
+
+## 12-Team 2-Keeper — League Is Rigged V2
+Team: Third Reich & Long
+Opponent: 2kyle — lineup proxy 191.20 vs 194.05; margin -2.85
+
+### Lineup actions
+- CHANGE QB: Sam Darnold (24.64) -> Drake Maye (29.09); delta 4.45; injury clear
+- MUST CHANGE WR: Ja'Marr Chase (11.99) -> Carnell Tate (13.95); delta 1.96; injury OUT
+
+### Your injury / practice watch
+- Jeremiyah Love — QUESTIONABLE; best legal bench option: Carnell Tate
+- Chase McLaughlin — QUESTIONABLE; best legal bench option: none
+
+### Opponent threats
+- Bijan Robinson (RB ATL) — 31.14 vs BAL
+- Trevor Lawrence (QB JAX) — 26.22 vs PHI
+- Javonte Williams (RB DAL) — 24.35 vs TB
+
+### Opponent injury leverage
+No opponent starter injury/practice flags currently detected.

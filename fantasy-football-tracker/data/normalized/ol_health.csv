@@ -1,33 +1,33 @@
 snapshot_utc,source_dt,team,ol_health_score,ol_grade,healthy_starters,at_risk_starters,unavailable_starters,pass_game_adjustment,run_game_adjustment,lt,lg,c,rg,rt,concerns,official_injury_report_available
-2026-10-03T16:55:16+00:00,2026-10-03T12:27:18Z,ATL,63.3,DEGRADED,1,4,0,-0.93,-0.62,Jake Matthews,Matthew Bergeron,Ryan Neuzil,Chris Lindstrom,Jawaan Taylor,LT Jake Matthews (AT RISK) | C Ryan Neuzil (AT RISK) | RG Chris Lindstrom (AT RISK) | RT Jawaan Taylor (AT RISK),True
-2026-10-03T16:55:16+00:00,2026-10-03T12:27:18Z,KC,77.8,MINOR CONCERN,4,0,1,-0.78,-0.24,Josh Simmons,Kingsley Suamataia,Creed Humphrey,Trey Smith,Kahlil Benson,LT Josh Simmons (UNAVAILABLE),True
-2026-10-03T16:55:16+00:00,2026-10-03T12:27:18Z,GB,81.5,MINOR CONCERN,4,0,1,-0.25,-0.45,Jordan Morgan,Aaron Banks,Sean Rhyan,Kevin Zeitler,Anthony Belton,LG Aaron Banks (UNAVAILABLE),True
-2026-10-03T16:55:16+00:00,2026-10-03T12:27:18Z,LV,81.5,MINOR CONCERN,4,0,1,-0.25,-0.45,Kolton Miller,Spencer Burford,Tyler Linderbaum,Jackson Powers-Johnson,DJ Glaze,RG Jackson Powers-Johnson (UNAVAILABLE),True
-2026-10-03T16:55:16+00:00,2026-10-03T12:27:18Z,NYG,86.1,MINOR CONCERN,3,2,0,-0.31,-0.26,Andrew Thomas,Jon Runyan,John Michael Schmitz,Francis Mauigoa,Jermaine Eluemunor,LT Andrew Thomas (LIMITED) | C John Michael Schmitz (AT RISK),True
-2026-10-03T16:55:16+00:00,2026-10-03T12:27:18Z,BAL,90.0,HEALTHY,4,1,0,-0.35,-0.11,Ronnie Stanley,John Simpson,Olaivavega Ioane,Andrew Vorhees,Roger Rosengarten,LT Ronnie Stanley (AT RISK),True
-2026-10-03T16:55:16+00:00,2026-10-03T12:27:18Z,CAR,90.0,HEALTHY,4,1,0,-0.35,-0.11,Rasheed Walker,Corey Bullock,Luke Fortner,Robert Hunt,Monroe Freeling,RT Monroe Freeling (AT RISK),True
-2026-10-03T16:55:16+00:00,2026-10-03T12:27:18Z,HOU,90.0,HEALTHY,4,1,0,-0.35,-0.11,Aireontae Ersery,Keylan Rutledge,Evan Brown,Wyatt Teller,Trent Brown,RT Trent Brown (AT RISK),True
-2026-10-03T16:55:16+00:00,2026-10-03T12:27:18Z,JAX,90.0,HEALTHY,4,1,0,-0.35,-0.11,Anton Harrison,Emmanuel Pregnon,Robert Hainsey,Ezra Cleveland,Cole Van Lanen,LT Anton Harrison (AT RISK),True
-2026-10-03T16:55:16+00:00,2026-10-03T12:27:18Z,LAR,90.0,HEALTHY,4,1,0,-0.35,-0.11,Alaric Jackson,Steve Avila,Coleman Shelton,Kevin Dotson,Warren McClendon,LT Alaric Jackson (AT RISK),True
-2026-10-03T16:55:16+00:00,2026-10-03T12:27:18Z,MIN,90.0,HEALTHY,4,1,0,-0.35,-0.11,Christian Darrisaw,Donovan Jackson,Blake Brandel,Will Fries,Brian O'Neill,LT Christian Darrisaw (AT RISK),True
-2026-10-03T16:55:16+00:00,2026-10-03T12:27:18Z,NE,90.0,HEALTHY,4,1,0,-0.35,-0.11,Will Campbell,Alijah Vera-Tucker,Jared Wilson,Walter Rouse,Morgan Moses,RT Morgan Moses (AT RISK),True
-2026-10-03T16:55:16+00:00,2026-10-03T12:27:18Z,PIT,90.0,HEALTHY,4,1,0,-0.35,-0.11,Troy Fautanu,Mason McCormick,Zach Frazier,Brock Hoffman,Max Iheanachor,LT Troy Fautanu (AT RISK),True
-2026-10-03T16:55:16+00:00,2026-10-03T12:27:18Z,ARI,91.7,HEALTHY,4,1,0,-0.11,-0.2,Paris Johnson,Isaac Seumalo,Hjalte Froholdt,Isaiah Adams,Elijah Wilkinson,RG Isaiah Adams (AT RISK),True
-2026-10-03T16:55:16+00:00,2026-10-03T12:27:18Z,CIN,91.7,HEALTHY,4,1,0,-0.11,-0.2,Orlando Brown,Dylan Fairchild,Ted Karras,Dalton Risner,Amarius Mims,RG Dalton Risner (AT RISK),True
-2026-10-03T16:55:16+00:00,2026-10-03T12:27:18Z,BUF,100.0,HEALTHY,5,0,0,-0.0,-0.0,Dion Dawkins,Alec Anderson,Connor McGovern,O'Cyrus Torrence,Spencer Brown,none,True
-2026-10-03T16:55:16+00:00,2026-10-03T12:27:18Z,CHI,100.0,HEALTHY,5,0,0,-0.0,-0.0,Theo Benedet,Joe Thuney,Garrett Bradbury,Jonah Jackson,Darnell Wright,none,True
-2026-10-03T16:55:16+00:00,2026-10-03T12:27:18Z,CLE,100.0,HEALTHY,5,0,0,-0.0,-0.0,Spencer Fano,Zion Johnson,Luke Wypler,Austin Barber,Tytus Howard,none,True
-2026-10-03T16:55:16+00:00,2026-10-03T12:27:18Z,DAL,100.0,HEALTHY,5,0,0,-0.0,-0.0,Tyler Guyton,T.J. Bass,Cooper Beebe,Tyler Booker,Terence Steele,none,True
-2026-10-03T16:55:16+00:00,2026-10-03T12:27:18Z,DEN,100.0,HEALTHY,5,0,0,-0.0,-0.0,Garett Bolles,Ben Powers,Luke Wattenberg,Quinn Meinerz,Mike McGlinchey,none,True
-2026-10-03T16:55:16+00:00,2026-10-03T12:27:18Z,DET,100.0,HEALTHY,5,0,0,-0.0,-0.0,Penei Sewell,Christian Mahogany,Juice Scruggs,Tate Ratledge,Blake Miller,none,True
-2026-10-03T16:55:16+00:00,2026-10-03T12:27:18Z,IND,100.0,HEALTHY,5,0,0,-0.0,-0.0,Bernhard Raimann,Quenton Nelson,Tanor Bortolini,Matt Goncalves,Jalen Travis,none,True
-2026-10-03T16:55:16+00:00,2026-10-03T12:27:18Z,LAC,100.0,HEALTHY,5,0,0,-0.0,-0.0,Rashawn Slater,Trevor Penning,Jake Slaughter,Cole Strange,Joe Alt,none,True
-2026-10-03T16:55:16+00:00,2026-10-03T12:27:18Z,MIA,100.0,HEALTHY,5,0,0,-0.0,-0.0,Patrick Paul,Kadyn Proctor,Aaron Brewer,Jonah Savaiinaea,Austin Jackson,none,True
-2026-10-03T16:55:16+00:00,2026-10-03T12:27:18Z,NO,100.0,HEALTHY,5,0,0,-0.0,-0.0,Asim Richards,David Edwards,Erik McCoy,Cesar Ruiz,Taliese Fuaga,none,True
-2026-10-03T16:55:16+00:00,2026-10-03T12:27:18Z,NYJ,100.0,HEALTHY,5,0,0,-0.0,-0.0,Olu Fashanu,Jordan Meredith,Josh Myers,Joe Tippmann,Armand Membou,none,True
-2026-10-03T16:55:16+00:00,2026-10-03T12:27:18Z,PHI,100.0,HEALTHY,5,0,0,-0.0,-0.0,Jordan Mailata,Cam Jurgens,Drew Kendall,Tyler Steen,Lane Johnson,none,True
-2026-10-03T16:55:16+00:00,2026-10-03T12:27:18Z,SEA,100.0,HEALTHY,5,0,0,-0.0,-0.0,Charles Cross,Grey Zabel,Jalen Sundell,Christian Haynes,Abraham Lucas,none,True
-2026-10-03T16:55:16+00:00,2026-10-03T12:27:18Z,SF,100.0,HEALTHY,5,0,0,-0.0,-0.0,Trent Williams,Connor Colby,Jake Brendel,Dominick Puni,Colton McKivitz,none,True
-2026-10-03T16:55:16+00:00,2026-10-03T12:27:18Z,TB,100.0,HEALTHY,5,0,0,-0.0,-0.0,Tristan Wirfs,Ben Bredeson,Graham Barton,Cody Mauch,Luke Goedeke,none,True
-2026-10-03T16:55:16+00:00,2026-10-03T12:27:18Z,TEN,100.0,HEALTHY,5,0,0,-0.0,-0.0,Dan Moore,Peter Skoronski,Austin Schlottmann,Atonio Mafi,JC Latham,none,True
-2026-10-03T16:55:16+00:00,2026-10-03T12:27:18Z,WAS,100.0,HEALTHY,5,0,0,-0.0,-0.0,Brandon Coleman,Chris Paul,Lucas Patrick,Nick Allegretti,Josh Conerly,none,True
+2026-10-06T23:57:40+00:00,2026-10-06T14:08:49Z,LAC,59.4,DEGRADED,2,2,1,-1.24,-0.55,Rashawn Slater,Trevor Penning,Jake Slaughter,Cole Strange,Joe Alt,LT Rashawn Slater (UNAVAILABLE) | LG Trevor Penning (AT RISK) | RT Joe Alt (AT RISK),True
+2026-10-06T23:57:40+00:00,2026-10-06T14:08:49Z,GB,63.0,DEGRADED,3,0,2,-0.5,-0.9,Jordan Morgan,Aaron Banks,Sean Rhyan,Kevin Zeitler,Anthony Belton,LG Aaron Banks (UNAVAILABLE) | RG Kevin Zeitler (UNAVAILABLE),True
+2026-10-06T23:57:40+00:00,2026-10-06T14:08:49Z,PHI,69.4,DEGRADED,3,1,1,-0.89,-0.44,Jordan Mailata,Cam Jurgens,Drew Kendall,Tyler Steen,Lane Johnson,LG Cam Jurgens (AT RISK) | RT Lane Johnson (UNAVAILABLE),True
+2026-10-06T23:57:40+00:00,2026-10-06T14:08:49Z,ATL,73.3,DEGRADED,2,3,0,-0.58,-0.51,Jake Matthews,Matthew Bergeron,Ryan Neuzil,Chris Lindstrom,Jawaan Taylor,LT Jake Matthews (AT RISK) | C Ryan Neuzil (AT RISK) | RG Chris Lindstrom (AT RISK),True
+2026-10-06T23:57:40+00:00,2026-10-06T14:08:49Z,CAR,77.8,MINOR CONCERN,4,0,1,-0.78,-0.24,Rasheed Walker,Corey Bullock,Luke Fortner,Robert Hunt,Monroe Freeling,RT Monroe Freeling (UNAVAILABLE),True
+2026-10-06T23:57:40+00:00,2026-10-06T14:08:49Z,CHI,77.8,MINOR CONCERN,4,0,1,-0.78,-0.24,Ozzy Trapilo,Joe Thuney,Garrett Bradbury,Jonah Jackson,Darnell Wright,LT Ozzy Trapilo (UNAVAILABLE),True
+2026-10-06T23:57:40+00:00,2026-10-06T14:08:49Z,KC,77.8,MINOR CONCERN,4,0,1,-0.78,-0.24,Josh Simmons,Kingsley Suamataia,Creed Humphrey,Trey Smith,Kahlil Benson,LT Josh Simmons (UNAVAILABLE),True
+2026-10-06T23:57:40+00:00,2026-10-06T14:08:49Z,LV,81.5,MINOR CONCERN,4,0,1,-0.25,-0.45,Kolton Miller,Spencer Burford,Tyler Linderbaum,Jackson Powers-Johnson,DJ Glaze,RG Jackson Powers-Johnson (UNAVAILABLE),True
+2026-10-06T23:57:40+00:00,2026-10-06T14:08:49Z,NYJ,81.5,MINOR CONCERN,4,0,1,-0.25,-0.45,Olu Fashanu,Dylan Parham,Josh Myers,Joe Tippmann,Armand Membou,LG Dylan Parham (UNAVAILABLE),True
+2026-10-06T23:57:40+00:00,2026-10-06T14:08:49Z,BAL,81.7,MINOR CONCERN,3,2,0,-0.46,-0.31,Ronnie Stanley,John Simpson,Olaivavega Ioane,Andrew Vorhees,Roger Rosengarten,LT Ronnie Stanley (AT RISK) | RG Andrew Vorhees (AT RISK),True
+2026-10-06T23:57:40+00:00,2026-10-06T14:08:49Z,NE,81.7,MINOR CONCERN,3,2,0,-0.46,-0.31,Will Campbell,Alijah Vera-Tucker,Jared Wilson,Ben Brown,Morgan Moses,RG Ben Brown (AT RISK) | RT Morgan Moses (AT RISK),True
+2026-10-06T23:57:40+00:00,2026-10-06T14:08:49Z,NYG,86.1,MINOR CONCERN,3,2,0,-0.31,-0.26,Andrew Thomas,Jon Runyan,John Michael Schmitz,Francis Mauigoa,Jermaine Eluemunor,LT Andrew Thomas (LIMITED) | C John Michael Schmitz (AT RISK),True
+2026-10-06T23:57:40+00:00,2026-10-06T14:08:49Z,JAX,90.0,HEALTHY,4,1,0,-0.35,-0.11,Anton Harrison,Emmanuel Pregnon,Robert Hainsey,Ezra Cleveland,Cole Van Lanen,LT Anton Harrison (AT RISK),True
+2026-10-06T23:57:40+00:00,2026-10-06T14:08:49Z,LAR,90.0,HEALTHY,4,1,0,-0.35,-0.11,Alaric Jackson,Steve Avila,Coleman Shelton,Kevin Dotson,Warren McClendon,LT Alaric Jackson (AT RISK),True
+2026-10-06T23:57:40+00:00,2026-10-06T14:08:49Z,MIN,90.0,HEALTHY,4,1,0,-0.35,-0.11,Christian Darrisaw,Joe Huber,Blake Brandel,Will Fries,Brian O'Neill,LT Christian Darrisaw (AT RISK),True
+2026-10-06T23:57:40+00:00,2026-10-06T14:08:49Z,PIT,90.0,HEALTHY,4,1,0,-0.35,-0.11,Troy Fautanu,Mason McCormick,Zach Frazier,Brock Hoffman,Max Iheanachor,LT Troy Fautanu (AT RISK),True
+2026-10-06T23:57:40+00:00,2026-10-06T14:08:49Z,ARI,91.7,HEALTHY,4,1,0,-0.11,-0.2,Jayden Williams,Isaac Seumalo,Hjalte Froholdt,Isaiah Adams,Elijah Wilkinson,RG Isaiah Adams (AT RISK),True
+2026-10-06T23:57:40+00:00,2026-10-06T14:08:49Z,CIN,91.7,HEALTHY,4,1,0,-0.11,-0.2,Orlando Brown,Dylan Fairchild,Ted Karras,Dalton Risner,Amarius Mims,RG Dalton Risner (AT RISK),True
+2026-10-06T23:57:40+00:00,2026-10-06T14:08:49Z,BUF,100.0,HEALTHY,5,0,0,-0.0,-0.0,Dion Dawkins,Alec Anderson,Connor McGovern,O'Cyrus Torrence,Spencer Brown,none,True
+2026-10-06T23:57:40+00:00,2026-10-06T14:08:49Z,CLE,100.0,HEALTHY,5,0,0,-0.0,-0.0,Spencer Fano,Zion Johnson,Luke Wypler,Austin Barber,Tytus Howard,none,True
+2026-10-06T23:57:40+00:00,2026-10-06T14:08:49Z,DAL,100.0,HEALTHY,5,0,0,-0.0,-0.0,Tyler Guyton,T.J. Bass,Cooper Beebe,Tyler Booker,Terence Steele,none,True
+2026-10-06T23:57:40+00:00,2026-10-06T14:08:49Z,DEN,100.0,HEALTHY,5,0,0,-0.0,-0.0,Garett Bolles,Ben Powers,Luke Wattenberg,Quinn Meinerz,Mike McGlinchey,none,True
+2026-10-06T23:57:40+00:00,2026-10-06T14:08:49Z,DET,100.0,HEALTHY,5,0,0,-0.0,-0.0,Penei Sewell,Christian Mahogany,Juice Scruggs,Tate Ratledge,Blake Miller,none,True
+2026-10-06T23:57:40+00:00,2026-10-06T14:08:49Z,HOU,100.0,HEALTHY,5,0,0,-0.0,-0.0,Aireontae Ersery,Keylan Rutledge,Evan Brown,Wyatt Teller,Trent Brown,none,True
+2026-10-06T23:57:40+00:00,2026-10-06T14:08:49Z,IND,100.0,HEALTHY,5,0,0,-0.0,-0.0,Bernhard Raimann,Quenton Nelson,Tanor Bortolini,Matt Goncalves,Jalen Travis,none,True
+2026-10-06T23:57:40+00:00,2026-10-06T14:08:49Z,MIA,100.0,HEALTHY,5,0,0,-0.0,-0.0,Patrick Paul,Kadyn Proctor,Aaron Brewer,Jonah Savaiinaea,Austin Jackson,none,True
+2026-10-06T23:57:40+00:00,2026-10-06T14:08:49Z,NO,100.0,HEALTHY,5,0,0,-0.0,-0.0,Asim Richards,David Edwards,Erik McCoy,Cesar Ruiz,Taliese Fuaga,none,True
+2026-10-06T23:57:40+00:00,2026-10-06T14:08:49Z,SEA,100.0,HEALTHY,5,0,0,-0.0,-0.0,Charles Cross,Grey Zabel,Jalen Sundell,Christian Haynes,Abraham Lucas,none,True
+2026-10-06T23:57:40+00:00,2026-10-06T14:08:49Z,SF,100.0,HEALTHY,5,0,0,-0.0,-0.0,Trent Williams,Connor Colby,Jake Brendel,Dominick Puni,Colton McKivitz,none,True
+2026-10-06T23:57:40+00:00,2026-10-06T14:08:49Z,TB,100.0,HEALTHY,5,0,0,-0.0,-0.0,Tristan Wirfs,Ben Bredeson,Graham Barton,Cody Mauch,Luke Goedeke,none,True
+2026-10-06T23:57:40+00:00,2026-10-06T14:08:49Z,TEN,100.0,HEALTHY,5,0,0,-0.0,-0.0,Dan Moore,Peter Skoronski,Austin Schlottmann,Atonio Mafi,JC Latham,none,True
+2026-10-06T23:57:40+00:00,2026-10-06T14:08:49Z,WAS,100.0,HEALTHY,5,0,0,-0.0,-0.0,Brandon Coleman,Chris Paul,Lucas Patrick,Matt Gulbin,Josh Conerly,none,True

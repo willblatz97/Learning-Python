@@ -11,7 +11,7 @@ Current KR/PR role + 2025 return baseline. Dual-role status uses Sleeper offensi
 
 ## Primary returners with offensive role
 - Malik Washington (WR MIA) — KR+PR; offensive depth SWR 1; proj return yds 72.1/g; HIGH confidence; yours: 10-Team Dynasty — Dynasty V2
-- Will Shipley (RB PHI) — KR; offensive depth RB 3; proj return yds 55.5/g; HIGH confidence
+- Will Shipley (RB PHI) — KR; offensive depth RB 2; proj return yds 55.5/g; HIGH confidence
 - Rasheen Ali (RB BAL) — KR; offensive depth RB 3; proj return yds 50.9/g; HIGH confidence
 - Isaiah Williams (WR NYJ) — KR+PR; offensive depth SWR 2; proj return yds 45.9/g; HIGH confidence; yours: 18-Team Chopped — Surviving the Chamber
 - Rashid Shaheed (WR SEA) — KR+PR; offensive depth RWR 2; proj return yds 43.6/g; HIGH confidence
