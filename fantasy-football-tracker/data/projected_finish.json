@@ -1344,6 +1344,6 @@
   "method": "league-relative current-week roster power, early-season confidence shrinkage, current health, bench depth, and actual fantasy H2H schedule Monte Carlo",
   "season_power_confidence": 0.9,
   "simulations": 5000,
-  "snapshot_utc": "2026-10-06T23:57:23+00:00",
+  "snapshot_utc": "2026-10-07T01:13:51+00:00",
   "week": 5
 }
