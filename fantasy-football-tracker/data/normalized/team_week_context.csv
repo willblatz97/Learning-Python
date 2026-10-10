@@ -1,31 +1,31 @@
 season,week,team,opponent,home_away,gameday,weekday,gametime,spread_line,total_line,roof,surface,temp,wind,stadium
-2026,5,DAL,TB,home,2026-10-08,Thursday,20:15,8.5,47.5,,matrixturf,,,AT&T Stadium
-2026,5,TB,DAL,away,2026-10-08,Thursday,20:15,8.5,47.5,,matrixturf,,,AT&T Stadium
-2026,5,JAX,PHI,home,2026-10-11,Sunday,09:30,7,42.5,outdoors,grass,,,Tottenham Hotspur Stadium
-2026,5,PHI,JAX,away,2026-10-11,Sunday,09:30,7,42.5,outdoors,grass,,,Tottenham Hotspur Stadium
-2026,5,GB,CHI,home,2026-10-11,Sunday,13:00,-3,45.5,outdoors,grass,,,Lambeau Field
-2026,5,CHI,GB,away,2026-10-11,Sunday,13:00,-3,45.5,outdoors,grass,,,Lambeau Field
-2026,5,MIA,CIN,home,2026-10-11,Sunday,13:00,-7,42.5,outdoors,grass,,,Hard Rock Stadium
-2026,5,CIN,MIA,away,2026-10-11,Sunday,13:00,-7,42.5,outdoors,grass,,,Hard Rock Stadium
+2026,5,DAL,TB,home,2026-10-08,Thursday,20:15,9.5,49.5,closed,matrixturf,,,AT&T Stadium
+2026,5,TB,DAL,away,2026-10-08,Thursday,20:15,9.5,49.5,closed,matrixturf,,,AT&T Stadium
+2026,5,JAX,PHI,home,2026-10-11,Sunday,09:30,7.5,41.5,outdoors,grass,,,Tottenham Hotspur Stadium
+2026,5,PHI,JAX,away,2026-10-11,Sunday,09:30,7.5,41.5,outdoors,grass,,,Tottenham Hotspur Stadium
+2026,5,GB,CHI,home,2026-10-11,Sunday,13:00,-1.5,45.5,outdoors,grass,,,Lambeau Field
+2026,5,CHI,GB,away,2026-10-11,Sunday,13:00,-1.5,45.5,outdoors,grass,,,Lambeau Field
+2026,5,MIA,CIN,home,2026-10-11,Sunday,13:00,-7,43.5,outdoors,grass,,,Hard Rock Stadium
+2026,5,CIN,MIA,away,2026-10-11,Sunday,13:00,-7,43.5,outdoors,grass,,,Hard Rock Stadium
 2026,5,NE,LV,home,2026-10-11,Sunday,13:00,3.5,45.5,outdoors,fieldturf,,,Gillette Stadium
 2026,5,LV,NE,away,2026-10-11,Sunday,13:00,3.5,45.5,outdoors,fieldturf,,,Gillette Stadium
-2026,5,NO,MIN,home,2026-10-11,Sunday,13:00,-1.5,42.5,dome,sportturf,,,Caesars Superdome
-2026,5,MIN,NO,away,2026-10-11,Sunday,13:00,-1.5,42.5,dome,sportturf,,,Caesars Superdome
+2026,5,NO,MIN,home,2026-10-11,Sunday,13:00,-2.5,41.5,dome,sportturf,,,Caesars Superdome
+2026,5,MIN,NO,away,2026-10-11,Sunday,13:00,-2.5,41.5,dome,sportturf,,,Caesars Superdome
 2026,5,NYJ,CLE,home,2026-10-11,Sunday,13:00,2.5,39.5,outdoors,fieldturf,,,MetLife Stadium
 2026,5,CLE,NYJ,away,2026-10-11,Sunday,13:00,2.5,39.5,outdoors,fieldturf,,,MetLife Stadium
-2026,5,PIT,IND,home,2026-10-11,Sunday,13:00,2.5,44.5,outdoors,grass,,,Acrisure Stadium
-2026,5,IND,PIT,away,2026-10-11,Sunday,13:00,2.5,44.5,outdoors,grass,,,Acrisure Stadium
-2026,5,TEN,HOU,home,2026-10-11,Sunday,13:00,-7.5,37.5,outdoors,grass,,,Nissan Stadium
-2026,5,HOU,TEN,away,2026-10-11,Sunday,13:00,-7.5,37.5,outdoors,grass,,,Nissan Stadium
-2026,5,WAS,NYG,home,2026-10-11,Sunday,13:00,3.5,43.5,outdoors,grass,,,Northwest Stadium
-2026,5,NYG,WAS,away,2026-10-11,Sunday,13:00,3.5,43.5,outdoors,grass,,,Northwest Stadium
-2026,5,LAC,DEN,home,2026-10-11,Sunday,16:05,-3.5,42.5,dome,matrixturf,,,SoFi Stadium
-2026,5,DEN,LAC,away,2026-10-11,Sunday,16:05,-3.5,42.5,dome,matrixturf,,,SoFi Stadium
-2026,5,ARI,DET,home,2026-10-11,Sunday,16:25,-4.5,54.5,,grass,,,State Farm Stadium
-2026,5,DET,ARI,away,2026-10-11,Sunday,16:25,-4.5,54.5,,grass,,,State Farm Stadium
-2026,5,SEA,SF,home,2026-10-11,Sunday,16:25,2.5,46.5,outdoors,fieldturf,,,Lumen Field
-2026,5,SF,SEA,away,2026-10-11,Sunday,16:25,2.5,46.5,outdoors,fieldturf,,,Lumen Field
-2026,5,ATL,BAL,home,2026-10-11,Sunday,20:20,3.5,43.5,,fieldturf,,,Mercedes-Benz Stadium
-2026,5,BAL,ATL,away,2026-10-11,Sunday,20:20,3.5,43.5,,fieldturf,,,Mercedes-Benz Stadium
+2026,5,PIT,IND,home,2026-10-11,Sunday,13:00,3,43.5,outdoors,grass,,,Acrisure Stadium
+2026,5,IND,PIT,away,2026-10-11,Sunday,13:00,3,43.5,outdoors,grass,,,Acrisure Stadium
+2026,5,TEN,HOU,home,2026-10-11,Sunday,13:00,-7,38.5,outdoors,grass,,,Nissan Stadium
+2026,5,HOU,TEN,away,2026-10-11,Sunday,13:00,-7,38.5,outdoors,grass,,,Nissan Stadium
+2026,5,WAS,NYG,home,2026-10-11,Sunday,13:00,3.5,41.5,outdoors,grass,,,Northwest Stadium
+2026,5,NYG,WAS,away,2026-10-11,Sunday,13:00,3.5,41.5,outdoors,grass,,,Northwest Stadium
+2026,5,LAC,DEN,home,2026-10-11,Sunday,16:05,-3.5,41.5,dome,matrixturf,,,SoFi Stadium
+2026,5,DEN,LAC,away,2026-10-11,Sunday,16:05,-3.5,41.5,dome,matrixturf,,,SoFi Stadium
+2026,5,ARI,DET,home,2026-10-11,Sunday,16:25,-5.5,54.5,,grass,,,State Farm Stadium
+2026,5,DET,ARI,away,2026-10-11,Sunday,16:25,-5.5,54.5,,grass,,,State Farm Stadium
+2026,5,SEA,SF,home,2026-10-11,Sunday,16:25,3,45.5,outdoors,fieldturf,,,Lumen Field
+2026,5,SF,SEA,away,2026-10-11,Sunday,16:25,3,45.5,outdoors,fieldturf,,,Lumen Field
+2026,5,ATL,BAL,home,2026-10-11,Sunday,20:20,3,43.5,,fieldturf,,,Mercedes-Benz Stadium
+2026,5,BAL,ATL,away,2026-10-11,Sunday,20:20,3,43.5,,fieldturf,,,Mercedes-Benz Stadium
 2026,5,LAR,BUF,home,2026-10-12,Monday,20:15,3,54.5,dome,matrixturf,,,SoFi Stadium
 2026,5,BUF,LAR,away,2026-10-12,Monday,20:15,3,54.5,dome,matrixturf,,,SoFi Stadium

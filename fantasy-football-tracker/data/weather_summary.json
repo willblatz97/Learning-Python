@@ -1,8 +1,10 @@
 {
-  "forecasted_games": 12,
+  "forecasted_games": 11,
   "games": 15,
-  "high_weather_games": [],
-  "indoor_games": 3,
+  "high_weather_games": [
+    "2026_05_DET_ARI"
+  ],
+  "indoor_games": 4,
   "note": "Game times are interpreted from the nflverse schedule as Eastern Time, converted to UTC, then matched to the nearest Open-Meteo forecast hour. Retractable-roof weather impact is halved until roof state is known.",
-  "snapshot_utc": "2026-10-07T01:14:05+00:00"
+  "snapshot_utc": "2026-10-10T13:26:59+00:00"
 }
