@@ -87,3 +87,8 @@ Dynasty leagues stay on a dual-track push/rebuild board early in the season. Onc
 ## Design rule
 
 Sleeper player ID and league ID are the permanent keys. Player information is normalized once and referenced across all leagues so ownership, exposure, availability, injury impact, trade value, start/sit, waivers, returns, weather, OL health and chopped-league analysis share one source of truth.
+
+
+## Roster synchronization
+
+Roster and lineup analysis should use the newest `data/normalized/ownership.csv` and `rosters.csv` from the Sleeper refresh rather than past Saturday narrative snapshots. Manual refresh requested October 10, 2026.
