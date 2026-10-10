@@ -1,6 +1,6 @@
 league_id,league,league_type,team,opponent_or_chop_rank,my_lineup_score,opponent_or_chop_line,projected_margin,recommended_changes,injury_monitors,score_mode,return_adjusted_projection,projected_return_points_added,nonreturn_projection,return_adjusted_chop_line,nonreturn_chop_line,return_adjusted_margin,nonreturn_margin,return_adjusted_rank,nonreturn_rank
-1389740418316374016,10-Team Redraft — Big Tiger Takeover,redraft,Third Reich & Long,Purdy Cooked,150.65,146.73,3.92,5,1,weekly consensus + return scoring,,,,,,,,,
-1370453762442797056,18-Team Chopped — Surviving the Chamber,chopped,Third Reich & Long,Projected rank 1/18,180.79,0.0,180.79,0,0,league-scored weekly projection + separate return reconciliation,180.79,5.55,175.24,0.0,0.0,180.79,175.24,1,1
-1370218620990263296,12-Team Dynasty — One League to Rule Them All,dynasty,Nazgûl Nation,RoboJVB,154.73,140.88,13.85,5,0,weekly consensus + return scoring,,,,,,,,,
-1366076769534251008,10-Team Dynasty — Dynasty V2,dynasty,Route 66ers,TheANT2,158.88,103.41,55.47,6,0,weekly consensus + return scoring,,,,,,,,,
-1359546418284494848,12-Team 2-Keeper — League Is Rigged V2,keeper,Third Reich & Long,2kyle,193.98,196.41,-2.43,4,0,weekly consensus + return scoring,,,,,,,,,
+1389740418316374016,10-Team Redraft — Big Tiger Takeover,redraft,Third Reich & Long,Purdy Cooked,150.63,148.96,1.67,5,1,weekly consensus + return scoring,,,,,,,,,
+1370453762442797056,18-Team Chopped — Surviving the Chamber,chopped,Third Reich & Long,Projected rank 1/18,179.11,0.0,179.11,0,0,league-scored weekly projection + separate return reconciliation,179.11,5.55,173.56,0.0,0.0,179.11,173.56,1,1
+1370218620990263296,12-Team Dynasty — One League to Rule Them All,dynasty,Nazgûl Nation,RoboJVB,163.28,139.9,23.38,1,0,weekly consensus + return scoring,,,,,,,,,
+1366076769534251008,10-Team Dynasty — Dynasty V2,dynasty,Route 66ers,TheANT2,159.35,97.68,61.67,6,0,weekly consensus + return scoring,,,,,,,,,
+1359546418284494848,12-Team 2-Keeper — League Is Rigged V2,keeper,Third Reich & Long,2kyle,194.69,197.29,-2.6,4,0,weekly consensus + return scoring,,,,,,,,,

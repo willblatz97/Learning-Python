@@ -1,7 +1,7 @@
 nfl_team,roster_slots_across_leagues,starting_slots_across_leagues,unique_players_owned,players_owned,players_started
 CIN,10,5,7,Chase Brown | Cincinnati Bengals | Dohnte Meyers | Ja'Marr Chase | Jack Endries | Joe Burrow | Samaje Perine,Chase Brown | Cincinnati Bengals | Ja'Marr Chase | Joe Burrow
+CHI,7,4,4,Cole Kmet | D'Andre Swift | Kalif Raymond | Luther Burden,D'Andre Swift | Luther Burden
 TB,4,4,3,Bucky Irving | Chase McLaughlin | Emeka Egbuka,Bucky Irving | Chase McLaughlin | Emeka Egbuka
-CHI,7,3,4,Cole Kmet | D'Andre Swift | Kalif Raymond | Luther Burden,D'Andre Swift | Luther Burden
 GB,6,3,6,Evan Williams | Jayden Reed | Jordan Love | Luke Musgrave | MarShawn Lloyd | Tucker Kraft,Evan Williams | Jordan Love | Tucker Kraft
 DAL,5,3,4,Brandon Aubrey | Dak Prescott | Jake Ferguson | Javonte Williams,Brandon Aubrey | Dak Prescott | Javonte Williams
 PHI,5,3,2,Eli Stowers | Will Shipley,Will Shipley
@@ -22,7 +22,6 @@ NYG,2,1,2,Jameis Winston | Malik Nabers,Malik Nabers
 TEN,2,1,2,Carnell Tate | Nicholas Singleton,Carnell Tate
 WAS,2,1,2,Jayden Daniels | Marcus Mariota,Jayden Daniels
 ATL,1,1,1,Drake London,Drake London
-LAC,1,1,1,Omarion Hampton,Omarion Hampton
 CAR,9,0,7,Bryce Young | Chris Brazzell | Chuba Hubbard | Darren Waller | Jalen Coker | Jonathon Brooks | Tetairoa McMillan,
 NO,5,0,3,Alvin Kamara | Devaughn Vele | Kendre Miller,
 DEN,3,0,3,Courtland Sutton | Jonah Coleman | Pat Bryant,
@@ -30,3 +29,4 @@ KC,3,0,3,Emmett Johnson | John Michael Gyllenborg | Kenneth Walker,
 NE,3,0,3,Drake Maye | Eli Raridon | TreVeyon Henderson,
 SF,2,0,2,Christian Kirk | Mac Jones,
 FA/UNK,1,0,1,Tyreek Hill,
+LAC,1,0,1,Omarion Hampton,

@@ -8,12 +8,12 @@ Game times are interpreted from the nflverse schedule as Eastern Time, converted
 - CIN @ MIA — LOW — no material weather signal — pass +0.00, kick +0.00
 - LV @ NE — LOW — no material weather signal — pass +0.00, kick +0.00
 - MIN @ NO — INDOOR — indoor — pass +0.00, kick +0.00
-- CLE @ NYJ — LOW — precip 73% — pass -0.35, kick -0.20
-- IND @ PIT — LOW — no material weather signal — pass +0.00, kick +0.00
+- CLE @ NYJ — LOW — precip 78% — pass -0.35, kick -0.20
+- IND @ PIT — MODERATE — wind 16 mph | gusts 36 mph — pass -0.75, kick -0.90
 - HOU @ TEN — LOW — no material weather signal — pass +0.00, kick +0.00
-- NYG @ WAS — LOW — precip 74% — pass -0.35, kick -0.20
+- NYG @ WAS — LOW — no material weather signal — pass +0.00, kick +0.00
 - DEN @ LAC — INDOOR — indoor — pass +0.00, kick +0.00
-- DET @ ARI — HIGH — wind 23 mph — pass -1.20, kick -1.35
+- DET @ ARI — MODERATE — wind 16 mph — pass -0.45, kick -0.55
 - SF @ SEA — LOW — no material weather signal — pass +0.00, kick +0.00
 - BAL @ ATL — LOW — no material weather signal — pass +0.00, kick +0.00
 - BUF @ LAR — INDOOR — indoor — pass +0.00, kick +0.00

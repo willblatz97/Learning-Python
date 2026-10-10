@@ -3,8 +3,8 @@
 Projection mode: **WEEKLY CONSENSUS** · Usage: **CURRENT SEASON ACTIVE**
 
 ## 10-Team Redraft — Big Tiger Takeover
-- LEAN YOU — projection 150.65 · margin 3.92
-- Projected finish: seed #2 · 9.02 wins · 98.1% playoffs · range #2-#4 · roster power #2 · schedule EASY
+- TOSS-UP — projection 150.63 · margin 1.67
+- Projected finish: seed #3 · 9.0 wins · 98.1% playoffs · range #2-#4 · roster power #3 · schedule EASY
 - Action: CHANGE — RB: Javonte Williams -> Kenneth Walker (+2.04)
 - Waiver: Jake Ferguson · MEDIUM · FAAB 7-12
 - Trade posture: PLAYOFF / RECOVERY PUSH
@@ -12,7 +12,7 @@ Projection mode: **WEEKLY CONSENSUS** · Usage: **CURRENT SEASON ACTIVE**
 - Rebuild targets: none
 
 ## 18-Team Chopped — Surviving the Chamber
-- COMFORTABLE — projection 180.79 · margin 180.79
+- COMFORTABLE — projection 179.11 · margin 179.11
 - Action: HOLD — No lineup action above threshold
 - Waiver: Kyle Pitts · MEDIUM · FAAB 82-147
 - Trade posture: Not active yet
@@ -20,27 +20,27 @@ Projection mode: **WEEKLY CONSENSUS** · Usage: **CURRENT SEASON ACTIVE**
 - Rebuild targets: none
 
 ## 12-Team Dynasty — One League to Rule Them All
-- FAVORED — projection 154.73 · margin 13.85
-- Projected finish: seed #3 · 8.16 wins · 87.7% playoffs · range #3-#6 · roster power #3 · schedule EASY
-- Action: CHANGE — RB: Bucky Irving -> D'Andre Swift (+2.84)
+- FAVORED — projection 163.28 · margin 23.38
+- Projected finish: seed #3 · 8.12 wins · 84.6% playoffs · range #3-#6 · roster power #4 · schedule EASY
+- Action: LEAN CHANGE — TE: Dalton Schultz -> Jake Ferguson (+1.89)
 - Waiver: — ·  · FAAB —
 - Trade posture: DUAL TRACK — evaluate push and rebuild
 - Push targets: Jaylen Warren, Terry McLaurin, Mike Evans, Bhayshul Tuten, Brock Bowers
 - Rebuild targets: Fernando Mendoza, Drake Maye, Malik Nabers, Jaxon Smith-Njigba, Bijan Robinson
 
 ## 10-Team Dynasty — Dynasty V2
-- FAVORED — projection 158.88 · margin 55.47
-- Projected finish: seed #1 · 10.14 wins · 99.6% playoffs · range #1-#3 · roster power #2 · schedule EASY
+- FAVORED — projection 159.35 · margin 61.67
+- Projected finish: seed #1 · 10.18 wins · 99.6% playoffs · range #1-#3 · roster power #1 · schedule EASY
 - Action: CHANGE — RB: Will Shipley -> Chuba Hubbard (+5.99)
 - Waiver: Isaiah Williams · WATCH · FAAB 0-1
 - Trade posture: PLAYOFF PUSH
-- Push targets: Michael Wilson, Joe Burrow, Trey McBride, Bhayshul Tuten, Aaron Jones
+- Push targets: Michael Wilson, Joe Burrow, Trey McBride, Aaron Jones, Bhayshul Tuten
 - Rebuild targets: Caleb Williams, Fernando Mendoza, Carnell Tate, Malik Nabers, Kenyon Sadiq
 
 ## 12-Team 2-Keeper — League Is Rigged V2
-- LEAN OPPONENT — projection 193.98 · margin -2.43
-- Projected finish: seed #2 · 7.71 wins · 78.6% playoffs · range #2-#7 · roster power #2 · schedule AVERAGE
-- Action: CHANGE — QB: Jordan Love -> Drake Maye (+3.53)
+- LEAN OPPONENT — projection 194.69 · margin -2.6
+- Projected finish: seed #2 · 7.68 wins · 78.0% playoffs · range #2-#7 · roster power #2 · schedule AVERAGE
+- Action: CHANGE — QB: Jordan Love -> Drake Maye (+3.24)
 - Waiver: Christian Izien · MUST ADD · FAAB 12-20
 - Trade posture: PLAYOFF / RECOVERY PUSH
 - Push targets: Dak Prescott, Joe Burrow, Chuba Hubbard, Kyren Williams, Mike Evans

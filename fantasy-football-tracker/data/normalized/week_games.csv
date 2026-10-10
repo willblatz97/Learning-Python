@@ -1,7 +1,7 @@
 game_id,season,week,gameday,weekday,gametime,home_team,away_team,spread_line,total_line,roof,surface,temp,wind,stadium,location
 2026_05_TB_DAL,2026,5,2026-10-08,Thursday,20:15,DAL,TB,9.5,49.5,closed,matrixturf,,,AT&T Stadium,Home
 2026_05_PHI_JAX,2026,5,2026-10-11,Sunday,09:30,JAX,PHI,7.5,41.5,outdoors,grass,,,Tottenham Hotspur Stadium,Home
-2026_05_CHI_GB,2026,5,2026-10-11,Sunday,13:00,GB,CHI,-1.5,45.5,outdoors,grass,,,Lambeau Field,Home
+2026_05_CHI_GB,2026,5,2026-10-11,Sunday,13:00,GB,CHI,-1.5,46.5,outdoors,grass,,,Lambeau Field,Home
 2026_05_CIN_MIA,2026,5,2026-10-11,Sunday,13:00,MIA,CIN,-7,43.5,outdoors,grass,,,Hard Rock Stadium,Home
 2026_05_LV_NE,2026,5,2026-10-11,Sunday,13:00,NE,LV,3.5,45.5,outdoors,fieldturf,,,Gillette Stadium,Home
 2026_05_MIN_NO,2026,5,2026-10-11,Sunday,13:00,NO,MIN,-2.5,41.5,dome,sportturf,,,Caesars Superdome,Home

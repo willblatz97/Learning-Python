@@ -13,7 +13,7 @@ This board favors actionable value: roster need + seller surplus + market arbitr
 
 ## 10-Team Dynasty — Dynasty V2
 - Posture: **PLAYOFF PUSH** — record 3-1
-- Push targets: Michael Wilson (WR, Manson); Joe Burrow (QB, zthompson1533); Trey McBride (TE, ArogersAchilles); Bhayshul Tuten (RB, TheANT2); Aaron Jones (RB, zthompson1533)
+- Push targets: Michael Wilson (WR, Manson); Joe Burrow (QB, zthompson1533); Trey McBride (TE, ArogersAchilles); Aaron Jones (RB, zthompson1533); Bhayshul Tuten (RB, TheANT2)
 - Rebuild targets: Caleb Williams (QB, age 24.0, ArogersAchilles); Fernando Mendoza (QB, age 23.0, TheANT2); Carnell Tate (WR, age 21.0, ArogersAchilles); Malik Nabers (WR, age 23.0, Jesus is God Amen!); Kenyon Sadiq (TE, age 21.0, GOOBERTON)
 
 ## 12-Team 2-Keeper — League Is Rigged V2

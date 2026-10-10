@@ -5,21 +5,21 @@
       "league_id": "1370453762442797056",
       "my_starters": [
         {
-          "nonreturn_projection": 25.69,
+          "nonreturn_projection": 25.63,
           "player": "Joe Burrow",
           "player_id": "6770",
           "position": "QB",
-          "return_adjusted_projection": 25.69,
+          "return_adjusted_projection": 25.63,
           "return_confidence": "",
           "return_points_applied": 0.0,
           "return_roles": ""
         },
         {
-          "nonreturn_projection": 30.11,
+          "nonreturn_projection": 30.09,
           "player": "Jonathan Taylor",
           "player_id": "6813",
           "position": "RB",
-          "return_adjusted_projection": 30.11,
+          "return_adjusted_projection": 30.09,
           "return_confidence": "",
           "return_points_applied": 0.0,
           "return_roles": ""
@@ -35,31 +35,31 @@
           "return_roles": ""
         },
         {
-          "nonreturn_projection": 16.43,
+          "nonreturn_projection": 16.34,
           "player": "Malik Nabers",
           "player_id": "11632",
           "position": "WR",
-          "return_adjusted_projection": 16.43,
+          "return_adjusted_projection": 16.34,
           "return_confidence": "",
           "return_points_applied": 0.0,
           "return_roles": ""
         },
         {
-          "nonreturn_projection": 15.81,
+          "nonreturn_projection": 14.9,
           "player": "DK Metcalf",
           "player_id": "5846",
           "position": "WR",
-          "return_adjusted_projection": 15.81,
+          "return_adjusted_projection": 14.9,
           "return_confidence": "",
           "return_points_applied": 0.0,
           "return_roles": ""
         },
         {
-          "nonreturn_projection": 16.47,
+          "nonreturn_projection": 15.86,
           "player": "Tyler Warren",
           "player_id": "12518",
           "position": "TE",
-          "return_adjusted_projection": 16.47,
+          "return_adjusted_projection": 15.86,
           "return_confidence": "",
           "return_points_applied": 0.0,
           "return_roles": ""
@@ -75,11 +75,11 @@
           "return_roles": "KR"
         },
         {
-          "nonreturn_projection": 19.86,
+          "nonreturn_projection": 19.87,
           "player": "Ollie Gordon",
           "player_id": "12495",
           "position": "RB",
-          "return_adjusted_projection": 19.86,
+          "return_adjusted_projection": 19.87,
           "return_confidence": "",
           "return_points_applied": 0.0,
           "return_roles": ""
@@ -96,14 +96,14 @@
         }
       ],
       "nonreturn_chop_line": 0.0,
-      "nonreturn_margin": 175.24,
-      "nonreturn_projection": 175.24,
+      "nonreturn_margin": 173.56,
+      "nonreturn_projection": 173.56,
       "nonreturn_rank": 1,
       "note": "Nonreturn projection uses the same league-scored weekly player projections and all non-return context, but removes the tracker return-role projection. Treat it as a conservative return-independent anchor, not a statistical floor. Return-adjusted projection adds the confidence-weighted return model.",
       "projected_return_points_added": 5.55,
       "return_adjusted_chop_line": 0.0,
-      "return_adjusted_margin": 180.79,
-      "return_adjusted_projection": 180.79,
+      "return_adjusted_margin": 179.11,
+      "return_adjusted_projection": 179.11,
       "return_adjusted_rank": 1,
       "team": "Third Reich & Long"
     }

@@ -47,5 +47,5 @@ Current KR/PR role + 2025 return baseline. Dual-role status uses Sleeper offensi
 - Will Shipley — +5.55 return pts/g (KR + OFF, HIGH) — START
 - Rasheen Ali — +5.09 return pts/g (KR + OFF, HIGH) — FA
 - Dylan Laube — +5.03 return pts/g (KR+PR, HIGH) — FA
-- Derius Davis — +4.92 return pts/g (KR+PR, HIGH) — OWNED
 - Isaiah Williams — +4.59 return pts/g (KR+PR + OFF, HIGH) — BENCH
+- Rashid Shaheed — +4.36 return pts/g (KR+PR + OFF, HIGH) — OWNED

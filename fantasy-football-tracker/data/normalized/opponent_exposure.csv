@@ -6,9 +6,9 @@ player_id,full_name,position,nfl_team,opponent_leagues,injury_status
 9229,Anthony Richardson,QB,IND,2,
 11586,Blake Corum,RB,LAR,2,
 12527,Ashton Jeanty,RB,LV,1,Questionable
-12711,Tyler Loop,K,BAL,1,
 1479,Keenan Allen,WR,IND,1,Questionable
 3321,Tyreek Hill,WR,,1,
+3451,Ka'imi Fairbairn,K,HOU,1,
 4037,Chris Godwin,WR,TB,1,
 5872,Deebo Samuel,WR,SF,1,
 5927,Terry McLaurin,WR,WAS,1,Questionable
@@ -51,7 +51,7 @@ DAL,Dallas Cowboys,DEF,DAL,1,
 11559,Michael Penix,QB,ATL,1,
 11597,Theo Johnson,TE,NYG,1,
 11625,Adonai Mitchell,WR,NYJ,1,Out
-11628,Marvin Harrison,WR,ARI,1,
+11628,Marvin Harrison,WR,ARI,1,Out
 11834,Devaughn Vele,WR,NO,1,
 12476,Devin Neal,RB,,1,
 12485,Tez Johnson,WR,TB,1,
