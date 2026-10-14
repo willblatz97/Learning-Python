@@ -1,103 +1,103 @@
-# Saturday Lineup & Matchup Board — Week 5
+# Saturday Lineup & Matchup Board — Week 6
 
 ## 10-Team Redraft — Big Tiger Takeover
 Team: Third Reich & Long
-Opponent: Purdy Cooked — lineup proxy 150.63 vs 148.96; margin +1.67
+Opponent: Jesus is God Amen! — lineup proxy 137.10 vs 164.36; margin -27.26
 
 ### Lineup actions
-- CHANGE RB: Javonte Williams (21.74) -> Kenneth Walker (23.78); delta 2.04; injury clear
-- CHANGE RB: Quinshon Judkins (13.77) -> Kenneth Walker (23.78); delta 10.01; injury clear
-- CHANGE WR: Denzel Boston (12.4) -> Tetairoa McMillan (22.92); delta 10.52; injury clear
-- CHANGE FLEX: Will Shipley (13.12) -> Kenneth Walker (23.78); delta 10.66; injury clear
-- CHANGE FLEX: Braelon Allen (18.14) -> Kenneth Walker (23.78); delta 5.64; injury clear
+- CHANGE QB: Bryce Young (20.24) -> Kirk Cousins (24.32); delta 4.08; injury clear
+- CHANGE WR: Tetairoa McMillan (16.24) -> Ja'Marr Chase (24.0); delta 7.76; injury clear
+- CHANGE WR: Denzel Boston (12.27) -> Ja'Marr Chase (24.0); delta 11.73; injury clear
+- CHANGE FLEX: Braelon Allen (9.78) -> Ja'Marr Chase (24.0); delta 14.22; injury clear
 
 ### Your injury / practice watch
-- Ja'Marr Chase — QUESTIONABLE; best legal bench option: Tetairoa McMillan
+- Quinshon Judkins — QUESTIONABLE; best legal bench option: Will Shipley
 
 ### Opponent threats
-- Amon-Ra St. Brown (WR DET) — 24.91 vs ARI
-- Brock Purdy (QB SF) — 22.18 vs SEA
-- James Cook (RB BUF) — 18.45 vs LAR
+- Bijan Robinson (RB ATL) — 28.03 vs CHI
+- Jared Goff (QB DET) — 21.96 vs TBD
+- Garrett Wilson (WR NYJ) — 19.62 vs NE
 
 ### Opponent injury leverage
-- Ashton Jeanty — QUESTIONABLE; current lineup score 15.42
+No opponent starter injury/practice flags currently detected.
 
 ## 18-Team Chopped — Surviving the Chamber
 Team: Third Reich & Long
-Projected rank 1/18 — lineup proxy 179.11; projected chop line 0.00; safety margin +179.11
+Projected rank 13/18 — lineup proxy 103.87; projected chop line 0.00; safety margin +103.87
 
 ### Lineup actions
-No lineup changes clear the current action threshold.
+- CHANGE FLEX: Isaiah Williams (9.16) -> Aaron Jones (17.98); delta 8.82; injury clear
 
 ### Your injury / practice watch
 No monitor-level starter flags.
 
 ### Chop-field injury leverage
+- Jaxon Smith-Njigba (WR SEA) — QUESTIONABLE; could lower another roster's floor
 - CeeDee Lamb (WR DAL) — QUESTIONABLE; could lower another roster's floor
-- Ja'Marr Chase (WR CIN) — QUESTIONABLE; could lower another roster's floor
-- Ashton Jeanty (RB LV) — QUESTIONABLE; could lower another roster's floor
+- Breece Hall (RB NYJ) — OUT; could lower another roster's floor
+- Quinshon Judkins (RB CLE) — QUESTIONABLE; could lower another roster's floor
 - Rashee Rice (WR KC) — QUESTIONABLE; could lower another roster's floor
-- Justin Jefferson (WR MIN) — QUESTIONABLE; could lower another roster's floor
 
 ## 12-Team Dynasty — One League to Rule Them All
 Team: Nazgûl Nation
-Opponent: RoboJVB — lineup proxy 163.28 vs 139.90; margin +23.38
+Opponent: scarberryt — lineup proxy 167.53 vs 130.03; margin +37.50
 
 ### Lineup actions
-- LEAN CHANGE TE: Dalton Schultz (10.95) -> Jake Ferguson (12.84); delta 1.89; injury clear
+- LEAN CHANGE WR: Luther Burden (13.49) -> Josh Downs (14.45); delta 0.96; injury clear
+- CHANGE WR: Emeka Egbuka (11.14) -> Josh Downs (14.45); delta 3.31; injury clear
+- CHANGE TE: Dalton Schultz (9.81) -> Jake Ferguson (12.37); delta 2.56; injury clear
 
 ### Your injury / practice watch
 No monitor-level starter flags.
 
 ### Opponent threats
-- Jaxon Smith-Njigba (WR SEA) — 25.00 vs SF
-- Kyren Williams (RB LAR) — 20.90 vs BUF
-- Sam Darnold (QB SEA) — 19.11 vs SF
+- Drake Maye (QB NE) — 23.79 vs NYJ
+- Jameson Williams (WR DET) — 19.87 vs TBD
+- Nico Collins (WR HOU) — 19.21 vs JAX
 
 ### Opponent injury leverage
-- Ladd McConkey — QUESTIONABLE; current lineup score 10.73
+- Michael Penix — QUESTIONABLE; current lineup score 16.63
+- TreVeyon Henderson — OUT; current lineup score 0.07
 
 ## 10-Team Dynasty — Dynasty V2
 Team: Route 66ers
-Opponent: TheANT2 — lineup proxy 159.35 vs 97.68; margin +61.67
+Opponent: ArogersAchilles — lineup proxy 159.95 vs 177.65; margin -17.70
 
 ### Lineup actions
-- CHANGE RB: Will Shipley (12.7) -> Chuba Hubbard (18.69); delta 5.99; injury clear
-- CHANGE WR: Luther Burden (13.17) -> Tetairoa McMillan (22.9); delta 9.73; injury clear
-- CHANGE TE: Pat Freiermuth (10.6) -> Jake Ferguson (13.21); delta 2.61; injury clear
-- CHANGE FLEX: Garrett Wilson (18.12) -> Tetairoa McMillan (22.9); delta 4.78; injury clear
-- CHANGE FLEX: Zay Flowers (15.29) -> Tetairoa McMillan (22.9); delta 7.61; injury QUESTIONABLE
-- CHANGE SUPER_FLEX: Jayden Daniels (19.75) -> Tetairoa McMillan (22.9); delta 3.15; injury clear
+- CHANGE WR: Tetairoa McMillan (15.77) -> Amon-Ra St. Brown (24.03); delta 8.26; injury clear
+- CHANGE WR: Garrett Wilson (19.04) -> Amon-Ra St. Brown (24.03); delta 4.99; injury clear
+- LEAN CHANGE TE: Pat Freiermuth (11.82) -> Jake Ferguson (12.76); delta 0.94; injury clear
+- CHANGE FLEX: Woody Marks (16.12) -> Amon-Ra St. Brown (24.03); delta 7.91; injury clear
+- CHANGE FLEX: Zay Flowers (19.0) -> Amon-Ra St. Brown (24.03); delta 5.03; injury clear
+- CHANGE SUPER_FLEX: Jayden Daniels (20.34) -> Amon-Ra St. Brown (24.03); delta 3.69; injury clear
 
 ### Your injury / practice watch
 No monitor-level starter flags.
 
 ### Opponent threats
-- James Cook (RB BUF) — 18.13 vs LAR
-- Justin Herbert (QB LAC) — 17.02 vs DEN
-- Tee Higgins (WR CIN) — 16.03 vs MIA
-
-### Opponent injury leverage
-- Tee Higgins — QUESTIONABLE; current lineup score 16.03
-- Marvin Harrison — OUT; current lineup score 0.00
-
-## 12-Team 2-Keeper — League Is Rigged V2
-Team: Third Reich & Long
-Opponent: 2kyle — lineup proxy 194.69 vs 197.29; margin -2.60
-
-### Lineup actions
-- CHANGE QB: Jordan Love (25.13) -> Drake Maye (28.37); delta 3.24; injury clear
-- CHANGE WR: Carnell Tate (14.28) -> Ja'Marr Chase (22.59); delta 8.31; injury QUESTIONABLE
-- CHANGE WR: Drake London (19.73) -> Ja'Marr Chase (22.59); delta 2.86; injury clear
-- CHANGE FLEX: Jeremiyah Love (18.15) -> Ja'Marr Chase (22.59); delta 4.44; injury clear
-
-### Your injury / practice watch
-No monitor-level starter flags.
-
-### Opponent threats
-- Bijan Robinson (RB ATL) — 31.14 vs BAL
-- Trevor Lawrence (QB JAX) — 26.34 vs PHI
-- Javonte Williams (RB DAL) — 25.10 vs TB
+- Matthew Stafford (QB LAR) — 28.03 vs ARI
+- Trey McBride (TE ARI) — 23.43 vs LAR
+- Jared Goff (QB DET) — 23.19 vs TBD
 
 ### Opponent injury leverage
 No opponent starter injury/practice flags currently detected.
+
+## 12-Team 2-Keeper — League Is Rigged V2
+Team: Third Reich & Long
+Opponent: liamblatz — lineup proxy 202.50 vs 190.54; margin +11.96
+
+### Lineup actions
+- CHANGE WR: Carnell Tate (16.44) -> Ja'Marr Chase (24.0); delta 7.56; injury clear
+- CHANGE WR: Drake London (20.64) -> Ja'Marr Chase (24.0); delta 3.36; injury clear
+- CHANGE FLEX: Jeremiyah Love (14.93) -> Ja'Marr Chase (24.0); delta 9.07; injury clear
+
+### Your injury / practice watch
+No monitor-level starter flags.
+
+### Opponent threats
+- Brock Purdy (QB SF) — 32.35 vs WAS
+- Christian McCaffrey (RB SF) — 27.76 vs WAS
+- Derrick Henry (RB BAL) — 22.46 vs CLE
+
+### Opponent injury leverage
+- Carson Schwesinger — QUESTIONABLE; current lineup score 12.24

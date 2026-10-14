@@ -5,108 +5,108 @@
       "league_id": "1370453762442797056",
       "my_starters": [
         {
-          "nonreturn_projection": 25.63,
-          "player": "Joe Burrow",
-          "player_id": "6770",
-          "position": "QB",
-          "return_adjusted_projection": 25.63,
-          "return_confidence": "",
+          "nonreturn_projection": 0.0,
+          "player": null,
+          "player_id": "0",
+          "position": null,
+          "return_adjusted_projection": 0.0,
+          "return_confidence": null,
           "return_points_applied": 0.0,
-          "return_roles": ""
+          "return_roles": null
         },
         {
-          "nonreturn_projection": 30.09,
+          "nonreturn_projection": 33.67,
           "player": "Jonathan Taylor",
           "player_id": "6813",
           "position": "RB",
-          "return_adjusted_projection": 30.09,
+          "return_adjusted_projection": 33.67,
           "return_confidence": "",
           "return_points_applied": 0.0,
           "return_roles": ""
         },
         {
-          "nonreturn_projection": 24.04,
-          "player": "Aaron Jones",
-          "player_id": "4199",
-          "position": "RB",
-          "return_adjusted_projection": 24.04,
-          "return_confidence": "",
+          "nonreturn_projection": 0.0,
+          "player": null,
+          "player_id": "0",
+          "position": null,
+          "return_adjusted_projection": 0.0,
+          "return_confidence": null,
           "return_points_applied": 0.0,
-          "return_roles": ""
+          "return_roles": null
         },
         {
-          "nonreturn_projection": 16.34,
+          "nonreturn_projection": 17.02,
           "player": "Malik Nabers",
           "player_id": "11632",
           "position": "WR",
-          "return_adjusted_projection": 16.34,
+          "return_adjusted_projection": 17.02,
           "return_confidence": "",
           "return_points_applied": 0.0,
           "return_roles": ""
         },
         {
-          "nonreturn_projection": 14.9,
+          "nonreturn_projection": 14.2,
           "player": "DK Metcalf",
           "player_id": "5846",
           "position": "WR",
-          "return_adjusted_projection": 14.9,
+          "return_adjusted_projection": 14.2,
           "return_confidence": "",
           "return_points_applied": 0.0,
           "return_roles": ""
         },
         {
-          "nonreturn_projection": 15.86,
+          "nonreturn_projection": 19.04,
           "player": "Tyler Warren",
           "player_id": "12518",
           "position": "TE",
-          "return_adjusted_projection": 15.86,
+          "return_adjusted_projection": 19.04,
           "return_confidence": "",
           "return_points_applied": 0.0,
           "return_roles": ""
         },
         {
-          "nonreturn_projection": 17.65,
-          "player": "Will Shipley",
+          "nonreturn_projection": 0.0,
+          "player": null,
           "player_id": "11577",
-          "position": "RB",
-          "return_adjusted_projection": 23.2,
-          "return_confidence": "HIGH",
-          "return_points_applied": 5.55,
-          "return_roles": "KR"
-        },
-        {
-          "nonreturn_projection": 19.87,
-          "player": "Ollie Gordon",
-          "player_id": "12495",
-          "position": "RB",
-          "return_adjusted_projection": 19.87,
-          "return_confidence": "",
+          "position": null,
+          "return_adjusted_projection": 0.0,
+          "return_confidence": null,
           "return_points_applied": 0.0,
-          "return_roles": ""
+          "return_roles": null
         },
         {
-          "nonreturn_projection": 9.18,
+          "nonreturn_projection": 4.57,
+          "player": "Isaiah Williams",
+          "player_id": "11608",
+          "position": "WR",
+          "return_adjusted_projection": 9.16,
+          "return_confidence": "HIGH",
+          "return_points_applied": 4.59,
+          "return_roles": "KR+PR"
+        },
+        {
+          "nonreturn_projection": 10.78,
           "player": "Matt Gay",
           "player_id": "6083",
           "position": "K",
-          "return_adjusted_projection": 9.18,
+          "return_adjusted_projection": 10.78,
           "return_confidence": "",
           "return_points_applied": 0.0,
           "return_roles": ""
         }
       ],
       "nonreturn_chop_line": 0.0,
-      "nonreturn_margin": 173.56,
-      "nonreturn_projection": 173.56,
-      "nonreturn_rank": 1,
+      "nonreturn_margin": 99.28,
+      "nonreturn_projection": 99.28,
+      "nonreturn_rank": 13,
       "note": "Nonreturn projection uses the same league-scored weekly player projections and all non-return context, but removes the tracker return-role projection. Treat it as a conservative return-independent anchor, not a statistical floor. Return-adjusted projection adds the confidence-weighted return model.",
-      "projected_return_points_added": 5.55,
+      "projected_return_points_added": 4.59,
       "return_adjusted_chop_line": 0.0,
-      "return_adjusted_margin": 179.11,
-      "return_adjusted_projection": 179.11,
-      "return_adjusted_rank": 1,
+      "return_adjusted_margin": 103.87,
+      "return_adjusted_projection": 103.87,
+      "return_adjusted_rank": 13,
       "team": "Third Reich & Long"
     }
   },
-  "week": 5
+  "week": 6
 }

@@ -1,12 +1,12 @@
 {
-  "games_this_week": 15,
+  "games_this_week": 14,
   "schedule_source": "nflverse/nfldata games.csv",
   "season": 2026,
-  "team_context_rows": 30,
-  "week": 5,
-  "weekly_ranking_rows": 799,
+  "team_context_rows": 28,
+  "week": 6,
+  "weekly_ranking_rows": 442,
   "weekly_ranking_scrape_dates": [
-    "2026-10-10"
+    "2026-10-13"
   ],
   "weekly_rankings_current_season": true,
   "weekly_source": "DynastyProcess FantasyPros weekly consensus mirror"

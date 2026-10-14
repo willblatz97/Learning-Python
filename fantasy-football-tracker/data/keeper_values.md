@@ -14,8 +14,8 @@ Rules: 2 keepers; fixed round forever; FA pickup = R7; future picks tradable; ID
 - Tucker Kraft (TE) — keeper R5; market R9; surplus -4 rounds; keeper tiebreaker score 14.2
 - Jordan Love (QB) — keeper R7; market R9; surplus -2 rounds; keeper tiebreaker score 13.7
 - Devaughn Vele (WR) — keeper R7; market R11; surplus -4 rounds; keeper tiebreaker score 12.5
-- Kalif Raymond (WR) — keeper R7; market R13; surplus -6 rounds; keeper tiebreaker score 10.8
 - Jonah Coleman (RB) — keeper R7; market R15; surplus -8 rounds; keeper tiebreaker score 9.2
+- Tyreek Hill (WR) — keeper R7; market R17; surplus -10 rounds; keeper tiebreaker score 6.1
 
 ## Future picks currently controlled
 - 2026: R1, R2, R3, R4, R5, R6, R6(from 4), R8, R9, R10, R11, R12, R13, R14, R15, R16, R17
