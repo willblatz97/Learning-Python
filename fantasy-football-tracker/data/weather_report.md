@@ -10,9 +10,9 @@ Game times are interpreted from the nflverse schedule as Eastern Time, converted
 - NYJ @ NE — LOW — no material weather signal — pass +0.00, kick +0.00
 - NO @ NYG — LOW — no material weather signal — pass +0.00, kick +0.00
 - CAR @ PHI — LOW — no material weather signal — pass +0.00, kick +0.00
-- PIT @ TB — MODERATE — wind 19 mph — pass -0.45, kick -0.55
+- PIT @ TB — LOW — no material weather signal — pass +0.00, kick +0.00
 - ARI @ LAR — INDOOR — indoor — pass +0.00, kick +0.00
 - LAC @ KC — LOW — no material weather signal — pass +0.00, kick +0.00
 - BUF @ LV — INDOOR — indoor — pass +0.00, kick +0.00
-- DAL @ GB — MODERATE — wind 17 mph — pass -0.45, kick -0.55
+- DAL @ GB — LOW — no material weather signal — pass +0.00, kick +0.00
 - WAS @ SF — LOW — no material weather signal — pass +0.00, kick +0.00

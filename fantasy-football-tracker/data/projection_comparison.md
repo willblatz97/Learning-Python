@@ -5,11 +5,11 @@ Sleeper = Sleeper raw projected stat lines scored through the same league settin
 
 | League | Team | Our model | Sleeper | Delta | Coverage |
 |---|---|---:|---:|---:|---:|
-| League Is Rigged V2 | Third Reich & Long | 202.50 | 147.12* | — | 81.8% |
-| Dynasty V2 | Route 66ers | 159.95 | 145.69 | +14.26 | 100.0% |
-| One League to Rule Them All | Nazgûl Nation | 167.53 | 111.26* | — | 80.0% |
-| Surviving the Chamber | Third Reich & Long | 103.87 | 92.49* | — | 66.7% |
-| Big Tiger Takeover | Third Reich & Long | 137.10 | 121.54* | — | 90.0% |
+| League Is Rigged V2 | Third Reich & Long | 187.25 | 162.67 | +24.58 | 100.0% |
+| Dynasty V2 | Route 66ers | 161.73 | 146.76 | +14.97 | 100.0% |
+| One League to Rule Them All | Nazgûl Nation | 150.85 | 136.71 | +14.14 | 100.0% |
+| Surviving the Chamber | Third Reich & Long | 144.79 | 129.97 | +14.82 | 100.0% |
+| Big Tiger Takeover | Third Reich & Long | 157.25 | 142.02 | +15.23 | 100.0% |
 
 *Partial means Sleeper did not provide a usable weekly stat line for every starter; the total is not a full team comparison.
 
@@ -17,8 +17,8 @@ Sleeper = Sleeper raw projected stat lines scored through the same league settin
 
 | League | League context | IDP | Usage | OL | Weather | Injury ripple | Returns |
 |---|---:|---:|---:|---:|---:|---:|---:|
-| League Is Rigged V2 | +5.80 | +12.90 | +8.92 | -0.85 | -1.46 | -0.20 | +0.00 |
-| Dynasty V2 | +5.70 | +0.00 | +8.53 | -1.86 | -0.81 | +2.70 | +0.00 |
-| One League to Rule Them All | +4.60 | +0.00 | +8.53 | -1.14 | -0.50 | -0.37 | +0.00 |
-| Surviving the Chamber | +1.60 | +0.00 | +6.49 | -0.38 | -0.45 | +0.63 | +4.59 |
-| Big Tiger Takeover | +4.50 | +0.00 | +7.71 | -2.60 | -0.60 | +1.55 | +0.00 |
+| League Is Rigged V2 | +3.10 | -0.01 | +8.92 | -0.64 | +0.00 | +0.20 | +0.00 |
+| Dynasty V2 | +5.80 | +0.00 | +8.53 | -1.57 | +0.00 | +2.21 | +0.00 |
+| One League to Rule Them All | +5.80 | +0.00 | +8.53 | -0.85 | +0.00 | +0.66 | +0.00 |
+| Surviving the Chamber | -0.60 | +0.00 | +8.12 | -1.15 | +0.00 | +1.50 | +9.11 |
+| Big Tiger Takeover | +6.30 | +0.00 | +7.71 | -1.18 | +0.00 | +2.40 | +0.00 |

@@ -1,11 +1,11 @@
 {
   "idp_stats_excluded_for_idp_layer": true,
   "league_rows_updated": {
-    "1359546418284494848": 133,
-    "1366076769534251008": 203,
+    "1359546418284494848": 128,
+    "1366076769534251008": 201,
     "1370218620990263296": 240,
-    "1370453762442797056": 158,
-    "1389740418316374016": 119
+    "1370453762442797056": 164,
+    "1389740418316374016": 123
   },
   "projection_rows": 3302,
   "return_stats_excluded_for_return_role_layer": [
@@ -16,10 +16,10 @@
     "st_td",
     "st_tkl_solo"
   ],
-  "rows_updated": 853,
+  "rows_updated": 856,
   "season": 2026,
-  "skipped_no_projection": 47,
-  "skipped_no_statline": 350,
+  "skipped_no_projection": 53,
+  "skipped_no_statline": 360,
   "source_url": "https://api.sleeper.com/projections/nfl/2026/6?season_type=regular&position%5B%5D=QB&position%5B%5D=RB&position%5B%5D=WR&position%5B%5D=TE&position%5B%5D=FLEX&position%5B%5D=K&position%5B%5D=DEF",
   "status": "ok",
   "week": 6

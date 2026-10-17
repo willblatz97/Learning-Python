@@ -2,7 +2,7 @@
 
 2025 is context only until 2026 regular-season snap data exists; current-season usage adjustments automatically activate after games are played.
 
-Source season: 2026; latest week: 5
+Source season: 2026; latest week: 6
 
 ## Highest current usage signals
 - Jaylen Warren (RB PIT) — snaps L3 91.3%; opps L3 21.67/g; RISING; adjustment +6
@@ -25,9 +25,9 @@ Source season: 2026; latest week: 5
 - Devaughn Vele (WR NO) — snaps L3 91.0%; opps L3 7.0/g; STABLE; adjustment +4
 - Michael Wilson (WR ARI) — snaps L3 90.3%; opps L3 12.33/g; STABLE; adjustment +4
 - Tetairoa McMillan (WR CAR) — snaps L3 88.0%; opps L3 10.33/g; STABLE; adjustment +4
+- Jaxon Smith-Njigba (WR SEA) — snaps L3 88.0%; opps L3 10.0/g; STABLE; adjustment +4
 - Chris Olave (WR NO) — snaps L3 87.0%; opps L3 10.33/g; STABLE; adjustment +4
 - Sam LaPorta (TE DET) — snaps L3 86.7%; opps L3 7.33/g; STABLE; adjustment +4
-- Jaxon Smith-Njigba (WR SEA) — snaps L3 86.3%; opps L3 9.33/g; STABLE; adjustment +4
 - George Pickens (WR DAL) — snaps L3 86.3%; opps L3 9.0/g; STABLE; adjustment +4
 - Emeka Egbuka (WR TB) — snaps L3 85.7%; opps L3 7.33/g; STABLE; adjustment +4
 - Amon-Ra St. Brown (WR DET) — snaps L3 85.3%; opps L3 10.0/g; STABLE; adjustment +4

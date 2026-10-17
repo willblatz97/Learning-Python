@@ -1,32 +1,31 @@
 nfl_team,roster_slots_across_leagues,starting_slots_across_leagues,unique_players_owned,players_owned,players_started
-CIN,8,4,6,Chase Brown | Cincinnati Bengals | Ja'Marr Chase | Jack Endries | Joe Burrow | Samaje Perine,Chase Brown | Cincinnati Bengals | Ja'Marr Chase | Joe Burrow
-TB,4,4,3,Bucky Irving | Chase McLaughlin | Emeka Egbuka,Bucky Irving | Chase McLaughlin | Emeka Egbuka
+IND,6,4,5,Alec Pierce | Jonathan Taylor | Josh Downs | Keenan Allen | Tyler Warren,Jonathan Taylor | Josh Downs | Keenan Allen | Tyler Warren
+NYJ,6,4,6,Braelon Allen | David Bailey | Garrett Wilson | Geno Smith | Isaiah Williams | Omar Cooper,Braelon Allen | David Bailey | Garrett Wilson | Isaiah Williams
+CAR,9,3,7,Bryce Young | Chris Brazzell | Chuba Hubbard | Darren Waller | Jalen Coker | Jonathon Brooks | Tetairoa McMillan,Chuba Hubbard | Tetairoa McMillan
+SEA,7,3,6,AJ Barner | Emanuel Wilson | Ernest Jones | Rashid Shaheed | Tory Horton | Zach Charbonnet,Emanuel Wilson | Ernest Jones | Rashid Shaheed
 CHI,6,3,4,Cole Kmet | D'Andre Swift | Kalif Raymond | Luther Burden,D'Andre Swift | Luther Burden
 GB,6,3,6,Evan Williams | Jayden Reed | Jordan Love | Luke Musgrave | MarShawn Lloyd | Tucker Kraft,Evan Williams | Jordan Love | Tucker Kraft
 DAL,5,3,4,Brandon Aubrey | Dak Prescott | Jake Ferguson | Javonte Williams,Brandon Aubrey | Dak Prescott | Javonte Williams
 HOU,5,3,4,Dalton Schultz | Marvin Harrison | Tank Dell | Woody Marks,Dalton Schultz | Woody Marks
-NYJ,5,3,5,Braelon Allen | Garrett Wilson | Geno Smith | Isaiah Williams | Omar Cooper,Braelon Allen | Garrett Wilson | Isaiah Williams
-LV,3,3,2,Kirk Cousins | Matt Gay,Kirk Cousins | Matt Gay
+LV,3,3,1,Kirk Cousins,Kirk Cousins
 PIT,3,3,3,DK Metcalf | Jaylen Warren | Pat Freiermuth,DK Metcalf | Jaylen Warren | Pat Freiermuth
-CAR,9,2,7,Bryce Young | Chris Brazzell | Chuba Hubbard | Darren Waller | Jalen Coker | Jonathon Brooks | Tetairoa McMillan,Chuba Hubbard | Tetairoa McMillan
+TB,3,3,2,Bucky Irving | Emeka Egbuka,Bucky Irving | Emeka Egbuka
+BAL,4,2,4,Justice Hill | Rashod Bateman | Tyler Loop | Zay Flowers,Tyler Loop | Zay Flowers
 CLE,4,2,4,Denzel Boston | Deshaun Watson | Quinshon Judkins | Raheim Sanders,Denzel Boston | Quinshon Judkins
-IND,4,2,4,Alec Pierce | Jonathan Taylor | Josh Downs | Tyler Warren,Jonathan Taylor | Tyler Warren
-MIA,5,1,5,De'Von Achane | Jacob Rodriguez | Kyle McCord | Malik Washington | Ollie Gordon,Jacob Rodriguez
-SEA,5,1,4,AJ Barner | Emanuel Wilson | Tory Horton | Zach Charbonnet,Emanuel Wilson
-BAL,3,1,3,Justice Hill | Rashod Bateman | Zay Flowers,Zay Flowers
-DET,3,1,3,Amon-Ra St. Brown | Derrick Barnes | Isiah Pacheco,Derrick Barnes
-JAX,3,1,3,Chris Rodriguez | LeQuint Allen | Parker Washington,Parker Washington
-PHI,3,1,2,Eli Stowers | Will Shipley,Will Shipley
-ARI,2,1,2,Carson Beck | Jeremiyah Love,Jeremiyah Love
-NYG,2,1,2,Jameis Winston | Malik Nabers,Malik Nabers
+JAX,4,2,4,Cam Little | Chris Rodriguez | LeQuint Allen | Parker Washington,Cam Little | Parker Washington
+KC,4,2,4,Emmett Johnson | John Michael Gyllenborg | Kansas City Chiefs | Kenneth Walker,Kansas City Chiefs | Kenneth Walker
+NYG,2,2,2,Jameis Winston | Malik Nabers,Jameis Winston | Malik Nabers
+LAC,2,1,2,Kimani Vidal | Omarion Hampton,Kimani Vidal
 TEN,2,1,2,Carnell Tate | Nicholas Singleton,Carnell Tate
 WAS,2,1,2,Jayden Daniels | Marcus Mariota,Jayden Daniels
 ATL,1,1,1,Drake London,Drake London
+CIN,7,0,5,Chase Brown | Ja'Marr Chase | Jack Endries | Joe Burrow | Samaje Perine,
+MIA,5,0,5,De'Von Achane | Jacob Rodriguez | Kyle McCord | Malik Washington | Ollie Gordon,
 NO,5,0,3,Alvin Kamara | Devaughn Vele | Kendre Miller,
 DEN,3,0,3,Courtland Sutton | Jonah Coleman | Pat Bryant,
-KC,3,0,3,Emmett Johnson | John Michael Gyllenborg | Kenneth Walker,
+DET,3,0,3,Amon-Ra St. Brown | Derrick Barnes | Isiah Pacheco,
+NE,3,0,3,Drake Maye | Efton Chism | Eli Raridon,
+PHI,3,0,3,Dameon Pierce | Eli Stowers | Will Shipley,
+ARI,2,0,2,Carson Beck | Jeremiyah Love,
 MIN,2,0,2,Aaron Jones | Myles Price,
-NE,2,0,2,Drake Maye | Eli Raridon,
 SF,2,0,2,Christian Kirk | Mac Jones,
-FA/UNK,1,0,1,Tyreek Hill,
-LAC,1,0,1,Omarion Hampton,
