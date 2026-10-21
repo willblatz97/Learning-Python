@@ -1,5 +1,205 @@
 [
   {
+    "adds": null,
+    "consenter_ids": [
+      1
+    ],
+    "created": 1792482538845,
+    "creator": "779583277362245632",
+    "draft_picks": [],
+    "drops": {
+      "11786": 1
+    },
+    "leg": 6,
+    "metadata": null,
+    "roster_ids": [
+      1
+    ],
+    "settings": null,
+    "status": "complete",
+    "status_updated": 1792482538845,
+    "transaction_id": "1418178192392347648",
+    "type": "free_agent",
+    "waiver_budget": []
+  },
+  {
+    "adds": null,
+    "consenter_ids": [
+      1
+    ],
+    "created": 1792482532858,
+    "creator": "779583277362245632",
+    "draft_picks": [],
+    "drops": {
+      "1166": 1
+    },
+    "leg": 6,
+    "metadata": null,
+    "roster_ids": [
+      1
+    ],
+    "settings": null,
+    "status": "complete",
+    "status_updated": 1792482532858,
+    "transaction_id": "1418178167281115136",
+    "type": "free_agent",
+    "waiver_budget": []
+  },
+  {
+    "adds": null,
+    "consenter_ids": [
+      1
+    ],
+    "created": 1792482526988,
+    "creator": "779583277362245632",
+    "draft_picks": [],
+    "drops": {
+      "11647": 1
+    },
+    "leg": 6,
+    "metadata": null,
+    "roster_ids": [
+      1
+    ],
+    "settings": null,
+    "status": "complete",
+    "status_updated": 1792482526988,
+    "transaction_id": "1418178142664769536",
+    "type": "free_agent",
+    "waiver_budget": []
+  },
+  {
+    "adds": null,
+    "consenter_ids": [
+      1
+    ],
+    "created": 1792482521666,
+    "creator": "779583277362245632",
+    "draft_picks": [],
+    "drops": {
+      "11608": 1
+    },
+    "leg": 6,
+    "metadata": null,
+    "roster_ids": [
+      1
+    ],
+    "settings": null,
+    "status": "complete",
+    "status_updated": 1792482521666,
+    "transaction_id": "1418178120342589440",
+    "type": "free_agent",
+    "waiver_budget": []
+  },
+  {
+    "adds": null,
+    "consenter_ids": null,
+    "created": 1792482479828,
+    "creator": "779583277362245632",
+    "draft_picks": [],
+    "drops": {
+      "11834": 7,
+      "12512": 7,
+      "12711": 7,
+      "13337": 7,
+      "13414": 7,
+      "13424": 7,
+      "7002": 7,
+      "7523": 7,
+      "7528": 7,
+      "7543": 7,
+      "8155": 7,
+      "8167": 7,
+      "9228": 7,
+      "9482": 7,
+      "9487": 7,
+      "9493": 7,
+      "9508": 7
+    },
+    "leg": 6,
+    "metadata": null,
+    "roster_ids": [
+      7
+    ],
+    "settings": null,
+    "status": "complete",
+    "status_updated": 1792482479828,
+    "transaction_id": "1418177944861282304",
+    "type": "chopped",
+    "waiver_budget": []
+  },
+  {
+    "adds": null,
+    "consenter_ids": [
+      6
+    ],
+    "created": 1792376252797,
+    "creator": "770802446909222912",
+    "draft_picks": [],
+    "drops": {
+      "9226": 6
+    },
+    "leg": 6,
+    "metadata": null,
+    "roster_ids": [
+      6
+    ],
+    "settings": null,
+    "status": "complete",
+    "status_updated": 1792376252797,
+    "transaction_id": "1417732396400308224",
+    "type": "free_agent",
+    "waiver_budget": []
+  },
+  {
+    "adds": {
+      "4663": 17
+    },
+    "consenter_ids": [
+      17
+    ],
+    "created": 1792338879401,
+    "creator": "996120627872493568",
+    "draft_picks": [],
+    "drops": {
+      "13311": 17
+    },
+    "leg": 6,
+    "metadata": null,
+    "roster_ids": [
+      17
+    ],
+    "settings": null,
+    "status": "complete",
+    "status_updated": 1792338879401,
+    "transaction_id": "1417575641015963648",
+    "type": "free_agent",
+    "waiver_budget": []
+  },
+  {
+    "adds": {
+      "7553": 1
+    },
+    "consenter_ids": [
+      1
+    ],
+    "created": 1792338209442,
+    "creator": "779583277362245632",
+    "draft_picks": [],
+    "drops": null,
+    "leg": 6,
+    "metadata": null,
+    "roster_ids": [
+      1
+    ],
+    "settings": null,
+    "status": "complete",
+    "status_updated": 1792338209442,
+    "transaction_id": "1417572831004209152",
+    "type": "free_agent",
+    "waiver_budget": []
+  },
+  {
     "adds": {
       "8111": 15
     },
