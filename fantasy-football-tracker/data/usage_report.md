@@ -2,7 +2,7 @@
 
 2025 is context only until 2026 regular-season snap data exists; current-season usage adjustments automatically activate after games are played.
 
-Source season: 2026; latest week: 6
+Source season: 2026; latest week: 7
 
 ## Highest current usage signals
 - Braelon Allen (RB NYJ) — snaps L3 89.0%; opps L3 21.0/g; RISING; adjustment +6
@@ -10,14 +10,14 @@ Source season: 2026; latest week: 6
 - Jaylen Warren (RB PIT) — snaps L3 86.3%; opps L3 20.67/g; RISING; adjustment +6
 - Malik Nabers (WR NYG) — snaps L3 84.0%; opps L3 14.0/g; RISING; adjustment +6
 - Zay Flowers (WR BAL) — snaps L3 81.0%; opps L3 10.0/g; RISING; adjustment +6
-- Rome Odunze (WR CHI) — snaps L3 94.7%; opps L3 6.67/g; RISING; adjustment +5
+- Rome Odunze (WR CHI) — snaps L3 96.3%; opps L3 6.0/g; RISING; adjustment +5
 - George Kittle (TE SF) — snaps L3 90.7%; opps L3 6.67/g; RISING; adjustment +5
 - Laquon Treadwell (WR IND) — snaps L3 86.0%; opps L3 6.33/g; RISING; adjustment +5
-- Aaron Jones (RB MIN) — snaps L3 80.0%; opps L3 26.33/g; RISING; adjustment +5
+- Aaron Jones Sr. (RB MIN) — snaps L3 80.0%; opps L3 26.33/g; RISING; adjustment +5
 - CeeDee Lamb (WR DAL) — snaps L3 77.0%; opps L3 14.67/g; RISING; adjustment +5
 - Kyren Williams (RB LAR) — snaps L3 76.0%; opps L3 23.0/g; RISING; adjustment +5
 - Germie Bernard (WR PIT) — snaps L3 75.3%; opps L3 7.67/g; RISING; adjustment +5
-- Ollie Gordon (RB MIA) — snaps L3 68.3%; opps L3 16.33/g; RISING; adjustment +5
+- Ollie Gordon II (RB MIA) — snaps L3 68.3%; opps L3 16.33/g; RISING; adjustment +5
 - Jalon Daniels (QB TB) — snaps L3 100.0%; opps L3 0.0/g; RISING; adjustment +4
 - Kyler Murray (QB MIN) — snaps L3 100.0%; opps L3 0.0/g; RISING; adjustment +4
 - Sam Darnold (QB SEA) — snaps L3 100.0%; opps L3 0.0/g; RISING; adjustment +4
@@ -34,9 +34,9 @@ Source season: 2026; latest week: 6
 - George Pickens (WR DAL) — snaps L3 87.3%; opps L3 9.0/g; STABLE; adjustment +4
 - Tetairoa McMillan (WR CAR) — snaps L3 86.7%; opps L3 10.0/g; STABLE; adjustment +4
 - Sam LaPorta (TE DET) — snaps L3 86.7%; opps L3 7.33/g; STABLE; adjustment +4
-- Colston Loveland (TE CHI) — snaps L3 86.7%; opps L3 7.0/g; STABLE; adjustment +4
 - Dameon Pierce (RB PHI) — snaps L3 86.0%; opps L3 16.5/g; STABLE; adjustment +4
 - Amon-Ra St. Brown (WR DET) — snaps L3 85.3%; opps L3 10.0/g; STABLE; adjustment +4
 - DeVonta Smith (WR PHI) — snaps L3 84.7%; opps L3 11.67/g; STABLE; adjustment +4
 - Malik Washington (WR MIA) — snaps L3 84.3%; opps L3 7.67/g; STABLE; adjustment +4
+- Colston Loveland (TE CHI) — snaps L3 84.0%; opps L3 8.0/g; STABLE; adjustment +4
 - Brock Bowers (TE LV) — snaps L3 83.3%; opps L3 10.0/g; STABLE; adjustment +4

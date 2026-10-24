@@ -1,5 +1,5 @@
 player_id,full_name,position,nfl_team,opponent_leagues,injury_status
-5850,Josh Jacobs,RB,GB,3,NA
+5850,Josh Jacobs,RB,GB,3,
 12490,Bhayshul Tuten,RB,JAX,2,
 4984,Josh Allen,QB,BUF,2,
 8121,Romeo Doubs,WR,NE,2,IR
@@ -11,41 +11,41 @@ player_id,full_name,position,nfl_team,opponent_leagues,injury_status
 10859,Sam LaPorta,TE,DET,1,
 11435,Emanuel Wilson,RB,SEA,1,
 11635,Ladd McConkey,WR,LAC,1,Out
-11834,Devaughn Vele,WR,NO,1,
 12711,Tyler Loop,K,BAL,1,
-4199,Aaron Jones,RB,MIN,1,Questionable
+4199,Aaron Jones Sr.,RB,MIN,1,
 5846,DK Metcalf,WR,PIT,1,
 6813,Jonathan Taylor,RB,IND,1,
 8126,Wan'Dale Robinson,WR,TEN,1,
-8155,Breece Hall,RB,NYJ,1,Out
+8155,Breece Hall,RB,NYJ,1,Questionable
+9758,C.J. Stroud,QB,HOU,1,
 MIN,Minnesota Vikings,DEF,MIN,1,
-10857,Stetson Bennett,QB,LAR,1,
+10857,Stetson Bennett IV,QB,LAR,1,
 11370,Chris Brooks,RB,GB,1,IR
 11581,MarShawn Lloyd,RB,GB,1,
 11583,Jonathon Brooks,RB,CAR,1,IR
 11610,Malik Washington,WR,MIA,1,
 12048,George Holani,RB,SEA,1,
 12536,Jaylin Noel,WR,HOU,1,
-13270,CJ Daniels,WR,LAR,1,Out
-13282,Jack Endries,TE,CIN,1,Out
-13305,Mike Washington,RB,LV,1,
+13270,CJ Daniels,WR,LAR,1,
+13282,Jack Endries,TE,CIN,1,
+13305,Mike Washington Jr.,RB,LV,1,Questionable
 13311,Chris Bell,WR,MIA,1,
 13320,Zachariah Branch,WR,ATL,1,
-13324,Matt Hibner,TE,BAL,1,Out
+13324,Matt Hibner,TE,BAL,1,
 1339,Zach Ertz,TE,PHI,1,
 13413,Cyrus Allen,WR,KC,1,
 3257,Jacoby Brissett,QB,ARI,1,
 3634,Kalif Raymond,WR,CHI,1,
 4017,Deshaun Watson,QB,CLE,1,
-5022,Dallas Goedert,TE,PHI,1,
+5022,Dallas Goedert,TE,PHI,1,Questionable
 5927,Terry McLaurin,WR,WAS,1,Out
 6804,Jordan Love,QB,GB,1,
 6904,Jalen Hurts,QB,PHI,1,IR
 7564,Ja'Marr Chase,WR,CIN,1,
 9484,Tucker Kraft,TE,GB,1,
 9754,Quentin Johnston,WR,LAC,1,
-6819,Michael Pittman,WR,PIT,1,IR
-13289,Drew Allar,QB,PIT,1,Out
+6819,Michael Pittman Jr.,WR,PIT,1,IR
+13289,Drew Allar,QB,PIT,1,
 13329,Malik Benson,WR,LV,1,
 7528,Najee Harris,RB,,1,
 8150,Kyren Williams,RB,LAR,1,
@@ -54,8 +54,8 @@ MIN,Minnesota Vikings,DEF,MIN,1,
 13336,Dane Key,WR,DEN,1,
 12497,Tory Horton,WR,SEA,1,
 13150,Darius Cooper,WR,PHI,1,
-13405,Kaytron Allen,RB,MIA,1,Out
-12512,Quinshon Judkins,RB,CLE,1,Out
+13405,Kaytron Allen,RB,MIA,1,
+12512,Quinshon Judkins,RB,CLE,1,
 4217,George Kittle,TE,SF,1,
 13414,Kaelon Black,RB,SF,1,
 4066,Evan Engram,TE,DEN,1,
@@ -63,11 +63,12 @@ MIN,Minnesota Vikings,DEF,MIN,1,
 9228,Bryce Young,QB,CAR,1,
 12509,Tre' Harris,WR,LAC,1,Out
 12518,Tyler Warren,TE,IND,1,Out
-5872,Deebo Samuel,WR,SF,1,Out
+5872,Deebo Samuel Sr.,WR,SF,1,Out
 9486,Dontayvion Wicks,WR,PHI,1,Questionable
 12535,Isaac TeSlaa,WR,DET,1,
 5870,Daniel Jones,QB,IND,1,
-13380,Brenen Thompson,WR,LAC,1,
+2197,Brandin Cooks,WR,SF,1,
+13380,Brenen Thompson,WR,LAC,1,Questionable
 8136,Rachaad White,RB,WAS,1,
 8698,Jake Tonges,TE,SF,1,IR
 6786,CeeDee Lamb,WR,DAL,1,
@@ -75,16 +76,16 @@ MIN,Minnesota Vikings,DEF,MIN,1,
 12185,Spencer Shrader,K,IND,1,
 12474,Woody Marks,RB,HOU,1,
 12507,Omarion Hampton,RB,LAC,1,
-12514,Emeka Egbuka,WR,TB,1,
+12514,Emeka Egbuka,WR,TB,1,Out
 12530,Travis Hunter,DB,JAX,1,
 12533,Jacory Croskey-Merritt,RB,WAS,1,IR
 13274,Germie Bernard,WR,PIT,1,
 13281,Jordyn Tyson,WR,NO,1,IR
 13346,Denzel Boston,WR,CLE,1,
 3172,DeForest Buckner,DT,IND,1,
-5859,A.J. Brown,WR,NE,1,Questionable
+5859,A.J. Brown,WR,NE,1,
 6911,Brandon Jones,DB,DEN,1,
 7600,Pat Freiermuth,TE,PIT,1,
-8151,Kenneth Walker,RB,KC,1,
+8151,Kenneth Walker III,RB,KC,1,
 8329,Devin Lloyd,LB,CAR,1,
 8408,Jordan Mason,RB,MIN,1,IR

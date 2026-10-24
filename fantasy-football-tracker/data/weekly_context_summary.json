@@ -4,9 +4,9 @@
   "season": 2026,
   "team_context_rows": 28,
   "week": 7,
-  "weekly_ranking_rows": 450,
+  "weekly_ranking_rows": 840,
   "weekly_ranking_scrape_dates": [
-    "2026-10-20"
+    "2026-10-24"
   ],
   "weekly_rankings_current_season": true,
   "weekly_source": "DynastyProcess FantasyPros weekly consensus mirror"

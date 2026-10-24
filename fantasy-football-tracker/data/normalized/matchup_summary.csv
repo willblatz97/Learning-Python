@@ -1,6 +1,6 @@
 league_id,league,league_type,team,opponent_or_chop_rank,my_lineup_score,opponent_or_chop_line,projected_margin,recommended_changes,injury_monitors,score_mode,return_adjusted_projection,projected_return_points_added,nonreturn_projection,return_adjusted_chop_line,nonreturn_chop_line,return_adjusted_margin,nonreturn_margin,return_adjusted_rank,nonreturn_rank
-1389740418316374016,10-Team Redraft — Big Tiger Takeover,redraft,Third Reich & Long,Downs Kids,154.26,150.62,3.64,0,0,weekly consensus + return scoring,,,,,,,,,
-1370453762442797056,18-Team Chopped — Surviving the Chamber,chopped,Third Reich & Long,Projected rank 3/18,158.85,0.0,158.85,0,2,league-scored weekly projection + separate return reconciliation,158.85,0.0,158.85,0.0,0.0,158.85,158.85,3,3
-1370218620990263296,12-Team Dynasty — One League to Rule Them All,dynasty,Nazgûl Nation,The J-Squad,148.21,154.19,-5.98,6,0,weekly consensus + return scoring,,,,,,,,,
-1366076769534251008,10-Team Dynasty — Dynasty V2,dynasty,Route 66ers,Stutterboyzzzz,168.74,160.13,8.61,3,0,weekly consensus + return scoring,,,,,,,,,
-1359546418284494848,12-Team 2-Keeper — League Is Rigged V2,keeper,Third Reich & Long,zthompson1533,185.99,187.08,-1.09,4,0,weekly consensus + return scoring,,,,,,,,,
+1389740418316374016,10-Team Redraft — Big Tiger Takeover,redraft,Third Reich & Long,Downs Kids,145.68,150.57,-4.89,1,1,weekly consensus + return scoring,,,,,,,,,
+1370453762442797056,18-Team Chopped — Surviving the Chamber,chopped,Third Reich & Long,Projected rank 5/18,166.45,0.0,166.45,1,1,league-scored weekly projection + separate return reconciliation,166.45,0.0,166.45,0.0,0.0,166.45,166.45,5,4
+1370218620990263296,12-Team Dynasty — One League to Rule Them All,dynasty,Nazgûl Nation,The J-Squad,151.58,158.97,-7.39,7,0,weekly consensus + return scoring,,,,,,,,,
+1366076769534251008,10-Team Dynasty — Dynasty V2,dynasty,Route 66ers,Stutterboyzzzz,167.07,163.33,3.74,3,0,weekly consensus + return scoring,,,,,,,,,
+1359546418284494848,12-Team 2-Keeper — League Is Rigged V2,keeper,Third Reich & Long,zthompson1533,200.35,191.02,9.33,0,0,weekly consensus + return scoring,,,,,,,,,
