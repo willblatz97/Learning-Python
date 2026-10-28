@@ -1,98 +1,101 @@
-# Saturday Lineup & Matchup Board — Week 7
+# Saturday Lineup & Matchup Board — Week 8
 
 ## 10-Team Redraft — Big Tiger Takeover
 Team: Third Reich & Long
-Opponent: Downs Kids — lineup proxy 145.68 vs 150.57; margin -4.89
+Opponent: I got a fag qb — lineup proxy 158.75 vs 145.46; margin +13.29
 
 ### Lineup actions
-- MUST CHANGE FLEX: Zach Charbonnet (0.0) -> Braelon Allen (10.09); delta 10.09; injury OUT
+- MUST CHANGE FLEX: Rashee Rice (15.15) -> Cam Skattebo (16.4); delta 1.25; injury OUT
+- CHANGE FLEX: Braelon Allen (13.64) -> Cam Skattebo (16.4); delta 2.76; injury clear
 
 ### Your injury / practice watch
-- Dallas Goedert — QUESTIONABLE; best legal bench option: none
+No monitor-level starter flags.
 
 ### Opponent threats
-- C.J. Stroud (QB HOU) — 23.27 vs NYG
-- Jonathan Taylor (RB IND) — 20.13 vs MIN
-- Chris Olave (WR NO) — 20.01 vs PIT
+- CeeDee Lamb (WR DAL) — 26.38 vs ARI
+- Kyren Williams (RB LAR) — 22.27 vs LAC
+- Caleb Williams (QB CHI) — 20.22 vs SEA
 
 ### Opponent injury leverage
-No opponent starter injury/practice flags currently detected.
+- Matthew Golden — QUESTIONABLE; current lineup score 15.59
+- Jeremiyah Love — OUT; current lineup score 2.31
 
 ## 18-Team Chopped — Surviving the Chamber
 Team: Third Reich & Long
-Projected rank 5/18 — lineup proxy 166.45; projected chop line 0.00; safety margin +166.45
+Projected rank 10/18 — lineup proxy 143.95; projected chop line 0.00; safety margin +143.95
 
 ### Lineup actions
-- NO REPLACEMENT TE: Tyler Warren (1.62) -> no legal bench replacement; delta ; injury OUT
+- CHANGE WR: Omar Cooper Jr. (10.31) -> Malik Nabers (24.17); delta 13.86; injury clear
+- CHANGE WR: Jalen Coker (17.12) -> Malik Nabers (24.17); delta 7.05; injury QUESTIONABLE
+- CHANGE FLEX: Aaron Jones Sr. (15.9) -> Malik Nabers (24.17); delta 8.27; injury QUESTIONABLE
+- MUST CHANGE FLEX: Breece Hall (4.16) -> Malik Nabers (24.17); delta 20.01; injury OUT
 
 ### Your injury / practice watch
-- Breece Hall — QUESTIONABLE; best legal bench option: DK Metcalf
+No monitor-level starter flags.
 
 ### Chop-field injury leverage
-- Puka Nacua (WR LAR) — QUESTIONABLE; could lower another roster's floor
-- Lamar Jackson (QB BAL) — QUESTIONABLE; could lower another roster's floor
-- Saquon Barkley (RB PHI) — QUESTIONABLE; could lower another roster's floor
-- DeVonta Smith (WR PHI) — QUESTIONABLE; could lower another roster's floor
-- Dalton Kincaid (TE BUF) — QUESTIONABLE; could lower another roster's floor
+- Christian McCaffrey (RB SF) — QUESTIONABLE; could lower another roster's floor
+- Amon-Ra St. Brown (WR DET) — QUESTIONABLE; could lower another roster's floor
+- Drake London (WR ATL) — QUESTIONABLE; could lower another roster's floor
+- Jaylin Noel (WR HOU) — QUESTIONABLE; could lower another roster's floor
+- Woody Marks (RB HOU) — QUESTIONABLE; could lower another roster's floor
 
 ## 12-Team Dynasty — One League to Rule Them All
 Team: Nazgûl Nation
-Opponent: The J-Squad — lineup proxy 151.58 vs 158.97; margin -7.39
+Opponent: JimmyJames2027 — lineup proxy 155.63 vs 148.48; margin +7.15
 
 ### Lineup actions
-- LEAN CHANGE RB: Bucky Irving (17.83) -> Omarion Hampton (19.5); delta 1.67; injury clear
-- LEAN CHANGE RB: D'Andre Swift (17.94) -> Omarion Hampton (19.5); delta 1.56; injury clear
-- CHANGE WR: Luther Burden III (14.39) -> Parker Washington (21.96); delta 7.57; injury clear
-- CHANGE WR: Omar Cooper Jr. (9.0) -> Parker Washington (21.96); delta 12.96; injury clear
-- CHANGE WR: Josh Downs (9.95) -> Parker Washington (21.96); delta 12.01; injury clear
-- CHANGE FLEX: Emanuel Wilson (12.09) -> Parker Washington (21.96); delta 9.87; injury clear
-- CHANGE FLEX: Chase Brown (16.6) -> Parker Washington (21.96); delta 5.36; injury clear
+- CHANGE WR: Luther Burden III (13.19) -> Parker Washington (18.32); delta 5.13; injury clear
+- CHANGE WR: Omar Cooper Jr. (9.51) -> Parker Washington (18.32); delta 8.81; injury clear
+- CHANGE WR: Josh Downs (11.93) -> Parker Washington (18.32); delta 6.39; injury clear
+- CHANGE FLEX: Emanuel Wilson (8.61) -> Parker Washington (18.32); delta 9.71; injury clear
 
 ### Your injury / practice watch
 No monitor-level starter flags.
 
 ### Opponent threats
-- Jordan Love (QB GB) — 23.34 vs DET
-- Ja'Marr Chase (WR CIN) — 20.59 vs BAL
-- Justin Jefferson (WR MIN) — 18.98 vs IND
+- Drake London (WR ATL) — 19.11 vs TB
+- Garrett Wilson (WR NYJ) — 18.17 vs LV
+- Matthew Stafford (QB LAR) — 18.06 vs LAC
 
 ### Opponent injury leverage
-- Dallas Goedert — QUESTIONABLE; current lineup score 13.66
+- Drake London — QUESTIONABLE; current lineup score 19.11
+- Dalton Kincaid — QUESTIONABLE; current lineup score 14.94
 
 ## 10-Team Dynasty — Dynasty V2
 Team: Route 66ers
-Opponent: Stutterboyzzzz — lineup proxy 167.07 vs 163.33; margin +3.74
+Opponent: jblatz — lineup proxy 173.40 vs 148.68; margin +24.72
 
 ### Lineup actions
-- CHANGE QB: Dak Prescott (19.52) -> Jayden Daniels (24.72); delta 5.2; injury clear
-- CHANGE FLEX: Luther Burden III (14.91) -> Woody Marks (18.78); delta 3.87; injury clear
-- LEAN CHANGE SUPER_FLEX: Amon-Ra St. Brown (22.89) -> Jayden Daniels (24.72); delta 1.83; injury clear
+- LEAN CHANGE RB: D'Andre Swift (15.15) -> Woody Marks (16.97); delta 1.82; injury clear
+- LEAN CHANGE TE: Pat Freiermuth (12.61) -> Jake Ferguson (13.82); delta 1.21; injury clear
 
 ### Your injury / practice watch
-No monitor-level starter flags.
+- Amon-Ra St. Brown — QUESTIONABLE; best legal bench option: Woody Marks
 
 ### Opponent threats
-- George Kittle (TE SF) — 23.49 vs ATL
-- Kyren Williams (RB LAR) — 22.68 vs LV
-- Bryce Young (QB CAR) — 22.37 vs TB
+- Jahmyr Gibbs (RB DET) — 25.85 vs MIN
+- Jacoby Brissett (QB ARI) — 24.29 vs DAL
+- Brock Bowers (TE LV) — 22.81 vs NYJ
 
 ### Opponent injury leverage
-No opponent starter injury/practice flags currently detected.
+- Rashid Shaheed — OUT; current lineup score 0.10
 
 ## 12-Team 2-Keeper — League Is Rigged V2
 Team: Third Reich & Long
-Opponent: zthompson1533 — lineup proxy 200.35 vs 191.02; margin +9.33
+Opponent: League is rigged — lineup proxy 195.14 vs 169.66; margin +25.48
 
 ### Lineup actions
-No lineup changes clear the current action threshold.
+- LEAN CHANGE FLEX: Carnell Tate (15.4) -> Devaughn Vele (17.14); delta 1.74; injury clear
 
 ### Your injury / practice watch
-No monitor-level starter flags.
+- Drake London — QUESTIONABLE; best legal bench option: Devaughn Vele
 
 ### Opponent threats
-- Caleb Williams (QB CHI) — 28.40 vs NE
-- Devin Lloyd (LB CAR) — 25.00 vs TB
-- Kenneth Walker III (RB KC) — 24.92 vs SEA
+- Aaron Rodgers (QB PIT) — 24.75 vs CLE
+- Nico Collins (WR HOU) — 22.71 vs TBD
+- Arvell Reese (LB NYG) — 20.33 vs TBD
 
 ### Opponent injury leverage
-No opponent starter injury/practice flags currently detected.
+- Amon-Ra St. Brown — QUESTIONABLE; current lineup score 20.03
+- Aaron Jones Sr. — QUESTIONABLE; current lineup score 13.83

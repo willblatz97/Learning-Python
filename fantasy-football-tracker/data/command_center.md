@@ -1,37 +1,37 @@
-# Fantasy Command Center — Week 7
+# Fantasy Command Center — Week 8
 
 Projection mode: **WEEKLY CONSENSUS**
 Usage: **CURRENT SEASON ACTIVE**
 
 ## 10-Team Redraft — Big Tiger Takeover
-- **LEAN OPPONENT** — Third Reich & Long — projection 145.68 vs 150.57 (Downs Kids); margin -4.89
-- **Action:** MUST CHANGE — FLEX: Zach Charbonnet -> Braelon Allen (+10.09)
-- **Projected finish:** seed #7 · 6.05 expected wins · 39.3% playoff odds · range #6-#8 · roster power #8 · schedule HARD (70.0th percentile difficulty)
-- **Waiver:** Khalil Shakir (WR) — MEDIUM — FAAB 7-12 — consensus ECR 89.67 | rostered in most comparable leagues | depth-chart starter | 1 recent cross-league add(s) | 2026 usage STABLE — snaps L3 68.3%, opps 5.67/g
-- **Injury decisions:** 1 starter monitor(s)
+- **FAVORED** — Third Reich & Long — projection 158.75 vs 145.46 (I got a fag qb); margin +13.29
+- **Action:** MUST CHANGE — FLEX: Rashee Rice -> Cam Skattebo (+1.25)
+- **Projected finish:** seed #4 · 8.28 expected wins · 85.3% playoff odds · range #3-#6 · roster power #5 · schedule AVERAGE (55.0th percentile difficulty)
+- **Waiver:** Kyle Pitts Sr. (TE) — MEDIUM — FAAB 7-12 — consensus ECR 126.5 | rostered in most comparable leagues | depth-chart starter | 2 recent cross-league add(s) | thin TE depth on your roster | 2026 usage STABLE — snaps L3 67.0%, opps 6.0/g
 
 ## 18-Team Chopped — Surviving the Chamber
-- **COMFORTABLE** — Third Reich & Long — projection 166.45 vs 0.0 (Projected rank 5/18); margin +166.45
-- **Action:** NO REPLACEMENT — TE: Tyler Warren -> None (+0.00)
-- **Waiver:** Kyle Pitts Sr. (TE) — MEDIUM — FAAB 79-142 — consensus ECR 126.5 | rostered in most comparable leagues | depth-chart starter | 2 recent cross-league add(s) | thin TE depth on your roster | 2026 usage STABLE — snaps L3 65.3%, opps 5.33/g
-- **Injury decisions:** 1 starter monitor(s)
+- **COMFORTABLE** — Third Reich & Long — projection 143.95 vs 0.0 (Projected rank 10/18); margin +143.95
+- **Action:** CHANGE — WR: Omar Cooper Jr. -> Malik Nabers (+13.86)
+- **Waiver:** Brock Bowers (TE) — MUST ADD — FAAB 221-355 — consensus ECR 28.67 | rostered in most comparable leagues | depth-chart starter | thin TE depth on your roster | 2026 usage STABLE — snaps L3 84.0%, opps 9.0/g
 
 ## 12-Team Dynasty — One League to Rule Them All
-- **TRAILING** — Nazgûl Nation — projection 151.58 vs 158.97 (The J-Squad); margin -7.39
-- **Action:** LEAN CHANGE — RB: Bucky Irving -> Omarion Hampton (+1.67)
-- **Projected finish:** seed #3 · 7.71 expected wins · 72.4% playoff odds · range #3-#7 · roster power #6 · schedule EASY (20.8th percentile difficulty)
+- **FAVORED** — Nazgûl Nation — projection 155.63 vs 148.48 (JimmyJames2027); margin +7.15
+- **Action:** CHANGE — WR: Luther Burden III -> Parker Washington (+5.13)
+- **Projected finish:** seed #4 · 8.36 expected wins · 91.9% playoff odds · range #3-#5 · roster power #4 · schedule EASY (20.8th percentile difficulty)
 
 ## 10-Team Dynasty — Dynasty V2
-- **LEAN YOU** — Route 66ers — projection 167.07 vs 163.33 (Stutterboyzzzz); margin +3.74
-- **Action:** CHANGE — QB: Dak Prescott -> Jayden Daniels (+5.20)
-- **Projected finish:** seed #1 · 10.6 expected wins · 100.0% playoff odds · range #1-#2 · roster power #1 · schedule EASY (30.0th percentile difficulty)
-- **Waiver:** Jaleel McLaughlin (RB) — WATCH — FAAB 0-1 — consensus ECR 320 | rostered in most comparable leagues | primary backup | 3 recent cross-league add(s)
+- **FAVORED** — Route 66ers — projection 173.4 vs 148.68 (jblatz); margin +24.72
+- **Action:** LEAN CHANGE — RB: D'Andre Swift -> Woody Marks (+1.82)
+- **Projected finish:** seed #1 · 10.79 expected wins · 100.0% playoff odds · range #1-#3 · roster power #3 · schedule EASY (5.0th percentile difficulty)
+- **Waiver:** Cade Otton (TE) — WATCH — FAAB 0-1 — consensus ECR 217.88 | depth-chart starter | 2026 usage STABLE — snaps L3 93.7%, opps 2.33/g
+- **Injury decisions:** 1 starter monitor(s)
 
 ## 12-Team 2-Keeper — League Is Rigged V2
-- **FAVORED** — Third Reich & Long — projection 200.35 vs 191.02 (zthompson1533); margin +9.33
-- **Action:** HOLD — No lineup action above threshold
-- **Projected finish:** seed #4 · 7.57 expected wins · 83.8% playoff odds · range #3-#6 · roster power #3 · schedule EASY (20.8th percentile difficulty)
-- **Waiver:** Amani Hooker (DB) — MUST ADD — FAAB 12-20 — current-season IDP value proxy 17.8 pts/g; keeper value ignored
+- **FAVORED** — Third Reich & Long — projection 195.14 vs 169.66 (League is rigged); margin +25.48
+- **Action:** LEAN CHANGE — FLEX: Carnell Tate -> Devaughn Vele (+1.74)
+- **Projected finish:** seed #4 · 7.82 expected wins · 89.9% playoff odds · range #3-#5 · roster power #4 · schedule EASY (12.5th percentile difficulty)
+- **Waiver:** Jacob Parrish (DB) — MUST ADD — FAAB 12-20 — current-season IDP value proxy 17.4 pts/g; keeper value ignored
+- **Injury decisions:** 1 starter monitor(s)
 
 ## NFL Environment Alerts
 - OL degraded: LAC, NE
