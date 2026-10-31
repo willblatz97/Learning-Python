@@ -1,11 +1,11 @@
 {
   "max_player_adjustment": 2.25,
-  "negative_players": 3,
+  "negative_players": 0,
   "note": "Soft Questionable/DNP/Limited signals are damped until official weekly injury reports exist. Defensive CB1-to-WR1 is matchup leverage, not a confirmed shadow assignment.",
   "official_injury_reports": true,
-  "players_affected": 65,
-  "positive_players": 62,
-  "raw_ripple_events": 70,
-  "snapshot_utc": "2026-10-28T01:00:35+00:00",
+  "players_affected": 55,
+  "positive_players": 55,
+  "raw_ripple_events": 56,
+  "snapshot_utc": "2026-10-31T17:28:01+00:00",
   "soft_flag_weight": 0.45
 }

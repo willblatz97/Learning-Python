@@ -1,29 +1,29 @@
 season,week,team,opponent,home_away,gameday,weekday,gametime,spread_line,total_line,roof,surface,temp,wind,stadium
-2026,8,GB,CAR,home,2026-10-29,Thursday,20:15,3.5,47.5,outdoors,grass,,,Lambeau Field
-2026,8,CAR,GB,away,2026-10-29,Thursday,20:15,3.5,47.5,outdoors,grass,,,Lambeau Field
-2026,8,BUF,BAL,home,2026-11-01,Sunday,13:00,3.5,54.5,outdoors,a_turf,,,Highmark Stadium
-2026,8,BAL,BUF,away,2026-11-01,Sunday,13:00,3.5,54.5,outdoors,a_turf,,,Highmark Stadium
-2026,8,CIN,TEN,home,2026-11-01,Sunday,13:00,10.5,46.5,outdoors,fieldturf,,,Paycor Stadium
-2026,8,TEN,CIN,away,2026-11-01,Sunday,13:00,10.5,46.5,outdoors,fieldturf,,,Paycor Stadium
-2026,8,DAL,ARI,home,2026-11-01,Sunday,13:00,6.5,54.5,,matrixturf,,,AT&T Stadium
-2026,8,ARI,DAL,away,2026-11-01,Sunday,13:00,6.5,54.5,,matrixturf,,,AT&T Stadium
-2026,8,DET,MIN,home,2026-11-01,Sunday,13:00,3.5,46.5,dome,fieldturf,,,Ford Field
-2026,8,MIN,DET,away,2026-11-01,Sunday,13:00,3.5,46.5,dome,fieldturf,,,Ford Field
-2026,8,JAX,IND,home,2026-11-01,Sunday,13:00,8.5,46.5,outdoors,grass,,,EverBank Stadium
-2026,8,IND,JAX,away,2026-11-01,Sunday,13:00,8.5,46.5,outdoors,grass,,,EverBank Stadium
+2026,8,GB,CAR,home,2026-10-29,Thursday,20:15,3.5,47.5,outdoors,,,,Lambeau Field
+2026,8,CAR,GB,away,2026-10-29,Thursday,20:15,3.5,47.5,outdoors,,,,Lambeau Field
+2026,8,BUF,BAL,home,2026-11-01,Sunday,13:00,3,54.5,outdoors,a_turf,,,Highmark Stadium
+2026,8,BAL,BUF,away,2026-11-01,Sunday,13:00,3,54.5,outdoors,a_turf,,,Highmark Stadium
+2026,8,CIN,TEN,home,2026-11-01,Sunday,13:00,12.5,46.5,outdoors,fieldturf,,,Paycor Stadium
+2026,8,TEN,CIN,away,2026-11-01,Sunday,13:00,12.5,46.5,outdoors,fieldturf,,,Paycor Stadium
+2026,8,DAL,ARI,home,2026-11-01,Sunday,13:00,7,54.5,,matrixturf,,,AT&T Stadium
+2026,8,ARI,DAL,away,2026-11-01,Sunday,13:00,7,54.5,,matrixturf,,,AT&T Stadium
+2026,8,DET,MIN,home,2026-11-01,Sunday,13:00,3,46.5,dome,fieldturf,,,Ford Field
+2026,8,MIN,DET,away,2026-11-01,Sunday,13:00,3,46.5,dome,fieldturf,,,Ford Field
+2026,8,JAX,IND,home,2026-11-01,Sunday,13:00,10,46.5,outdoors,grass,,,EverBank Stadium
+2026,8,IND,JAX,away,2026-11-01,Sunday,13:00,10,46.5,outdoors,grass,,,EverBank Stadium
 2026,8,NYJ,LV,home,2026-11-01,Sunday,13:00,1.5,45.5,outdoors,fieldturf,,,MetLife Stadium
 2026,8,LV,NYJ,away,2026-11-01,Sunday,13:00,1.5,45.5,outdoors,fieldturf,,,MetLife Stadium
-2026,8,PIT,CLE,home,2026-11-01,Sunday,13:00,3,39.5,outdoors,grass,,,Acrisure Stadium
-2026,8,CLE,PIT,away,2026-11-01,Sunday,13:00,3,39.5,outdoors,grass,,,Acrisure Stadium
-2026,8,TB,ATL,home,2026-11-01,Sunday,13:00,2.5,45.5,outdoors,grass,,,Raymond James Stadium
-2026,8,ATL,TB,away,2026-11-01,Sunday,13:00,2.5,45.5,outdoors,grass,,,Raymond James Stadium
-2026,8,LAR,LAC,home,2026-11-01,Sunday,16:05,6.5,44.5,dome,matrixturf,,,SoFi Stadium
-2026,8,LAC,LAR,away,2026-11-01,Sunday,16:05,6.5,44.5,dome,matrixturf,,,SoFi Stadium
+2026,8,PIT,CLE,home,2026-11-01,Sunday,13:00,3.5,38.5,outdoors,grass,,,Acrisure Stadium
+2026,8,CLE,PIT,away,2026-11-01,Sunday,13:00,3.5,38.5,outdoors,grass,,,Acrisure Stadium
+2026,8,TB,ATL,home,2026-11-01,Sunday,13:00,2.5,43.5,outdoors,grass,,,Raymond James Stadium
+2026,8,ATL,TB,away,2026-11-01,Sunday,13:00,2.5,43.5,outdoors,grass,,,Raymond James Stadium
+2026,8,LAR,LAC,home,2026-11-01,Sunday,16:05,6.5,45.5,dome,matrixturf,,,SoFi Stadium
+2026,8,LAC,LAR,away,2026-11-01,Sunday,16:05,6.5,45.5,dome,matrixturf,,,SoFi Stadium
 2026,8,DEN,KC,home,2026-11-01,Sunday,16:25,-1.5,40.5,outdoors,grass,,,Empower Field at Mile High
 2026,8,KC,DEN,away,2026-11-01,Sunday,16:25,-1.5,40.5,outdoors,grass,,,Empower Field at Mile High
-2026,8,MIA,NE,home,2026-11-01,Sunday,16:25,-7,44.5,outdoors,grass,,,Hard Rock Stadium
-2026,8,NE,MIA,away,2026-11-01,Sunday,16:25,-7,44.5,outdoors,grass,,,Hard Rock Stadium
-2026,8,WAS,PHI,home,2026-11-01,Sunday,20:20,5.5,40.5,outdoors,grass,,,Northwest Stadium
-2026,8,PHI,WAS,away,2026-11-01,Sunday,20:20,5.5,40.5,outdoors,grass,,,Northwest Stadium
+2026,8,MIA,NE,home,2026-11-01,Sunday,16:25,-7,43.5,outdoors,grass,,,Hard Rock Stadium
+2026,8,NE,MIA,away,2026-11-01,Sunday,16:25,-7,43.5,outdoors,grass,,,Hard Rock Stadium
+2026,8,WAS,PHI,home,2026-11-01,Sunday,20:20,6,40.5,outdoors,grass,,,Northwest Stadium
+2026,8,PHI,WAS,away,2026-11-01,Sunday,20:20,6,40.5,outdoors,grass,,,Northwest Stadium
 2026,8,SEA,CHI,home,2026-11-02,Monday,20:15,3,46.5,outdoors,fieldturf,,,Lumen Field
 2026,8,CHI,SEA,away,2026-11-02,Monday,20:15,3,46.5,outdoors,fieldturf,,,Lumen Field

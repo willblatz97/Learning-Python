@@ -1,71 +1,57 @@
 snapshot_utc,target_sleeper_id,target_player,target_team,target_position,source_sleeper_id,source_player,source_team,source_position,ripple_points,side,confidence,reason
-2026-10-28T01:00:35+00:00,8132,Tyler Allgeier,ARI,RB,13287,Jeremiyah Love,ARI,RB,1.55,OFFENSE,HIGH,RB1 OUT/IR: backfield opportunity moves to RB2
-2026-10-28T01:00:35+00:00,8122,Zonovan Knight,ARI,RB,13287,Jeremiyah Love,ARI,RB,0.45,OFFENSE,MEDIUM,RB1 OUT/IR: secondary backfield opportunity
-2026-10-28T01:00:35+00:00,6786,CeeDee Lamb,DAL,WR,6416,Andrew Wingard,ARI,FS,0.4,DEFENSE,MEDIUM,Starting safety OUT/IR: downfield coverage improves
-2026-10-28T01:00:35+00:00,8110,Jake Ferguson,DAL,TE,6416,Andrew Wingard,ARI,FS,0.5,DEFENSE,MEDIUM,Starting safety OUT/IR: TE middle/deep matchup improves
-2026-10-28T01:00:35+00:00,8119,Jahan Dotson,ATL,WR,8112,Drake London,ATL,WR,0.5,OFFENSE,HIGH,WR1 QUESTIONABLE/DNP: target concentration rises for next WR
-2026-10-28T01:00:35+00:00,6271,Olamide Zaccheaus,ATL,WR,8112,Drake London,ATL,WR,0.25,OFFENSE,MEDIUM,WR1 QUESTIONABLE/DNP: WR3 role/targets can expand
-2026-10-28T01:00:35+00:00,7553,Kyle Pitts Sr.,ATL,TE,8112,Drake London,ATL,WR,0.23,OFFENSE,MEDIUM,WR1 QUESTIONABLE/DNP: TE target share can rise
-2026-10-28T01:00:35+00:00,7083,Tyler Huntley,BAL,QB,4881,Lamar Jackson,BAL,QB,1.2,OFFENSE,HIGH,QB1 OUT/IR: QB2 becomes relevant
-2026-10-28T01:00:35+00:00,9997,Zay Flowers,BAL,WR,4881,Lamar Jackson,BAL,QB,-0.45,OFFENSE,MEDIUM,QB1 OUT/IR: pass-catcher efficiency risk with backup QB
-2026-10-28T01:00:35+00:00,7571,Rashod Bateman,BAL,WR,4881,Lamar Jackson,BAL,QB,-0.45,OFFENSE,MEDIUM,QB1 OUT/IR: pass-catcher efficiency risk with backup QB
-2026-10-28T01:00:35+00:00,5012,Mark Andrews,BAL,TE,4881,Lamar Jackson,BAL,QB,-0.45,OFFENSE,MEDIUM,QB1 OUT/IR: pass-catcher efficiency risk with backup QB
-2026-10-28T01:00:35+00:00,8134,Khalil Shakir,BUF,WR,4983,DJ Moore,BUF,WR,1.1,OFFENSE,HIGH,WR1 OUT/IR: target concentration rises for next WR
-2026-10-28T01:00:35+00:00,11637,Keon Coleman,BUF,WR,4983,DJ Moore,BUF,WR,0.55,OFFENSE,MEDIUM,WR1 OUT/IR: WR3 role/targets can expand
-2026-10-28T01:00:35+00:00,10236,Dalton Kincaid,BUF,TE,4983,DJ Moore,BUF,WR,0.5,OFFENSE,MEDIUM,WR1 OUT/IR: TE target share can rise
-2026-10-28T01:00:35+00:00,5906,Dawson Knox,BUF,TE,10236,Dalton Kincaid,BUF,TE,0.38,OFFENSE,HIGH,TE1 QUESTIONABLE/DNP: TE2 route/target opportunity rises
-2026-10-28T01:00:35+00:00,4983,DJ Moore,BUF,WR,10236,Dalton Kincaid,BUF,TE,0.11,OFFENSE,MEDIUM,TE1 QUESTIONABLE/DNP: WR1 target share can rise
-2026-10-28T01:00:35+00:00,8167,Christian Watson,GB,WR,8389,Akayleb Evans,CAR,CB,0.45,DEFENSE,MEDIUM,Opponent CB1 QUESTIONABLE/DNP: projected WR1 coverage matchup improves (not confirmed shadow)
-2026-10-28T01:00:35+00:00,12501,Matthew Golden,GB,WR,8389,Akayleb Evans,CAR,CB,0.18,DEFENSE,MEDIUM,Opponent CB1 QUESTIONABLE/DNP: secondary WR matchup improves
-2026-10-28T01:00:35+00:00,5045,Courtland Sutton,DEN,WR,7526,Jaylen Waddle,DEN,WR,0.5,OFFENSE,HIGH,WR1 QUESTIONABLE/DNP: target concentration rises for next WR
-2026-10-28T01:00:35+00:00,11627,Troy Franklin,DEN,WR,7526,Jaylen Waddle,DEN,WR,0.25,OFFENSE,MEDIUM,WR1 QUESTIONABLE/DNP: WR3 role/targets can expand
-2026-10-28T01:00:35+00:00,4066,Evan Engram,DEN,TE,7526,Jaylen Waddle,DEN,WR,0.23,OFFENSE,MEDIUM,WR1 QUESTIONABLE/DNP: TE target share can rise
-2026-10-28T01:00:35+00:00,10229,Rashee Rice,KC,WR,7641,Pat Surtain II,DEN,CB,1.0,DEFENSE,MEDIUM,Opponent CB1 OUT/IR: projected WR1 coverage matchup improves (not confirmed shadow)
-2026-10-28T01:00:35+00:00,11624,Xavier Worthy,KC,WR,7641,Pat Surtain II,DEN,CB,0.4,DEFENSE,MEDIUM,Opponent CB1 OUT/IR: secondary WR matchup improves
-2026-10-28T01:00:35+00:00,4046,Patrick Mahomes,KC,QB,5871,Zach Allen,DEN,EDGE,0.2,DEFENSE,MEDIUM,Top edge rusher QUESTIONABLE/DNP: QB pressure environment improves
-2026-10-28T01:00:35+00:00,10229,Rashee Rice,KC,WR,5871,Zach Allen,DEN,EDGE,0.07,DEFENSE,LOW,Top edge rusher QUESTIONABLE/DNP: more time helps primary WR routes
-2026-10-28T01:00:35+00:00,8148,Jameson Williams,DET,WR,7547,Amon-Ra St. Brown,DET,WR,0.5,OFFENSE,HIGH,WR1 QUESTIONABLE/DNP: target concentration rises for next WR
-2026-10-28T01:00:35+00:00,12535,Isaac TeSlaa,DET,WR,7547,Amon-Ra St. Brown,DET,WR,0.25,OFFENSE,MEDIUM,WR1 QUESTIONABLE/DNP: WR3 role/targets can expand
-2026-10-28T01:00:35+00:00,10859,Sam LaPorta,DET,TE,7547,Amon-Ra St. Brown,DET,WR,0.23,OFFENSE,MEDIUM,WR1 QUESTIONABLE/DNP: TE target share can rise
-2026-10-28T01:00:35+00:00,12474,Woody Marks,HOU,RB,5892,David Montgomery,HOU,RB,1.55,OFFENSE,HIGH,RB1 OUT/IR: backfield opportunity moves to RB2
-2026-10-28T01:00:35+00:00,4718,Dare Ogunbowale,HOU,RB,5892,David Montgomery,HOU,RB,0.45,OFFENSE,MEDIUM,RB1 OUT/IR: secondary backfield opportunity
-2026-10-28T01:00:35+00:00,10220,Will Mallory,IND,TE,12518,Tyler Warren,IND,TE,0.85,OFFENSE,HIGH,TE1 OUT/IR: TE2 route/target opportunity rises
-2026-10-28T01:00:35+00:00,9500,Josh Downs,IND,WR,12518,Tyler Warren,IND,TE,0.25,OFFENSE,MEDIUM,TE1 OUT/IR: WR1 target share can rise
-2026-10-28T01:00:35+00:00,9487,Parker Washington,JAX,WR,8290,Sauce Gardner,IND,CB,1.0,DEFENSE,MEDIUM,Opponent CB1 OUT/IR: projected WR1 coverage matchup improves (not confirmed shadow)
-2026-10-28T01:00:35+00:00,5947,Jakobi Meyers,JAX,WR,8290,Sauce Gardner,IND,CB,0.4,DEFENSE,MEDIUM,Opponent CB1 OUT/IR: secondary WR matchup improves
-2026-10-28T01:00:35+00:00,9500,Josh Downs,IND,WR,10974,Antonio Johnson,JAX,FS,0.18,DEFENSE,MEDIUM,Starting safety QUESTIONABLE/DNP: downfield coverage improves
-2026-10-28T01:00:35+00:00,12518,Tyler Warren,IND,TE,10974,Antonio Johnson,JAX,FS,0.23,DEFENSE,MEDIUM,Starting safety QUESTIONABLE/DNP: TE middle/deep matchup improves
-2026-10-28T01:00:35+00:00,11624,Xavier Worthy,KC,WR,10229,Rashee Rice,KC,WR,1.1,OFFENSE,HIGH,WR1 OUT/IR: target concentration rises for next WR
-2026-10-28T01:00:35+00:00,12505,Jalen Royals,KC,WR,10229,Rashee Rice,KC,WR,0.55,OFFENSE,MEDIUM,WR1 OUT/IR: WR3 role/targets can expand
-2026-10-28T01:00:35+00:00,1466,Travis Kelce,KC,TE,10229,Rashee Rice,KC,WR,0.5,OFFENSE,MEDIUM,WR1 OUT/IR: TE target share can rise
-2026-10-28T01:00:35+00:00,9754,Quentin Johnston,LAC,WR,11635,Ladd McConkey,LAC,WR,1.1,OFFENSE,HIGH,WR1 OUT/IR: target concentration rises for next WR
-2026-10-28T01:00:35+00:00,12509,Tre' Harris,LAC,WR,11635,Ladd McConkey,LAC,WR,0.55,OFFENSE,MEDIUM,WR1 OUT/IR: WR3 role/targets can expand
-2026-10-28T01:00:35+00:00,8127,Charlie Kolar,LAC,TE,11635,Ladd McConkey,LAC,WR,0.5,OFFENSE,MEDIUM,WR1 OUT/IR: TE target share can rise
-2026-10-28T01:00:35+00:00,11635,Ladd McConkey,LAC,WR,8373,Jaylen Watson,LAR,CB,0.45,DEFENSE,MEDIUM,Opponent CB1 QUESTIONABLE/DNP: projected WR1 coverage matchup improves (not confirmed shadow)
-2026-10-28T01:00:35+00:00,9754,Quentin Johnston,LAC,WR,8373,Jaylen Watson,LAR,CB,0.18,DEFENSE,MEDIUM,Opponent CB1 QUESTIONABLE/DNP: secondary WR matchup improves
-2026-10-28T01:00:35+00:00,1373,Geno Smith,NYJ,QB,11827,Jonah Laulu,LV,EDGE,0.45,DEFENSE,MEDIUM,Top edge rusher OUT/IR: QB pressure environment improves
-2026-10-28T01:00:35+00:00,8146,Garrett Wilson,NYJ,WR,11827,Jonah Laulu,LV,EDGE,0.15,DEFENSE,LOW,Top edge rusher OUT/IR: more time helps primary WR routes
-2026-10-28T01:00:35+00:00,11610,Malik Washington,MIA,WR,5054,Carlton Davis III,NE,CB,1.0,DEFENSE,MEDIUM,Opponent CB1 OUT/IR: projected WR1 coverage matchup improves (not confirmed shadow)
-2026-10-28T01:00:35+00:00,13296,Caleb Douglas,MIA,WR,5054,Carlton Davis III,NE,CB,0.4,DEFENSE,MEDIUM,Opponent CB1 OUT/IR: secondary WR matchup improves
-2026-10-28T01:00:35+00:00,11655,Tyrone Tracy Jr.,NYG,RB,12481,Cam Skattebo,NYG,RB,0.7,OFFENSE,HIGH,RB1 QUESTIONABLE/DNP: backfield opportunity moves to RB2
-2026-10-28T01:00:35+00:00,6130,Devin Singletary,NYG,RB,12481,Cam Skattebo,NYG,RB,0.2,OFFENSE,MEDIUM,RB1 QUESTIONABLE/DNP: secondary backfield opportunity
-2026-10-28T01:00:35+00:00,11576,Braelon Allen,NYJ,RB,8155,Breece Hall,NYJ,RB,1.55,OFFENSE,HIGH,RB1 OUT/IR: backfield opportunity moves to RB2
-2026-10-28T01:00:35+00:00,11571,Isaiah Davis,NYJ,RB,8155,Breece Hall,NYJ,RB,0.45,OFFENSE,MEDIUM,RB1 OUT/IR: secondary backfield opportunity
-2026-10-28T01:00:35+00:00,12527,Ashton Jeanty,LV,RB,11691,T'Vondre Sweat,NYJ,DT,0.2,DEFENSE,MEDIUM,Starting interior DL QUESTIONABLE/DNP: rushing matchup improves
-2026-10-28T01:00:35+00:00,8129,Dameon Pierce,PHI,RB,4866,Saquon Barkley,PHI,RB,0.7,OFFENSE,HIGH,RB1 QUESTIONABLE/DNP: backfield opportunity moves to RB2
-2026-10-28T01:00:35+00:00,7561,Elijah Mitchell,PHI,RB,4866,Saquon Barkley,PHI,RB,0.2,OFFENSE,MEDIUM,RB1 QUESTIONABLE/DNP: secondary backfield opportunity
-2026-10-28T01:00:35+00:00,9486,Dontayvion Wicks,PHI,WR,7525,DeVonta Smith,PHI,WR,1.1,OFFENSE,HIGH,WR1 OUT/IR: target concentration rises for next WR
-2026-10-28T01:00:35+00:00,13294,Makai Lemon,PHI,WR,7525,DeVonta Smith,PHI,WR,0.55,OFFENSE,MEDIUM,WR1 OUT/IR: WR3 role/targets can expand
-2026-10-28T01:00:35+00:00,5022,Dallas Goedert,PHI,TE,7525,DeVonta Smith,PHI,WR,0.5,OFFENSE,MEDIUM,WR1 OUT/IR: TE target share can rise
-2026-10-28T01:00:35+00:00,8210,Chig Okonkwo,WAS,TE,10873,Nolan Smith Jr.,PHI,LB,0.55,DEFENSE,MEDIUM,Starting linebacker OUT/IR: TE coverage improves
-2026-10-28T01:00:35+00:00,8136,Rachaad White,WAS,RB,10873,Nolan Smith Jr.,PHI,LB,0.35,DEFENSE,MEDIUM,Starting linebacker OUT/IR: RB run/checkdown environment improves
-2026-10-28T01:00:35+00:00,13414,Kaelon Black,SF,RB,4034,Christian McCaffrey,SF,RB,0.7,OFFENSE,HIGH,RB1 QUESTIONABLE/DNP: backfield opportunity moves to RB2
-2026-10-28T01:00:35+00:00,12467,Jordan James,SF,RB,4034,Christian McCaffrey,SF,RB,0.2,OFFENSE,MEDIUM,RB1 QUESTIONABLE/DNP: secondary backfield opportunity
-2026-10-28T01:00:35+00:00,5872,Deebo Samuel Sr.,SF,WR,2216,Mike Evans,SF,WR,1.1,OFFENSE,HIGH,WR1 OUT/IR: target concentration rises for next WR
-2026-10-28T01:00:35+00:00,12634,Jordan Watkins,SF,WR,2216,Mike Evans,SF,WR,0.55,OFFENSE,MEDIUM,WR1 OUT/IR: WR3 role/targets can expand
-2026-10-28T01:00:35+00:00,4217,George Kittle,SF,TE,2216,Mike Evans,SF,WR,0.5,OFFENSE,MEDIUM,WR1 OUT/IR: TE target share can rise
-2026-10-28T01:00:35+00:00,4037,Chris Godwin Jr.,TB,WR,12514,Emeka Egbuka,TB,WR,1.1,OFFENSE,HIGH,WR1 OUT/IR: target concentration rises for next WR
-2026-10-28T01:00:35+00:00,13317,Ted Hurst III,TB,WR,12514,Emeka Egbuka,TB,WR,0.55,OFFENSE,MEDIUM,WR1 OUT/IR: WR3 role/targets can expand
-2026-10-28T01:00:35+00:00,8111,Cade Otton,TB,TE,12514,Emeka Egbuka,TB,WR,0.5,OFFENSE,MEDIUM,WR1 OUT/IR: TE target share can rise
-2026-10-28T01:00:35+00:00,8112,Drake London,ATL,WR,6888,Antoine Winfield Jr.,TB,FS,0.4,DEFENSE,MEDIUM,Starting safety OUT/IR: downfield coverage improves
-2026-10-28T01:00:35+00:00,7553,Kyle Pitts Sr.,ATL,TE,6888,Antoine Winfield Jr.,TB,FS,0.5,DEFENSE,MEDIUM,Starting safety OUT/IR: TE middle/deep matchup improves
+2026-10-31T17:28:01+00:00,6786,CeeDee Lamb,DAL,WR,6416,Andrew Wingard,ARI,FS,0.18,DEFENSE,MEDIUM,Starting safety QUESTIONABLE/DNP: downfield coverage improves
+2026-10-31T17:28:01+00:00,8110,Jake Ferguson,DAL,TE,6416,Andrew Wingard,ARI,FS,0.23,DEFENSE,MEDIUM,Starting safety QUESTIONABLE/DNP: TE middle/deep matchup improves
+2026-10-31T17:28:01+00:00,8134,Khalil Shakir,BUF,WR,4983,DJ Moore,BUF,WR,0.5,OFFENSE,HIGH,WR1 QUESTIONABLE/DNP: target concentration rises for next WR
+2026-10-31T17:28:01+00:00,11637,Keon Coleman,BUF,WR,4983,DJ Moore,BUF,WR,0.25,OFFENSE,MEDIUM,WR1 QUESTIONABLE/DNP: WR3 role/targets can expand
+2026-10-31T17:28:01+00:00,10236,Dalton Kincaid,BUF,TE,4983,DJ Moore,BUF,WR,0.23,OFFENSE,MEDIUM,WR1 QUESTIONABLE/DNP: TE target share can rise
+2026-10-31T17:28:01+00:00,5906,Dawson Knox,BUF,TE,10236,Dalton Kincaid,BUF,TE,0.38,OFFENSE,HIGH,TE1 QUESTIONABLE/DNP: TE2 route/target opportunity rises
+2026-10-31T17:28:01+00:00,4983,DJ Moore,BUF,WR,10236,Dalton Kincaid,BUF,TE,0.11,OFFENSE,MEDIUM,TE1 QUESTIONABLE/DNP: WR1 target share can rise
+2026-10-31T17:28:01+00:00,13322,Sam Roush,CHI,TE,12517,Colston Loveland,CHI,TE,0.38,OFFENSE,HIGH,TE1 QUESTIONABLE/DNP: TE2 route/target opportunity rises
+2026-10-31T17:28:01+00:00,11620,Rome Odunze,CHI,WR,12517,Colston Loveland,CHI,TE,0.11,OFFENSE,MEDIUM,TE1 QUESTIONABLE/DNP: WR1 target share can rise
+2026-10-31T17:28:01+00:00,5045,Courtland Sutton,DEN,WR,7526,Jaylen Waddle,DEN,WR,0.5,OFFENSE,HIGH,WR1 QUESTIONABLE/DNP: target concentration rises for next WR
+2026-10-31T17:28:01+00:00,11627,Troy Franklin,DEN,WR,7526,Jaylen Waddle,DEN,WR,0.25,OFFENSE,MEDIUM,WR1 QUESTIONABLE/DNP: WR3 role/targets can expand
+2026-10-31T17:28:01+00:00,4066,Evan Engram,DEN,TE,7526,Jaylen Waddle,DEN,WR,0.23,OFFENSE,MEDIUM,WR1 QUESTIONABLE/DNP: TE target share can rise
+2026-10-31T17:28:01+00:00,10229,Rashee Rice,KC,WR,6911,Brandon Jones,DEN,FS,0.18,DEFENSE,MEDIUM,Starting safety QUESTIONABLE/DNP: downfield coverage improves
+2026-10-31T17:28:01+00:00,1466,Travis Kelce,KC,TE,6911,Brandon Jones,DEN,FS,0.23,DEFENSE,MEDIUM,Starting safety QUESTIONABLE/DNP: TE middle/deep matchup improves
+2026-10-31T17:28:01+00:00,4046,Patrick Mahomes,KC,QB,5871,Zach Allen,DEN,EDGE,0.2,DEFENSE,MEDIUM,Top edge rusher QUESTIONABLE/DNP: QB pressure environment improves
+2026-10-31T17:28:01+00:00,10229,Rashee Rice,KC,WR,5871,Zach Allen,DEN,EDGE,0.07,DEFENSE,LOW,Top edge rusher QUESTIONABLE/DNP: more time helps primary WR routes
+2026-10-31T17:28:01+00:00,12501,Matthew Golden,GB,WR,8167,Christian Watson,GB,WR,0.5,OFFENSE,HIGH,WR1 QUESTIONABLE/DNP: target concentration rises for next WR
+2026-10-31T17:28:01+00:00,12482,Savion Williams,GB,WR,8167,Christian Watson,GB,WR,0.25,OFFENSE,MEDIUM,WR1 QUESTIONABLE/DNP: WR3 role/targets can expand
+2026-10-31T17:28:01+00:00,9484,Tucker Kraft,GB,TE,8167,Christian Watson,GB,WR,0.23,OFFENSE,MEDIUM,WR1 QUESTIONABLE/DNP: TE target share can rise
+2026-10-31T17:28:01+00:00,12474,Woody Marks,HOU,RB,5892,David Montgomery,HOU,RB,1.55,OFFENSE,HIGH,RB1 OUT/IR: backfield opportunity moves to RB2
+2026-10-31T17:28:01+00:00,11199,Emari Demercado,HOU,RB,5892,David Montgomery,HOU,RB,0.45,OFFENSE,MEDIUM,RB1 OUT/IR: secondary backfield opportunity
+2026-10-31T17:28:01+00:00,9500,Josh Downs,IND,WR,10974,Antonio Johnson,JAX,FS,0.4,DEFENSE,MEDIUM,Starting safety OUT/IR: downfield coverage improves
+2026-10-31T17:28:01+00:00,12518,Tyler Warren,IND,TE,10974,Antonio Johnson,JAX,FS,0.5,DEFENSE,MEDIUM,Starting safety OUT/IR: TE middle/deep matchup improves
+2026-10-31T17:28:01+00:00,9501,DeMario Douglas,NE,WR,5859,A.J. Brown,NE,WR,1.1,OFFENSE,HIGH,WR1 OUT/IR: target concentration rises for next WR
+2026-10-31T17:28:01+00:00,12542,Efton Chism III,NE,WR,5859,A.J. Brown,NE,WR,0.55,OFFENSE,MEDIUM,WR1 OUT/IR: WR3 role/targets can expand
+2026-10-31T17:28:01+00:00,3214,Hunter Henry,NE,TE,5859,A.J. Brown,NE,WR,0.5,OFFENSE,MEDIUM,WR1 OUT/IR: TE target share can rise
+2026-10-31T17:28:01+00:00,11610,Malik Washington,MIA,WR,5054,Carlton Davis III,NE,CB,0.45,DEFENSE,MEDIUM,Opponent CB1 QUESTIONABLE/DNP: projected WR1 coverage matchup improves (not confirmed shadow)
+2026-10-31T17:28:01+00:00,13296,Caleb Douglas,MIA,WR,5054,Carlton Davis III,NE,CB,0.18,DEFENSE,MEDIUM,Opponent CB1 QUESTIONABLE/DNP: secondary WR matchup improves
+2026-10-31T17:28:01+00:00,6130,Devin Singletary,NYG,RB,12481,Cam Skattebo,NYG,RB,0.7,OFFENSE,HIGH,RB1 QUESTIONABLE/DNP: backfield opportunity moves to RB2
+2026-10-31T17:28:01+00:00,11655,Tyrone Tracy Jr.,NYG,RB,12481,Cam Skattebo,NYG,RB,0.2,OFFENSE,MEDIUM,RB1 QUESTIONABLE/DNP: secondary backfield opportunity
+2026-10-31T17:28:01+00:00,11576,Braelon Allen,NYJ,RB,8155,Breece Hall,NYJ,RB,0.7,OFFENSE,HIGH,RB1 QUESTIONABLE/DNP: backfield opportunity moves to RB2
+2026-10-31T17:28:01+00:00,11571,Isaiah Davis,NYJ,RB,8155,Breece Hall,NYJ,RB,0.2,OFFENSE,MEDIUM,RB1 QUESTIONABLE/DNP: secondary backfield opportunity
+2026-10-31T17:28:01+00:00,1166,Kirk Cousins,LV,QB,13363,David Bailey,NYJ,EDGE,0.36,DEFENSE,MEDIUM,Top edge rusher DOUBTFUL: QB pressure environment improves
+2026-10-31T17:28:01+00:00,10213,Tre Tucker,LV,WR,13363,David Bailey,NYJ,EDGE,0.12,DEFENSE,LOW,Top edge rusher DOUBTFUL: more time helps primary WR routes
+2026-10-31T17:28:01+00:00,12527,Ashton Jeanty,LV,RB,11691,T'Vondre Sweat,NYJ,DT,0.45,DEFENSE,MEDIUM,Starting interior DL OUT/IR: rushing matchup improves
+2026-10-31T17:28:01+00:00,9486,Dontayvion Wicks,PHI,WR,7525,DeVonta Smith,PHI,WR,1.1,OFFENSE,HIGH,WR1 OUT/IR: target concentration rises for next WR
+2026-10-31T17:28:01+00:00,13294,Makai Lemon,PHI,WR,7525,DeVonta Smith,PHI,WR,0.55,OFFENSE,MEDIUM,WR1 OUT/IR: WR3 role/targets can expand
+2026-10-31T17:28:01+00:00,5022,Dallas Goedert,PHI,TE,7525,DeVonta Smith,PHI,WR,0.5,OFFENSE,MEDIUM,WR1 OUT/IR: TE target share can rise
+2026-10-31T17:28:01+00:00,11435,Emanuel Wilson,SEA,RB,9753,Zach Charbonnet,SEA,RB,0.7,OFFENSE,HIGH,RB1 QUESTIONABLE/DNP: backfield opportunity moves to RB2
+2026-10-31T17:28:01+00:00,12048,George Holani,SEA,RB,9753,Zach Charbonnet,SEA,RB,0.2,OFFENSE,MEDIUM,RB1 QUESTIONABLE/DNP: secondary backfield opportunity
+2026-10-31T17:28:01+00:00,6790,D'Andre Swift,CHI,RB,11668,Byron Murphy II,SEA,NT,0.2,DEFENSE,MEDIUM,Starting interior DL QUESTIONABLE/DNP: rushing matchup improves
+2026-10-31T17:28:01+00:00,13414,Kaelon Black,SF,RB,4034,Christian McCaffrey,SF,RB,0.7,OFFENSE,HIGH,RB1 QUESTIONABLE/DNP: backfield opportunity moves to RB2
+2026-10-31T17:28:01+00:00,12467,Jordan James,SF,RB,4034,Christian McCaffrey,SF,RB,0.2,OFFENSE,MEDIUM,RB1 QUESTIONABLE/DNP: secondary backfield opportunity
+2026-10-31T17:28:01+00:00,5872,Deebo Samuel Sr.,SF,WR,2216,Mike Evans,SF,WR,1.1,OFFENSE,HIGH,WR1 OUT/IR: target concentration rises for next WR
+2026-10-31T17:28:01+00:00,12634,Jordan Watkins,SF,WR,2216,Mike Evans,SF,WR,0.55,OFFENSE,MEDIUM,WR1 OUT/IR: WR3 role/targets can expand
+2026-10-31T17:28:01+00:00,4217,George Kittle,SF,TE,2216,Mike Evans,SF,WR,0.5,OFFENSE,MEDIUM,WR1 OUT/IR: TE target share can rise
+2026-10-31T17:28:01+00:00,4037,Chris Godwin Jr.,TB,WR,12514,Emeka Egbuka,TB,WR,1.1,OFFENSE,HIGH,WR1 OUT/IR: target concentration rises for next WR
+2026-10-31T17:28:01+00:00,13317,Ted Hurst III,TB,WR,12514,Emeka Egbuka,TB,WR,0.55,OFFENSE,MEDIUM,WR1 OUT/IR: WR3 role/targets can expand
+2026-10-31T17:28:01+00:00,8111,Cade Otton,TB,TE,12514,Emeka Egbuka,TB,WR,0.5,OFFENSE,MEDIUM,WR1 OUT/IR: TE target share can rise
+2026-10-31T17:28:01+00:00,8126,Wan'Dale Robinson,TEN,WR,13279,Carnell Tate,TEN,WR,1.1,OFFENSE,HIGH,WR1 OUT/IR: target concentration rises for next WR
+2026-10-31T17:28:01+00:00,12499,Elic Ayomanor,TEN,WR,13279,Carnell Tate,TEN,WR,0.55,OFFENSE,MEDIUM,WR1 OUT/IR: WR3 role/targets can expand
+2026-10-31T17:28:01+00:00,12502,Gunnar Helm,TEN,TE,13279,Carnell Tate,TEN,WR,0.5,OFFENSE,MEDIUM,WR1 OUT/IR: TE target share can rise
+2026-10-31T17:28:01+00:00,6770,Joe Burrow,CIN,QB,5466,John Franklin-Myers,TEN,EDGE,0.2,DEFENSE,MEDIUM,Top edge rusher QUESTIONABLE/DNP: QB pressure environment improves
+2026-10-31T17:28:01+00:00,7564,Ja'Marr Chase,CIN,WR,5466,John Franklin-Myers,TEN,EDGE,0.07,DEFENSE,LOW,Top edge rusher QUESTIONABLE/DNP: more time helps primary WR routes
+2026-10-31T17:28:01+00:00,9230,Tanner McKee,PHI,QB,5934,Charles Omenihu,WAS,EDGE,0.2,DEFENSE,MEDIUM,Top edge rusher QUESTIONABLE/DNP: QB pressure environment improves
+2026-10-31T17:28:01+00:00,7525,DeVonta Smith,PHI,WR,5934,Charles Omenihu,WAS,EDGE,0.07,DEFENSE,LOW,Top edge rusher QUESTIONABLE/DNP: more time helps primary WR routes

@@ -6,11 +6,11 @@ player_id,full_name,position,nfl_team,opponent_leagues,injury_status
 11539,Jake Bates,K,DET,1,
 11560,Caleb Williams,QB,CHI,1,
 11630,Roman Wilson,WR,PIT,1,IR
-12501,Matthew Golden,WR,GB,1,Questionable
+12501,Matthew Golden,WR,GB,1,
 12514,Emeka Egbuka,WR,TB,1,Out
-12518,Tyler Warren,TE,IND,1,Out
+12518,Tyler Warren,TE,IND,1,
 12534,Kyle Monangai,RB,CHI,1,Out
-13287,Jeremiyah Love,RB,ARI,1,Out
+13287,Jeremiyah Love,RB,ARI,1,
 5045,Courtland Sutton,WR,DEN,1,
 6786,CeeDee Lamb,WR,DAL,1,
 6794,Justin Jefferson,WR,MIN,1,
@@ -33,14 +33,14 @@ LAR,Los Angeles Rams,DEF,LAR,1,
 13421,Eli Raridon,TE,NE,1,
 13557,Athan Kaliakmanis,QB,WAS,1,
 19,Joe Flacco,QB,CIN,1,
-2307,Marcus Mariota,QB,WAS,1,Out
+2307,Marcus Mariota,QB,WAS,1,
 2449,Stefon Diggs,WR,WAS,1,
 421,Matthew Stafford,QB,LAR,1,
 5870,Daniel Jones,QB,IND,1,
 6819,Michael Pittman Jr.,WR,PIT,1,IR
 6931,DeeJay Dallas,RB,MIN,1,
 7585,Davis Mills,QB,HOU,1,
-8112,Drake London,WR,ATL,1,Questionable
+8112,Drake London,WR,ATL,1,
 8146,Garrett Wilson,WR,NYJ,1,
 8183,Brock Purdy,QB,SF,1,
 8210,Chig Okonkwo,TE,WAS,1,
@@ -49,10 +49,10 @@ LAR,Los Angeles Rams,DEF,LAR,1,
 11604,Brock Bowers,TE,LV,1,
 11638,Ricky Pearsall,WR,SF,1,IR
 1166,Kirk Cousins,QB,LV,1,
-12470,Riley Leonard,QB,IND,1,Out
+12470,Riley Leonard,QB,IND,1,
 12507,Omarion Hampton,RB,LAC,1,
 12533,Jacory Croskey-Merritt,RB,WAS,1,IR
-12536,Jaylin Noel,WR,HOU,1,Questionable
+12536,Jaylin Noel,WR,HOU,1,IR
 13303,Cade Klubnik,QB,NYJ,1,
 13425,Jalon Daniels,QB,TB,1,
 2133,Davante Adams,WR,LAR,1,IR
@@ -66,28 +66,28 @@ LAR,Los Angeles Rams,DEF,LAR,1,
 7543,Travis Etienne Jr.,RB,NO,1,IR
 7553,Kyle Pitts Sr.,TE,ATL,1,
 8122,Zonovan Knight,RB,ARI,1,
-8129,Dameon Pierce,RB,PHI,1,Questionable
-8137,George Pickens,WR,DAL,1,
+8129,Dameon Pierce,RB,PHI,1,IR
+8137,George Pickens,WR,DAL,1,Questionable
 8205,Isiah Pacheco,RB,DET,1,IR
 8408,Jordan Mason,RB,MIN,1,
-8676,Rashid Shaheed,WR,SEA,1,Out
+8676,Rashid Shaheed,WR,SEA,1,Questionable
 9221,Jahmyr Gibbs,RB,DET,1,
 9500,Josh Downs,WR,IND,1,
-9753,Zach Charbonnet,RB,SEA,1,Out
+9753,Zach Charbonnet,RB,SEA,1,Questionable
 10880,Jack Campbell,LB,DET,1,
-11628,Marvin Harrison Jr.,WR,HOU,1,
+11760,Austin Booker,DL,CHI,1,
+11834,Devaughn Vele,WR,NO,1,
 12597,Nick Emmanwori,DB,SEA,1,
-13377,Arvell Reese,LB,NYG,1,
+13376,Caleb Downs,DB,DAL,1,
 1466,Travis Kelce,TE,KC,1,
-4199,Aaron Jones Sr.,RB,MIN,1,Questionable
-4881,Lamar Jackson,QB,BAL,1,Out
-4960,Roquan Smith,LB,BAL,1,Questionable
+3294,Dak Prescott,QB,DAL,1,
+4199,Aaron Jones Sr.,RB,MIN,1,
+4881,Lamar Jackson,QB,BAL,1,
+4960,Roquan Smith,LB,BAL,1,
 5967,Tony Pollard,RB,TEN,1,
 6083,Matt Gay,K,LV,1,
-7547,Amon-Ra St. Brown,WR,DET,1,Questionable
+7547,Amon-Ra St. Brown,WR,DET,1,
 7569,Nico Collins,WR,HOU,1,
 8126,Wan'Dale Robinson,WR,TEN,1,
-8134,Khalil Shakir,WR,BUF,1,
 8136,Rachaad White,RB,WAS,1,
 9226,De'Von Achane,RB,MIA,1,IR
-96,Aaron Rodgers,QB,PIT,1,

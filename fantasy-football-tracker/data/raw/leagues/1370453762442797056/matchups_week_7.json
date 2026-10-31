@@ -186,6 +186,7 @@
     "matchup_id": 4,
     "players": [
       "11566",
+      "12490",
       "12526",
       "13286",
       "2505",
@@ -204,6 +205,7 @@
     ],
     "players_points": {
       "11566": 0.0,
+      "12490": 0.0,
       "12526": 8.0,
       "13286": 0.0,
       "2505": 16.5,
@@ -248,7 +250,7 @@
   {
     "custom_points": null,
     "matchup_id": 5,
-    "players": [],
+    "players": null,
     "players_points": {},
     "points": 0.0,
     "roster_id": 5,
@@ -344,7 +346,7 @@
   {
     "custom_points": null,
     "matchup_id": 7,
-    "players": [],
+    "players": null,
     "players_points": {},
     "points": 0.0,
     "roster_id": 7,
@@ -441,6 +443,7 @@
       "11533",
       "11576",
       "11783",
+      "12507",
       "12512",
       "12540",
       "13346",
@@ -459,6 +462,7 @@
       "11533": 16.0,
       "11576": 29.3,
       "11783": 11.0,
+      "12507": 0.0,
       "12512": 31.3,
       "12540": 7.5,
       "13346": 5.7,
@@ -500,7 +504,7 @@
   {
     "custom_points": null,
     "matchup_id": 10,
-    "players": [],
+    "players": null,
     "players_points": {},
     "points": 0.0,
     "roster_id": 10,
@@ -728,7 +732,7 @@
   {
     "custom_points": null,
     "matchup_id": 14,
-    "players": [],
+    "players": null,
     "players_points": {},
     "points": 0.0,
     "roster_id": 14,
@@ -820,7 +824,7 @@
   {
     "custom_points": null,
     "matchup_id": 16,
-    "players": [],
+    "players": null,
     "players_points": {},
     "points": 0.0,
     "roster_id": 16,
@@ -914,7 +918,7 @@
   {
     "custom_points": null,
     "matchup_id": 18,
-    "players": [],
+    "players": null,
     "players_points": {},
     "points": 0.0,
     "roster_id": 18,
