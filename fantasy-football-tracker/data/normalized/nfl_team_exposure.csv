@@ -1,31 +1,31 @@
 nfl_team,roster_slots_across_leagues,starting_slots_across_leagues,unique_players_owned,players_owned,players_started
 CAR,9,5,7,Bryce Young | Chris Brazzell II | Chuba Hubbard | Darren Waller | Jalen Coker | Jonathon Brooks | Tetairoa McMillan,Bryce Young | Chuba Hubbard | Jalen Coker | Tetairoa McMillan
 CIN,7,5,5,Chase Brown | Ja'Marr Chase | Jack Endries | Joe Burrow | Samaje Perine,Chase Brown | Ja'Marr Chase | Joe Burrow
-NYJ,7,5,6,Braelon Allen | Breece Hall | David Bailey | Garrett Wilson | Geno Smith | Omar Cooper Jr.,Breece Hall | David Bailey | Garrett Wilson | Geno Smith | Omar Cooper Jr.
+IND,7,4,6,Alec Pierce | Jonathan Taylor | Josh Downs | Keenan Allen | Seth McGowan | Tyler Warren,Jonathan Taylor | Josh Downs | Keenan Allen | Tyler Warren
 DAL,5,4,4,Brandon Aubrey | Dak Prescott | Jake Ferguson | Javonte Williams,Brandon Aubrey | Dak Prescott | Jake Ferguson | Javonte Williams
-IND,7,3,6,Alec Pierce | Jonathan Taylor | Josh Downs | Keenan Allen | Seth McGowan | Tyler Warren,Jonathan Taylor | Josh Downs | Tyler Warren
+NYJ,7,3,6,Braelon Allen | Breece Hall | David Bailey | Garrett Wilson | Geno Smith | Omar Cooper Jr.,Garrett Wilson | Geno Smith | Omar Cooper Jr.
 CHI,5,3,3,Cole Kmet | D'Andre Swift | Luther Burden III,D'Andre Swift | Luther Burden III
+NYG,4,3,3,Cam Skattebo | Jameis Winston | Malik Nabers,Cam Skattebo | Malik Nabers
 TB,4,3,3,Bucky Irving | Chase McLaughlin | Emeka Egbuka,Bucky Irving | Chase McLaughlin
-PIT,3,3,3,DK Metcalf | Jaylen Warren | Pat Freiermuth,DK Metcalf | Jaylen Warren | Pat Freiermuth
 GB,6,2,6,Evan Williams | Jayden Reed | Jordan Love | Luke Musgrave | MarShawn Lloyd | Tucker Kraft,Evan Williams | Tucker Kraft
 MIA,5,2,5,De'Von Achane | Jacob Rodriguez | Kyle McCord | Malik Washington | Ollie Gordon II,Jacob Rodriguez | Ollie Gordon II
 KC,4,2,4,Emmett Johnson | John Michael Gyllenborg | Kenneth Walker III | Rashee Rice,Kenneth Walker III | Rashee Rice
 ATL,3,2,2,Drake London | Kyle Pitts Sr.,Drake London | Kyle Pitts Sr.
 WAS,3,2,3,Jayden Daniels | Treylon Burks | Washington Commanders,Jayden Daniels | Washington Commanders
 SEA,6,1,5,AJ Barner | Emanuel Wilson | Rashid Shaheed | Tory Horton | Zach Charbonnet,Zach Charbonnet
-DET,3,1,3,Amon-Ra St. Brown | Derrick Barnes | Isiah Pacheco,Amon-Ra St. Brown
+DEN,3,1,3,Courtland Sutton | Jonah Coleman | Pat Bryant,Jonah Coleman
 JAX,3,1,3,Chris Rodriguez Jr. | LeQuint Allen Jr. | Parker Washington,Parker Washington
+PIT,3,1,3,DK Metcalf | Jaylen Warren | Pat Freiermuth,Pat Freiermuth
 BAL,2,1,2,Rashod Bateman | Zay Flowers,Zay Flowers
+DET,2,1,2,Amon-Ra St. Brown | Isiah Pacheco,Amon-Ra St. Brown
 LV,2,1,2,Kirk Cousins | Matt Gay,Matt Gay
 NE,2,1,2,Drake Maye | Eli Raridon,Drake Maye
-TEN,2,1,2,Carnell Tate | Nicholas Singleton,Carnell Tate
-MIN,1,1,1,Aaron Jones Sr.,Aaron Jones Sr.
 HOU,5,0,4,Dalton Schultz | Marvin Harrison Jr. | Tank Dell | Woody Marks,
 NO,5,0,3,Alvin Kamara | Devaughn Vele | Kendre Miller,
-NYG,4,0,3,Cam Skattebo | Jameis Winston | Malik Nabers,
 PHI,4,0,4,Eli Stowers | Joe Milton | Tanner McKee | Will Shipley,
-DEN,3,0,3,Courtland Sutton | Jonah Coleman | Pat Bryant,
 ARI,2,0,2,Carson Beck | Jeremiyah Love,
 CLE,2,0,2,Deshaun Watson | Raheim Sanders,
 SF,2,0,2,Christian Kirk | Mac Jones,
+TEN,2,0,2,Carnell Tate | Nicholas Singleton,
 LAC,1,0,1,Omarion Hampton,
+MIN,1,0,1,Aaron Jones Sr.,

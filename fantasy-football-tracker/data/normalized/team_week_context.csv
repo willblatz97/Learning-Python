@@ -1,29 +1,31 @@
 season,week,team,opponent,home_away,gameday,weekday,gametime,spread_line,total_line,roof,surface,temp,wind,stadium
-2026,8,GB,CAR,home,2026-10-29,Thursday,20:15,3.5,47.5,outdoors,,,,Lambeau Field
-2026,8,CAR,GB,away,2026-10-29,Thursday,20:15,3.5,47.5,outdoors,,,,Lambeau Field
-2026,8,BUF,BAL,home,2026-11-01,Sunday,13:00,3,54.5,outdoors,a_turf,,,Highmark Stadium
-2026,8,BAL,BUF,away,2026-11-01,Sunday,13:00,3,54.5,outdoors,a_turf,,,Highmark Stadium
-2026,8,CIN,TEN,home,2026-11-01,Sunday,13:00,12.5,46.5,outdoors,fieldturf,,,Paycor Stadium
-2026,8,TEN,CIN,away,2026-11-01,Sunday,13:00,12.5,46.5,outdoors,fieldturf,,,Paycor Stadium
-2026,8,DAL,ARI,home,2026-11-01,Sunday,13:00,7,54.5,,matrixturf,,,AT&T Stadium
-2026,8,ARI,DAL,away,2026-11-01,Sunday,13:00,7,54.5,,matrixturf,,,AT&T Stadium
-2026,8,DET,MIN,home,2026-11-01,Sunday,13:00,3,46.5,dome,fieldturf,,,Ford Field
-2026,8,MIN,DET,away,2026-11-01,Sunday,13:00,3,46.5,dome,fieldturf,,,Ford Field
-2026,8,JAX,IND,home,2026-11-01,Sunday,13:00,10,46.5,outdoors,grass,,,EverBank Stadium
-2026,8,IND,JAX,away,2026-11-01,Sunday,13:00,10,46.5,outdoors,grass,,,EverBank Stadium
-2026,8,NYJ,LV,home,2026-11-01,Sunday,13:00,1.5,45.5,outdoors,fieldturf,,,MetLife Stadium
-2026,8,LV,NYJ,away,2026-11-01,Sunday,13:00,1.5,45.5,outdoors,fieldturf,,,MetLife Stadium
-2026,8,PIT,CLE,home,2026-11-01,Sunday,13:00,3.5,38.5,outdoors,grass,,,Acrisure Stadium
-2026,8,CLE,PIT,away,2026-11-01,Sunday,13:00,3.5,38.5,outdoors,grass,,,Acrisure Stadium
-2026,8,TB,ATL,home,2026-11-01,Sunday,13:00,2.5,43.5,outdoors,grass,,,Raymond James Stadium
-2026,8,ATL,TB,away,2026-11-01,Sunday,13:00,2.5,43.5,outdoors,grass,,,Raymond James Stadium
-2026,8,LAR,LAC,home,2026-11-01,Sunday,16:05,6.5,45.5,dome,matrixturf,,,SoFi Stadium
-2026,8,LAC,LAR,away,2026-11-01,Sunday,16:05,6.5,45.5,dome,matrixturf,,,SoFi Stadium
-2026,8,DEN,KC,home,2026-11-01,Sunday,16:25,-1.5,40.5,outdoors,grass,,,Empower Field at Mile High
-2026,8,KC,DEN,away,2026-11-01,Sunday,16:25,-1.5,40.5,outdoors,grass,,,Empower Field at Mile High
-2026,8,MIA,NE,home,2026-11-01,Sunday,16:25,-7,43.5,outdoors,grass,,,Hard Rock Stadium
-2026,8,NE,MIA,away,2026-11-01,Sunday,16:25,-7,43.5,outdoors,grass,,,Hard Rock Stadium
-2026,8,WAS,PHI,home,2026-11-01,Sunday,20:20,6,40.5,outdoors,grass,,,Northwest Stadium
-2026,8,PHI,WAS,away,2026-11-01,Sunday,20:20,6,40.5,outdoors,grass,,,Northwest Stadium
-2026,8,SEA,CHI,home,2026-11-02,Monday,20:15,3,46.5,outdoors,fieldturf,,,Lumen Field
-2026,8,CHI,SEA,away,2026-11-02,Monday,20:15,3,46.5,outdoors,fieldturf,,,Lumen Field
+2026,9,BAL,JAX,home,2026-11-05,Thursday,20:15,-10,40.5,outdoors,grass,,,M&T Bank Stadium
+2026,9,JAX,BAL,away,2026-11-05,Thursday,20:15,-10,40.5,outdoors,grass,,,M&T Bank Stadium
+2026,9,ATL,CIN,home,2026-11-08,Sunday,09:30,-3,52.5,,fieldturf,,,Bernabeu
+2026,9,CIN,ATL,away,2026-11-08,Sunday,09:30,-3,52.5,,fieldturf,,,Bernabeu
+2026,9,CAR,DEN,home,2026-11-08,Sunday,13:00,-2.5,43.5,outdoors,grass,,,Bank of America Stadium
+2026,9,DEN,CAR,away,2026-11-08,Sunday,13:00,-2.5,43.5,outdoors,grass,,,Bank of America Stadium
+2026,9,IND,DAL,home,2026-11-08,Sunday,13:00,-6,51.5,,fieldturf,,,Lucas Oil Stadium
+2026,9,DAL,IND,away,2026-11-08,Sunday,13:00,-6,51.5,,fieldturf,,,Lucas Oil Stadium
+2026,9,KC,NYJ,home,2026-11-08,Sunday,13:00,9.5,47.5,outdoors,grass,,,GEHA Field at Arrowhead Stadium
+2026,9,NYJ,KC,away,2026-11-08,Sunday,13:00,9.5,47.5,outdoors,grass,,,GEHA Field at Arrowhead Stadium
+2026,9,MIA,DET,home,2026-11-08,Sunday,13:00,-7,50.5,outdoors,grass,,,Hard Rock Stadium
+2026,9,DET,MIA,away,2026-11-08,Sunday,13:00,-7,50.5,outdoors,grass,,,Hard Rock Stadium
+2026,9,NO,CLE,home,2026-11-08,Sunday,13:00,1.5,42.5,dome,sportturf,,,Caesars Superdome
+2026,9,CLE,NO,away,2026-11-08,Sunday,13:00,1.5,42.5,dome,sportturf,,,Caesars Superdome
+2026,9,PHI,NYG,home,2026-11-08,Sunday,13:00,-3.5,39.5,outdoors,grass,,,Lincoln Financial Field
+2026,9,NYG,PHI,away,2026-11-08,Sunday,13:00,-3.5,39.5,outdoors,grass,,,Lincoln Financial Field
+2026,9,WAS,LAR,home,2026-11-08,Sunday,13:00,-5.5,47.5,outdoors,grass,,,Northwest Stadium
+2026,9,LAR,WAS,away,2026-11-08,Sunday,13:00,-5.5,47.5,outdoors,grass,,,Northwest Stadium
+2026,9,LAC,HOU,home,2026-11-08,Sunday,16:05,-4.5,40.5,dome,matrixturf,,,SoFi Stadium
+2026,9,HOU,LAC,away,2026-11-08,Sunday,16:05,-4.5,40.5,dome,matrixturf,,,SoFi Stadium
+2026,9,SF,LV,home,2026-11-08,Sunday,16:05,10,52.5,outdoors,grass,,,Levi's Stadium
+2026,9,LV,SF,away,2026-11-08,Sunday,16:05,10,52.5,outdoors,grass,,,Levi's Stadium
+2026,9,NE,GB,home,2026-11-08,Sunday,16:25,3,46.5,outdoors,fieldturf,,,Gillette Stadium
+2026,9,GB,NE,away,2026-11-08,Sunday,16:25,3,46.5,outdoors,fieldturf,,,Gillette Stadium
+2026,9,SEA,ARI,home,2026-11-08,Sunday,16:25,12.5,41.5,outdoors,fieldturf,,,Lumen Field
+2026,9,ARI,SEA,away,2026-11-08,Sunday,16:25,12.5,41.5,outdoors,fieldturf,,,Lumen Field
+2026,9,CHI,TB,home,2026-11-08,Sunday,20:20,6,47.5,outdoors,grass,,,Soldier Field
+2026,9,TB,CHI,away,2026-11-08,Sunday,20:20,6,47.5,outdoors,grass,,,Soldier Field
+2026,9,MIN,BUF,home,2026-11-09,Monday,20:15,-3.5,45.5,dome,sportturf,,,U.S. Bank Stadium
+2026,9,BUF,MIN,away,2026-11-09,Monday,20:15,-3.5,45.5,dome,sportturf,,,U.S. Bank Stadium
