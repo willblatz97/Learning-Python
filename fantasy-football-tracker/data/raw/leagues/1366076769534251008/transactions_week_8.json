@@ -1,6 +1,34 @@
 [
   {
     "adds": {
+      "6011": 7
+    },
+    "consenter_ids": [
+      7
+    ],
+    "created": 1793639430842,
+    "creator": "779583497248550912",
+    "draft_picks": [],
+    "drops": null,
+    "leg": 8,
+    "metadata": {
+      "notes": "Your waiver claim was processed successfully!"
+    },
+    "roster_ids": [
+      7
+    ],
+    "settings": {
+      "seq": 0,
+      "waiver_bid": 5
+    },
+    "status": "complete",
+    "status_updated": 1793779916306,
+    "transaction_id": "1423030549122945024",
+    "type": "waiver",
+    "waiver_budget": []
+  },
+  {
+    "adds": {
       "12542": 5
     },
     "consenter_ids": [

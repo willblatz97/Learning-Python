@@ -1,6 +1,6 @@
 league_id,league,league_type,team,opponent_or_chop_rank,my_lineup_score,opponent_or_chop_line,projected_margin,recommended_changes,injury_monitors,score_mode,return_adjusted_projection,projected_return_points_added,nonreturn_projection,return_adjusted_chop_line,nonreturn_chop_line,return_adjusted_margin,nonreturn_margin,return_adjusted_rank,nonreturn_rank
-1389740418316374016,10-Team Redraft — Big Tiger Takeover,redraft,Third Reich & Long,Hurts Locker,165.27,175.45,-10.18,0,1,weekly consensus + return scoring,,,,,,,,,
-1370453762442797056,18-Team Chopped — Surviving the Chamber,chopped,Third Reich & Long,Projected rank 4/18,175.84,0.0,175.84,4,0,league-scored weekly projection + separate return reconciliation,175.84,0.0,175.84,0.0,0.0,175.84,175.84,4,4
-1370218620990263296,12-Team Dynasty — One League to Rule Them All,dynasty,Nazgûl Nation,ASSton Martin ,158.87,129.62,29.25,2,0,weekly consensus + return scoring,,,,,,,,,
-1366076769534251008,10-Team Dynasty — Dynasty V2,dynasty,Route 66ers,GOOBERTON,172.07,162.05,10.02,0,1,weekly consensus + return scoring,,,,,,,,,
-1359546418284494848,12-Team 2-Keeper — League Is Rigged V2,keeper,Third Reich & Long,Stutterboyzzzz,190.16,167.42,22.74,2,1,weekly consensus + return scoring,,,,,,,,,
+1389740418316374016,10-Team Redraft — Big Tiger Takeover,redraft,Third Reich & Long,Hurts Locker,170.84,166.94,3.9,0,0,weekly consensus + return scoring,,,,,,,,,
+1370453762442797056,18-Team Chopped — Surviving the Chamber,chopped,Third Reich & Long,Projected rank 4/18,181.82,0.0,181.82,3,0,league-scored weekly projection + separate return reconciliation,181.82,3.52,178.3,0.0,0.0,181.82,178.3,4,6
+1370218620990263296,12-Team Dynasty — One League to Rule Them All,dynasty,Nazgûl Nation,ASSton Martin ,172.85,110.27,62.58,2,1,weekly consensus + return scoring,,,,,,,,,
+1366076769534251008,10-Team Dynasty — Dynasty V2,dynasty,Route 66ers,GOOBERTON,167.85,153.57,14.28,2,1,weekly consensus + return scoring,,,,,,,,,
+1359546418284494848,12-Team 2-Keeper — League Is Rigged V2,keeper,Third Reich & Long,Stutterboyzzzz,199.45,175.85,23.6,2,0,weekly consensus + return scoring,,,,,,,,,

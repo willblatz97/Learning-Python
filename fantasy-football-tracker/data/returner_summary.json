@@ -3,7 +3,7 @@
   "depth_chart_source": "https://github.com/nflverse/nflverse-data/releases/download/depth_charts/depth_charts_2026.csv.gz",
   "depth_chart_teams": 32,
   "latest_depth_dates": [
-    "2026-11-03T14:59:52Z"
+    "2026-11-07T13:54:10Z"
   ],
   "league_scoring": [
     {
@@ -63,10 +63,10 @@
     "KR|Kick Returner",
     "PR|Punt Returner"
   ],
-  "returners_mapped_to_sleeper": 154,
+  "returners_mapped_to_sleeper": 153,
   "returners_unmatched": 1,
   "roster_id_bridge_source": "https://github.com/nflverse/nflverse-data/releases/download/rosters/roster_2026.csv",
-  "snapshot_utc": "2026-11-04T01:57:12+00:00",
+  "snapshot_utc": "2026-11-07T17:55:20+00:00",
   "stat_return_columns_detected": [
     "punt_returns",
     "punt_return_yards",

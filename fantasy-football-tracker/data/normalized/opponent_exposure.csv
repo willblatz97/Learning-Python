@@ -23,7 +23,7 @@ BAL,Baltimore Ravens,DEF,BAL,1,
 12500,Quinn Ewers,QB,JAX,1,
 12508,Jaxson Dart,QB,NYG,1,IR
 12522,Cam Ward,QB,TEN,1,
-13272,Carson Beck,QB,ARI,1,Out
+13272,Carson Beck,QB,ARI,1,
 13277,CJ Donaldson,RB,NO,1,Out
 13309,Aaron Anderson,WR,,1,Questionable
 13336,Dane Key,WR,DEN,1,
@@ -38,8 +38,8 @@ BAL,Baltimore Ravens,DEF,BAL,1,
 5848,Marquise Brown,WR,PHI,1,
 5849,Kyler Murray,QB,MIN,1,Questionable
 5859,A.J. Brown,WR,NE,1,Out
-6865,Colby Parkinson,TE,LAR,1,Out
-7049,Jauan Jennings,WR,MIN,1,
+6865,Colby Parkinson,TE,LAR,1,Questionable
+7049,Jauan Jennings,WR,MIN,1,Questionable
 7600,Pat Freiermuth,TE,PIT,1,
 7611,Rhamondre Stevenson,RB,NE,1,
 8132,Tyler Allgeier,RB,ARI,1,
@@ -67,20 +67,19 @@ BAL,Baltimore Ravens,DEF,BAL,1,
 9480,Brenton Strange,TE,JAX,1,
 9488,Jaxon Smith-Njigba,WR,SEA,1,
 9508,Tyjae Spears,RB,TEN,1,Out
-11435,Emanuel Wilson,RB,SEA,1,
+10927,Jordan Battle,DB,CIN,1,
 11533,Brandon Aubrey,K,DAL,1,
 11566,Jayden Daniels,QB,WAS,1,
 11632,Malik Nabers,WR,NYG,1,
-12506,Harold Fannin Jr.,TE,CLE,1,
+12481,Cam Skattebo,RB,NYG,1,Doubtful
 12512,Quinshon Judkins,RB,CLE,1,
 12617,Demetrius Knight Jr.,LB,CIN,1,
-13371,Dillon Thieneman,DB,CHI,1,
 13417,De'Zhaun Stribling,WR,SF,1,IR
-13424,Seth McGowan,RB,IND,1,
 5041,Fred Warner,LB,SF,1,
 5872,Deebo Samuel Sr.,WR,SF,1,Out
 7561,Elijah Mitchell,RB,PHI,1,
-8137,George Pickens,WR,DAL,1,
+8146,Garrett Wilson,WR,NYJ,1,Out
+8172,Greg Dulcich,TE,MIA,1,
 8343,Boye Mafe,DL,CIN,1,
 9228,Bryce Young,QB,CAR,1,
 9500,Josh Downs,WR,IND,1,

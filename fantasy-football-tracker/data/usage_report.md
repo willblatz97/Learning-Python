@@ -2,7 +2,7 @@
 
 2025 is context only until 2026 regular-season snap data exists; current-season usage adjustments automatically activate after games are played.
 
-Source season: 2026; latest week: 8
+Source season: 2026; latest week: 9
 
 ## Highest current usage signals
 - Justin Jefferson (WR MIN) — snaps L3 92.7%; opps L3 7.67/g; RISING; adjustment +6
@@ -11,12 +11,12 @@ Source season: 2026; latest week: 8
 - Makai Lemon (WR PHI) — snaps L3 88.7%; opps L3 7.67/g; RISING; adjustment +6
 - Colston Loveland (TE CHI) — snaps L3 88.3%; opps L3 9.33/g; RISING; adjustment +6
 - Isaiah Likely (TE NYG) — snaps L3 85.7%; opps L3 9.33/g; RISING; adjustment +6
-- Zay Flowers (WR BAL) — snaps L3 85.0%; opps L3 9.0/g; RISING; adjustment +6
 - Woody Marks (RB HOU) — snaps L3 84.0%; opps L3 19.0/g; RISING; adjustment +6
 - Malik Nabers (WR NYG) — snaps L3 83.0%; opps L3 14.67/g; RISING; adjustment +6
 - Braelon Allen (RB NYJ) — snaps L3 82.7%; opps L3 22.0/g; RISING; adjustment +6
 - Chuba Hubbard (RB CAR) — snaps L3 82.3%; opps L3 24.0/g; RISING; adjustment +6
 - Tony Pollard (RB TEN) — snaps L3 77.7%; opps L3 24.67/g; RISING; adjustment +5
+- Zay Flowers (WR BAL) — snaps L3 77.7%; opps L3 7.33/g; RISING; adjustment +5
 - Ollie Gordon II (RB MIA) — snaps L3 76.7%; opps L3 22.0/g; RISING; adjustment +5
 - D'Andre Swift (RB CHI) — snaps L3 73.7%; opps L3 25.67/g; RISING; adjustment +5
 - Bucky Irving (RB TB) — snaps L3 64.7%; opps L3 25.0/g; RISING; adjustment +5
