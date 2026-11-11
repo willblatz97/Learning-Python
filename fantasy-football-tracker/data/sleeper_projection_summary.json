@@ -1,13 +1,13 @@
 {
   "idp_stats_excluded_for_idp_layer": true,
   "league_rows_updated": {
-    "1359546418284494848": 138,
-    "1366076769534251008": 206,
-    "1370218620990263296": 252,
-    "1370453762442797056": 132,
-    "1389740418316374016": 131
+    "1359546418284494848": 131,
+    "1366076769534251008": 202,
+    "1370218620990263296": 240,
+    "1370453762442797056": 105,
+    "1389740418316374016": 125
   },
-  "projection_rows": 3304,
+  "projection_rows": 3302,
   "return_stats_excluded_for_return_role_layer": [
     "kr_yd",
     "pr_yd",
@@ -16,11 +16,11 @@
     "st_td",
     "st_tkl_solo"
   ],
-  "rows_updated": 859,
+  "rows_updated": 803,
   "season": 2026,
-  "skipped_no_projection": 49,
-  "skipped_no_statline": 310,
-  "source_url": "https://api.sleeper.com/projections/nfl/2026/9?season_type=regular&position%5B%5D=QB&position%5B%5D=RB&position%5B%5D=WR&position%5B%5D=TE&position%5B%5D=FLEX&position%5B%5D=K&position%5B%5D=DEF",
+  "skipped_no_projection": 50,
+  "skipped_no_statline": 344,
+  "source_url": "https://api.sleeper.com/projections/nfl/2026/10?season_type=regular&position%5B%5D=QB&position%5B%5D=RB&position%5B%5D=WR&position%5B%5D=TE&position%5B%5D=FLEX&position%5B%5D=K&position%5B%5D=DEF",
   "status": "ok",
-  "week": 9
+  "week": 10
 }

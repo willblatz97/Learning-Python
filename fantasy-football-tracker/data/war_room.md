@@ -1,47 +1,47 @@
-# Fantasy War Room — Week 9
+# Fantasy War Room — Week 10
 
 Projection mode: **WEEKLY CONSENSUS** · Usage: **CURRENT SEASON ACTIVE**
 
 ## 10-Team Redraft — Big Tiger Takeover
-- LEAN YOU — projection 170.84 · margin 3.9
-- Projected finish: seed #2 · 9.15 wins · 99.5% playoffs · range #2-#3 · roster power #3 · schedule HARD
-- Action: HOLD — No lineup action above threshold
-- Waiver: Jakobi Meyers · MEDIUM · FAAB 7-12
+- LEAN OPPONENT — projection 137.39 · margin -4.86
+- Projected finish: seed #1 · 9.54 wins · 100.0% playoffs · range #1-#3 · roster power #4 · schedule HARD
+- Action: MUST CHANGE — RB: Cam Skattebo -> Jonah Coleman (+20.06)
+- Waiver: T.J. Hockenson · MEDIUM · FAAB 7-12
 - Trade posture: PLAYOFF PUSH
-- Push targets: Germie Bernard, Dak Prescott, Caleb Williams, Brock Bowers, Tony Pollard
+- Push targets: Rome Odunze, Dak Prescott, Trevor Lawrence, Saquon Barkley, Ollie Gordon II
 - Rebuild targets: none
 
 ## 18-Team Chopped — Surviving the Chamber
-- COMFORTABLE — projection 181.82 · margin 181.82
-- Action: CHANGE — WR: Malik Washington -> DK Metcalf (+3.41)
-- Waiver: Antonio Williams · MEDIUM · FAAB 78-141
+- DANGER — projection — · margin —
+- Action: HOLD — No lineup action above threshold
+- Waiver: Malik Nabers · MUST ADD · FAAB 218-351
 - Trade posture: Not active yet
 - Push targets: none
 - Rebuild targets: none
 
 ## 12-Team Dynasty — One League to Rule Them All
-- FAVORED — projection 172.85 · margin 62.58
-- Projected finish: seed #4 · 8.66 wins · 91.8% playoffs · range #3-#6 · roster power #5 · schedule AVERAGE
-- Action: CHANGE — WR: Josh Downs -> Omar Cooper Jr. (+2.49)
+- TRAILING — projection 127.88 · margin -48.53
+- Projected finish: seed #2 · 9.77 wins · 99.8% playoffs · range #2-#2 · roster power #2 · schedule AVERAGE
+- Action: CHANGE — QB: Kirk Cousins -> Geno Smith (+5.08)
 - Waiver: — ·  · FAAB —
 - Trade posture: PLAYOFF PUSH
-- Push targets: Stefon Diggs, Keenan Allen, Brock Bowers, Ollie Gordon II, George Kittle
-- Rebuild targets: Lamar Jackson, Fernando Mendoza, Jeremiyah Love, Malik Nabers, Bijan Robinson
+- Push targets: George Kittle, Makai Lemon, Stefon Diggs, Colston Loveland, Drake Maye
+- Rebuild targets: Fernando Mendoza, Lamar Jackson, Jeremiyah Love, Malik Nabers, Bijan Robinson
 
 ## 10-Team Dynasty — Dynasty V2
-- FAVORED — projection 167.85 · margin 14.28
-- Projected finish: seed #1 · 10.5 wins · 100.0% playoffs · range #1-#4 · roster power #6 · schedule EASY
-- Action: LEAN CHANGE — FLEX: Devin Singletary -> Woody Marks (+1.62)
-- Waiver: Jordan Watkins · WATCH · FAAB 0-1
+- FAVORED — projection 170.25 · margin 7.39
+- Projected finish: seed #1 · 11.4 wins · 100.0% playoffs · range #1-#2 · roster power #3 · schedule AVERAGE
+- Action: LEAN CHANGE — WR: Tetairoa McMillan -> Zay Flowers (+1.15)
+- Waiver: Demarcus Robinson · WATCH · FAAB 0-1
 - Trade posture: PLAYOFF PUSH
-- Push targets: Ollie Gordon II, Wan'Dale Robinson, Brock Bowers, Tony Pollard, George Kittle
+- Push targets: Ollie Gordon II, Colston Loveland, Jonah Coleman, Makai Lemon, George Kittle
 - Rebuild targets: Fernando Mendoza, Lamar Jackson, Jeremiyah Love, Ashton Jeanty, Malik Nabers
 
 ## 12-Team 2-Keeper — League Is Rigged V2
-- FAVORED — projection 199.45 · margin 23.6
-- Projected finish: seed #2 · 8.5 wins · 98.5% playoffs · range #2-#4 · roster power #2 · schedule EASY
-- Action: CHANGE — RB: Jonah Coleman -> Jaylen Warren (+3.76)
+- LEAN YOU — projection 176.78 · margin 4.13
+- Projected finish: seed #2 · 8.47 wins · 98.2% playoffs · range #2-#3 · roster power #2 · schedule HARD
+- Action: CHANGE — RB: Mike Washington Jr. -> Bucky Irving (+16.36)
 - Waiver: Jacob Parrish · MUST ADD · FAAB 12-20
 - Trade posture: PLAYOFF / RECOVERY PUSH
-- Push targets: Jared Goff, Jayden Daniels, Brock Bowers, Germie Bernard, Rhamondre Stevenson
+- Push targets: Emeka Egbuka, Jared Goff, Jayden Daniels, Makai Lemon, Colston Loveland
 - Rebuild targets: none

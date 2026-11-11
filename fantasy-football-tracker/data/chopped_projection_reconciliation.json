@@ -5,108 +5,108 @@
       "league_id": "1370453762442797056",
       "my_starters": [
         {
-          "nonreturn_projection": 28.42,
-          "player": "Joe Burrow",
+          "nonreturn_projection": 0.0,
+          "player": null,
           "player_id": "6770",
-          "position": "QB",
-          "return_adjusted_projection": 28.42,
-          "return_confidence": "",
+          "position": null,
+          "return_adjusted_projection": 0.0,
+          "return_confidence": null,
           "return_points_applied": 0.0,
-          "return_roles": ""
+          "return_roles": null
         },
         {
-          "nonreturn_projection": 26.89,
-          "player": "Jonathan Taylor",
+          "nonreturn_projection": 0.0,
+          "player": null,
           "player_id": "6813",
-          "position": "RB",
-          "return_adjusted_projection": 26.89,
-          "return_confidence": "",
+          "position": null,
+          "return_adjusted_projection": 0.0,
+          "return_confidence": null,
           "return_points_applied": 0.0,
-          "return_roles": ""
+          "return_roles": null
         },
         {
-          "nonreturn_projection": 22.93,
-          "player": "Ollie Gordon II",
+          "nonreturn_projection": 0.0,
+          "player": null,
           "player_id": "12495",
-          "position": "RB",
-          "return_adjusted_projection": 22.93,
-          "return_confidence": "",
+          "position": null,
+          "return_adjusted_projection": 0.0,
+          "return_confidence": null,
           "return_points_applied": 0.0,
-          "return_roles": ""
+          "return_roles": null
         },
         {
-          "nonreturn_projection": 14.35,
-          "player": "Malik Washington",
+          "nonreturn_projection": 0.0,
+          "player": null,
           "player_id": "11610",
-          "position": "WR",
-          "return_adjusted_projection": 17.87,
-          "return_confidence": "HIGH",
-          "return_points_applied": 3.52,
-          "return_roles": "KR+PR"
+          "position": null,
+          "return_adjusted_projection": 0.0,
+          "return_confidence": null,
+          "return_points_applied": 0.0,
+          "return_roles": null
         },
         {
-          "nonreturn_projection": 19.46,
-          "player": "Malik Nabers",
+          "nonreturn_projection": 0.0,
+          "player": null,
           "player_id": "11632",
-          "position": "WR",
-          "return_adjusted_projection": 19.46,
-          "return_confidence": "",
+          "position": null,
+          "return_adjusted_projection": 0.0,
+          "return_confidence": null,
           "return_points_applied": 0.0,
-          "return_roles": ""
+          "return_roles": null
         },
         {
-          "nonreturn_projection": 20.08,
-          "player": "Tyler Warren",
+          "nonreturn_projection": 0.0,
+          "player": null,
           "player_id": "12518",
-          "position": "TE",
-          "return_adjusted_projection": 20.08,
-          "return_confidence": "",
+          "position": null,
+          "return_adjusted_projection": 0.0,
+          "return_confidence": null,
           "return_points_applied": 0.0,
-          "return_roles": ""
+          "return_roles": null
         },
         {
-          "nonreturn_projection": 15.44,
-          "player": "Aaron Jones Sr.",
+          "nonreturn_projection": 0.0,
+          "player": null,
           "player_id": "4199",
-          "position": "RB",
-          "return_adjusted_projection": 15.44,
-          "return_confidence": "",
+          "position": null,
+          "return_adjusted_projection": 0.0,
+          "return_confidence": null,
           "return_points_applied": 0.0,
-          "return_roles": ""
+          "return_roles": null
         },
         {
-          "nonreturn_projection": 21.28,
-          "player": "Rhamondre Stevenson",
+          "nonreturn_projection": 0.0,
+          "player": null,
           "player_id": "7611",
-          "position": "RB",
-          "return_adjusted_projection": 21.28,
-          "return_confidence": "",
+          "position": null,
+          "return_adjusted_projection": 0.0,
+          "return_confidence": null,
           "return_points_applied": 0.0,
-          "return_roles": ""
+          "return_roles": null
         },
         {
-          "nonreturn_projection": 9.45,
-          "player": "Matt Gay",
+          "nonreturn_projection": 0.0,
+          "player": null,
           "player_id": "6083",
-          "position": "K",
-          "return_adjusted_projection": 9.45,
-          "return_confidence": "",
+          "position": null,
+          "return_adjusted_projection": 0.0,
+          "return_confidence": null,
           "return_points_applied": 0.0,
-          "return_roles": ""
+          "return_roles": null
         }
       ],
       "nonreturn_chop_line": 0.0,
-      "nonreturn_margin": 178.3,
-      "nonreturn_projection": 178.3,
-      "nonreturn_rank": 6,
+      "nonreturn_margin": 0.0,
+      "nonreturn_projection": 0.0,
+      "nonreturn_rank": 10,
       "note": "Nonreturn projection uses the same league-scored weekly player projections and all non-return context, but removes the tracker return-role projection. Treat it as a conservative return-independent anchor, not a statistical floor. Return-adjusted projection adds the confidence-weighted return model.",
-      "projected_return_points_added": 3.52,
+      "projected_return_points_added": 0.0,
       "return_adjusted_chop_line": 0.0,
-      "return_adjusted_margin": 181.82,
-      "return_adjusted_projection": 181.82,
-      "return_adjusted_rank": 4,
+      "return_adjusted_margin": 0.0,
+      "return_adjusted_projection": 0.0,
+      "return_adjusted_rank": 10,
       "team": "Third Reich & Long"
     }
   },
-  "week": 9
+  "week": 10
 }
