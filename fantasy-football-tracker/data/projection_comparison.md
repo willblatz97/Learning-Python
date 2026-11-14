@@ -5,11 +5,11 @@ Sleeper = Sleeper raw projected stat lines scored through the same league settin
 
 | League | Team | Our model | Sleeper | Delta | Coverage |
 |---|---|---:|---:|---:|---:|
-| League Is Rigged V2 | Third Reich & Long | 176.78 | 158.30* | — | 90.9% |
-| Dynasty V2 | Route 66ers | 170.25 | 117.59* | — | 77.8% |
-| One League to Rule Them All | Nazgûl Nation | 127.88 | 119.10 | +8.78 | 100.0% |
-| Surviving the Chamber | Third Reich & Long | 0.00 | 145.41* | — | 88.9% |
-| Big Tiger Takeover | Third Reich & Long | 137.39 | 158.51 | -21.12 | 100.0% |
+| League Is Rigged V2 | Third Reich & Long | 162.25 | 150.37* | — | 90.9% |
+| Dynasty V2 | Route 66ers | 161.55 | 147.89 | +13.66 | 100.0% |
+| One League to Rule Them All | Nazgûl Nation | 140.50 | 129.91 | +10.59 | 100.0% |
+| Surviving the Chamber | Third Reich & Long | 0.00 | 0.00* | — | 0.0% |
+| Big Tiger Takeover | Third Reich & Long | 156.29 | 145.48 | +10.81 | 100.0% |
 
 *Partial means Sleeper did not provide a usable weekly stat line for every starter; the total is not a full team comparison.
 
@@ -17,8 +17,8 @@ Sleeper = Sleeper raw projected stat lines scored through the same league settin
 
 | League | League context | IDP | Usage | OL | Weather | Injury ripple | Returns |
 |---|---:|---:|---:|---:|---:|---:|---:|
-| League Is Rigged V2 | -8.80 | -1.71 | +8.93 | -1.60 | +0.00 | +0.00 | +0.00 |
-| Dynasty V2 | +4.20 | +0.00 | +8.93 | -0.83 | +0.00 | +2.55 | +0.00 |
-| One League to Rule Them All | +0.30 | +0.00 | +8.13 | -1.56 | +0.00 | +1.91 | +0.00 |
+| League Is Rigged V2 | +2.80 | -2.67 | +7.57 | -0.78 | +0.00 | +0.55 | +0.00 |
+| Dynasty V2 | +4.00 | +0.00 | +8.78 | -0.40 | -0.35 | +1.63 | +0.00 |
+| One League to Rule Them All | +1.20 | +0.00 | +9.75 | -1.09 | +0.00 | +0.73 | +0.00 |
 | Surviving the Chamber | +0.00 | +0.00 | +0.00 | +0.00 | +0.00 | +0.00 | +0.00 |
-| Big Tiger Takeover | -7.00 | +0.00 | +6.90 | -1.31 | +0.00 | -0.20 | +0.00 |
+| Big Tiger Takeover | +3.30 | +0.00 | +6.90 | -0.80 | -0.14 | +1.55 | +0.00 |

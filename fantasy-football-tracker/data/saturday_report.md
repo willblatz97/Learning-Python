@@ -2,22 +2,24 @@
 
 ## 10-Team Redraft — Big Tiger Takeover
 Team: Third Reich & Long
-Opponent: Sutton My Face — lineup proxy 137.39 vs 142.25; margin -4.86
+Opponent: Sutton My Face — lineup proxy 156.29 vs 129.35; margin +26.94
 
 ### Lineup actions
-- MUST CHANGE RB: Cam Skattebo (1.53) -> Jonah Coleman (21.59); delta 20.06; injury OUT
-- CHANGE FLEX: Rashee Rice (16.21) -> Jonah Coleman (21.59); delta 5.38; injury clear
+- CHANGE RB: Cam Skattebo (14.25) -> Jonah Coleman (21.67); delta 7.42; injury clear
+- CHANGE RB: Emmett Johnson (12.88) -> Jonah Coleman (21.67); delta 8.79; injury clear
+- CHANGE FLEX: Rashee Rice (17.8) -> Jonah Coleman (21.67); delta 3.87; injury clear
+- CHANGE FLEX: Khalil Shakir (10.98) -> Jonah Coleman (21.67); delta 10.69; injury clear
 
 ### Your injury / practice watch
 No monitor-level starter flags.
 
 ### Opponent threats
-- Tyler Shough (QB NO) — 22.31 vs CAR
-- Drake London (WR ATL) — 19.47 vs KC
-- Christian Watson (WR GB) — 18.15 vs MIN
+- Tyler Shough (QB NO) — 23.08 vs CAR
+- Chase Brown (RB CIN) — 16.61 vs PIT
+- George Pickens (WR DAL) — 15.58 vs SF
 
 ### Opponent injury leverage
-No opponent starter injury/practice flags currently detected.
+- Pat Freiermuth — QUESTIONABLE; current lineup score 9.88
 
 ## 18-Team Chopped — Surviving the Chamber
 Team: Third Reich & Long
@@ -30,52 +32,55 @@ No lineup changes clear the current action threshold.
 No monitor-level starter flags.
 
 ### Chop-field injury leverage
-- Patrick Mahomes (QB KC) — QUESTIONABLE; could lower another roster's floor
-- Puka Nacua (WR LAR) — QUESTIONABLE; could lower another roster's floor
+- Amon-Ra St. Brown (WR DET) — QUESTIONABLE; could lower another roster's floor
 - Luther Burden III (WR CHI) — QUESTIONABLE; could lower another roster's floor
-- David Montgomery (RB HOU) — OUT; could lower another roster's floor
-- Ladd McConkey (WR LAC) — QUESTIONABLE; could lower another roster's floor
+- Garrett Wilson (WR NYJ) — QUESTIONABLE; could lower another roster's floor
+- A.J. Brown (WR NE) — QUESTIONABLE; could lower another roster's floor
+- Denzel Boston (WR CLE) — QUESTIONABLE; could lower another roster's floor
 
 ## 12-Team Dynasty — One League to Rule Them All
 Team: Nazgûl Nation
-Opponent: Sonic & Knuckles — lineup proxy 127.88 vs 176.41; margin -48.53
+Opponent: Sonic & Knuckles — lineup proxy 140.50 vs 170.91; margin -30.41
 
 ### Lineup actions
-- CHANGE QB: Kirk Cousins (15.38) -> Geno Smith (20.46); delta 5.08; injury clear
-- CHANGE RB: Chase Brown (14.6) -> Bucky Irving (21.75); delta 7.15; injury clear
-- CHANGE RB: Omarion Hampton (8.61) -> Bucky Irving (21.75); delta 13.14; injury clear
-- CHANGE WR: Omar Cooper Jr. (12.34) -> Emeka Egbuka (22.45); delta 10.11; injury clear
-- CHANGE WR: Parker Washington (16.51) -> Emeka Egbuka (22.45); delta 5.94; injury clear
-- CHANGE WR: Josh Downs (7.01) -> Emeka Egbuka (22.45); delta 15.44; injury clear
-- CHANGE FLEX: Alvin Kamara (7.63) -> Emeka Egbuka (22.45); delta 14.82; injury clear
-- CHANGE FLEX: Devaughn Vele (8.49) -> Emeka Egbuka (22.45); delta 13.96; injury clear
+- CHANGE QB: Kirk Cousins (16.87) -> Geno Smith (20.41); delta 3.54; injury clear
+- CHANGE RB: Chase Brown (15.27) -> Bucky Irving (21.71); delta 6.44; injury clear
+- CHANGE RB: Jaylen Warren (18.63) -> Bucky Irving (21.71); delta 3.08; injury clear
+- CHANGE WR: Omar Cooper Jr. (11.08) -> Emeka Egbuka (22.42); delta 11.34; injury QUESTIONABLE
+- CHANGE WR: Parker Washington (15.9) -> Emeka Egbuka (22.42); delta 6.52; injury clear
+- CHANGE WR: Josh Downs (6.36) -> Emeka Egbuka (22.42); delta 16.06; injury clear
+- CHANGE FLEX: AJ Barner (10.12) -> Emeka Egbuka (22.42); delta 12.3; injury clear
+- CHANGE FLEX: Devaughn Vele (8.39) -> Emeka Egbuka (22.42); delta 14.03; injury clear
 
 ### Your injury / practice watch
 No monitor-level starter flags.
 
 ### Opponent threats
-- Jahmyr Gibbs (RB DET) — 26.54 vs NE
-- CeeDee Lamb (WR DAL) — 23.53 vs SF
-- Dak Prescott (QB DAL) — 22.64 vs SF
+- Patrick Mahomes (QB KC) — 28.00 vs ATL
+- Jahmyr Gibbs (RB DET) — 25.93 vs NE
+- CeeDee Lamb (WR DAL) — 23.01 vs SF
 
 ### Opponent injury leverage
-- Patrick Mahomes — QUESTIONABLE; current lineup score 21.41
+- David Montgomery — OUT; current lineup score 0.20
 
 ## 10-Team Dynasty — Dynasty V2
 Team: Route 66ers
-Opponent: zthompson1533 — lineup proxy 170.25 vs 162.86; margin +7.39
+Opponent: zthompson1533 — lineup proxy 161.55 vs 167.67; margin -6.12
 
 ### Lineup actions
-- LEAN CHANGE WR: Tetairoa McMillan (17.89) -> Zay Flowers (19.04); delta 1.15; injury clear
-- CHANGE TE: Greg Dulcich (10.05) -> Pat Freiermuth (14.0); delta 3.95; injury clear
-- CHANGE FLEX: Devin Singletary (12.58) -> Zay Flowers (19.04); delta 6.46; injury clear
+- CHANGE RB: Audric Estime (7.98) -> D'Andre Swift (21.2); delta 13.22; injury clear
+- LEAN CHANGE RB: Chuba Hubbard (20.39) -> D'Andre Swift (21.2); delta 0.81; injury clear
+- LEAN CHANGE WR: Tetairoa McMillan (17.6) -> Luther Burden III (19.3); delta 1.7; injury clear
+- CHANGE FLEX: Garrett Wilson (17.85) -> D'Andre Swift (21.2); delta 3.35; injury QUESTIONABLE
+- CHANGE FLEX: Zay Flowers (19.05) -> D'Andre Swift (21.2); delta 2.15; injury clear
 
 ### Your injury / practice watch
-- Luther Burden III — QUESTIONABLE; best legal bench option: Zay Flowers
+- Amon-Ra St. Brown — QUESTIONABLE; best legal bench option: Luther Burden III
+- Pat Freiermuth — QUESTIONABLE; best legal bench option: Darren Waller
 
 ### Opponent threats
-- Joe Burrow (QB CIN) — 28.12 vs PIT
-- Trevor Lawrence (QB JAX) — 25.95 vs TEN
+- Joe Burrow (QB CIN) — 28.18 vs PIT
+- Trevor Lawrence (QB JAX) — 25.01 vs TEN
 - Ja'Marr Chase (WR CIN) — 23.44 vs PIT
 
 ### Opponent injury leverage
@@ -83,19 +88,20 @@ No opponent starter injury/practice flags currently detected.
 
 ## 12-Team 2-Keeper — League Is Rigged V2
 Team: Third Reich & Long
-Opponent: Joe-Burritos — lineup proxy 176.78 vs 172.65; margin +4.13
+Opponent: Joe-Burritos — lineup proxy 162.25 vs 173.86; margin -11.61
 
 ### Lineup actions
-- CHANGE RB: Mike Washington Jr. (7.04) -> Bucky Irving (23.4); delta 16.36; injury clear
-- MUST CHANGE FLEX: Carnell Tate (2.39) -> Bucky Irving (23.4); delta 21.01; injury OUT
+- CHANGE RB: Audric Estime (9.64) -> Bucky Irving (23.28); delta 13.64; injury clear
+- CHANGE FLEX: Keenan Allen (7.34) -> Bucky Irving (23.28); delta 15.94; injury clear
+- NO REPLACEMENT LB: Blake Cashman (0.0) -> no legal bench replacement; delta ; injury OUT
 
 ### Your injury / practice watch
 No monitor-level starter flags.
 
 ### Opponent threats
-- Joe Burrow (QB CIN) — 33.87 vs PIT
-- Jonathan Taylor (RB IND) — 22.01 vs MIA
-- Zay Flowers (WR BAL) — 19.10 vs LAC
+- Joe Burrow (QB CIN) — 33.93 vs PIT
+- Jonathan Taylor (RB IND) — 21.25 vs MIA
+- Zay Flowers (WR BAL) — 19.11 vs LAC
 
 ### Opponent injury leverage
-- Ladd McConkey — QUESTIONABLE; current lineup score 12.53
+- Ladd McConkey — QUESTIONABLE; current lineup score 11.77

@@ -1,31 +1,29 @@
 nfl_team,roster_slots_across_leagues,starting_slots_across_leagues,unique_players_owned,players_owned,players_started
+CIN,7,5,6,Chase Brown | Cincinnati Bengals | Ja'Marr Chase | Jack Endries | Joe Burrow | Samaje Perine,Chase Brown | Cincinnati Bengals | Ja'Marr Chase | Joe Burrow
 CAR,8,4,6,Bryce Young | Chris Brazzell II | Chuba Hubbard | Darren Waller | Jonathon Brooks | Tetairoa McMillan,Bryce Young | Chuba Hubbard | Tetairoa McMillan
-CIN,6,4,5,Chase Brown | Ja'Marr Chase | Jack Endries | Joe Burrow | Samaje Perine,Chase Brown | Ja'Marr Chase | Joe Burrow
-KC,5,3,5,Emmett Johnson | John Michael Gyllenborg | Josh Downs | Kenneth Walker III | Rashee Rice,Josh Downs | Kenneth Walker III | Rashee Rice
-CHI,5,2,3,Cole Kmet | D'Andre Swift | Luther Burden III,D'Andre Swift | Luther Burden III
+KC,6,3,5,Emmett Johnson | John Michael Gyllenborg | Josh Downs | Kenneth Walker III | Rashee Rice,Emmett Johnson | Josh Downs | Rashee Rice
+NYJ,5,3,5,Braelon Allen | David Bailey | Garrett Wilson | Geno Smith | Omar Cooper Jr.,David Bailey | Garrett Wilson | Omar Cooper Jr.
+NO,4,3,3,Alvin Kamara | Audric Estime | Devaughn Vele,Audric Estime | Devaughn Vele
+PIT,3,3,2,Jaylen Warren | Pat Freiermuth,Jaylen Warren | Pat Freiermuth
 DAL,5,2,4,Brandon Aubrey | Dak Prescott | Jake Ferguson | Kendre Miller,Brandon Aubrey | Dak Prescott
 GB,5,2,5,Evan Williams | Jayden Reed | Jordan Love | Luke Musgrave | Tucker Kraft,Evan Williams | Tucker Kraft
-NYJ,5,2,5,Braelon Allen | David Bailey | Garrett Wilson | Geno Smith | Omar Cooper Jr.,David Bailey | Omar Cooper Jr.
-NYG,4,2,3,Cam Skattebo | Devin Singletary | Jameis Winston,Devin Singletary
 MIN,3,2,3,Blake Cashman | Carson Wentz | Kirk Cousins,Blake Cashman | Kirk Cousins
-ATL,2,2,2,Drake London | Kyle Pitts Sr.,Drake London | Kyle Pitts Sr.
-NO,2,2,2,Alvin Kamara | Devaughn Vele,Alvin Kamara | Devaughn Vele
-HOU,4,1,4,Dalton Schultz | Marvin Harrison Jr. | Tank Dell | Woody Marks,Dalton Schultz
-MIA,4,1,4,De'Von Achane | Greg Dulcich | Kyle McCord | Malik Washington,Greg Dulcich
-TB,4,1,3,Bucky Irving | Chase McLaughlin | Emeka Egbuka,Chase McLaughlin
+BUF,2,2,2,Khalil Shakir | Tyler Bass,Khalil Shakir | Tyler Bass
+HOU,6,1,5,C.J. Stroud | Dalton Schultz | Marvin Harrison Jr. | Tank Dell | Woody Marks,Dalton Schultz
+NYG,4,1,3,Cam Skattebo | Devin Singletary | Jameis Winston,Cam Skattebo
+SF,4,1,3,Christian Kirk | Keenan Allen | Mac Jones,Keenan Allen
+ARI,3,1,3,Carson Beck | Jeremiyah Love | Trey McBride,Trey McBride
 JAX,3,1,3,Chris Rodriguez Jr. | LeQuint Allen Jr. | Parker Washington,Parker Washington
+SEA,3,1,3,AJ Barner | Emanuel Wilson | Tory Horton,AJ Barner
+ATL,2,1,2,Drake London | Kyle Pitts Sr.,Drake London
 DET,2,1,2,Amon-Ra St. Brown | Isiah Pacheco,Amon-Ra St. Brown
 NE,2,1,2,Drake Maye | Eli Raridon,Drake Maye
-PIT,2,1,2,Jaylen Warren | Pat Freiermuth,Jaylen Warren
-TEN,2,1,2,Carnell Tate | Nicholas Singleton,Carnell Tate
-WAS,2,1,2,Jayden Daniels | Treylon Burks,Jayden Daniels
-LAC,1,1,1,Omarion Hampton,Omarion Hampton
-LV,1,1,1,Mike Washington Jr.,Mike Washington Jr.
+BAL,1,1,1,Zay Flowers,Zay Flowers
+WAS,1,1,1,Jayden Daniels,Jayden Daniels
+CHI,5,0,3,Cole Kmet | D'Andre Swift | Luther Burden III,
 DEN,4,0,3,Courtland Sutton | Jonah Coleman | Pat Bryant,
-SF,4,0,3,Christian Kirk | Keenan Allen | Mac Jones,
-ARI,3,0,3,Carson Beck | Jeremiyah Love | Trey McBride,
+MIA,4,0,4,De'Von Achane | Greg Dulcich | Kyle McCord | Malik Washington,
+TB,4,0,3,Bucky Irving | Chase McLaughlin | Emeka Egbuka,
 PHI,3,0,3,Eli Stowers | Joe Milton | Will Shipley,
-SEA,3,0,3,AJ Barner | Emanuel Wilson | Tory Horton,
+TEN,3,0,3,Carnell Tate | Chimere Dike | Nicholas Singleton,
 CLE,2,0,2,Deshaun Watson | Raheim Sanders,
-BAL,1,0,1,Zay Flowers,
-IND,1,0,1,Seth McGowan,

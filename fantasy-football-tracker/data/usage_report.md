@@ -2,7 +2,7 @@
 
 2025 is context only until 2026 regular-season snap data exists; current-season usage adjustments automatically activate after games are played.
 
-Source season: 2026; latest week: 9
+Source season: 2026; latest week: 10
 
 ## Highest current usage signals
 - Justin Jefferson (WR MIN) — snaps L3 95.7%; opps L3 9.0/g; RISING; adjustment +6
@@ -12,6 +12,7 @@ Source season: 2026; latest week: 9
 - Colston Loveland (TE CHI) — snaps L3 88.0%; opps L3 9.0/g; RISING; adjustment +6
 - Darius Cooper (WR PHI) — snaps L3 93.7%; opps L3 5.67/g; RISING; adjustment +5
 - KC Concepcion Jr. (WR CLE) — snaps L3 85.0%; opps L3 6.67/g; RISING; adjustment +5
+- Antonio Williams (WR WAS) — snaps L3 84.3%; opps L3 5.0/g; RISING; adjustment +5
 - Ollie Gordon II (RB MIA) — snaps L3 79.0%; opps L3 21.67/g; RISING; adjustment +5
 - D'Andre Swift (RB CHI) — snaps L3 78.3%; opps L3 23.0/g; RISING; adjustment +5
 - Tony Pollard (RB TEN) — snaps L3 77.7%; opps L3 24.67/g; RISING; adjustment +5
@@ -32,11 +33,10 @@ Source season: 2026; latest week: 9
 - Brock Bowers (TE LV) — snaps L3 90.0%; opps L3 8.67/g; STABLE; adjustment +4
 - Garrett Wilson (WR NYJ) — snaps L3 88.0%; opps L3 7.0/g; STABLE; adjustment +4
 - Denzel Boston (WR CLE) — snaps L3 87.7%; opps L3 8.67/g; STABLE; adjustment +4
+- J.J. McCarthy (QB NYG) — snaps L3 87.7%; opps L3 0.0/g; RISING; adjustment +4
 - George Kittle (TE SF) — snaps L3 86.0%; opps L3 8.33/g; STABLE; adjustment +4
 - DeVonta Smith (WR PHI) — snaps L3 84.7%; opps L3 11.67/g; STABLE; adjustment +4
 - Harold Fannin Jr. (TE CLE) — snaps L3 84.3%; opps L3 7.67/g; STABLE; adjustment +4
 - Michael Wilson (WR ARI) — snaps L3 84.0%; opps L3 10.0/g; STABLE; adjustment +4
-- Isaiah Likely (TE NYG) — snaps L3 84.0%; opps L3 7.0/g; STABLE; adjustment +4
 - CeeDee Lamb (WR DAL) — snaps L3 83.7%; opps L3 13.0/g; STABLE; adjustment +4
 - Emeka Egbuka (WR TB) — snaps L3 83.7%; opps L3 10.0/g; STABLE; adjustment +4
-- Jaxon Smith-Njigba (WR SEA) — snaps L3 83.3%; opps L3 11.0/g; STABLE; adjustment +4

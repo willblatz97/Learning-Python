@@ -1,10 +1,10 @@
 game_id,season,week,gameday,weekday,gametime,home_team,away_team,spread_line,total_line,roof,surface,temp,wind,stadium,location
-2026_10_WAS_NYG,2026,10,2026-11-12,Thursday,20:15,NYG,WAS,2.5,41.5,outdoors,fieldturf,,,MetLife Stadium,Home
-2026_10_NE_DET,2026,10,2026-11-15,Sunday,09:30,DET,NE,2.5,51.5,dome,fieldturf,,,FC Bayern Munich Stadium,Neutral
-2026_10_KC_ATL,2026,10,2026-11-15,Sunday,13:00,ATL,KC,-3.5,45.5,,fieldturf,,,Mercedes-Benz Stadium,Home
-2026_10_HOU_CLE,2026,10,2026-11-15,Sunday,13:00,CLE,HOU,-4.5,39.5,outdoors,grass,,,Huntington Bank Field,Home
-2026_10_MIN_GB,2026,10,2026-11-15,Sunday,13:00,GB,MIN,3.5,41.5,outdoors,grass,,,Lambeau Field,Home
-2026_10_MIA_IND,2026,10,2026-11-15,Sunday,13:00,IND,MIA,3.5,38.5,,fieldturf,,,Lucas Oil Stadium,Home
+2026_10_WAS_NYG,2026,10,2026-11-12,Thursday,20:15,NYG,WAS,1.5,40.5,outdoors,,,,MetLife Stadium,Home
+2026_10_NE_DET,2026,10,2026-11-15,Sunday,09:30,DET,NE,2.5,49.5,dome,fieldturf,,,FC Bayern Munich Stadium,Neutral
+2026_10_KC_ATL,2026,10,2026-11-15,Sunday,13:00,ATL,KC,-3,47.5,,fieldturf,,,Mercedes-Benz Stadium,Home
+2026_10_HOU_CLE,2026,10,2026-11-15,Sunday,13:00,CLE,HOU,-4.5,40.5,outdoors,grass,,,Huntington Bank Field,Home
+2026_10_MIN_GB,2026,10,2026-11-15,Sunday,13:00,GB,MIN,2.5,42.5,outdoors,grass,,,Lambeau Field,Home
+2026_10_MIA_IND,2026,10,2026-11-15,Sunday,13:00,IND,MIA,4.5,37.5,,fieldturf,,,Lucas Oil Stadium,Home
 2026_10_CAR_NO,2026,10,2026-11-15,Sunday,13:00,NO,CAR,2.5,48.5,dome,sportturf,,,Caesars Superdome,Home
 2026_10_BUF_NYJ,2026,10,2026-11-15,Sunday,13:00,NYJ,BUF,-8.5,50.5,outdoors,fieldturf,,,MetLife Stadium,Home
 2026_10_JAX_TEN,2026,10,2026-11-15,Sunday,13:00,TEN,JAX,-10.5,46.5,outdoors,grass,,,Nissan Stadium,Home

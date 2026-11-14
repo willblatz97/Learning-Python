@@ -1,16 +1,16 @@
 season,week,team,opponent,home_away,gameday,weekday,gametime,spread_line,total_line,roof,surface,temp,wind,stadium
-2026,10,NYG,WAS,home,2026-11-12,Thursday,20:15,2.5,41.5,outdoors,fieldturf,,,MetLife Stadium
-2026,10,WAS,NYG,away,2026-11-12,Thursday,20:15,2.5,41.5,outdoors,fieldturf,,,MetLife Stadium
-2026,10,DET,NE,home,2026-11-15,Sunday,09:30,2.5,51.5,dome,fieldturf,,,FC Bayern Munich Stadium
-2026,10,NE,DET,away,2026-11-15,Sunday,09:30,2.5,51.5,dome,fieldturf,,,FC Bayern Munich Stadium
-2026,10,ATL,KC,home,2026-11-15,Sunday,13:00,-3.5,45.5,,fieldturf,,,Mercedes-Benz Stadium
-2026,10,KC,ATL,away,2026-11-15,Sunday,13:00,-3.5,45.5,,fieldturf,,,Mercedes-Benz Stadium
-2026,10,CLE,HOU,home,2026-11-15,Sunday,13:00,-4.5,39.5,outdoors,grass,,,Huntington Bank Field
-2026,10,HOU,CLE,away,2026-11-15,Sunday,13:00,-4.5,39.5,outdoors,grass,,,Huntington Bank Field
-2026,10,GB,MIN,home,2026-11-15,Sunday,13:00,3.5,41.5,outdoors,grass,,,Lambeau Field
-2026,10,MIN,GB,away,2026-11-15,Sunday,13:00,3.5,41.5,outdoors,grass,,,Lambeau Field
-2026,10,IND,MIA,home,2026-11-15,Sunday,13:00,3.5,38.5,,fieldturf,,,Lucas Oil Stadium
-2026,10,MIA,IND,away,2026-11-15,Sunday,13:00,3.5,38.5,,fieldturf,,,Lucas Oil Stadium
+2026,10,NYG,WAS,home,2026-11-12,Thursday,20:15,1.5,40.5,outdoors,,,,MetLife Stadium
+2026,10,WAS,NYG,away,2026-11-12,Thursday,20:15,1.5,40.5,outdoors,,,,MetLife Stadium
+2026,10,DET,NE,home,2026-11-15,Sunday,09:30,2.5,49.5,dome,fieldturf,,,FC Bayern Munich Stadium
+2026,10,NE,DET,away,2026-11-15,Sunday,09:30,2.5,49.5,dome,fieldturf,,,FC Bayern Munich Stadium
+2026,10,ATL,KC,home,2026-11-15,Sunday,13:00,-3,47.5,,fieldturf,,,Mercedes-Benz Stadium
+2026,10,KC,ATL,away,2026-11-15,Sunday,13:00,-3,47.5,,fieldturf,,,Mercedes-Benz Stadium
+2026,10,CLE,HOU,home,2026-11-15,Sunday,13:00,-4.5,40.5,outdoors,grass,,,Huntington Bank Field
+2026,10,HOU,CLE,away,2026-11-15,Sunday,13:00,-4.5,40.5,outdoors,grass,,,Huntington Bank Field
+2026,10,GB,MIN,home,2026-11-15,Sunday,13:00,2.5,42.5,outdoors,grass,,,Lambeau Field
+2026,10,MIN,GB,away,2026-11-15,Sunday,13:00,2.5,42.5,outdoors,grass,,,Lambeau Field
+2026,10,IND,MIA,home,2026-11-15,Sunday,13:00,4.5,37.5,,fieldturf,,,Lucas Oil Stadium
+2026,10,MIA,IND,away,2026-11-15,Sunday,13:00,4.5,37.5,,fieldturf,,,Lucas Oil Stadium
 2026,10,NO,CAR,home,2026-11-15,Sunday,13:00,2.5,48.5,dome,sportturf,,,Caesars Superdome
 2026,10,CAR,NO,away,2026-11-15,Sunday,13:00,2.5,48.5,dome,sportturf,,,Caesars Superdome
 2026,10,NYJ,BUF,home,2026-11-15,Sunday,13:00,-8.5,50.5,outdoors,fieldturf,,,MetLife Stadium
