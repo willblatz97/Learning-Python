@@ -4,21 +4,12 @@
       "cut_watchlist": [
         {
           "consensus_ecr": "124.6",
-          "cut_score": "7.2",
+          "cut_score": "4.7",
           "cut_tier": "HOLD",
           "nfl_team": "ARI",
           "player": "Jeremiyah Love",
           "position": "RB",
           "reasons": "consensus ECR 124.6 protected | buried on depth chart | strong cross-league market demand | inactive"
-        },
-        {
-          "consensus_ecr": "222.75",
-          "cut_score": "0",
-          "cut_tier": "HOLD",
-          "nfl_team": "NO",
-          "player": "Audric Estime",
-          "position": "RB",
-          "reasons": "consensus ECR 222.75 protected | starter protected | strong cross-league market demand"
         },
         {
           "consensus_ecr": "2.5",
@@ -36,7 +27,7 @@
           "nfl_team": "TB",
           "player": "Bucky Irving",
           "position": "RB",
-          "reasons": "consensus ECR 25 protected | strong cross-league market demand"
+          "reasons": "consensus ECR 25 protected | starter protected | strong cross-league market demand"
         },
         {
           "consensus_ecr": "50.2",
@@ -45,7 +36,16 @@
           "nfl_team": "TEN",
           "player": "Carnell Tate",
           "position": "WR",
-          "reasons": "consensus ECR 50.2 protected | buried on depth chart | strong cross-league market demand | keeper tiebreaker only: -0.8 cut points"
+          "reasons": "consensus ECR 50.2 protected | starter protected | strong cross-league market demand | keeper tiebreaker only: -0.8 cut points"
+        },
+        {
+          "consensus_ecr": "213.0",
+          "cut_score": "0",
+          "cut_tier": "HOLD",
+          "nfl_team": "TB",
+          "player": "Chase McLaughlin",
+          "position": "K",
+          "reasons": "consensus ECR 213 protected | starter protected | little cross-league market demand"
         }
       ],
       "faab_remaining": 100,
@@ -71,17 +71,6 @@
           "player": "Barrett Carter",
           "position": "LB",
           "priority": "MUST ADD",
-          "reasons": "current-season IDP value proxy 17.9 pts/g; keeper value ignored",
-          "waiver_score": "95"
-        },
-        {
-          "consensus_ecr": "",
-          "faab_high": "20",
-          "faab_low": "12",
-          "nfl_team": "MIA",
-          "player": "Jacob Rodriguez",
-          "position": "LB",
-          "priority": "MUST ADD",
           "reasons": "current-season IDP value proxy 16.6 pts/g; keeper value ignored",
           "waiver_score": "95"
         },
@@ -93,7 +82,7 @@
           "player": "Jamien Sherwood",
           "position": "LB",
           "priority": "MUST ADD",
-          "reasons": "current-season IDP value proxy 17.2 pts/g; keeper value ignored",
+          "reasons": "current-season IDP value proxy 17.3 pts/g; keeper value ignored",
           "waiver_score": "95"
         },
         {
@@ -111,11 +100,22 @@
           "consensus_ecr": "",
           "faab_high": "20",
           "faab_low": "12",
+          "nfl_team": "MIA",
+          "player": "Jordyn Brooks",
+          "position": "LB",
+          "priority": "MUST ADD",
+          "reasons": "current-season IDP value proxy 16.4 pts/g; keeper value ignored",
+          "waiver_score": "95"
+        },
+        {
+          "consensus_ecr": "",
+          "faab_high": "20",
+          "faab_low": "12",
           "nfl_team": "NO",
           "player": "Kaden Elliss",
           "position": "LB",
           "priority": "MUST ADD",
-          "reasons": "current-season IDP value proxy 16.4 pts/g; keeper value ignored",
+          "reasons": "current-season IDP value proxy 18.9 pts/g; keeper value ignored",
           "waiver_score": "95"
         },
         {
@@ -126,7 +126,7 @@
           "player": "Kendal Daniels",
           "position": "LB",
           "priority": "MUST ADD",
-          "reasons": "current-season IDP value proxy 18.1 pts/g; keeper value ignored",
+          "reasons": "current-season IDP value proxy 16.6 pts/g; keeper value ignored",
           "waiver_score": "95"
         },
         {
@@ -134,10 +134,10 @@
           "faab_high": "20",
           "faab_low": "12",
           "nfl_team": "PIT",
-          "player": "Payton Wilson",
+          "player": "Patrick Queen",
           "position": "LB",
           "priority": "MUST ADD",
-          "reasons": "current-season IDP value proxy 17.9 pts/g; keeper value ignored",
+          "reasons": "current-season IDP value proxy 16.9 pts/g; keeper value ignored",
           "waiver_score": "95"
         }
       ],
@@ -183,7 +183,7 @@
         },
         {
           "consensus_ecr": "432.0",
-          "cut_score": "13.0",
+          "cut_score": "15.0",
           "cut_tier": "HOLD",
           "nfl_team": "MIN",
           "player": "Carson Wentz",
@@ -203,8 +203,19 @@
           "player": "Brevyn Spann-Ford",
           "position": "TE",
           "priority": "WATCH",
-          "reasons": "depth-chart starter | 1 recent cross-league add(s) | young dynasty stash value | 2026 usage RISING \u2014 snaps L3 70.3%, opps 3.33/g",
+          "reasons": "depth-chart starter | 1 recent cross-league add(s) | young dynasty stash value | 2026 usage RISING \u2014 snaps L3 74.7%, opps 3.67/g",
           "waiver_score": "27.9"
+        },
+        {
+          "consensus_ecr": "463.0",
+          "faab_high": "1",
+          "faab_low": "0",
+          "nfl_team": "IND",
+          "player": "Ashton Dulin",
+          "position": "WR",
+          "priority": "WATCH",
+          "reasons": "consensus ECR 463 | primary backup | 2 recent cross-league add(s) | 2026 usage STABLE \u2014 snaps L3 25.0%, opps 1.33/g",
+          "waiver_score": "25.1"
         }
       ],
       "type": "dynasty"
@@ -213,7 +224,7 @@
       "cut_watchlist": [
         {
           "consensus_ecr": "279.71",
-          "cut_score": "34.9",
+          "cut_score": "35",
           "cut_tier": "HOLD",
           "nfl_team": "SF",
           "player": "Christian Kirk",
@@ -248,39 +259,49 @@
           "reasons": "consensus ECR 338.25 protected | buried on depth chart | little cross-league market demand | surplus TE depth"
         },
         {
-          "consensus_ecr": "264.56",
-          "cut_score": "29.6",
+          "consensus_ecr": "246.36",
+          "cut_score": "28.4",
           "cut_tier": "HOLD",
-          "nfl_team": "DAL",
-          "player": "Kendre Miller",
+          "nfl_team": "DET",
+          "player": "Isiah Pacheco",
           "position": "RB",
-          "reasons": "consensus ECR 264.56 protected | buried on depth chart | little cross-league market demand | surplus RB depth"
+          "reasons": "consensus ECR 246.36 protected | buried on depth chart | strong cross-league market demand | surplus RB depth | inactive"
         }
       ],
-      "faab_remaining": 100,
+      "faab_remaining": 0,
       "league": "12-Team Dynasty \u2014 One League to Rule Them All",
       "recommended_cuts": [],
-      "top_adds": [
-        {
-          "consensus_ecr": "313.5",
-          "faab_high": "1",
-          "faab_low": "0",
-          "nfl_team": "ARI",
-          "player": "Reggie Virgil",
-          "position": "WR",
-          "priority": "WATCH",
-          "reasons": "consensus ECR 313.5 | depth-chart starter | 2 recent cross-league add(s) | young dynasty stash value",
-          "waiver_score": "34.2"
-        }
-      ],
+      "top_adds": [],
       "type": "dynasty"
     },
     "1370453762442797056": {
       "cut_watchlist": [],
-      "faab_remaining": 1000,
+      "faab_remaining": 778,
       "league": "18-Team Chopped \u2014 Surviving the Chamber",
       "recommended_cuts": [],
       "top_adds": [
+        {
+          "consensus_ecr": "21.2",
+          "faab_high": "351",
+          "faab_low": "218",
+          "nfl_team": "CHI",
+          "player": "D'Andre Swift",
+          "position": "RB",
+          "priority": "MUST ADD",
+          "reasons": "consensus ECR 21.2 | rostered in most comparable leagues | depth-chart starter | thin RB depth on your roster | 2026 usage RISING \u2014 snaps L3 78.3%, opps 23.0/g",
+          "waiver_score": "94.1"
+        },
+        {
+          "consensus_ecr": "3.0",
+          "faab_high": "351",
+          "faab_low": "218",
+          "nfl_team": "SEA",
+          "player": "Jaxon Smith-Njigba",
+          "position": "WR",
+          "priority": "MUST ADD",
+          "reasons": "consensus ECR 3 | rostered in most comparable leagues | depth-chart starter | thin WR depth on your roster | 2026 usage STABLE \u2014 snaps L3 82.7%, opps 10.33/g",
+          "waiver_score": "92.6"
+        },
         {
           "consensus_ecr": "70.6",
           "faab_high": "300",
@@ -289,19 +310,41 @@
           "player": "Josh Downs",
           "position": "WR",
           "priority": "HIGH",
-          "reasons": "return-scoring league candidate injected before final ranking | 2026 usage STABLE \u2014 snaps L3 79.0%, opps 5.0/g | return role PR +0.05 pts/g | offense+return dual role",
-          "waiver_score": "80.1"
+          "reasons": "return-scoring league candidate injected before final ranking | 2026 usage FALLING \u2014 snaps L3 56.3%, opps 5.33/g | return role PR +0.42 pts/g | offense+return dual role",
+          "waiver_score": "82.2"
         },
         {
-          "consensus_ecr": "103.6",
+          "consensus_ecr": "33.0",
           "faab_high": "234",
           "faab_low": "133",
-          "nfl_team": "SF",
-          "player": "Deebo Samuel Sr.",
+          "nfl_team": "PIT",
+          "player": "Jaylen Warren",
+          "position": "RB",
+          "priority": "HIGH",
+          "reasons": "consensus ECR 33 | rostered in most comparable leagues | depth-chart starter | 1 recent cross-league add(s) | thin RB depth on your roster",
+          "waiver_score": "82.0"
+        },
+        {
+          "consensus_ecr": "64.8",
+          "faab_high": "234",
+          "faab_low": "133",
+          "nfl_team": "CLE",
+          "player": "KC Concepcion Jr.",
           "position": "WR",
           "priority": "HIGH",
-          "reasons": "consensus ECR 103.6 | rostered in most comparable leagues | depth-chart starter | thin WR depth on your roster | 2026 usage STABLE \u2014 snaps L3 62.0%, opps 3.0/g | return role KR +2.82 pts/g | offense+return dual role",
-          "waiver_score": "80.0"
+          "reasons": "consensus ECR 64.8 | rostered in most comparable leagues | primary backup | thin WR depth on your roster | 2026 usage RISING \u2014 snaps L3 85.0%, opps 6.0/g | return role PR +0.56 pts/g | offense+return dual role",
+          "waiver_score": "80.3"
+        },
+        {
+          "consensus_ecr": "96.6",
+          "faab_high": "234",
+          "faab_low": "133",
+          "nfl_team": "GB",
+          "player": "Tucker Kraft",
+          "position": "TE",
+          "priority": "HIGH",
+          "reasons": "consensus ECR 96.6 | rostered in most comparable leagues | depth-chart starter | thin TE depth on your roster | 2026 usage STABLE \u2014 snaps L3 88.3%, opps 4.33/g",
+          "waiver_score": "80.1"
         },
         {
           "consensus_ecr": "63.6",
@@ -311,78 +354,25 @@
           "player": "Jared Goff",
           "position": "QB",
           "priority": "HIGH",
-          "reasons": "consensus ECR 63.6 | rostered in most comparable leagues | depth-chart starter | thin QB depth on your roster | 2026 usage STABLE \u2014 snaps L3 100.0%, opps 0.0/g",
+          "reasons": "consensus ECR 63.6 | rostered in most comparable leagues | depth-chart starter | thin QB depth on your roster | 2026 usage STABLE \u2014 snaps L3 95.3%, opps 0.0/g",
           "waiver_score": "79.0"
         },
         {
-          "consensus_ecr": "119.4",
-          "faab_high": "300",
-          "faab_low": "170",
-          "nfl_team": "MIA",
-          "player": "Malik Washington",
-          "position": "WR",
-          "priority": "HIGH",
-          "reasons": "return-scoring league candidate injected before final ranking | 2026 usage STABLE \u2014 snaps L3 77.0%, opps 4.0/g | return role KR+PR +3.52 pts/g | offense+return dual role",
-          "waiver_score": "78.6"
-        },
-        {
-          "consensus_ecr": "115.8",
-          "faab_high": "300",
-          "faab_low": "170",
-          "nfl_team": "WAS",
-          "player": "Antonio Williams",
-          "position": "WR",
-          "priority": "HIGH",
-          "reasons": "return-scoring league candidate injected before final ranking | 2026 usage RISING \u2014 snaps L3 84.3%, opps 5.0/g | return role PR +0.56 pts/g | offense+return dual role",
-          "waiver_score": "76.4"
-        },
-        {
-          "consensus_ecr": "87.8",
+          "consensus_ecr": "78.0",
           "faab_high": "234",
           "faab_low": "133",
-          "nfl_team": "TEN",
-          "player": "Wan'Dale Robinson",
-          "position": "WR",
-          "priority": "HIGH",
-          "reasons": "consensus ECR 87.8 | rostered in most comparable leagues | depth-chart starter | thin WR depth on your roster | 2026 usage STABLE \u2014 snaps L3 71.0%, opps 6.67/g",
-          "waiver_score": "75.0"
-        },
-        {
-          "consensus_ecr": "106.4",
-          "faab_high": "141",
-          "faab_low": "78",
-          "nfl_team": "MIN",
-          "player": "Kirk Cousins",
-          "position": "QB",
-          "priority": "MEDIUM",
-          "reasons": "consensus ECR 106.4 | rostered in most comparable leagues | depth-chart starter | thin QB depth on your roster | 2026 usage STABLE \u2014 snaps L3 100.0%, opps 0.0/g",
-          "waiver_score": "73.0"
-        },
-        {
-          "consensus_ecr": "111.6",
-          "faab_high": "141",
-          "faab_low": "78",
-          "nfl_team": "LAC",
-          "player": "Omarion Hampton",
+          "nfl_team": "NE",
+          "player": "Rhamondre Stevenson",
           "position": "RB",
-          "priority": "MEDIUM",
-          "reasons": "consensus ECR 111.6 | rostered in most comparable leagues | depth-chart starter | 1 recent cross-league add(s) | thin RB depth on your roster | 2026 usage STABLE \u2014 snaps L3 40.0%, opps 12.0/g",
-          "waiver_score": "71.5"
+          "priority": "HIGH",
+          "reasons": "consensus ECR 78 | rostered in most comparable leagues | depth-chart starter | thin RB depth on your roster | 2026 usage STABLE \u2014 snaps L3 60.3%, opps 13.0/g",
+          "waiver_score": "79.0"
         }
       ],
       "type": "chopped"
     },
     "1389740418316374016": {
       "cut_watchlist": [
-        {
-          "consensus_ecr": "131.8",
-          "cut_score": "0",
-          "cut_tier": "HOLD",
-          "nfl_team": "NYJ",
-          "player": "Braelon Allen",
-          "position": "RB",
-          "reasons": "consensus ECR 131.8 protected | strong cross-league market demand"
-        },
         {
           "consensus_ecr": "192.6",
           "cut_score": "0",
@@ -393,22 +383,13 @@
           "reasons": "consensus ECR 192.6 protected | starter protected | strong cross-league market demand"
         },
         {
-          "consensus_ecr": "106.8",
-          "cut_score": "0",
-          "cut_tier": "HOLD",
-          "nfl_team": "CAR",
-          "player": "Bryce Young",
-          "position": "QB",
-          "reasons": "consensus ECR 106.8 protected | starter protected | strong cross-league market demand"
-        },
-        {
           "consensus_ecr": "87.4",
           "cut_score": "0",
           "cut_tier": "HOLD",
           "nfl_team": "HOU",
           "player": "C.J. Stroud",
           "position": "QB",
-          "reasons": "consensus ECR 87.4 protected | strong cross-league market demand"
+          "reasons": "consensus ECR 87.4 protected | starter protected | strong cross-league market demand"
         },
         {
           "consensus_ecr": "72.8",
@@ -418,34 +399,30 @@
           "player": "Cam Skattebo",
           "position": "RB",
           "reasons": "consensus ECR 72.8 protected | starter protected | strong cross-league market demand"
+        },
+        {
+          "consensus_ecr": "",
+          "cut_score": "0",
+          "cut_tier": "HOLD",
+          "nfl_team": "CIN",
+          "player": "Cincinnati Bengals",
+          "position": "DEF",
+          "reasons": "starter protected | buried on depth chart | little cross-league market demand"
+        },
+        {
+          "consensus_ecr": "170.8",
+          "cut_score": "0",
+          "cut_tier": "HOLD",
+          "nfl_team": "KC",
+          "player": "Emmett Johnson",
+          "position": "RB",
+          "reasons": "consensus ECR 170.8 protected | starter protected | strong cross-league market demand"
         }
       ],
       "faab_remaining": 100,
       "league": "10-Team Redraft \u2014 Big Tiger Takeover",
       "recommended_cuts": [],
       "top_adds": [
-        {
-          "consensus_ecr": "87.8",
-          "faab_high": "12",
-          "faab_low": "7",
-          "nfl_team": "TEN",
-          "player": "Wan'Dale Robinson",
-          "position": "WR",
-          "priority": "MEDIUM",
-          "reasons": "consensus ECR 87.8 | rostered in most comparable leagues | depth-chart starter | thin WR depth on your roster | 2026 usage STABLE \u2014 snaps L3 71.0%, opps 6.67/g",
-          "waiver_score": "69.1"
-        },
-        {
-          "consensus_ecr": "80.4",
-          "faab_high": "12",
-          "faab_low": "7",
-          "nfl_team": "JAX",
-          "player": "Jakobi Meyers",
-          "position": "WR",
-          "priority": "MEDIUM",
-          "reasons": "consensus ECR 80.4 | rostered in most comparable leagues | primary backup | thin WR depth on your roster | 2026 usage STABLE \u2014 snaps L3 65.7%, opps 6.33/g",
-          "waiver_score": "68.7"
-        },
         {
           "consensus_ecr": "119.6",
           "faab_high": "12",
@@ -458,15 +435,48 @@
           "waiver_score": "67.2"
         },
         {
-          "consensus_ecr": "125.6",
+          "consensus_ecr": "122.2",
           "faab_high": "7",
           "faab_low": "3",
-          "nfl_team": "JAX",
-          "player": "Brenton Strange",
+          "nfl_team": "MIN",
+          "player": "Jordan Mason",
+          "position": "RB",
+          "priority": "MEDIUM",
+          "reasons": "consensus ECR 122.2 | rostered in most comparable leagues | depth-chart starter | thin RB depth on your roster | 2026 usage STABLE \u2014 snaps L3 43.3%, opps 11.33/g",
+          "waiver_score": "64.3"
+        },
+        {
+          "consensus_ecr": "127.2",
+          "faab_high": "7",
+          "faab_low": "3",
+          "nfl_team": "MIN",
+          "player": "T.J. Hockenson",
           "position": "TE",
           "priority": "MEDIUM",
-          "reasons": "consensus ECR 125.6 | rostered in most comparable leagues | depth-chart starter | 1 recent cross-league add(s) | thin TE depth on your roster | 2026 usage STABLE \u2014 snaps L3 69.0%, opps 3.67/g",
-          "waiver_score": "64.1"
+          "reasons": "consensus ECR 127.2 | rostered in most comparable leagues | depth-chart starter | 1 recent cross-league add(s) | thin TE depth on your roster | injury: Out | 2026 usage RISING \u2014 snaps L3 80.0%, opps 5.67/g",
+          "waiver_score": "63.0"
+        },
+        {
+          "consensus_ecr": "131.8",
+          "faab_high": "7",
+          "faab_low": "3",
+          "nfl_team": "NYJ",
+          "player": "Braelon Allen",
+          "position": "RB",
+          "priority": "SPECULATIVE",
+          "reasons": "consensus ECR 131.8 | rostered in most comparable leagues | primary backup | thin RB depth on your roster | 2026 usage STABLE \u2014 snaps L3 63.3%, opps 14.0/g",
+          "waiver_score": "61.3"
+        },
+        {
+          "consensus_ecr": "106.8",
+          "faab_high": 7,
+          "faab_low": 3,
+          "nfl_team": "CAR",
+          "player": "Bryce Young",
+          "position": "QB",
+          "priority": "SPECULATIVE",
+          "reasons": "consensus ECR 106.8 | rostered in most comparable leagues | depth-chart starter | 2 recent cross-league add(s) | 2026 usage STABLE \u2014 snaps L3 100.0%, opps 0.0/g | QB room already covered (1 rostered)",
+          "waiver_score": 57.4
         },
         {
           "consensus_ecr": "165.8",
@@ -476,41 +486,30 @@
           "player": "AJ Barner",
           "position": "TE",
           "priority": "SPECULATIVE",
-          "reasons": "consensus ECR 165.8 | rostered in most comparable leagues | depth-chart starter | thin TE depth on your roster | 2026 usage STABLE \u2014 snaps L3 82.3%, opps 4.67/g",
+          "reasons": "consensus ECR 165.8 | rostered in most comparable leagues | depth-chart starter | thin TE depth on your roster | 2026 usage STABLE \u2014 snaps L3 83.7%, opps 4.0/g",
           "waiver_score": "54.6"
         },
         {
-          "consensus_ecr": "177.25",
+          "consensus_ecr": "170.4",
           "faab_high": "3",
           "faab_low": "1",
-          "nfl_team": "LAR",
-          "player": "Konata Mumpfield",
-          "position": "WR",
-          "priority": "SPECULATIVE",
-          "reasons": "consensus ECR 177.25 | rostered in most comparable leagues | depth-chart starter | 1 recent cross-league add(s) | thin WR depth on your roster",
-          "waiver_score": "51.9"
-        },
-        {
-          "consensus_ecr": "154.8",
-          "faab_high": "3",
-          "faab_low": "1",
-          "nfl_team": "HOU",
-          "player": "Dalton Schultz",
+          "nfl_team": "CAR",
+          "player": "Darren Waller",
           "position": "TE",
           "priority": "SPECULATIVE",
-          "reasons": "consensus ECR 154.8 | rostered in most comparable leagues | depth-chart starter | thin TE depth on your roster | 2026 usage STABLE \u2014 snaps L3 47.0%, opps 5.33/g",
-          "waiver_score": "51.6"
+          "reasons": "consensus ECR 170.4 | rostered in most comparable leagues | depth-chart starter | 1 recent cross-league add(s) | thin TE depth on your roster | 2026 usage STABLE \u2014 snaps L3 58.7%, opps 5.33/g",
+          "waiver_score": "52.1"
         },
         {
-          "consensus_ecr": "209.5",
+          "consensus_ecr": "159.8",
           "faab_high": "3",
           "faab_low": "1",
-          "nfl_team": "NE",
-          "player": "Corey Kiner",
-          "position": "RB",
+          "nfl_team": "CIN",
+          "player": "Mike Gesicki",
+          "position": "TE",
           "priority": "SPECULATIVE",
-          "reasons": "consensus ECR 209.5 | rostered in most comparable leagues | depth-chart starter | 3 recent cross-league add(s) | 2026 usage STABLE \u2014 snaps L3 15.3%, opps 6.33/g",
-          "waiver_score": "51.3"
+          "reasons": "consensus ECR 159.8 | rostered in most comparable leagues | depth-chart starter | thin TE depth on your roster",
+          "waiver_score": "52.1"
         }
       ],
       "type": "redraft"
@@ -522,6 +521,6 @@
   ],
   "ranking_source": "DynastyProcess ffverse FantasyPros consensus mirror",
   "skipped_predraft_leagues": [],
-  "snapshot_utc": "2026-11-14T18:36:24+00:00",
-  "week": 10
+  "snapshot_utc": "2026-11-18T03:20:36+00:00",
+  "week": 11
 }

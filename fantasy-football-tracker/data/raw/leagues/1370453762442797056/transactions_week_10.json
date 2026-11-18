@@ -1,5 +1,113 @@
 [
   {
+    "adds": null,
+    "consenter_ids": null,
+    "created": 1794894380091,
+    "creator": "779583277362245632",
+    "draft_picks": [],
+    "drops": {
+      "10219": 3,
+      "11564": 3,
+      "13274": 3,
+      "13298": 3,
+      "1466": 3,
+      "3271": 3,
+      "4035": 3,
+      "4199": 3,
+      "650": 3,
+      "6790": 3,
+      "7839": 3,
+      "8228": 3,
+      "9484": 3,
+      "9488": 3,
+      "9494": 3
+    },
+    "leg": 10,
+    "metadata": null,
+    "roster_ids": [
+      3
+    ],
+    "settings": null,
+    "status": "complete",
+    "status_updated": 1794894380091,
+    "transaction_id": "1428294187782004736",
+    "type": "chopped",
+    "waiver_budget": []
+  },
+  {
+    "adds": {
+      "5872": 11
+    },
+    "consenter_ids": [
+      11
+    ],
+    "created": 1794771626261,
+    "creator": "997348618057125888",
+    "draft_picks": [],
+    "drops": {
+      "5947": 11
+    },
+    "leg": 10,
+    "metadata": null,
+    "roster_ids": [
+      11
+    ],
+    "settings": null,
+    "status": "complete",
+    "status_updated": 1794771626261,
+    "transaction_id": "1427779320897617920",
+    "type": "free_agent",
+    "waiver_budget": []
+  },
+  {
+    "adds": {
+      "7543": 6
+    },
+    "consenter_ids": [
+      6
+    ],
+    "created": 1794749493199,
+    "creator": "770802446909222912",
+    "draft_picks": [],
+    "drops": null,
+    "leg": 10,
+    "metadata": null,
+    "roster_ids": [
+      6
+    ],
+    "settings": null,
+    "status": "complete",
+    "status_updated": 1794749493199,
+    "transaction_id": "1427686488111325184",
+    "type": "free_agent",
+    "waiver_budget": []
+  },
+  {
+    "adds": {
+      "13337": 6
+    },
+    "consenter_ids": [
+      6
+    ],
+    "created": 1794683637145,
+    "creator": "770802446909222912",
+    "draft_picks": [],
+    "drops": {
+      "13414": 6
+    },
+    "leg": 10,
+    "metadata": null,
+    "roster_ids": [
+      6
+    ],
+    "settings": null,
+    "status": "complete",
+    "status_updated": 1794683637145,
+    "transaction_id": "1427410267796434944",
+    "type": "free_agent",
+    "waiver_budget": []
+  },
+  {
     "adds": {
       "12491": 9
     },
