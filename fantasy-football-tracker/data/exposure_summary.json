@@ -4,11 +4,11 @@
   "market_signal_players": [
     {
       "free_agent_leagues": 1,
-      "full_name": "Aaron Jones Sr.",
+      "full_name": "A.J. Brown",
       "my_leagues": 0,
-      "nfl_team": "MIN",
-      "player_id": "4199",
-      "position": "RB",
+      "nfl_team": "NE",
+      "player_id": "5859",
+      "position": "WR",
       "rostered_leagues": 4
     },
     {
@@ -31,15 +31,6 @@
     },
     {
       "free_agent_leagues": 1,
-      "full_name": "Alvin Kamara",
-      "my_leagues": 1,
-      "nfl_team": "NO",
-      "player_id": "4035",
-      "position": "RB",
-      "rostered_leagues": 4
-    },
-    {
-      "free_agent_leagues": 1,
       "full_name": "Braelon Allen",
       "my_leagues": 0,
       "nfl_team": "NYJ",
@@ -58,20 +49,11 @@
     },
     {
       "free_agent_leagues": 1,
-      "full_name": "Corey Kiner",
+      "full_name": "Caleb Douglas",
       "my_leagues": 0,
-      "nfl_team": "NE",
-      "player_id": "12491",
-      "position": "RB",
-      "rostered_leagues": 4
-    },
-    {
-      "free_agent_leagues": 1,
-      "full_name": "D'Andre Swift",
-      "my_leagues": 2,
-      "nfl_team": "CHI",
-      "player_id": "6790",
-      "position": "RB",
+      "nfl_team": "MIA",
+      "player_id": "13296",
+      "position": "WR",
       "rostered_leagues": 4
     },
     {
@@ -81,6 +63,15 @@
       "nfl_team": "PHI",
       "player_id": "5022",
       "position": "TE",
+      "rostered_leagues": 4
+    },
+    {
+      "free_agent_leagues": 1,
+      "full_name": "David Montgomery",
+      "my_leagues": 0,
+      "nfl_team": "HOU",
+      "player_id": "5892",
+      "position": "RB",
       "rostered_leagues": 4
     },
     {
@@ -112,6 +103,24 @@
     },
     {
       "free_agent_leagues": 1,
+      "full_name": "Hunter Henry",
+      "my_leagues": 0,
+      "nfl_team": "NE",
+      "player_id": "3214",
+      "position": "TE",
+      "rostered_leagues": 4
+    },
+    {
+      "free_agent_leagues": 1,
+      "full_name": "Ja'Kobi Lane",
+      "my_leagues": 0,
+      "nfl_team": "BAL",
+      "player_id": "13293",
+      "position": "WR",
+      "rostered_leagues": 4
+    },
+    {
+      "free_agent_leagues": 1,
       "full_name": "Jacory Croskey-Merritt",
       "my_leagues": 0,
       "nfl_team": "WAS",
@@ -121,29 +130,20 @@
     },
     {
       "free_agent_leagues": 1,
-      "full_name": "Jared Goff",
+      "full_name": "Jalen Coker",
       "my_leagues": 0,
-      "nfl_team": "DET",
-      "player_id": "3163",
-      "position": "QB",
-      "rostered_leagues": 4
-    },
-    {
-      "free_agent_leagues": 1,
-      "full_name": "Jaxon Smith-Njigba",
-      "my_leagues": 0,
-      "nfl_team": "SEA",
-      "player_id": "9488",
+      "nfl_team": "CAR",
+      "player_id": "11646",
       "position": "WR",
       "rostered_leagues": 4
     },
     {
       "free_agent_leagues": 1,
-      "full_name": "Jaylen Warren",
-      "my_leagues": 2,
-      "nfl_team": "PIT",
-      "player_id": "8228",
-      "position": "RB",
+      "full_name": "Jared Goff",
+      "my_leagues": 0,
+      "nfl_team": "DET",
+      "player_id": "3163",
+      "position": "QB",
       "rostered_leagues": 4
     },
     {
@@ -175,15 +175,6 @@
     },
     {
       "free_agent_leagues": 1,
-      "full_name": "Jordyn Tyson",
-      "my_leagues": 0,
-      "nfl_team": "NO",
-      "player_id": "13281",
-      "position": "WR",
-      "rostered_leagues": 4
-    },
-    {
-      "free_agent_leagues": 1,
       "full_name": "KC Concepcion Jr.",
       "my_leagues": 0,
       "nfl_team": "CLE",
@@ -193,20 +184,29 @@
     },
     {
       "free_agent_leagues": 1,
-      "full_name": "Kirk Cousins",
-      "my_leagues": 1,
-      "nfl_team": "MIN",
-      "player_id": "1166",
-      "position": "QB",
+      "full_name": "Keon Coleman",
+      "my_leagues": 0,
+      "nfl_team": "BUF",
+      "player_id": "11637",
+      "position": "WR",
       "rostered_leagues": 4
     },
     {
       "free_agent_leagues": 1,
-      "full_name": "Makai Lemon",
-      "my_leagues": 0,
-      "nfl_team": "PHI",
-      "player_id": "13294",
+      "full_name": "Malik Washington",
+      "my_leagues": 1,
+      "nfl_team": "MIA",
+      "player_id": "11610",
       "position": "WR",
+      "rostered_leagues": 4
+    },
+    {
+      "free_agent_leagues": 1,
+      "full_name": "Mark Andrews",
+      "my_leagues": 0,
+      "nfl_team": "BAL",
+      "player_id": "5012",
+      "position": "TE",
       "rostered_leagues": 4
     },
     {
@@ -220,6 +220,15 @@
     },
     {
       "free_agent_leagues": 1,
+      "full_name": "Michael Mayer",
+      "my_leagues": 2,
+      "nfl_team": "LV",
+      "player_id": "9482",
+      "position": "TE",
+      "rostered_leagues": 4
+    },
+    {
+      "free_agent_leagues": 1,
       "full_name": "Michael Wilson",
       "my_leagues": 0,
       "nfl_team": "ARI",
@@ -229,20 +238,20 @@
     },
     {
       "free_agent_leagues": 1,
-      "full_name": "Omar Cooper Jr.",
-      "my_leagues": 1,
-      "nfl_team": "NYJ",
-      "player_id": "13276",
-      "position": "WR",
+      "full_name": "Mike Gesicki",
+      "my_leagues": 0,
+      "nfl_team": "CIN",
+      "player_id": "4993",
+      "position": "TE",
       "rostered_leagues": 4
     },
     {
       "free_agent_leagues": 1,
-      "full_name": "Omarion Hampton",
-      "my_leagues": 0,
-      "nfl_team": "LAC",
-      "player_id": "12507",
-      "position": "RB",
+      "full_name": "Pat Bryant",
+      "my_leagues": 2,
+      "nfl_team": "DEN",
+      "player_id": "12492",
+      "position": "WR",
       "rostered_leagues": 4
     },
     {
@@ -274,6 +283,15 @@
     },
     {
       "free_agent_leagues": 1,
+      "full_name": "Ryan Flournoy",
+      "my_leagues": 0,
+      "nfl_team": "DAL",
+      "player_id": "11783",
+      "position": "WR",
+      "rostered_leagues": 4
+    },
+    {
+      "free_agent_leagues": 1,
       "full_name": "T.J. Hockenson",
       "my_leagues": 0,
       "nfl_team": "MIN",
@@ -283,29 +301,20 @@
     },
     {
       "free_agent_leagues": 1,
-      "full_name": "Tank Dell",
-      "my_leagues": 1,
-      "nfl_team": "HOU",
-      "player_id": "9502",
-      "position": "WR",
+      "full_name": "Travis Etienne Jr.",
+      "my_leagues": 0,
+      "nfl_team": "NO",
+      "player_id": "7543",
+      "position": "RB",
       "rostered_leagues": 4
     },
     {
       "free_agent_leagues": 1,
-      "full_name": "Terry McLaurin",
+      "full_name": "Tre Tucker",
       "my_leagues": 0,
-      "nfl_team": "WAS",
-      "player_id": "5927",
+      "nfl_team": "LV",
+      "player_id": "10213",
       "position": "WR",
-      "rostered_leagues": 4
-    },
-    {
-      "free_agent_leagues": 1,
-      "full_name": "Travis Kelce",
-      "my_leagues": 0,
-      "nfl_team": "KC",
-      "player_id": "1466",
-      "position": "TE",
       "rostered_leagues": 4
     },
     {
@@ -315,6 +324,15 @@
       "nfl_team": "GB",
       "player_id": "9484",
       "position": "TE",
+      "rostered_leagues": 4
+    },
+    {
+      "free_agent_leagues": 1,
+      "full_name": "Wan'Dale Robinson",
+      "my_leagues": 0,
+      "nfl_team": "TEN",
+      "player_id": "8126",
+      "position": "WR",
       "rostered_leagues": 4
     },
     {
@@ -328,11 +346,11 @@
     },
     {
       "free_agent_leagues": 2,
-      "full_name": "Bo Nix",
-      "my_leagues": 0,
-      "nfl_team": "DEN",
-      "player_id": "11563",
-      "position": "QB",
+      "full_name": "Alvin Kamara",
+      "my_leagues": 1,
+      "nfl_team": "NO",
+      "player_id": "4035",
+      "position": "RB",
       "rostered_leagues": 3
     },
     {
@@ -342,6 +360,15 @@
       "nfl_team": "DAL",
       "player_id": "11533",
       "position": "K",
+      "rostered_leagues": 3
+    },
+    {
+      "free_agent_leagues": 2,
+      "full_name": "Brenton Strange",
+      "my_leagues": 0,
+      "nfl_team": "JAX",
+      "player_id": "9480",
+      "position": "TE",
       "rostered_leagues": 3
     },
     {
@@ -360,6 +387,15 @@
       "nfl_team": "JAX",
       "player_id": "11786",
       "position": "K",
+      "rostered_leagues": 3
+    },
+    {
+      "free_agent_leagues": 2,
+      "full_name": "Chig Okonkwo",
+      "my_leagues": 0,
+      "nfl_team": "WAS",
+      "player_id": "8210",
+      "position": "TE",
       "rostered_leagues": 3
     },
     {
@@ -391,6 +427,15 @@
     },
     {
       "free_agent_leagues": 2,
+      "full_name": "Courtland Sutton",
+      "my_leagues": 1,
+      "nfl_team": "DEN",
+      "player_id": "5045",
+      "position": "WR",
+      "rostered_leagues": 3
+    },
+    {
+      "free_agent_leagues": 2,
       "full_name": "Dalton Schultz",
       "my_leagues": 1,
       "nfl_team": "HOU",
@@ -405,51 +450,6 @@
       "nfl_team": "CAR",
       "player_id": "2505",
       "position": "TE",
-      "rostered_leagues": 3
-    },
-    {
-      "free_agent_leagues": 2,
-      "full_name": "De'Von Achane",
-      "my_leagues": 1,
-      "nfl_team": "MIA",
-      "player_id": "9226",
-      "position": "RB",
-      "rostered_leagues": 3
-    },
-    {
-      "free_agent_leagues": 2,
-      "full_name": "De'Zhaun Stribling",
-      "my_leagues": 0,
-      "nfl_team": "SF",
-      "player_id": "13417",
-      "position": "WR",
-      "rostered_leagues": 3
-    },
-    {
-      "free_agent_leagues": 2,
-      "full_name": "DeMario Douglas",
-      "my_leagues": 0,
-      "nfl_team": "NE",
-      "player_id": "9501",
-      "position": "WR",
-      "rostered_leagues": 3
-    },
-    {
-      "free_agent_leagues": 2,
-      "full_name": "Devaughn Vele",
-      "my_leagues": 1,
-      "nfl_team": "NO",
-      "player_id": "11834",
-      "position": "WR",
-      "rostered_leagues": 3
-    },
-    {
-      "free_agent_leagues": 2,
-      "full_name": "Isiah Pacheco",
-      "my_leagues": 1,
-      "nfl_team": "DET",
-      "player_id": "8205",
-      "position": "RB",
       "rostered_leagues": 3
     }
   ],
@@ -468,10 +468,10 @@
       "6"
     ]
   },
-  "players_faced_in_multiple_leagues": 6,
-  "players_owned_in_multiple_leagues": 12,
-  "players_started_in_multiple_leagues": 6,
-  "snapshot_utc": "2026-11-18T03:20:36+00:00",
+  "players_faced_in_multiple_leagues": 5,
+  "players_owned_in_multiple_leagues": 14,
+  "players_started_in_multiple_leagues": 5,
+  "snapshot_utc": "2026-11-21T19:53:29+00:00",
   "top_nfl_team_exposure": [
     {
       "nfl_team": "CIN",
@@ -483,11 +483,11 @@
     },
     {
       "nfl_team": "CHI",
-      "players_owned": "Cole Kmet | D'Andre Swift | Luther Burden III",
-      "players_started": "D'Andre Swift | Luther Burden III",
-      "roster_slots_across_leagues": 5,
-      "starting_slots_across_leagues": 4,
-      "unique_players_owned": 3
+      "players_owned": "Cole Kmet | Colston Loveland | D'Andre Swift | Luther Burden III",
+      "players_started": "Colston Loveland | D'Andre Swift | Luther Burden III",
+      "roster_slots_across_leagues": 6,
+      "starting_slots_across_leagues": 5,
+      "unique_players_owned": 4
     },
     {
       "nfl_team": "TB",
@@ -506,6 +506,14 @@
       "unique_players_owned": 5
     },
     {
+      "nfl_team": "NYJ",
+      "players_owned": "Dane Belton | David Bailey | Garrett Wilson | Geno Smith | Omar Cooper Jr.",
+      "players_started": "Dane Belton | David Bailey | Garrett Wilson",
+      "roster_slots_across_leagues": 5,
+      "starting_slots_across_leagues": 3,
+      "unique_players_owned": 5
+    },
+    {
       "nfl_team": "HOU",
       "players_owned": "C.J. Stroud | Dalton Schultz | Marvin Harrison Jr. | Tank Dell | Woody Marks",
       "players_started": "C.J. Stroud | Dalton Schultz",
@@ -515,11 +523,11 @@
     },
     {
       "nfl_team": "KC",
-      "players_owned": "Emmett Johnson | John Michael Gyllenborg | Josh Downs | Kenneth Walker III | Rashee Rice",
-      "players_started": "Emmett Johnson | Rashee Rice",
+      "players_owned": "Emmett Johnson | John Michael Gyllenborg | Josh Downs | Kenneth Walker III",
+      "players_started": "Josh Downs | Kenneth Walker III",
       "roster_slots_across_leagues": 6,
       "starting_slots_across_leagues": 2,
-      "unique_players_owned": 5
+      "unique_players_owned": 4
     },
     {
       "nfl_team": "DAL",
@@ -530,28 +538,20 @@
       "unique_players_owned": 4
     },
     {
-      "nfl_team": "GB",
-      "players_owned": "Evan Williams | Jayden Reed | Jordan Love | Luke Musgrave | Tucker Kraft",
-      "players_started": "Evan Williams | Tucker Kraft",
+      "nfl_team": "DEN",
+      "players_owned": "Bo Nix | Courtland Sutton | Jonah Coleman | Pat Bryant",
+      "players_started": "Bo Nix | Jonah Coleman",
       "roster_slots_across_leagues": 5,
       "starting_slots_across_leagues": 2,
-      "unique_players_owned": 5
+      "unique_players_owned": 4
     },
     {
-      "nfl_team": "DEN",
-      "players_owned": "Courtland Sutton | Jonah Coleman | Pat Bryant",
-      "players_started": "Jonah Coleman",
+      "nfl_team": "PIT",
+      "players_owned": "Jaylen Warren | Pat Freiermuth | Rico Dowdle",
+      "players_started": "Jaylen Warren",
       "roster_slots_across_leagues": 4,
       "starting_slots_across_leagues": 2,
       "unique_players_owned": 3
-    },
-    {
-      "nfl_team": "NYJ",
-      "players_owned": "David Bailey | Garrett Wilson | Geno Smith | Omar Cooper Jr.",
-      "players_started": "David Bailey | Garrett Wilson",
-      "roster_slots_across_leagues": 4,
-      "starting_slots_across_leagues": 2,
-      "unique_players_owned": 4
     },
     {
       "nfl_team": "MIN",
@@ -562,12 +562,12 @@
       "unique_players_owned": 3
     },
     {
-      "nfl_team": "PIT",
-      "players_owned": "Jaylen Warren | Pat Freiermuth",
-      "players_started": "Jaylen Warren",
+      "nfl_team": "JAX",
+      "players_owned": "Chris Rodriguez Jr. | LeQuint Allen Jr. | Parker Washington",
+      "players_started": "Parker Washington",
       "roster_slots_across_leagues": 3,
-      "starting_slots_across_leagues": 2,
-      "unique_players_owned": 2
+      "starting_slots_across_leagues": 1,
+      "unique_players_owned": 3
     }
   ],
   "top_owned_exposure": [
@@ -600,15 +600,6 @@
     },
     {
       "exposure_pct": 40.0,
-      "full_name": "Jonah Coleman",
-      "leagues_owned": 2,
-      "leagues_started": 2,
-      "nfl_team": "DEN",
-      "player_id": "13345",
-      "position": "RB"
-    },
-    {
-      "exposure_pct": 40.0,
       "full_name": "Ja'Marr Chase",
       "leagues_owned": 2,
       "leagues_started": 2,
@@ -627,12 +618,21 @@
     },
     {
       "exposure_pct": 40.0,
-      "full_name": "Emmett Johnson",
+      "full_name": "Michael Mayer",
+      "leagues_owned": 2,
+      "leagues_started": 1,
+      "nfl_team": "LV",
+      "player_id": "9482",
+      "position": "TE"
+    },
+    {
+      "exposure_pct": 40.0,
+      "full_name": "Josh Downs",
       "leagues_owned": 2,
       "leagues_started": 1,
       "nfl_team": "KC",
-      "player_id": "13337",
-      "position": "RB"
+      "player_id": "9500",
+      "position": "WR"
     },
     {
       "exposure_pct": 40.0,
@@ -642,6 +642,15 @@
       "nfl_team": "CAR",
       "player_id": "12526",
       "position": "WR"
+    },
+    {
+      "exposure_pct": 40.0,
+      "full_name": "Emmett Johnson",
+      "leagues_owned": 2,
+      "leagues_started": 0,
+      "nfl_team": "KC",
+      "player_id": "13337",
+      "position": "RB"
     },
     {
       "exposure_pct": 40.0,
@@ -680,12 +689,21 @@
       "position": "WR"
     },
     {
+      "exposure_pct": 40.0,
+      "full_name": "Pat Bryant",
+      "leagues_owned": 2,
+      "leagues_started": 0,
+      "nfl_team": "DEN",
+      "player_id": "12492",
+      "position": "WR"
+    },
+    {
       "exposure_pct": 20.0,
-      "full_name": "Evan Williams",
+      "full_name": "Dane Belton",
       "leagues_owned": 1,
       "leagues_started": 1,
-      "nfl_team": "GB",
-      "player_id": "11739",
+      "nfl_team": "NYJ",
+      "player_id": "8395",
       "position": "DB"
     },
     {
@@ -732,25 +750,7 @@
       "nfl_team": "NYJ",
       "player_id": "13363",
       "position": "LB"
-    },
-    {
-      "exposure_pct": 20.0,
-      "full_name": "C.J. Stroud",
-      "leagues_owned": 1,
-      "leagues_started": 1,
-      "nfl_team": "HOU",
-      "player_id": "9758",
-      "position": "QB"
-    },
-    {
-      "exposure_pct": 20.0,
-      "full_name": "Dak Prescott",
-      "leagues_owned": 1,
-      "leagues_started": 1,
-      "nfl_team": "DAL",
-      "player_id": "3294",
-      "position": "QB"
     }
   ],
-  "unique_players_owned": 86
+  "unique_players_owned": 89
 }

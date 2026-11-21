@@ -2,7 +2,7 @@
 
 2025 is context only until 2026 regular-season snap data exists; current-season usage adjustments automatically activate after games are played.
 
-Source season: 2026; latest week: 10
+Source season: 2026; latest week: 11
 
 ## Highest current usage signals
 - Justin Jefferson (WR MIN) — snaps L3 95.0%; opps L3 11.0/g; RISING; adjustment +6
@@ -37,6 +37,6 @@ Source season: 2026; latest week: 10
 - Tetairoa McMillan (WR CAR) — snaps L3 83.0%; opps L3 8.0/g; STABLE; adjustment +4
 - Isaiah Likely (TE NYG) — snaps L3 83.0%; opps L3 7.0/g; STABLE; adjustment +4
 - Jaxon Smith-Njigba (WR SEA) — snaps L3 82.7%; opps L3 10.33/g; STABLE; adjustment +4
+- Nico Collins (WR HOU) — snaps L3 82.3%; opps L3 8.33/g; STABLE; adjustment +4
 - Matthew Golden (WR GB) — snaps L3 81.3%; opps L3 10.67/g; STABLE; adjustment +4
 - Caleb Douglas (WR MIA) — snaps L3 81.3%; opps L3 7.33/g; STABLE; adjustment +4
-- T.J. Hockenson (TE MIN) — snaps L3 80.0%; opps L3 5.67/g; RISING; adjustment +4

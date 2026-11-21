@@ -3,7 +3,6 @@ player_id,full_name,position,nfl_team,opponent_leagues,injury_status
 3214,Hunter Henry,TE,NE,2,
 5859,A.J. Brown,WR,NE,2,Out
 11575,Ray Davis,RB,BUF,2,
-8122,Zonovan Knight,RB,ARI,2,
 8137,George Pickens,WR,DAL,2,
 11564,Drake Maye,QB,NE,1,Out
 11646,Jalen Coker,WR,CAR,1,
@@ -17,10 +16,9 @@ player_id,full_name,position,nfl_team,opponent_leagues,injury_status
 7611,Rhamondre Stevenson,RB,NE,1,
 9487,Parker Washington,WR,JAX,1,
 SEA,Seattle Seahawks,DEF,SEA,1,
-11439,Jaleel McLaughlin,RB,CLE,1,
 11577,Will Shipley,RB,PHI,1,IR
 11625,Adonai Mitchell,WR,NYJ,1,
-12493,Oronde Gadsden,TE,LAC,1,Questionable
+12493,Oronde Gadsden,TE,LAC,1,
 12499,Elic Ayomanor,WR,TEN,1,
 12531,Trevor Etienne,RB,CAR,1,
 12540,Chimere Dike,WR,TEN,1,
@@ -32,11 +30,12 @@ SEA,Seattle Seahawks,DEF,SEA,1,
 6427,Ashton Dulin,WR,IND,1,
 6783,Jerry Jeudy,WR,CLE,1,
 7090,Darnell Mooney,WR,NYG,1,
-7525,DeVonta Smith,WR,PHI,1,Out
+7525,DeVonta Smith,WR,PHI,1,
 7543,Travis Etienne Jr.,RB,NO,1,
 7567,Kenny Gainwell,RB,TB,1,
 7594,Chuba Hubbard,RB,CAR,1,
 7670,Joshua Palmer,WR,BUF,1,IR
+8122,Zonovan Knight,RB,ARI,1,
 8131,Isaiah Likely,TE,NYG,1,
 8167,Christian Watson,WR,GB,1,
 8676,Rashid Shaheed,WR,SEA,1,
@@ -63,7 +62,7 @@ SEA,Seattle Seahawks,DEF,SEA,1,
 4881,Lamar Jackson,QB,BAL,1,IR
 4943,Sam Darnold,QB,SEA,1,Out
 4993,Mike Gesicki,TE,CIN,1,
-5844,T.J. Hockenson,TE,MIN,1,Out
+5844,T.J. Hockenson,TE,MIN,1,
 5927,Terry McLaurin,WR,WAS,1,IR
 7588,Javonte Williams,RB,DAL,1,
 8151,Kenneth Walker III,RB,KC,1,Out
@@ -72,13 +71,17 @@ SEA,Seattle Seahawks,DEF,SEA,1,
 9501,DeMario Douglas,WR,NE,1,
 9511,Keaton Mitchell,RB,LAC,1,
 10232,Michael Wilson,WR,ARI,1,IR
+11199,Emari Demercado,RB,HOU,1,
+11610,Malik Washington,WR,MIA,1,
 11667,Dallas Turner,LB,MIN,1,
 12495,Ollie Gordon II,RB,MIA,1,
 12718,Konata Mumpfield,WR,LAR,1,
 13286,Jadarian Price,RB,SEA,1,
 2617,Alex Singleton,LB,DEN,1,
+3257,Jacoby Brissett,QB,BAL,1,
 4081,Budda Baker,DB,ARI,1,
 421,Matthew Stafford,QB,LAR,1,
+5012,Mark Andrews,TE,BAL,1,
 7839,Evan McPherson,K,CIN,1,
 9221,Jahmyr Gibbs,RB,DET,1,
 9488,Jaxon Smith-Njigba,WR,SEA,1,

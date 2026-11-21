@@ -1,161 +1,161 @@
 snapshot_utc,source_dt,team,slot,starter,sleeper_id,id_source,depth_rank,health_bucket,risk_weight,status_detail,official_injury_report_available
-2026-11-18T03:20:55+00:00,2026-11-17T16:52:03Z,ARI,LT,Jayden Williams,13581,Sleeper team+name fallback,1,UNAVAILABLE,1.0,out | active | questionable | limited participation in practice,True
-2026-11-18T03:20:55+00:00,2026-11-17T16:52:03Z,ARI,LG,Isaac Seumalo,3248,Sleeper team+name fallback,1,HEALTHY,0.0,active | full participation in practice,True
-2026-11-18T03:20:55+00:00,2026-11-17T16:52:03Z,ARI,C,Hjalte Froholdt,6084,Sleeper team+name fallback,1,UNAVAILABLE,1.0,out | active | out | did not participate in practice,True
-2026-11-18T03:20:55+00:00,2026-11-17T16:52:03Z,ARI,RG,Isaiah Adams,11718,Sleeper team+name fallback,1,AT RISK,0.45,active | questionable | limited participation in practice,True
-2026-11-18T03:20:55+00:00,2026-11-17T16:52:03Z,ARI,RT,Elijah Wilkinson,4592,Sleeper team+name fallback,1,HEALTHY,0.0,active | full participation in practice,True
-2026-11-18T03:20:55+00:00,2026-11-17T16:52:03Z,ATL,LT,Jake Matthews,2172,Sleeper team+name fallback,1,LIMITED,0.25,active | limited participation in practice,True
-2026-11-18T03:20:55+00:00,2026-11-17T16:52:03Z,ATL,LG,Matthew Bergeron,10910,Sleeper team+name fallback,1,HEALTHY,0.0,active,True
-2026-11-18T03:20:55+00:00,2026-11-17T16:52:03Z,ATL,C,Corey Levin,4282,Sleeper team+name fallback,1,HEALTHY,0.0,active,True
-2026-11-18T03:20:55+00:00,2026-11-17T16:52:03Z,ATL,RG,Chris Lindstrom,5895,Sleeper team+name fallback,1,AT RISK,0.45,active | did not participate in practice,True
-2026-11-18T03:20:55+00:00,2026-11-17T16:52:03Z,ATL,RT,Jawaan Taylor,6121,Sleeper team+name fallback,1,LIMITED,0.25,active | limited participation in practice,True
-2026-11-18T03:20:55+00:00,2026-11-17T16:52:03Z,BAL,LT,Ronnie Stanley,3162,Sleeper team+name fallback,1,AT RISK,0.45,active | did not participate in practice,True
-2026-11-18T03:20:55+00:00,2026-11-17T16:52:03Z,BAL,LG,John Simpson,6875,Sleeper team+name fallback,1,HEALTHY,0.0,active | full participation in practice,True
-2026-11-18T03:20:55+00:00,2026-11-17T16:52:03Z,BAL,C,Cam Jurgens,8453,Sleeper team+name fallback,1,HEALTHY,0.0,active | full participation in practice,True
-2026-11-18T03:20:55+00:00,2026-11-17T16:52:03Z,BAL,RG,Olaivavega Ioane,,,1,UNMAPPED,0.0,listed starter; Sleeper metadata not mapped,True
-2026-11-18T03:20:55+00:00,2026-11-17T16:52:03Z,BAL,RT,Roger Rosengarten,11696,Sleeper team+name fallback,1,HEALTHY,0.0,active | full participation in practice,True
-2026-11-18T03:20:55+00:00,2026-11-17T16:52:03Z,BUF,LT,Dion Dawkins,4102,Sleeper team+name fallback,1,HEALTHY,0.0,active | full participation in practice,True
-2026-11-18T03:20:55+00:00,2026-11-17T16:52:03Z,BUF,LG,Alec Anderson,8774,Sleeper team+name fallback,1,HEALTHY,0.0,active | full participation in practice,True
-2026-11-18T03:20:55+00:00,2026-11-17T16:52:03Z,BUF,C,Connor McGovern,5913,Sleeper team+name fallback,1,HEALTHY,0.0,active | full participation in practice,True
-2026-11-18T03:20:55+00:00,2026-11-17T16:52:03Z,BUF,RG,O'Cyrus Torrence,10895,Sleeper team+name fallback,1,HEALTHY,0.0,active,True
-2026-11-18T03:20:55+00:00,2026-11-17T16:52:03Z,BUF,RT,Spencer Brown,7691,Sleeper team+name fallback,1,DOUBTFUL,0.75,active | doubtful | did not participate in practice,True
-2026-11-18T03:20:55+00:00,2026-11-17T16:52:03Z,CAR,LT,Rasheed Walker,8511,Sleeper team+name fallback,1,HEALTHY,0.0,active,True
-2026-11-18T03:20:55+00:00,2026-11-17T16:52:03Z,CAR,LG,Damien Lewis,7003,Sleeper team+name fallback,1,HEALTHY,0.0,active | full participation in practice,True
-2026-11-18T03:20:55+00:00,2026-11-17T16:52:03Z,CAR,C,Luke Fortner,8462,Sleeper team+name fallback,1,HEALTHY,0.0,active,True
-2026-11-18T03:20:55+00:00,2026-11-17T16:52:03Z,CAR,RG,Robert Hunt,7041,Sleeper team+name fallback,1,HEALTHY,0.0,active,True
-2026-11-18T03:20:55+00:00,2026-11-17T16:52:03Z,CAR,RT,Monroe Freeling,13444,Sleeper team+name fallback,1,AT RISK,0.45,active | questionable | full participation in practice,True
-2026-11-18T03:20:55+00:00,2026-11-17T16:52:03Z,CHI,LT,Theo Benedet,12208,Sleeper team+name fallback,1,HEALTHY,0.0,active | full participation in practice,True
-2026-11-18T03:20:55+00:00,2026-11-17T16:52:03Z,CHI,LG,Joe Thuney,3247,Sleeper team+name fallback,1,HEALTHY,0.0,active | full participation in practice,True
-2026-11-18T03:20:55+00:00,2026-11-17T16:52:03Z,CHI,C,Garrett Bradbury,5855,Sleeper team+name fallback,1,HEALTHY,0.0,active,True
-2026-11-18T03:20:55+00:00,2026-11-17T16:52:03Z,CHI,RG,Jonah Jackson,6952,Sleeper team+name fallback,1,HEALTHY,0.0,active | full participation in practice,True
-2026-11-18T03:20:55+00:00,2026-11-17T16:52:03Z,CHI,RT,Darnell Wright,10887,Sleeper team+name fallback,1,HEALTHY,0.0,active | full participation in practice,True
-2026-11-18T03:20:55+00:00,2026-11-17T16:52:03Z,CIN,LT,Orlando Brown Jr.,4948,Sleeper team+name fallback,1,HEALTHY,0.0,active,True
-2026-11-18T03:20:55+00:00,2026-11-17T16:52:03Z,CIN,LG,Dylan Fairchild,12627,Sleeper team+name fallback,1,HEALTHY,0.0,active | full participation in practice,True
-2026-11-18T03:20:55+00:00,2026-11-17T16:52:03Z,CIN,C,Ted Karras,3376,Sleeper team+name fallback,1,HEALTHY,0.0,active,True
-2026-11-18T03:20:55+00:00,2026-11-17T16:52:03Z,CIN,RG,Dalton Risner,5867,Sleeper team+name fallback,1,AT RISK,0.45,questionable | active | full participation in practice,True
-2026-11-18T03:20:55+00:00,2026-11-17T16:52:03Z,CIN,RT,Amarius Mims,11666,Sleeper team+name fallback,1,HEALTHY,0.0,active,True
-2026-11-18T03:20:55+00:00,2026-11-17T16:52:03Z,CLE,LT,Spencer Fano,13450,Sleeper team+name fallback,1,HEALTHY,0.0,active,True
-2026-11-18T03:20:55+00:00,2026-11-17T16:52:03Z,CLE,LG,Zion Johnson,8445,Sleeper team+name fallback,1,HEALTHY,0.0,active | full participation in practice,True
-2026-11-18T03:20:55+00:00,2026-11-17T16:52:03Z,CLE,C,Elgton Jenkins,5877,Sleeper team+name fallback,1,HEALTHY,0.0,active | full participation in practice,True
-2026-11-18T03:20:55+00:00,2026-11-17T16:52:03Z,CLE,RG,Austin Barber,13473,Sleeper team+name fallback,1,HEALTHY,0.0,active | full participation in practice,True
-2026-11-18T03:20:55+00:00,2026-11-17T16:52:03Z,CLE,RT,Tytus Howard,5901,Sleeper team+name fallback,1,HEALTHY,0.0,active | full participation in practice,True
-2026-11-18T03:20:55+00:00,2026-11-17T16:52:03Z,DAL,LT,Tyler Guyton,11657,Sleeper team+name fallback,1,HEALTHY,0.0,active | full participation in practice,True
-2026-11-18T03:20:55+00:00,2026-11-17T16:52:03Z,DAL,LG,Tyler Smith,8449,Sleeper team+name fallback,1,HEALTHY,0.0,active | full participation in practice,True
-2026-11-18T03:20:55+00:00,2026-11-17T16:52:03Z,DAL,C,Cooper Beebe,11719,Sleeper team+name fallback,1,HEALTHY,0.0,active,True
-2026-11-18T03:20:55+00:00,2026-11-17T16:52:03Z,DAL,RG,Tyler Booker,12599,Sleeper team+name fallback,1,UNAVAILABLE,1.0,out | active,True
-2026-11-18T03:20:55+00:00,2026-11-17T16:52:03Z,DAL,RT,Terence Steele,6899,Sleeper team+name fallback,1,HEALTHY,0.0,active,True
-2026-11-18T03:20:55+00:00,2026-11-17T16:52:03Z,DEN,LT,Garett Bolles,4053,Sleeper team+name fallback,1,AT RISK,0.45,active | questionable | limited participation in practice,True
-2026-11-18T03:20:55+00:00,2026-11-17T16:52:03Z,DEN,LG,Ben Powers,5910,Sleeper team+name fallback,1,HEALTHY,0.0,active | full participation in practice,True
-2026-11-18T03:20:55+00:00,2026-11-17T16:52:03Z,DEN,C,Luke Wattenberg,8474,Sleeper team+name fallback,1,HEALTHY,0.0,active,True
-2026-11-18T03:20:55+00:00,2026-11-17T16:52:03Z,DEN,RG,Quinn Meinerz,7699,Sleeper team+name fallback,1,HEALTHY,0.0,active,True
-2026-11-18T03:20:55+00:00,2026-11-17T16:52:03Z,DEN,RT,Mike McGlinchey,4966,Sleeper team+name fallback,1,HEALTHY,0.0,active,True
-2026-11-18T03:20:55+00:00,2026-11-17T16:52:03Z,DET,LT,Penei Sewell,7643,Sleeper team+name fallback,1,HEALTHY,0.0,active | full participation in practice,True
-2026-11-18T03:20:55+00:00,2026-11-17T16:52:03Z,DET,LG,Christian Mahogany,11788,Sleeper team+name fallback,1,HEALTHY,0.0,active | full participation in practice,True
-2026-11-18T03:20:55+00:00,2026-11-17T16:52:03Z,DET,C,Cade Mays,8502,Sleeper team+name fallback,1,UNAVAILABLE,1.0,out | active | out | did not participate in practice,True
-2026-11-18T03:20:55+00:00,2026-11-17T16:52:03Z,DET,RG,Tate Ratledge,12613,Sleeper team+name fallback,1,HEALTHY,0.0,active | full participation in practice,True
-2026-11-18T03:20:55+00:00,2026-11-17T16:52:03Z,DET,RT,Blake Miller,13446,Sleeper team+name fallback,1,HEALTHY,0.0,active,True
-2026-11-18T03:20:55+00:00,2026-11-17T16:52:03Z,GB,LT,Jordan Morgan,11660,Sleeper team+name fallback,1,HEALTHY,0.0,active | full participation in practice,True
-2026-11-18T03:20:55+00:00,2026-11-17T16:52:03Z,GB,LG,Laken Tomlinson,2333,Sleeper team+name fallback,1,HEALTHY,0.0,active,True
-2026-11-18T03:20:55+00:00,2026-11-17T16:52:03Z,GB,C,Sean Rhyan,8460,Sleeper team+name fallback,1,UNAVAILABLE,1.0,out | active | out | did not participate in practice,True
-2026-11-18T03:20:55+00:00,2026-11-17T16:52:03Z,GB,RG,Kevin Zeitler,1074,Sleeper team+name fallback,1,UNAVAILABLE,1.0,out | active | questionable | did not participate in practice,True
-2026-11-18T03:20:55+00:00,2026-11-17T16:52:03Z,GB,RT,Anthony Belton,12577,Sleeper team+name fallback,1,LIMITED,0.25,active | limited participation in practice,True
-2026-11-18T03:20:55+00:00,2026-11-17T16:52:03Z,HOU,LT,Aireontae Ersery,12600,Sleeper team+name fallback,1,AT RISK,0.45,active | questionable | did not participate in practice,True
-2026-11-18T03:20:55+00:00,2026-11-17T16:52:03Z,HOU,LG,Keylan Rutledge,13442,Sleeper team+name fallback,1,UNAVAILABLE,1.0,out | active | out | did not participate in practice,True
-2026-11-18T03:20:55+00:00,2026-11-17T16:52:03Z,HOU,C,Evan Brown,5610,Sleeper team+name fallback,1,HEALTHY,0.0,active,True
-2026-11-18T03:20:55+00:00,2026-11-17T16:52:03Z,HOU,RG,Ed Ingram,8452,Sleeper team+name fallback,1,HEALTHY,0.0,active | full participation in practice,True
-2026-11-18T03:20:55+00:00,2026-11-17T16:52:03Z,HOU,RT,Trent Brown,2543,Sleeper team+name fallback,1,AT RISK,0.45,active | questionable | did not participate in practice,True
-2026-11-18T03:20:55+00:00,2026-11-17T16:52:03Z,IND,LT,Bernhard Raimann,8459,Sleeper team+name fallback,1,AT RISK,0.45,questionable | active,True
-2026-11-18T03:20:55+00:00,2026-11-17T16:52:03Z,IND,LG,Jalen Farmer,13497,Sleeper team+name fallback,1,HEALTHY,0.0,active,True
-2026-11-18T03:20:55+00:00,2026-11-17T16:52:03Z,IND,C,Tanor Bortolini,11735,Sleeper team+name fallback,1,HEALTHY,0.0,active | full participation in practice,True
-2026-11-18T03:20:55+00:00,2026-11-17T16:52:03Z,IND,RG,Dalton Tucker,12184,Sleeper team+name fallback,1,HEALTHY,0.0,active,True
-2026-11-18T03:20:55+00:00,2026-11-17T16:52:03Z,IND,RT,Jalen Travis,12642,Sleeper team+name fallback,1,UNAVAILABLE,1.0,out | active | out | did not participate in practice,True
-2026-11-18T03:20:55+00:00,2026-11-17T16:52:03Z,JAX,LT,Walker Little,7657,Sleeper team+name fallback,1,HEALTHY,0.0,active,True
-2026-11-18T03:20:55+00:00,2026-11-17T16:52:03Z,JAX,LG,Emmanuel Pregnon,13475,Sleeper team+name fallback,1,LIMITED,0.25,active | limited participation in practice,True
-2026-11-18T03:20:55+00:00,2026-11-17T16:52:03Z,JAX,C,Robert Hainsey,7689,Sleeper team+name fallback,1,AT RISK,0.45,questionable | active | questionable | limited participation in practice,True
-2026-11-18T03:20:55+00:00,2026-11-17T16:52:03Z,JAX,RG,Ezra Cleveland,6922,Sleeper team+name fallback,1,HEALTHY,0.0,active | full participation in practice,True
-2026-11-18T03:20:55+00:00,2026-11-17T16:52:03Z,JAX,RT,Cole Van Lanen,7785,Sleeper team+name fallback,1,HEALTHY,0.0,active | full participation in practice,True
-2026-11-18T03:20:55+00:00,2026-11-17T16:52:03Z,KC,LT,Kahlil Benson,13918,Sleeper team+name fallback,1,HEALTHY,0.0,active | full participation in practice,True
-2026-11-18T03:20:55+00:00,2026-11-17T16:52:03Z,KC,LG,Kingsley Suamataia,11681,Sleeper team+name fallback,1,HEALTHY,0.0,active,True
-2026-11-18T03:20:55+00:00,2026-11-17T16:52:03Z,KC,C,Creed Humphrey,7644,Sleeper team+name fallback,1,HEALTHY,0.0,active | full participation in practice,True
-2026-11-18T03:20:55+00:00,2026-11-17T16:52:03Z,KC,RG,Trey Smith,7777,Sleeper team+name fallback,1,AT RISK,0.45,questionable | active | full participation in practice,True
-2026-11-18T03:20:55+00:00,2026-11-17T16:52:03Z,KC,RT,Jaylon Moore,7834,Sleeper team+name fallback,1,UNAVAILABLE,1.0,out | active | out | did not participate in practice,True
-2026-11-18T03:20:55+00:00,2026-11-17T16:52:03Z,LAC,LT,Joe Alt,11673,Sleeper team+name fallback,1,UNAVAILABLE,1.0,active | out | did not participate in practice,True
-2026-11-18T03:20:55+00:00,2026-11-17T16:52:03Z,LAC,LG,Logan Taylor,13535,Sleeper team+name fallback,1,HEALTHY,0.0,active,True
-2026-11-18T03:20:55+00:00,2026-11-17T16:52:03Z,LAC,C,Jake Slaughter,13451,Sleeper team+name fallback,1,HEALTHY,0.0,active,True
-2026-11-18T03:20:55+00:00,2026-11-17T16:52:03Z,LAC,RG,Cole Strange,8448,Sleeper team+name fallback,1,HEALTHY,0.0,active | full participation in practice,True
-2026-11-18T03:20:55+00:00,2026-11-17T16:52:03Z,LAC,RT,Travis Burke,13495,Sleeper team+name fallback,1,HEALTHY,0.0,active,True
-2026-11-18T03:20:55+00:00,2026-11-17T16:52:03Z,LAR,LT,Alaric Jackson,7872,Sleeper team+name fallback,1,AT RISK,0.45,active | did not participate in practice,True
-2026-11-18T03:20:55+00:00,2026-11-17T16:52:03Z,LAR,LG,Steve Avila,10912,Sleeper team+name fallback,1,UNAVAILABLE,1.0,out | active | out | did not participate in practice,True
-2026-11-18T03:20:55+00:00,2026-11-17T16:52:03Z,LAR,C,Coleman Shelton,5454,Sleeper team+name fallback,1,AT RISK,0.45,questionable | active | questionable | limited participation in practice,True
-2026-11-18T03:20:55+00:00,2026-11-17T16:52:03Z,LAR,RG,Kevin Dotson,7116,Sleeper team+name fallback,1,HEALTHY,0.0,active,True
-2026-11-18T03:20:55+00:00,2026-11-17T16:52:03Z,LAR,RT,Warren McClendon Jr.,10965,Sleeper team+name fallback,1,HEALTHY,0.0,active,True
-2026-11-18T03:20:55+00:00,2026-11-17T16:52:03Z,LV,LT,Kolton Miller,4986,Sleeper team+name fallback,1,HEALTHY,0.0,active | full participation in practice,True
-2026-11-18T03:20:55+00:00,2026-11-17T16:52:03Z,LV,LG,Spencer Burford,8465,Sleeper team+name fallback,1,HEALTHY,0.0,active | full participation in practice,True
-2026-11-18T03:20:55+00:00,2026-11-17T16:52:03Z,LV,C,Tyler Linderbaum,8450,Sleeper team+name fallback,1,HEALTHY,0.0,active,True
-2026-11-18T03:20:55+00:00,2026-11-17T16:52:03Z,LV,RG,Trey Zuhn III,13467,Sleeper team+name fallback,1,HEALTHY,0.0,active | full participation in practice,True
-2026-11-18T03:20:55+00:00,2026-11-17T16:52:03Z,LV,RT,DJ Glaze,11708,Sleeper team+name fallback,1,HEALTHY,0.0,active | full participation in practice,True
-2026-11-18T03:20:55+00:00,2026-11-17T16:52:03Z,MIA,LT,Patrick Paul,11680,Sleeper team+name fallback,1,HEALTHY,0.0,active,True
-2026-11-18T03:20:55+00:00,2026-11-17T16:52:03Z,MIA,LG,Kadyn Proctor,13448,Sleeper team+name fallback,1,HEALTHY,0.0,active | full participation in practice,True
-2026-11-18T03:20:55+00:00,2026-11-17T16:52:03Z,MIA,C,Aaron Brewer,7440,Sleeper team+name fallback,1,UNAVAILABLE,1.0,out | active | out | did not participate in practice,True
-2026-11-18T03:20:55+00:00,2026-11-17T16:52:03Z,MIA,RG,Jonah Savaiinaea,12598,Sleeper team+name fallback,1,HEALTHY,0.0,active | full participation in practice,True
-2026-11-18T03:20:55+00:00,2026-11-17T16:52:03Z,MIA,RT,Austin Jackson,6821,Sleeper team+name fallback,1,HEALTHY,0.0,active | full participation in practice,True
-2026-11-18T03:20:55+00:00,2026-11-17T16:52:03Z,MIN,LT,Christian Darrisaw,7631,Sleeper team+name fallback,1,AT RISK,0.45,active | did not participate in practice,True
-2026-11-18T03:20:55+00:00,2026-11-17T16:52:03Z,MIN,LG,Joe Huber,12774,Sleeper team+name fallback,1,HEALTHY,0.0,active | full participation in practice,True
-2026-11-18T03:20:55+00:00,2026-11-17T16:52:03Z,MIN,C,Blake Brandel,7129,Sleeper team+name fallback,1,HEALTHY,0.0,active,True
-2026-11-18T03:20:55+00:00,2026-11-17T16:52:03Z,MIN,RG,Will Fries,7758,Sleeper team+name fallback,1,HEALTHY,0.0,active,True
-2026-11-18T03:20:55+00:00,2026-11-17T16:52:03Z,MIN,RT,Brian O'Neill,5047,Sleeper team+name fallback,1,HEALTHY,0.0,active | full participation in practice,True
-2026-11-18T03:20:55+00:00,2026-11-17T16:52:03Z,NE,LT,Will Campbell,12570,Sleeper team+name fallback,1,HEALTHY,0.0,active | full participation in practice,True
-2026-11-18T03:20:55+00:00,2026-11-17T16:52:03Z,NE,LG,Greg Van Roten,4771,Sleeper team+name fallback,1,AT RISK,0.45,active | questionable | full participation in practice,True
-2026-11-18T03:20:55+00:00,2026-11-17T16:52:03Z,NE,C,Jared Wilson,12592,Sleeper team+name fallback,1,HEALTHY,0.0,active,True
-2026-11-18T03:20:55+00:00,2026-11-17T16:52:03Z,NE,RG,Matt Pryor,5363,Sleeper team+name fallback,1,HEALTHY,0.0,active,True
-2026-11-18T03:20:55+00:00,2026-11-17T16:52:03Z,NE,RT,Morgan Moses,2098,Sleeper team+name fallback,1,AT RISK,0.45,questionable | active | full participation in practice,True
-2026-11-18T03:20:55+00:00,2026-11-17T16:52:03Z,NO,LT,Kelvin Banks Jr.,12569,Sleeper team+name fallback,1,HEALTHY,0.0,active | full participation in practice,True
-2026-11-18T03:20:55+00:00,2026-11-17T16:52:03Z,NO,LG,David Edwards,5904,Sleeper team+name fallback,1,HEALTHY,0.0,active | full participation in practice,True
-2026-11-18T03:20:55+00:00,2026-11-17T16:52:03Z,NO,C,Erik McCoy,5875,Sleeper team+name fallback,1,UNAVAILABLE,1.0,out | active | out | did not participate in practice,True
-2026-11-18T03:20:55+00:00,2026-11-17T16:52:03Z,NO,RG,Cesar Ruiz,6816,Sleeper team+name fallback,1,HEALTHY,0.0,active | full participation in practice,True
-2026-11-18T03:20:55+00:00,2026-11-17T16:52:03Z,NO,RT,Taliese Fuaga,11670,Sleeper team+name fallback,1,UNAVAILABLE,1.0,out | active | out | did not participate in practice,True
-2026-11-18T03:20:55+00:00,2026-11-17T16:52:03Z,NYG,LT,Andrew Thomas,6810,Sleeper team+name fallback,1,HEALTHY,0.0,active | full participation in practice,True
-2026-11-18T03:20:55+00:00,2026-11-17T16:52:03Z,NYG,LG,Jon Runyan Jr.,6980,Sleeper team+name fallback,1,HEALTHY,0.0,active,True
-2026-11-18T03:20:55+00:00,2026-11-17T16:52:03Z,NYG,C,Bryan Hudson,12131,Sleeper team+name fallback,1,HEALTHY,0.0,active | full participation in practice,True
-2026-11-18T03:20:55+00:00,2026-11-17T16:52:03Z,NYG,RG,Francis Mauigoa,13449,Sleeper team+name fallback,1,HEALTHY,0.0,active | full participation in practice,True
-2026-11-18T03:20:55+00:00,2026-11-17T16:52:03Z,NYG,RT,Jermaine Eluemunor,4190,Sleeper team+name fallback,1,HEALTHY,0.0,active | full participation in practice,True
-2026-11-18T03:20:55+00:00,2026-11-17T16:52:03Z,NYJ,LT,Olu Fashanu,11671,Sleeper team+name fallback,1,HEALTHY,0.0,active,True
-2026-11-18T03:20:55+00:00,2026-11-17T16:52:03Z,NYJ,LG,Dylan Parham,8458,Sleeper team+name fallback,1,AT RISK,0.45,questionable | active | questionable | full participation in practice,True
-2026-11-18T03:20:55+00:00,2026-11-17T16:52:03Z,NYJ,C,Josh Myers,7645,Sleeper team+name fallback,1,HEALTHY,0.0,active,True
-2026-11-18T03:20:55+00:00,2026-11-17T16:52:03Z,NYJ,RG,Joe Tippmann,10907,Sleeper team+name fallback,1,HEALTHY,0.0,active,True
-2026-11-18T03:20:55+00:00,2026-11-17T16:52:03Z,NYJ,RT,Armand Membou,12572,Sleeper team+name fallback,1,HEALTHY,0.0,active,True
-2026-11-18T03:20:55+00:00,2026-11-17T16:52:03Z,PHI,LT,Jordan Mailata,5362,Sleeper team+name fallback,1,HEALTHY,0.0,active | full participation in practice,True
-2026-11-18T03:20:55+00:00,2026-11-17T16:52:03Z,PHI,LG,Landon Dickerson,7665,Sleeper team+name fallback,1,HEALTHY,0.0,active | full participation in practice,True
-2026-11-18T03:20:55+00:00,2026-11-17T16:52:03Z,PHI,C,Drew Kendall,12663,Sleeper team+name fallback,1,HEALTHY,0.0,active | full participation in practice,True
-2026-11-18T03:20:55+00:00,2026-11-17T16:52:03Z,PHI,RG,Tyler Steen,10920,Sleeper team+name fallback,1,HEALTHY,0.0,active | full participation in practice,True
-2026-11-18T03:20:55+00:00,2026-11-17T16:52:03Z,PHI,RT,Markel Bell,13465,Sleeper team+name fallback,1,HEALTHY,0.0,active | full participation in practice,True
-2026-11-18T03:20:55+00:00,2026-11-17T16:52:03Z,PIT,LT,Troy Fautanu,11664,Sleeper team+name fallback,1,AT RISK,0.45,active | questionable | full participation in practice,True
-2026-11-18T03:20:55+00:00,2026-11-17T16:52:03Z,PIT,LG,Mason McCormick,11733,Sleeper team+name fallback,1,AT RISK,0.45,questionable | active,True
-2026-11-18T03:20:55+00:00,2026-11-17T16:52:03Z,PIT,C,Zach Frazier,11690,Sleeper team+name fallback,1,HEALTHY,0.0,active,True
-2026-11-18T03:20:55+00:00,2026-11-17T16:52:03Z,PIT,RG,Brock Hoffman,8790,Sleeper team+name fallback,1,HEALTHY,0.0,active,True
-2026-11-18T03:20:55+00:00,2026-11-17T16:52:03Z,PIT,RT,Max Iheanachor,13443,Sleeper team+name fallback,1,HEALTHY,0.0,active,True
-2026-11-18T03:20:55+00:00,2026-11-17T16:52:03Z,SEA,LT,Charles Cross,8446,Sleeper team+name fallback,1,UNAVAILABLE,1.0,out | active | out | did not participate in practice,True
-2026-11-18T03:20:55+00:00,2026-11-17T16:52:03Z,SEA,LG,Quenton Nelson,4970,Sleeper team+name fallback,1,UNAVAILABLE,1.0,out | active | out | did not participate in practice,True
-2026-11-18T03:20:55+00:00,2026-11-17T16:52:03Z,SEA,C,Jalen Sundell,12082,Sleeper team+name fallback,1,HEALTHY,0.0,active,True
-2026-11-18T03:20:55+00:00,2026-11-17T16:52:03Z,SEA,RG,Anthony Bradford,10959,Sleeper team+name fallback,1,HEALTHY,0.0,active | full participation in practice,True
-2026-11-18T03:20:55+00:00,2026-11-17T16:52:03Z,SEA,RT,Abraham Lucas,8457,Sleeper team+name fallback,1,AT RISK,0.45,questionable | active,True
-2026-11-18T03:20:55+00:00,2026-11-17T16:52:03Z,SF,LT,Trent Williams,734,Sleeper team+name fallback,1,AT RISK,0.45,active | questionable | did not participate in practice,True
-2026-11-18T03:20:55+00:00,2026-11-17T16:52:03Z,SF,LG,Connor Colby,12742,Sleeper team+name fallback,1,HEALTHY,0.0,active,True
-2026-11-18T03:20:55+00:00,2026-11-17T16:52:03Z,SF,C,Jake Brendel,3439,Sleeper team+name fallback,1,HEALTHY,0.0,active,True
-2026-11-18T03:20:55+00:00,2026-11-17T16:52:03Z,SF,RG,Dominick Puni,11723,Sleeper team+name fallback,1,HEALTHY,0.0,active,True
-2026-11-18T03:20:55+00:00,2026-11-17T16:52:03Z,SF,RT,Colton McKivitz,6889,Sleeper team+name fallback,1,HEALTHY,0.0,active | full participation in practice,True
-2026-11-18T03:20:55+00:00,2026-11-17T16:52:03Z,TB,LT,Tristan Wirfs,6793,Sleeper team+name fallback,1,LIMITED,0.25,active | limited participation in practice,True
-2026-11-18T03:20:55+00:00,2026-11-17T16:52:03Z,TB,LG,Ben Bredeson,6934,Sleeper team+name fallback,1,HEALTHY,0.0,active,True
-2026-11-18T03:20:55+00:00,2026-11-17T16:52:03Z,TB,C,Graham Barton,11659,Sleeper team+name fallback,1,HEALTHY,0.0,active,True
-2026-11-18T03:20:55+00:00,2026-11-17T16:52:03Z,TB,RG,Cody Mauch,10902,Sleeper team+name fallback,1,HEALTHY,0.0,active | full participation in practice,True
-2026-11-18T03:20:55+00:00,2026-11-17T16:52:03Z,TB,RT,Luke Goedeke,8454,Sleeper team+name fallback,1,AT RISK,0.45,active | questionable | limited participation in practice,True
-2026-11-18T03:20:55+00:00,2026-11-17T16:52:03Z,TEN,LT,Dan Moore Jr.,7714,Sleeper team+name fallback,1,HEALTHY,0.0,active,True
-2026-11-18T03:20:55+00:00,2026-11-17T16:52:03Z,TEN,LG,Chandler Zavala,10953,Sleeper team+name fallback,1,HEALTHY,0.0,active,True
-2026-11-18T03:20:55+00:00,2026-11-17T16:52:03Z,TEN,C,Austin Schlottmann,5439,Sleeper team+name fallback,1,HEALTHY,0.0,active,True
-2026-11-18T03:20:55+00:00,2026-11-17T16:52:03Z,TEN,RG,Atonio Mafi,10987,Sleeper team+name fallback,1,HEALTHY,0.0,active,True
-2026-11-18T03:20:55+00:00,2026-11-17T16:52:03Z,TEN,RT,JC Latham,11672,Sleeper team+name fallback,1,HEALTHY,0.0,active | full participation in practice,True
-2026-11-18T03:20:55+00:00,2026-11-17T16:52:03Z,WAS,LT,Brandon Coleman,11702,Sleeper team+name fallback,1,HEALTHY,0.0,active | full participation in practice,True
-2026-11-18T03:20:55+00:00,2026-11-17T16:52:03Z,WAS,LG,Chris Paul,8522,Sleeper team+name fallback,1,HEALTHY,0.0,active | full participation in practice,True
-2026-11-18T03:20:55+00:00,2026-11-17T16:52:03Z,WAS,C,Lucas Patrick,3888,Sleeper team+name fallback,1,UNAVAILABLE,1.0,out | active | out | did not participate in practice,True
-2026-11-18T03:20:55+00:00,2026-11-17T16:52:03Z,WAS,RG,Sam Cosmi,7652,Sleeper team+name fallback,1,HEALTHY,0.0,active | full participation in practice,True
-2026-11-18T03:20:55+00:00,2026-11-17T16:52:03Z,WAS,RT,Josh Conerly Jr.,12558,Sleeper team+name fallback,1,HEALTHY,0.0,active | full participation in practice,True
+2026-11-21T19:53:52+00:00,2026-11-21T15:17:24Z,ARI,LT,Jayden Williams,13581,Sleeper team+name fallback,1,HEALTHY,0.0,active | full participation in practice,True
+2026-11-21T19:53:52+00:00,2026-11-21T15:17:24Z,ARI,LG,Isaac Seumalo,3248,Sleeper team+name fallback,1,HEALTHY,0.0,active | full participation in practice,True
+2026-11-21T19:53:52+00:00,2026-11-21T15:17:24Z,ARI,C,Hjalte Froholdt,6084,Sleeper team+name fallback,1,HEALTHY,0.0,active | full participation in practice,True
+2026-11-21T19:53:52+00:00,2026-11-21T15:17:24Z,ARI,RG,Isaiah Adams,11718,Sleeper team+name fallback,1,AT RISK,0.45,active | questionable | limited participation in practice,True
+2026-11-21T19:53:52+00:00,2026-11-21T15:17:24Z,ARI,RT,Elijah Wilkinson,4592,Sleeper team+name fallback,1,HEALTHY,0.0,active | full participation in practice,True
+2026-11-21T19:53:52+00:00,2026-11-21T15:17:24Z,ATL,LT,Jake Matthews,2172,Sleeper team+name fallback,1,LIMITED,0.25,active | limited participation in practice,True
+2026-11-21T19:53:52+00:00,2026-11-21T15:17:24Z,ATL,LG,Matthew Bergeron,10910,Sleeper team+name fallback,1,HEALTHY,0.0,active,True
+2026-11-21T19:53:52+00:00,2026-11-21T15:17:24Z,ATL,C,Corey Levin,4282,Sleeper team+name fallback,1,HEALTHY,0.0,active,True
+2026-11-21T19:53:52+00:00,2026-11-21T15:17:24Z,ATL,RG,Chris Lindstrom,5895,Sleeper team+name fallback,1,AT RISK,0.45,active | did not participate in practice,True
+2026-11-21T19:53:52+00:00,2026-11-21T15:17:24Z,ATL,RT,Jawaan Taylor,6121,Sleeper team+name fallback,1,LIMITED,0.25,active | limited participation in practice,True
+2026-11-21T19:53:52+00:00,2026-11-21T15:17:24Z,BAL,LT,Ronnie Stanley,3162,Sleeper team+name fallback,1,AT RISK,0.45,active | did not participate in practice,True
+2026-11-21T19:53:52+00:00,2026-11-21T15:17:24Z,BAL,LG,John Simpson,6875,Sleeper team+name fallback,1,LIMITED,0.25,active | limited participation in practice,True
+2026-11-21T19:53:52+00:00,2026-11-21T15:17:24Z,BAL,C,Cam Jurgens,8453,Sleeper team+name fallback,1,HEALTHY,0.0,active | full participation in practice,True
+2026-11-21T19:53:52+00:00,2026-11-21T15:17:24Z,BAL,RG,Olaivavega Ioane,,,1,UNMAPPED,0.0,listed starter; Sleeper metadata not mapped,True
+2026-11-21T19:53:52+00:00,2026-11-21T15:17:24Z,BAL,RT,Roger Rosengarten,11696,Sleeper team+name fallback,1,HEALTHY,0.0,active | full participation in practice,True
+2026-11-21T19:53:52+00:00,2026-11-21T15:17:24Z,BUF,LT,Dion Dawkins,4102,Sleeper team+name fallback,1,HEALTHY,0.0,active | full participation in practice,True
+2026-11-21T19:53:52+00:00,2026-11-21T15:17:24Z,BUF,LG,Alec Anderson,8774,Sleeper team+name fallback,1,HEALTHY,0.0,active | full participation in practice,True
+2026-11-21T19:53:52+00:00,2026-11-21T15:17:24Z,BUF,C,Connor McGovern,5913,Sleeper team+name fallback,1,HEALTHY,0.0,active | full participation in practice,True
+2026-11-21T19:53:52+00:00,2026-11-21T15:17:24Z,BUF,RG,O'Cyrus Torrence,10895,Sleeper team+name fallback,1,HEALTHY,0.0,active | full participation in practice,True
+2026-11-21T19:53:52+00:00,2026-11-21T15:17:24Z,BUF,RT,Spencer Brown,7691,Sleeper team+name fallback,1,DOUBTFUL,0.75,active | doubtful | did not participate in practice,True
+2026-11-21T19:53:52+00:00,2026-11-21T15:17:24Z,CAR,LT,Rasheed Walker,8511,Sleeper team+name fallback,1,HEALTHY,0.0,active,True
+2026-11-21T19:53:52+00:00,2026-11-21T15:17:24Z,CAR,LG,Damien Lewis,7003,Sleeper team+name fallback,1,HEALTHY,0.0,active | full participation in practice,True
+2026-11-21T19:53:52+00:00,2026-11-21T15:17:24Z,CAR,C,Luke Fortner,8462,Sleeper team+name fallback,1,HEALTHY,0.0,active,True
+2026-11-21T19:53:52+00:00,2026-11-21T15:17:24Z,CAR,RG,Robert Hunt,7041,Sleeper team+name fallback,1,HEALTHY,0.0,active,True
+2026-11-21T19:53:52+00:00,2026-11-21T15:17:24Z,CAR,RT,Monroe Freeling,13444,Sleeper team+name fallback,1,AT RISK,0.45,active | questionable | full participation in practice,True
+2026-11-21T19:53:52+00:00,2026-11-21T15:17:24Z,CHI,LT,Theo Benedet,12208,Sleeper team+name fallback,1,HEALTHY,0.0,active | full participation in practice,True
+2026-11-21T19:53:52+00:00,2026-11-21T15:17:24Z,CHI,LG,Joe Thuney,3247,Sleeper team+name fallback,1,HEALTHY,0.0,active | full participation in practice,True
+2026-11-21T19:53:52+00:00,2026-11-21T15:17:24Z,CHI,C,Garrett Bradbury,5855,Sleeper team+name fallback,1,HEALTHY,0.0,active,True
+2026-11-21T19:53:52+00:00,2026-11-21T15:17:24Z,CHI,RG,Jonah Jackson,6952,Sleeper team+name fallback,1,HEALTHY,0.0,active | full participation in practice,True
+2026-11-21T19:53:52+00:00,2026-11-21T15:17:24Z,CHI,RT,Darnell Wright,10887,Sleeper team+name fallback,1,HEALTHY,0.0,active | full participation in practice,True
+2026-11-21T19:53:52+00:00,2026-11-21T15:17:24Z,CIN,LT,Orlando Brown Jr.,4948,Sleeper team+name fallback,1,HEALTHY,0.0,active,True
+2026-11-21T19:53:52+00:00,2026-11-21T15:17:24Z,CIN,LG,Dylan Fairchild,12627,Sleeper team+name fallback,1,AT RISK,0.45,questionable | active | limited participation in practice,True
+2026-11-21T19:53:52+00:00,2026-11-21T15:17:24Z,CIN,C,Ted Karras,3376,Sleeper team+name fallback,1,HEALTHY,0.0,active,True
+2026-11-21T19:53:52+00:00,2026-11-21T15:17:24Z,CIN,RG,Dalton Risner,5867,Sleeper team+name fallback,1,UNAVAILABLE,1.0,out | active | did not participate in practice,True
+2026-11-21T19:53:52+00:00,2026-11-21T15:17:24Z,CIN,RT,Amarius Mims,11666,Sleeper team+name fallback,1,HEALTHY,0.0,active,True
+2026-11-21T19:53:52+00:00,2026-11-21T15:17:24Z,CLE,LT,Spencer Fano,13450,Sleeper team+name fallback,1,HEALTHY,0.0,active,True
+2026-11-21T19:53:52+00:00,2026-11-21T15:17:24Z,CLE,LG,Zion Johnson,8445,Sleeper team+name fallback,1,HEALTHY,0.0,active | full participation in practice,True
+2026-11-21T19:53:52+00:00,2026-11-21T15:17:24Z,CLE,C,Elgton Jenkins,5877,Sleeper team+name fallback,1,HEALTHY,0.0,active | full participation in practice,True
+2026-11-21T19:53:52+00:00,2026-11-21T15:17:24Z,CLE,RG,Austin Barber,13473,Sleeper team+name fallback,1,HEALTHY,0.0,active | full participation in practice,True
+2026-11-21T19:53:52+00:00,2026-11-21T15:17:24Z,CLE,RT,Tytus Howard,5901,Sleeper team+name fallback,1,HEALTHY,0.0,active | full participation in practice,True
+2026-11-21T19:53:52+00:00,2026-11-21T15:17:24Z,DAL,LT,Tyler Guyton,11657,Sleeper team+name fallback,1,HEALTHY,0.0,active | full participation in practice,True
+2026-11-21T19:53:52+00:00,2026-11-21T15:17:24Z,DAL,LG,Tyler Smith,8449,Sleeper team+name fallback,1,HEALTHY,0.0,active | full participation in practice,True
+2026-11-21T19:53:52+00:00,2026-11-21T15:17:24Z,DAL,C,Cooper Beebe,11719,Sleeper team+name fallback,1,HEALTHY,0.0,active,True
+2026-11-21T19:53:52+00:00,2026-11-21T15:17:24Z,DAL,RG,Tyler Booker,12599,Sleeper team+name fallback,1,UNAVAILABLE,1.0,out | active | out | did not participate in practice,True
+2026-11-21T19:53:52+00:00,2026-11-21T15:17:24Z,DAL,RT,Terence Steele,6899,Sleeper team+name fallback,1,HEALTHY,0.0,active,True
+2026-11-21T19:53:52+00:00,2026-11-21T15:17:24Z,DEN,LT,Garett Bolles,4053,Sleeper team+name fallback,1,AT RISK,0.45,active | questionable | limited participation in practice,True
+2026-11-21T19:53:52+00:00,2026-11-21T15:17:24Z,DEN,LG,Ben Powers,5910,Sleeper team+name fallback,1,HEALTHY,0.0,active | full participation in practice,True
+2026-11-21T19:53:52+00:00,2026-11-21T15:17:24Z,DEN,C,Luke Wattenberg,8474,Sleeper team+name fallback,1,HEALTHY,0.0,active,True
+2026-11-21T19:53:52+00:00,2026-11-21T15:17:24Z,DEN,RG,Quinn Meinerz,7699,Sleeper team+name fallback,1,HEALTHY,0.0,active,True
+2026-11-21T19:53:52+00:00,2026-11-21T15:17:24Z,DEN,RT,Mike McGlinchey,4966,Sleeper team+name fallback,1,HEALTHY,0.0,active,True
+2026-11-21T19:53:52+00:00,2026-11-21T15:17:24Z,DET,LT,Penei Sewell,7643,Sleeper team+name fallback,1,HEALTHY,0.0,active | full participation in practice,True
+2026-11-21T19:53:52+00:00,2026-11-21T15:17:24Z,DET,LG,Christian Mahogany,11788,Sleeper team+name fallback,1,HEALTHY,0.0,active | full participation in practice,True
+2026-11-21T19:53:52+00:00,2026-11-21T15:17:24Z,DET,C,Cade Mays,8502,Sleeper team+name fallback,1,UNAVAILABLE,1.0,out | active | out | did not participate in practice,True
+2026-11-21T19:53:52+00:00,2026-11-21T15:17:24Z,DET,RG,Tate Ratledge,12613,Sleeper team+name fallback,1,HEALTHY,0.0,active | full participation in practice,True
+2026-11-21T19:53:52+00:00,2026-11-21T15:17:24Z,DET,RT,Blake Miller,13446,Sleeper team+name fallback,1,HEALTHY,0.0,active,True
+2026-11-21T19:53:52+00:00,2026-11-21T15:17:24Z,GB,LT,Jordan Morgan,11660,Sleeper team+name fallback,1,HEALTHY,0.0,active | full participation in practice,True
+2026-11-21T19:53:52+00:00,2026-11-21T15:17:24Z,GB,LG,Laken Tomlinson,2333,Sleeper team+name fallback,1,HEALTHY,0.0,active,True
+2026-11-21T19:53:52+00:00,2026-11-21T15:17:24Z,GB,C,Sean Rhyan,8460,Sleeper team+name fallback,1,UNAVAILABLE,1.0,out | active | out | did not participate in practice,True
+2026-11-21T19:53:52+00:00,2026-11-21T15:17:24Z,GB,RG,Kevin Zeitler,1074,Sleeper team+name fallback,1,UNAVAILABLE,1.0,out | active | questionable | did not participate in practice,True
+2026-11-21T19:53:52+00:00,2026-11-21T15:17:24Z,GB,RT,Anthony Belton,12577,Sleeper team+name fallback,1,LIMITED,0.25,active | limited participation in practice,True
+2026-11-21T19:53:52+00:00,2026-11-21T15:17:24Z,HOU,LT,Aireontae Ersery,12600,Sleeper team+name fallback,1,AT RISK,0.45,active | questionable | did not participate in practice,True
+2026-11-21T19:53:52+00:00,2026-11-21T15:17:24Z,HOU,LG,Keylan Rutledge,13442,Sleeper team+name fallback,1,AT RISK,0.45,questionable | active | full participation in practice,True
+2026-11-21T19:53:52+00:00,2026-11-21T15:17:24Z,HOU,C,Evan Brown,5610,Sleeper team+name fallback,1,HEALTHY,0.0,active,True
+2026-11-21T19:53:52+00:00,2026-11-21T15:17:24Z,HOU,RG,Ed Ingram,8452,Sleeper team+name fallback,1,HEALTHY,0.0,active | full participation in practice,True
+2026-11-21T19:53:52+00:00,2026-11-21T15:17:24Z,HOU,RT,Trent Brown,2543,Sleeper team+name fallback,1,AT RISK,0.45,questionable | active | questionable | did not participate in practice,True
+2026-11-21T19:53:52+00:00,2026-11-21T15:17:24Z,IND,LT,Bernhard Raimann,8459,Sleeper team+name fallback,1,UNAVAILABLE,1.0,out | active | out | did not participate in practice,True
+2026-11-21T19:53:52+00:00,2026-11-21T15:17:24Z,IND,LG,Jalen Farmer,13497,Sleeper team+name fallback,1,HEALTHY,0.0,active,True
+2026-11-21T19:53:52+00:00,2026-11-21T15:17:24Z,IND,C,Tanor Bortolini,11735,Sleeper team+name fallback,1,HEALTHY,0.0,active | full participation in practice,True
+2026-11-21T19:53:52+00:00,2026-11-21T15:17:24Z,IND,RG,Matt Goncalves,11709,Sleeper team+name fallback,1,HEALTHY,0.0,active | full participation in practice,True
+2026-11-21T19:53:52+00:00,2026-11-21T15:17:24Z,IND,RT,Jalen Travis,12642,Sleeper team+name fallback,1,UNAVAILABLE,1.0,out | active | out | did not participate in practice,True
+2026-11-21T19:53:52+00:00,2026-11-21T15:17:24Z,JAX,LT,Walker Little,7657,Sleeper team+name fallback,1,HEALTHY,0.0,active,True
+2026-11-21T19:53:52+00:00,2026-11-21T15:17:24Z,JAX,LG,Emmanuel Pregnon,13475,Sleeper team+name fallback,1,LIMITED,0.25,active | limited participation in practice,True
+2026-11-21T19:53:52+00:00,2026-11-21T15:17:24Z,JAX,C,Jonah Monheim,12744,Sleeper team+name fallback,1,LIMITED,0.25,active | limited participation in practice,True
+2026-11-21T19:53:52+00:00,2026-11-21T15:17:24Z,JAX,RG,Ezra Cleveland,6922,Sleeper team+name fallback,1,HEALTHY,0.0,active | full participation in practice,True
+2026-11-21T19:53:52+00:00,2026-11-21T15:17:24Z,JAX,RT,Cole Van Lanen,7785,Sleeper team+name fallback,1,LIMITED,0.25,active | limited participation in practice,True
+2026-11-21T19:53:52+00:00,2026-11-21T15:17:24Z,KC,LT,Kahlil Benson,13918,Sleeper team+name fallback,1,HEALTHY,0.0,active | full participation in practice,True
+2026-11-21T19:53:52+00:00,2026-11-21T15:17:24Z,KC,LG,Kingsley Suamataia,11681,Sleeper team+name fallback,1,HEALTHY,0.0,active,True
+2026-11-21T19:53:52+00:00,2026-11-21T15:17:24Z,KC,C,Creed Humphrey,7644,Sleeper team+name fallback,1,HEALTHY,0.0,active | full participation in practice,True
+2026-11-21T19:53:52+00:00,2026-11-21T15:17:24Z,KC,RG,Mike Caliendo,8709,Sleeper team+name fallback,1,HEALTHY,0.0,active,True
+2026-11-21T19:53:52+00:00,2026-11-21T15:17:24Z,KC,RT,Joshua Ezeudu,8455,Sleeper team+name fallback,1,HEALTHY,0.0,active,True
+2026-11-21T19:53:52+00:00,2026-11-21T15:17:24Z,LAC,LT,Joe Alt,11673,Sleeper team+name fallback,1,UNAVAILABLE,1.0,active | out | did not participate in practice,True
+2026-11-21T19:53:52+00:00,2026-11-21T15:17:24Z,LAC,LG,Logan Taylor,13535,Sleeper team+name fallback,1,HEALTHY,0.0,active,True
+2026-11-21T19:53:52+00:00,2026-11-21T15:17:24Z,LAC,C,Jake Slaughter,13451,Sleeper team+name fallback,1,HEALTHY,0.0,active,True
+2026-11-21T19:53:52+00:00,2026-11-21T15:17:24Z,LAC,RG,Cole Strange,8448,Sleeper team+name fallback,1,HEALTHY,0.0,active | full participation in practice,True
+2026-11-21T19:53:52+00:00,2026-11-21T15:17:24Z,LAC,RT,Travis Burke,13495,Sleeper team+name fallback,1,HEALTHY,0.0,active,True
+2026-11-21T19:53:52+00:00,2026-11-21T15:17:24Z,LAR,LT,Alaric Jackson,7872,Sleeper team+name fallback,1,AT RISK,0.45,active | did not participate in practice,True
+2026-11-21T19:53:52+00:00,2026-11-21T15:17:24Z,LAR,LG,Bill Murray,7369,Sleeper team+name fallback,1,HEALTHY,0.0,active,True
+2026-11-21T19:53:52+00:00,2026-11-21T15:17:24Z,LAR,C,Beaux Limmer,11782,Sleeper team+name fallback,1,HEALTHY,0.0,active,True
+2026-11-21T19:53:52+00:00,2026-11-21T15:17:24Z,LAR,RG,Kevin Dotson,7116,Sleeper team+name fallback,1,HEALTHY,0.0,active,True
+2026-11-21T19:53:52+00:00,2026-11-21T15:17:24Z,LAR,RT,Warren McClendon Jr.,10965,Sleeper team+name fallback,1,HEALTHY,0.0,active,True
+2026-11-21T19:53:52+00:00,2026-11-21T15:17:24Z,LV,LT,Kolton Miller,4986,Sleeper team+name fallback,1,HEALTHY,0.0,active | full participation in practice,True
+2026-11-21T19:53:52+00:00,2026-11-21T15:17:24Z,LV,LG,Spencer Burford,8465,Sleeper team+name fallback,1,HEALTHY,0.0,active | full participation in practice,True
+2026-11-21T19:53:52+00:00,2026-11-21T15:17:24Z,LV,C,Tyler Linderbaum,8450,Sleeper team+name fallback,1,HEALTHY,0.0,active,True
+2026-11-21T19:53:52+00:00,2026-11-21T15:17:24Z,LV,RG,Trey Zuhn III,13467,Sleeper team+name fallback,1,HEALTHY,0.0,active | full participation in practice,True
+2026-11-21T19:53:52+00:00,2026-11-21T15:17:24Z,LV,RT,DJ Glaze,11708,Sleeper team+name fallback,1,HEALTHY,0.0,active | full participation in practice,True
+2026-11-21T19:53:52+00:00,2026-11-21T15:17:24Z,MIA,LT,Patrick Paul,11680,Sleeper team+name fallback,1,HEALTHY,0.0,active,True
+2026-11-21T19:53:52+00:00,2026-11-21T15:17:24Z,MIA,LG,Kadyn Proctor,13448,Sleeper team+name fallback,1,HEALTHY,0.0,active | full participation in practice,True
+2026-11-21T19:53:52+00:00,2026-11-21T15:17:24Z,MIA,C,Aaron Brewer,7440,Sleeper team+name fallback,1,AT RISK,0.45,questionable | active | questionable | full participation in practice,True
+2026-11-21T19:53:52+00:00,2026-11-21T15:17:24Z,MIA,RG,Jonah Savaiinaea,12598,Sleeper team+name fallback,1,HEALTHY,0.0,active | full participation in practice,True
+2026-11-21T19:53:52+00:00,2026-11-21T15:17:24Z,MIA,RT,Austin Jackson,6821,Sleeper team+name fallback,1,HEALTHY,0.0,active | full participation in practice,True
+2026-11-21T19:53:52+00:00,2026-11-21T15:17:24Z,MIN,LT,Christian Darrisaw,7631,Sleeper team+name fallback,1,AT RISK,0.45,active | did not participate in practice,True
+2026-11-21T19:53:52+00:00,2026-11-21T15:17:24Z,MIN,LG,Joe Huber,12774,Sleeper team+name fallback,1,HEALTHY,0.0,active | full participation in practice,True
+2026-11-21T19:53:52+00:00,2026-11-21T15:17:24Z,MIN,C,Blake Brandel,7129,Sleeper team+name fallback,1,HEALTHY,0.0,active,True
+2026-11-21T19:53:52+00:00,2026-11-21T15:17:24Z,MIN,RG,Will Fries,7758,Sleeper team+name fallback,1,HEALTHY,0.0,active,True
+2026-11-21T19:53:52+00:00,2026-11-21T15:17:24Z,MIN,RT,Brian O'Neill,5047,Sleeper team+name fallback,1,HEALTHY,0.0,active | full participation in practice,True
+2026-11-21T19:53:52+00:00,2026-11-21T15:17:24Z,NE,LT,Will Campbell,12570,Sleeper team+name fallback,1,HEALTHY,0.0,active | full participation in practice,True
+2026-11-21T19:53:52+00:00,2026-11-21T15:17:24Z,NE,LG,Greg Van Roten,4771,Sleeper team+name fallback,1,AT RISK,0.45,active | questionable | full participation in practice,True
+2026-11-21T19:53:52+00:00,2026-11-21T15:17:24Z,NE,C,Jared Wilson,12592,Sleeper team+name fallback,1,HEALTHY,0.0,active,True
+2026-11-21T19:53:52+00:00,2026-11-21T15:17:24Z,NE,RG,Matt Pryor,5363,Sleeper team+name fallback,1,HEALTHY,0.0,active,True
+2026-11-21T19:53:52+00:00,2026-11-21T15:17:24Z,NE,RT,Morgan Moses,2098,Sleeper team+name fallback,1,AT RISK,0.45,questionable | active | full participation in practice,True
+2026-11-21T19:53:52+00:00,2026-11-21T15:17:24Z,NO,LT,Kelvin Banks Jr.,12569,Sleeper team+name fallback,1,HEALTHY,0.0,active | full participation in practice,True
+2026-11-21T19:53:52+00:00,2026-11-21T15:17:24Z,NO,LG,David Edwards,5904,Sleeper team+name fallback,1,HEALTHY,0.0,active | full participation in practice,True
+2026-11-21T19:53:52+00:00,2026-11-21T15:17:24Z,NO,C,Cesar Ruiz,6816,Sleeper team+name fallback,1,HEALTHY,0.0,active | full participation in practice,True
+2026-11-21T19:53:52+00:00,2026-11-21T15:17:24Z,NO,RG,Jeremiah Wright,13483,Sleeper team+name fallback,1,HEALTHY,0.0,active | full participation in practice,True
+2026-11-21T19:53:52+00:00,2026-11-21T15:17:24Z,NO,RT,Mason Murphy,13944,Sleeper team+name fallback,1,HEALTHY,0.0,active,True
+2026-11-21T19:53:52+00:00,2026-11-21T15:17:24Z,NYG,LT,Andrew Thomas,6810,Sleeper team+name fallback,1,HEALTHY,0.0,active | full participation in practice,True
+2026-11-21T19:53:52+00:00,2026-11-21T15:17:24Z,NYG,LG,Jon Runyan Jr.,6980,Sleeper team+name fallback,1,HEALTHY,0.0,active,True
+2026-11-21T19:53:52+00:00,2026-11-21T15:17:24Z,NYG,C,Bryan Hudson,12131,Sleeper team+name fallback,1,HEALTHY,0.0,active | full participation in practice,True
+2026-11-21T19:53:52+00:00,2026-11-21T15:17:24Z,NYG,RG,Francis Mauigoa,13449,Sleeper team+name fallback,1,HEALTHY,0.0,active | full participation in practice,True
+2026-11-21T19:53:52+00:00,2026-11-21T15:17:24Z,NYG,RT,Jermaine Eluemunor,4190,Sleeper team+name fallback,1,HEALTHY,0.0,active | full participation in practice,True
+2026-11-21T19:53:52+00:00,2026-11-21T15:17:24Z,NYJ,LT,Olu Fashanu,11671,Sleeper team+name fallback,1,HEALTHY,0.0,active,True
+2026-11-21T19:53:52+00:00,2026-11-21T15:17:24Z,NYJ,LG,Dylan Parham,8458,Sleeper team+name fallback,1,AT RISK,0.45,questionable | active | questionable | full participation in practice,True
+2026-11-21T19:53:52+00:00,2026-11-21T15:17:24Z,NYJ,C,Josh Myers,7645,Sleeper team+name fallback,1,HEALTHY,0.0,active,True
+2026-11-21T19:53:52+00:00,2026-11-21T15:17:24Z,NYJ,RG,Joe Tippmann,10907,Sleeper team+name fallback,1,HEALTHY,0.0,active,True
+2026-11-21T19:53:52+00:00,2026-11-21T15:17:24Z,NYJ,RT,Armand Membou,12572,Sleeper team+name fallback,1,HEALTHY,0.0,active,True
+2026-11-21T19:53:52+00:00,2026-11-21T15:17:24Z,PHI,LT,Jordan Mailata,5362,Sleeper team+name fallback,1,HEALTHY,0.0,active | full participation in practice,True
+2026-11-21T19:53:52+00:00,2026-11-21T15:17:24Z,PHI,LG,Landon Dickerson,7665,Sleeper team+name fallback,1,HEALTHY,0.0,active | full participation in practice,True
+2026-11-21T19:53:52+00:00,2026-11-21T15:17:24Z,PHI,C,Drew Kendall,12663,Sleeper team+name fallback,1,HEALTHY,0.0,active | full participation in practice,True
+2026-11-21T19:53:52+00:00,2026-11-21T15:17:24Z,PHI,RG,Tyler Steen,10920,Sleeper team+name fallback,1,HEALTHY,0.0,active | full participation in practice,True
+2026-11-21T19:53:52+00:00,2026-11-21T15:17:24Z,PHI,RT,Markel Bell,13465,Sleeper team+name fallback,1,HEALTHY,0.0,active | full participation in practice,True
+2026-11-21T19:53:52+00:00,2026-11-21T15:17:24Z,PIT,LT,Troy Fautanu,11664,Sleeper team+name fallback,1,AT RISK,0.45,active | questionable | full participation in practice,True
+2026-11-21T19:53:52+00:00,2026-11-21T15:17:24Z,PIT,LG,Brock Hoffman,8790,Sleeper team+name fallback,1,HEALTHY,0.0,active,True
+2026-11-21T19:53:52+00:00,2026-11-21T15:17:24Z,PIT,C,Zach Frazier,11690,Sleeper team+name fallback,1,HEALTHY,0.0,active,True
+2026-11-21T19:53:52+00:00,2026-11-21T15:17:24Z,PIT,RG,Spencer Anderson,11028,Sleeper team+name fallback,1,HEALTHY,0.0,active,True
+2026-11-21T19:53:52+00:00,2026-11-21T15:17:24Z,PIT,RT,Max Iheanachor,13443,Sleeper team+name fallback,1,HEALTHY,0.0,active,True
+2026-11-21T19:53:52+00:00,2026-11-21T15:17:24Z,SEA,LT,Charles Cross,8446,Sleeper team+name fallback,1,UNAVAILABLE,1.0,out | active | out | did not participate in practice,True
+2026-11-21T19:53:52+00:00,2026-11-21T15:17:24Z,SEA,LG,Quenton Nelson,4970,Sleeper team+name fallback,1,UNAVAILABLE,1.0,out | active | out | did not participate in practice,True
+2026-11-21T19:53:52+00:00,2026-11-21T15:17:24Z,SEA,C,Jalen Sundell,12082,Sleeper team+name fallback,1,HEALTHY,0.0,active,True
+2026-11-21T19:53:52+00:00,2026-11-21T15:17:24Z,SEA,RG,Grey Zabel,12563,Sleeper team+name fallback,1,HEALTHY,0.0,active | full participation in practice,True
+2026-11-21T19:53:52+00:00,2026-11-21T15:17:24Z,SEA,RT,Abraham Lucas,8457,Sleeper team+name fallback,1,AT RISK,0.45,questionable | active,True
+2026-11-21T19:53:52+00:00,2026-11-21T15:17:24Z,SF,LT,Trent Williams,734,Sleeper team+name fallback,1,HEALTHY,0.0,active | full participation in practice,True
+2026-11-21T19:53:52+00:00,2026-11-21T15:17:24Z,SF,LG,Connor Colby,12742,Sleeper team+name fallback,1,HEALTHY,0.0,active,True
+2026-11-21T19:53:52+00:00,2026-11-21T15:17:24Z,SF,C,Jake Brendel,3439,Sleeper team+name fallback,1,HEALTHY,0.0,active,True
+2026-11-21T19:53:52+00:00,2026-11-21T15:17:24Z,SF,RG,Dominick Puni,11723,Sleeper team+name fallback,1,HEALTHY,0.0,active,True
+2026-11-21T19:53:52+00:00,2026-11-21T15:17:24Z,SF,RT,Colton McKivitz,6889,Sleeper team+name fallback,1,HEALTHY,0.0,active | full participation in practice,True
+2026-11-21T19:53:52+00:00,2026-11-21T15:17:24Z,TB,LT,Tristan Wirfs,6793,Sleeper team+name fallback,1,HEALTHY,0.0,active | full participation in practice,True
+2026-11-21T19:53:52+00:00,2026-11-21T15:17:24Z,TB,LG,Ben Bredeson,6934,Sleeper team+name fallback,1,HEALTHY,0.0,active,True
+2026-11-21T19:53:52+00:00,2026-11-21T15:17:24Z,TB,C,Graham Barton,11659,Sleeper team+name fallback,1,HEALTHY,0.0,active,True
+2026-11-21T19:53:52+00:00,2026-11-21T15:17:24Z,TB,RG,Cody Mauch,10902,Sleeper team+name fallback,1,HEALTHY,0.0,active | full participation in practice,True
+2026-11-21T19:53:52+00:00,2026-11-21T15:17:24Z,TB,RT,Luke Goedeke,8454,Sleeper team+name fallback,1,AT RISK,0.45,active | questionable | limited participation in practice,True
+2026-11-21T19:53:52+00:00,2026-11-21T15:17:24Z,TEN,LT,Dan Moore Jr.,7714,Sleeper team+name fallback,1,HEALTHY,0.0,active,True
+2026-11-21T19:53:52+00:00,2026-11-21T15:17:24Z,TEN,LG,Chandler Zavala,10953,Sleeper team+name fallback,1,HEALTHY,0.0,active,True
+2026-11-21T19:53:52+00:00,2026-11-21T15:17:24Z,TEN,C,Austin Schlottmann,5439,Sleeper team+name fallback,1,HEALTHY,0.0,active,True
+2026-11-21T19:53:52+00:00,2026-11-21T15:17:24Z,TEN,RG,Atonio Mafi,10987,Sleeper team+name fallback,1,HEALTHY,0.0,active,True
+2026-11-21T19:53:52+00:00,2026-11-21T15:17:24Z,TEN,RT,JC Latham,11672,Sleeper team+name fallback,1,HEALTHY,0.0,active | full participation in practice,True
+2026-11-21T19:53:52+00:00,2026-11-21T15:17:24Z,WAS,LT,Brandon Coleman,11702,Sleeper team+name fallback,1,HEALTHY,0.0,active | full participation in practice,True
+2026-11-21T19:53:52+00:00,2026-11-21T15:17:24Z,WAS,LG,Chris Paul,8522,Sleeper team+name fallback,1,HEALTHY,0.0,active | full participation in practice,True
+2026-11-21T19:53:52+00:00,2026-11-21T15:17:24Z,WAS,C,Lucas Patrick,3888,Sleeper team+name fallback,1,HEALTHY,0.0,active | full participation in practice,True
+2026-11-21T19:53:52+00:00,2026-11-21T15:17:24Z,WAS,RG,Sam Cosmi,7652,Sleeper team+name fallback,1,HEALTHY,0.0,active | full participation in practice,True
+2026-11-21T19:53:52+00:00,2026-11-21T15:17:24Z,WAS,RT,Josh Conerly Jr.,12558,Sleeper team+name fallback,1,HEALTHY,0.0,active | full participation in practice,True

@@ -11,7 +11,6 @@ Current KR/PR role + 2025 return baseline. Dual-role status uses Sleeper offensi
 
 ## Primary returners with offensive role
 - Chimere Dike (WR TEN) — KR+PR; offensive depth SWR 3; proj return yds 116.8/g; HIGH confidence
-- Myles Price (WR MIN) — KR+PR; offensive depth SWR 3; proj return yds 111.0/g; HIGH confidence
 - Devin Duvernay (WR ARI) — KR+PR; offensive depth SWR 3; proj return yds 76.5/g; HIGH confidence
 - Keaton Mitchell (RB LAC) — KR; offensive depth RB 3; proj return yds 45.5/g; HIGH confidence
 - Rashid Shaheed (WR SEA) — KR+PR; offensive depth RWR 2; proj return yds 43.6/g; HIGH confidence
@@ -21,24 +20,23 @@ Current KR/PR role + 2025 return baseline. Dual-role status uses Sleeper offensi
 - Dohnte Meyers (WR CIN) — KR+PR; offensive depth SWR 3; proj return yds 29.0/g; MEDIUM confidence
 - Deebo Samuel Sr. (WR SF) — KR; offensive depth SWR 2; proj return yds 28.2/g; HIGH confidence
 - Trevor Etienne (RB CAR) — KR+PR; offensive depth RB 2; proj return yds 24.7/g; HIGH confidence
-- Rachaad White (RB WAS) — KR; offensive depth RB 1; proj return yds 22.0/g; MEDIUM confidence
-- Emmett Johnson (RB KC) — KR+PR; offensive depth RB 2; proj return yds 22.0/g; MEDIUM confidence; yours: 10-Team Dynasty — Dynasty V2 | 10-Team Redraft — Big Tiger Takeover
+- Emmett Johnson (RB KC) — KR+PR; offensive depth RB 1; proj return yds 22.0/g; MEDIUM confidence; yours: 10-Team Dynasty — Dynasty V2 | 10-Team Redraft — Big Tiger Takeover
 - Seth McGowan (RB IND) — KR; offensive depth RB 2; proj return yds 22.0/g; MEDIUM confidence
 - Jaylen Wright (RB MIA) — KR; offensive depth RB 2; proj return yds 22.0/g; MEDIUM confidence
 - Parker Washington (WR JAX) — PR; offensive depth SWR 1; proj return yds 21.3/g; HIGH confidence; yours: 12-Team Dynasty — One League to Rule Them All
 - Kalif Raymond (WR CHI) — KR+PR; offensive depth SWR 3; proj return yds 17.7/g; HIGH confidence
 - Olamide Zaccheaus (WR ATL) — KR+PR; offensive depth SWR 3; proj return yds 9.8/g; MEDIUM confidence
 - KC Concepcion (WR CLE) — PR; offensive depth SWR 2; proj return yds 7.0/g; MEDIUM confidence
-- Antonio Williams (WR WAS) — PR; offensive depth LWR 2; proj return yds 7.0/g; MEDIUM confidence
-- Tez Johnson (WR TB) — KR+PR; offensive depth SWR 3; proj return yds 7.0/g; MEDIUM confidence
+- Tez Johnson (WR TB) — KR+PR; offensive depth SWR 2; proj return yds 7.0/g; MEDIUM confidence
 - Khalil Herbert (RB ATL) — KR; offensive depth RB 2; proj return yds 4.4/g; HIGH confidence
-- Josh Downs (WR KC) — PR; offensive depth LWR 2; proj return yds 4.2/g; HIGH confidence; yours: 12-Team Dynasty — One League to Rule Them All
+- Josh Downs (WR KC) — PR; offensive depth LWR 2; proj return yds 4.2/g; HIGH confidence; yours: 10-Team Redraft — Big Tiger Takeover | 12-Team Dynasty — One League to Rule Them All
 
 ## Chopped / return-yard league value
 ### 18-Team Chopped — Surviving the Chamber
 - KaVontae Turpin — +12.46 return pts/g (KR+PR, HIGH) — FA
 - Chimere Dike — +11.68 return pts/g (KR+PR + OFF, HIGH) — OWNED
-- Myles Price — +11.1 return pts/g (KR+PR + OFF, HIGH) — FA
+- Myles Price — +11.1 return pts/g (KR+PR, HIGH) — FA
+- Luke McCaffrey — +8.54 return pts/g (KR+PR, HIGH) — FA
 - Greg Dortch — +8.3 return pts/g (KR+PR, HIGH) — FA
 - DeAndre Carter — +8.25 return pts/g (KR+PR, HIGH) — FA
 - Devin Duvernay — +7.65 return pts/g (KR+PR + OFF, HIGH) — FA
@@ -55,4 +53,3 @@ Current KR/PR role + 2025 return baseline. Dual-role status uses Sleeper offensi
 - Britain Covey — +4.15 return pts/g (KR+PR, HIGH) — FA
 - Malik Washington — +3.52 return pts/g (KR+PR + OFF, HIGH) — FA
 - Sean Tucker — +3.51 return pts/g (KR + OFF, HIGH) — FA
-- Xavier Smith — +3.45 return pts/g (KR+PR, HIGH) — FA

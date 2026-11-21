@@ -8,7 +8,7 @@ Game times are interpreted from the nflverse schedule as Eastern Time, converted
 - NO @ CHI — LOW — no material weather signal — pass +0.00, kick +0.00
 - TEN @ DAL — LOW — no material weather signal — pass +0.00, kick +0.00
 - TB @ DET — INDOOR — indoor — pass +0.00, kick +0.00
-- ARI @ KC — MODERATE — wind 15 mph — pass -0.45, kick -0.55
+- ARI @ KC — LOW — no material weather signal — pass +0.00, kick +0.00
 - JAX @ NYG — LOW — no material weather signal — pass +0.00, kick +0.00
 - NYJ @ LAC — INDOOR — indoor — pass +0.00, kick +0.00
 - LV @ DEN — LOW — no material weather signal — pass +0.00, kick +0.00
