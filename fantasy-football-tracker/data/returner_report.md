@@ -11,19 +11,15 @@ Current KR/PR role + 2025 return baseline. Dual-role status uses Sleeper offensi
 
 ## Primary returners with offensive role
 - Chimere Dike (WR TEN) — KR+PR; offensive depth SWR 3; proj return yds 116.8/g; HIGH confidence
-- Devin Duvernay (WR ARI) — KR+PR; offensive depth SWR 3; proj return yds 76.5/g; HIGH confidence
 - Keaton Mitchell (RB LAC) — KR; offensive depth RB 3; proj return yds 45.5/g; HIGH confidence
-- Rashid Shaheed (WR SEA) — KR+PR; offensive depth RWR 2; proj return yds 43.6/g; HIGH confidence
-- Ameer Abdullah (RB JAX) — KR; offensive depth RB 3; proj return yds 43.3/g; HIGH confidence
+- Rashid Shaheed (WR SEA) — KR+PR; offensive depth RWR 3; proj return yds 43.6/g; HIGH confidence
 - Malik Washington (WR MIA) — KR+PR; offensive depth SWR 2; proj return yds 35.2/g; HIGH confidence; yours: 10-Team Dynasty — Dynasty V2
 - Sean Tucker (RB TB) — KR; offensive depth RB 3; proj return yds 35.1/g; HIGH confidence
 - Dohnte Meyers (WR CIN) — KR+PR; offensive depth SWR 3; proj return yds 29.0/g; MEDIUM confidence
 - Deebo Samuel Sr. (WR SF) — KR; offensive depth SWR 2; proj return yds 28.2/g; HIGH confidence
 - Trevor Etienne (RB CAR) — KR+PR; offensive depth RB 2; proj return yds 24.7/g; HIGH confidence
-- Emmett Johnson (RB KC) — KR+PR; offensive depth RB 1; proj return yds 22.0/g; MEDIUM confidence; yours: 10-Team Dynasty — Dynasty V2 | 10-Team Redraft — Big Tiger Takeover
-- Seth McGowan (RB IND) — KR; offensive depth RB 2; proj return yds 22.0/g; MEDIUM confidence
+- Emmett Johnson (RB KC) — KR+PR; offensive depth RB 2; proj return yds 22.0/g; MEDIUM confidence; yours: 10-Team Dynasty — Dynasty V2 | 10-Team Redraft — Big Tiger Takeover
 - Jaylen Wright (RB MIA) — KR; offensive depth RB 2; proj return yds 22.0/g; MEDIUM confidence
-- Parker Washington (WR JAX) — PR; offensive depth SWR 1; proj return yds 21.3/g; HIGH confidence; yours: 12-Team Dynasty — One League to Rule Them All
 - Kalif Raymond (WR CHI) — KR+PR; offensive depth SWR 3; proj return yds 17.7/g; HIGH confidence
 - Olamide Zaccheaus (WR ATL) — KR+PR; offensive depth SWR 3; proj return yds 9.8/g; MEDIUM confidence
 - KC Concepcion (WR CLE) — PR; offensive depth SWR 2; proj return yds 7.0/g; MEDIUM confidence
@@ -39,7 +35,7 @@ Current KR/PR role + 2025 return baseline. Dual-role status uses Sleeper offensi
 - Luke McCaffrey — +8.54 return pts/g (KR+PR, HIGH) — FA
 - Greg Dortch — +8.3 return pts/g (KR+PR, HIGH) — FA
 - DeAndre Carter — +8.25 return pts/g (KR+PR, HIGH) — FA
-- Devin Duvernay — +7.65 return pts/g (KR+PR + OFF, HIGH) — FA
+- Devin Duvernay — +7.65 return pts/g (KR+PR, HIGH) — FA
 - Marvin Mims Jr. — +7.4 return pts/g (KR+PR, HIGH) — FA
 - Skyy Moore — +7.05 return pts/g (KR+PR, HIGH) — FA
 - Xavier Gipson — +6.75 return pts/g (KR+PR, HIGH) — FA
@@ -49,7 +45,7 @@ Current KR/PR role + 2025 return baseline. Dual-role status uses Sleeper offensi
 - Isaiah Williams — +4.59 return pts/g (KR+PR, HIGH) — FA
 - Keaton Mitchell — +4.55 return pts/g (KR + OFF, HIGH) — FA
 - Rashid Shaheed — +4.36 return pts/g (KR+PR + OFF, HIGH) — FA
-- Ameer Abdullah — +4.33 return pts/g (KR + OFF, HIGH) — FA
+- Ameer Abdullah — +4.33 return pts/g (KR+PR, HIGH) — FA
 - Britain Covey — +4.15 return pts/g (KR+PR, HIGH) — FA
 - Malik Washington — +3.52 return pts/g (KR+PR + OFF, HIGH) — FA
 - Sean Tucker — +3.51 return pts/g (KR + OFF, HIGH) — FA

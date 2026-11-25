@@ -3,43 +3,43 @@
 IDP values use this league's exact Sleeper scoring. Before 2026 games exist, 2025 league-scored production is a labeled baseline proxy; the feed automatically switches to 2026 regular-season data after kickoff.
 
 ## DL
-- Arvell Reese (NYG) — 20.51 proxy pts/g; tackles 5.78 solo + 3.11 ast; sacks 0.5; PD 0.44
-- Quinnen Williams (DAL) — 17.16 proxy pts/g; tackles 2.6 solo + 1.9 ast; sacks 0.6; PD 0.1
-- George Karlaftis (KC) — 17.05 proxy pts/g; tackles 1.67 solo + 1.89 ast; sacks 0.61; PD 1.11
-- Jeffery Simmons (CHI) — 15.88 proxy pts/g; tackles 2.89 solo + 2.44 ast; sacks 0.67; PD 0.56
-- Carl Granderson (NO) — 13.39 proxy pts/g; tackles 1.88 solo + 2.62 ast; sacks 1.06; PD 0.12
-- Andrew Van Ginkel (MIN) — 13.36 proxy pts/g; tackles 1.78 solo + 1.33 ast; sacks 0.94; PD 0.11
-- Maxx Crosby (LV) — 12.8 proxy pts/g; tackles 1.8 solo + 1.6 ast; sacks 0.5; PD 0.1
-- T.J. Watt (PIT) — 12.53 proxy pts/g; tackles 1.75 solo + 0.75 ast; sacks 0.94; PD 0.5
+- Arvell Reese (NYG) — 19.88 proxy pts/g; tackles 5.6 solo + 3.1 ast; sacks 0.45; PD 0.4
+- Quinnen Williams (DAL) — 19.13 proxy pts/g; tackles 2.73 solo + 1.82 ast; sacks 0.73; PD 0.18
+- George Karlaftis (KC) — 17.4 proxy pts/g; tackles 1.8 solo + 1.8 ast; sacks 0.8; PD 1.0
+- Jeffery Simmons (CHI) — 17.36 proxy pts/g; tackles 2.9 solo + 2.3 ast; sacks 0.9; PD 0.5
+- Boye Mafe (CIN) — 13.08 proxy pts/g; tackles 1.8 solo + 1.1 ast; sacks 0.95; PD 0.1
+- Carl Granderson (NO) — 12.59 proxy pts/g; tackles 1.78 solo + 2.56 ast; sacks 0.94; PD 0.22
 - Will Anderson Jr. (HOU) — 12.44 proxy pts/g; tackles 2.1 solo + 2.0 ast; sacks 1.15; PD 0.1
-- Myles Garrett (LAR) — 12.0 proxy pts/g; tackles 1.5 solo + 0.0 ast; sacks 1.5; PD 0.0
-- Greg Rousseau (BUF) — 11.79 proxy pts/g; tackles 1.89 solo + 0.89 ast; sacks 0.89; PD 0.89
-- Adetomiwa Adebawore (IND) — 11.23 proxy pts/g; tackles 1.56 solo + 1.78 ast; sacks 0.56; PD 0.33
+- Maxx Crosby (LV) — 12.33 proxy pts/g; tackles 1.64 solo + 1.55 ast; sacks 0.45; PD 0.27
+- Andrew Van Ginkel (MIN) — 12.04 proxy pts/g; tackles 1.7 solo + 1.3 ast; sacks 0.85; PD 0.1
+- Mike Green (BAL) — 11.48 proxy pts/g; tackles 1.9 solo + 1.2 ast; sacks 0.75; PD 0.0
+- Greg Rousseau (BUF) — 11.46 proxy pts/g; tackles 2.0 solo + 0.8 ast; sacks 1.0; PD 0.8
+- Dallas Turner (MIN) — 11.24 proxy pts/g; tackles 1.7 solo + 1.2 ast; sacks 0.8; PD 0.3
 
 ## LB
-- Blake Cashman (MIN) — 22.76 proxy pts/g; tackles 4.88 solo + 4.38 ast; sacks 0.56; PD 0.88
-- Alex Singleton (DEN) — 20.96 proxy pts/g; tackles 5.56 solo + 6.0 ast; sacks 0.22; PD 0.22
+- Blake Cashman (MIN) — 22.14 proxy pts/g; tackles 4.78 solo + 4.44 ast; sacks 0.5; PD 0.78
+- Alex Singleton (DEN) — 22.0 proxy pts/g; tackles 5.3 solo + 6.2 ast; sacks 0.3; PD 0.3
+- Nakobe Dean (LV) — 20.91 proxy pts/g; tackles 4.82 solo + 5.64 ast; sacks 0.23; PD 0.27
 - Carson Schwesinger (CLE) — 20.16 proxy pts/g; tackles 4.6 solo + 5.4 ast; sacks 0.3; PD 0.1
-- Nakobe Dean (LV) — 19.28 proxy pts/g; tackles 4.7 solo + 5.6 ast; sacks 0.15; PD 0.2
-- Payton Wilson (PIT) — 19.26 proxy pts/g; tackles 4.89 solo + 4.67 ast; sacks 0.11; PD 0.33
-- Kaden Elliss (NO) — 18.93 proxy pts/g; tackles 4.5 solo + 4.5 ast; sacks 0.33; PD 0.33
-- Sonny Styles (WAS) — 18.1 proxy pts/g; tackles 3.89 solo + 4.78 ast; sacks 0.11; PD 0.44
-- Jamien Sherwood (NYJ) — 17.32 proxy pts/g; tackles 3.8 solo + 4.5 ast; sacks 0.0; PD 0.5
-- Fred Warner (SF) — 17.24 proxy pts/g; tackles 4.22 solo + 5.33 ast; sacks 0.06; PD 0.33
+- Kaden Elliss (NO) — 17.42 proxy pts/g; tackles 4.14 solo + 4.29 ast; sacks 0.29; PD 0.29
+- Jordyn Brooks (MIA) — 17.28 proxy pts/g; tackles 4.0 solo + 5.2 ast; sacks 0.1; PD 0.2
+- Jamien Sherwood (NYJ) — 17.07 proxy pts/g; tackles 4.18 solo + 4.36 ast; sacks 0.0; PD 0.45
 - Ernest Jones IV (SEA) — 17.0 proxy pts/g; tackles 4.9 solo + 4.9 ast; sacks 0.3; PD 0.5
-- Foyesade Oluokun (JAX) — 16.99 proxy pts/g; tackles 4.89 solo + 2.44 ast; sacks 0.22; PD 0.22
-- Nick Bolton (KC) — 16.96 proxy pts/g; tackles 4.67 solo + 5.0 ast; sacks 0.0; PD 0.22
+- Payton Wilson (PIT) — 17.0 proxy pts/g; tackles 4.5 solo + 4.4 ast; sacks 0.1; PD 0.4
+- Fred Warner (SF) — 16.96 proxy pts/g; tackles 4.2 solo + 5.2 ast; sacks 0.05; PD 0.4
+- Patrick Queen (PIT) — 16.84 proxy pts/g; tackles 2.8 solo + 4.9 ast; sacks 0.35; PD 0.4
+- Josiah Trotter (TB) — 16.72 proxy pts/g; tackles 4.89 solo + 5.0 ast; sacks 0.11; PD 0.33
 
 ## DB
-- Amani Hooker (BUF) — 19.23 proxy pts/g; tackles 4.5 solo + 2.75 ast; sacks 0.0; PD 0.88
-- Jacob Parrish (TB) — 17.98 proxy pts/g; tackles 4.12 solo + 0.75 ast; sacks 0.0; PD 1.75
-- Jordan Battle (CIN) — 17.81 proxy pts/g; tackles 4.44 solo + 2.0 ast; sacks 0.0; PD 0.89
+- Amani Hooker (BUF) — 18.29 proxy pts/g; tackles 4.22 solo + 2.44 ast; sacks 0.0; PD 0.89
 - Evan Williams (GB) — 17.8 proxy pts/g; tackles 4.9 solo + 3.4 ast; sacks 0.1; PD 0.8
-- Jessie Bates III (JAX) — 16.67 proxy pts/g; tackles 3.89 solo + 2.67 ast; sacks 0.0; PD 0.44
+- Ja'Quan McMillian (DEN) — 17.45 proxy pts/g; tackles 2.89 solo + 1.44 ast; sacks 0.33; PD 0.89
+- Jessie Bates III (JAX) — 15.36 proxy pts/g; tackles 3.7 solo + 2.5 ast; sacks 0.0; PD 0.4
 - Quentin Lake (LAR) — 15.16 proxy pts/g; tackles 3.8 solo + 2.7 ast; sacks 0.0; PD 1.1
-- Zyon McCollum (TB) — 15.12 proxy pts/g; tackles 3.11 solo + 0.78 ast; sacks 0.0; PD 1.22
-- Dane Belton (NYJ) — 15.12 proxy pts/g; tackles 4.1 solo + 4.0 ast; sacks 0.1; PD 0.5
 - Kamari Lassiter (HOU) — 15.12 proxy pts/g; tackles 3.6 solo + 1.5 ast; sacks 0.1; PD 1.2
-- Ja'Quan McMillian (DEN) — 14.74 proxy pts/g; tackles 2.75 solo + 1.12 ast; sacks 0.38; PD 0.88
-- Talanoa Hufanga (DEN) — 14.6 proxy pts/g; tackles 2.4 solo + 2.0 ast; sacks 0.2; PD 0.6
-- Kyle Hamilton (BAL) — 14.52 proxy pts/g; tackles 4.8 solo + 2.0 ast; sacks 0.0; PD 0.5
+- Talanoa Hufanga (DEN) — 14.91 proxy pts/g; tackles 2.67 solo + 1.67 ast; sacks 0.17; PD 0.67
+- Zyon McCollum (TB) — 14.64 proxy pts/g; tackles 3.0 solo + 0.8 ast; sacks 0.0; PD 1.1
+- Jordan Battle (CIN) — 14.52 proxy pts/g; tackles 4.2 solo + 2.0 ast; sacks 0.0; PD 0.8
+- M.J. Stewart (HOU) — 14.5 proxy pts/g; tackles 4.0 solo + 4.5 ast; sacks 0.38; PD 0.25
+- Kyle Hamilton (BAL) — 14.25 proxy pts/g; tackles 4.82 solo + 2.09 ast; sacks 0.0; PD 0.45
+- Tykee Smith (TB) — 14.08 proxy pts/g; tackles 3.1 solo + 2.7 ast; sacks 0.0; PD 0.4

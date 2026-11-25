@@ -52,7 +52,6 @@ league_id,roster_id,is_my_roster,player_id,player,position,nfl_team,keeper_eligi
 1359546418284494848,12,False,1466,Travis Kelce,TE,KC,True,14,draft round,107.33,9,5,18.6,secondary tiebreaker only
 1359546418284494848,4,False,4984,Josh Allen,QB,BUF,True,3,draft round,25.0,3,0,18.5,secondary tiebreaker only
 1359546418284494848,11,False,6813,Jonathan Taylor,RB,IND,True,2,draft round,25.67,3,-1,18.5,secondary tiebreaker only
-1359546418284494848,1,True,11563,Bo Nix,QB,DEN,True,15,draft round,110.67,10,5,18.4,secondary tiebreaker only
 1359546418284494848,10,False,11604,Brock Bowers,TE,LV,True,2,draft round,28.67,3,-1,18.3,secondary tiebreaker only
 1359546418284494848,12,False,7569,Nico Collins,WR,HOU,True,2,draft round,28.33,3,-1,18.3,secondary tiebreaker only
 1359546418284494848,1,True,13279,Carnell Tate,WR,TEN,True,6,draft round,48.67,5,1,18.1,secondary tiebreaker only
@@ -64,7 +63,7 @@ league_id,roster_id,is_my_roster,player_id,player,position,nfl_team,keeper_eligi
 1359546418284494848,4,False,9493,Puka Nacua,WR,LAR,True,1,draft round,44.0,4,-3,17.4,secondary tiebreaker only
 1359546418284494848,9,False,3198,Derrick Henry,RB,BAL,True,2,draft round,43.67,4,-2,17.4,secondary tiebreaker only
 1359546418284494848,1,True,6804,Jordan Love,QB,GB,True,7,FA/default round,61.5,6,1,17.3,secondary tiebreaker only
-1359546418284494848,8,False,8148,Jameson Williams,WR,DET,True,4,draft round,47.17,4,0,17.2,secondary tiebreaker only
+1359546418284494848,2,False,8148,Jameson Williams,WR,DET,True,4,draft round,47.17,4,0,17.2,secondary tiebreaker only
 1359546418284494848,9,False,11646,Jalen Coker,WR,CAR,True,7,FA/default round,63.67,6,1,17.2,secondary tiebreaker only
 1359546418284494848,12,False,3294,Dak Prescott,QB,DAL,True,7,draft round,65.0,6,1,17.1,secondary tiebreaker only
 1359546418284494848,2,False,12481,Cam Skattebo,RB,NYG,True,4,draft round,49.67,5,-1,17.0,secondary tiebreaker only
@@ -74,7 +73,7 @@ league_id,roster_id,is_my_roster,player_id,player,position,nfl_team,keeper_eligi
 1359546418284494848,5,False,13294,Makai Lemon,WR,PHI,True,10,draft round,85.17,8,2,16.9,secondary tiebreaker only
 1359546418284494848,7,False,8155,Breece Hall,RB,NYJ,True,3,draft round,53.83,5,-2,16.8,secondary tiebreaker only
 1359546418284494848,9,False,2216,Mike Evans,WR,SF,True,5,draft round,55.33,5,0,16.7,secondary tiebreaker only
-1359546418284494848,2,False,4866,Saquon Barkley,RB,PHI,True,1,draft round,58.17,5,-4,16.5,secondary tiebreaker only
+1359546418284494848,8,False,4866,Saquon Barkley,RB,PHI,True,1,draft round,58.17,5,-4,16.5,secondary tiebreaker only
 1359546418284494848,2,False,9480,Brenton Strange,TE,JAX,True,15,draft round,127.17,11,4,16.4,secondary tiebreaker only
 1359546418284494848,9,False,7526,Jaylen Waddle,WR,DEN,True,3,draft round,60.83,6,-3,16.4,secondary tiebreaker only
 1359546418284494848,7,False,12534,Kyle Monangai,RB,CHI,True,13,draft round,111.67,10,3,16.3,secondary tiebreaker only
@@ -95,7 +94,7 @@ league_id,roster_id,is_my_roster,player_id,player,position,nfl_team,keeper_eligi
 1359546418284494848,5,False,5859,A.J. Brown,WR,NE,True,2,draft round,84.33,8,-6,14.9,secondary tiebreaker only
 1359546418284494848,11,False,9758,C.J. Stroud,QB,HOU,True,7,FA/default round,84.67,8,-1,14.9,secondary tiebreaker only
 1359546418284494848,6,False,10213,Tre Tucker,WR,LV,True,7,FA/default round,86.67,8,-1,14.8,secondary tiebreaker only
-1359546418284494848,8,False,7611,Rhamondre Stevenson,RB,NE,True,7,draft round,90.17,8,-1,14.6,secondary tiebreaker only
+1359546418284494848,2,False,7611,Rhamondre Stevenson,RB,NE,True,7,draft round,90.17,8,-1,14.6,secondary tiebreaker only
 1359546418284494848,6,False,11783,Ryan Flournoy,WR,DAL,True,7,FA/default round,91.83,8,-1,14.5,secondary tiebreaker only
 1359546418284494848,6,False,13296,Caleb Douglas,WR,MIA,True,7,FA/default round,91.33,8,-1,14.5,secondary tiebreaker only
 1359546418284494848,5,False,12474,Woody Marks,RB,HOU,True,13,draft round,127.83,11,2,14.3,secondary tiebreaker only
@@ -110,7 +109,7 @@ league_id,roster_id,is_my_roster,player_id,player,position,nfl_team,keeper_eligi
 1359546418284494848,11,False,12518,Tyler Warren,TE,IND,True,9,draft round,107.5,9,0,13.6,secondary tiebreaker only
 1359546418284494848,12,False,10236,Dalton Kincaid,TE,BUF,True,10,draft round,108.33,10,0,13.5,secondary tiebreaker only
 1359546418284494848,10,False,7543,Travis Etienne Jr.,RB,NO,True,3,draft round,110.5,10,-7,13.4,secondary tiebreaker only
-1359546418284494848,8,False,5844,T.J. Hockenson,TE,MIN,True,7,FA/default round,121.33,11,-4,12.7,secondary tiebreaker only
+1359546418284494848,2,False,5844,T.J. Hockenson,TE,MIN,True,7,FA/default round,121.33,11,-4,12.7,secondary tiebreaker only
 1359546418284494848,7,False,13293,Ja'Kobi Lane,WR,BAL,True,16,draft round,161.5,14,2,12.3,secondary tiebreaker only
 1359546418284494848,1,True,11628,Marvin Harrison Jr.,WR,HOU,True,7,draft round,129.33,11,-4,12.2,secondary tiebreaker only
 1359546418284494848,3,False,3257,Jacoby Brissett,QB,BAL,True,7,FA/default round,129.83,11,-4,12.2,secondary tiebreaker only
@@ -122,14 +121,15 @@ league_id,roster_id,is_my_roster,player_id,player,position,nfl_team,keeper_eligi
 1359546418284494848,12,False,8136,Rachaad White,RB,WAS,True,10,draft round,136.5,12,-2,11.8,secondary tiebreaker only
 1359546418284494848,3,False,5012,Mark Andrews,TE,BAL,True,11,draft round,140.33,12,-1,11.6,secondary tiebreaker only
 1359546418284494848,5,False,8408,Jordan Mason,RB,MIN,True,9,draft round,139.5,12,-3,11.6,secondary tiebreaker only
-1359546418284494848,2,False,13417,De'Zhaun Stribling,WR,SF,True,10,draft round,145.83,13,-3,11.3,secondary tiebreaker only
+1359546418284494848,8,False,13417,De'Zhaun Stribling,WR,SF,True,10,draft round,145.83,13,-3,11.3,secondary tiebreaker only
 1359546418284494848,1,True,13287,Jeremiyah Love,RB,ARI,True,3,draft round,147.5,13,-10,11.2,secondary tiebreaker only
-1359546418284494848,2,False,10218,Xavier Hutchinson,WR,HOU,True,7,FA/default round,147.2,13,-6,11.2,secondary tiebreaker only
 1359546418284494848,4,False,7021,Rico Dowdle,RB,PIT,True,7,draft round,146.0,13,-6,11.2,secondary tiebreaker only
 1359546418284494848,9,False,4993,Mike Gesicki,TE,CIN,True,7,FA/default round,153.5,13,-6,10.8,secondary tiebreaker only
 1359546418284494848,12,False,11834,Devaughn Vele,WR,NO,True,7,FA/default round,153.5,13,-6,10.8,secondary tiebreaker only
+1359546418284494848,2,False,13414,Kaelon Black,RB,SF,True,7,FA/default round,154.67,13,-6,10.7,secondary tiebreaker only
 1359546418284494848,4,False,13285,Malachi Fields,WR,NYG,True,7,FA/default round,154.5,13,-6,10.7,secondary tiebreaker only
 1359546418284494848,5,False,7600,Pat Freiermuth,TE,PIT,True,7,FA/default round,154.83,13,-6,10.7,secondary tiebreaker only
+1359546418284494848,8,False,12522,Cam Ward,QB,TEN,True,7,FA/default round,154.83,13,-6,10.7,secondary tiebreaker only
 1359546418284494848,11,False,2505,Darren Waller,TE,CAR,True,7,FA/default round,155.67,13,-6,10.7,secondary tiebreaker only
 1359546418284494848,1,True,9482,Michael Mayer,TE,LV,True,7,FA/default round,156.4,14,-7,10.6,secondary tiebreaker only
 1359546418284494848,7,False,5001,Dalton Schultz,TE,HOU,True,14,draft round,159.67,14,0,10.4,secondary tiebreaker only
@@ -139,12 +139,12 @@ league_id,roster_id,is_my_roster,player_id,player,position,nfl_team,keeper_eligi
 1359546418284494848,11,False,12489,RJ Harvey,RB,DEN,True,7,draft round,180.67,16,-9,9.2,secondary tiebreaker only
 1359546418284494848,5,False,12533,Jacory Croskey-Merritt,RB,WAS,True,8,draft round,187.0,16,-8,8.8,secondary tiebreaker only
 1359546418284494848,9,False,8142,Alec Pierce,WR,IND,True,17,draft round,193.17,17,0,8.4,secondary tiebreaker only
-1359546418284494848,2,False,10219,Chris Rodriguez Jr.,RB,JAX,True,13,draft round,200.0,17,-4,8.0,secondary tiebreaker only
 1359546418284494848,4,False,13424,Seth McGowan,RB,IND,True,7,FA/default round,201.67,17,-10,7.9,secondary tiebreaker only
 1359546418284494848,8,False,4147,Samaje Perine,RB,CIN,True,7,FA/default round,218.0,17,-10,6.9,secondary tiebreaker only
 1359546418284494848,7,False,6806,J.K. Dobbins,RB,DEN,True,10,draft round,219.17,17,-7,6.8,secondary tiebreaker only
+1359546418284494848,8,False,12499,Elic Ayomanor,WR,TEN,True,7,FA/default round,222.5,17,-10,6.7,secondary tiebreaker only
 1359546418284494848,6,False,6130,Devin Singletary,RB,NYG,True,7,FA/default round,262.4,17,-10,4.3,secondary tiebreaker only
-1359546418284494848,2,False,3286,Demarcus Robinson,WR,SF,True,7,FA/default round,275.25,17,-10,3.5,secondary tiebreaker only
+1359546418284494848,2,False,5995,Justice Hill,RB,BAL,True,7,FA/default round,269.67,17,-10,3.8,secondary tiebreaker only
 1359546418284494848,9,False,7562,Tutu Atwell,WR,LAR,True,7,FA/default round,284.0,17,-10,3.0,secondary tiebreaker only
 1359546418284494848,3,False,11199,Emari Demercado,RB,HOU,True,7,FA/default round,285.5,17,-10,2.9,secondary tiebreaker only
 1359546418284494848,12,False,4881,Lamar Jackson,QB,BAL,True,3,draft round,302.67,17,-14,1.8,secondary tiebreaker only
@@ -157,10 +157,8 @@ league_id,roster_id,is_my_roster,player_id,player,position,nfl_team,keeper_eligi
 1359546418284494848,1,True,13363,David Bailey,LB,NYJ,False,,not keeper eligible,,,,0.0,redraft-only; keeper ignored
 1359546418284494848,1,True,6217,Blake Cashman,LB,MIN,False,,not keeper eligible,2.0,,,0.0,redraft-only; keeper ignored
 1359546418284494848,1,True,6650,Chase McLaughlin,K,TB,False,,not keeper eligible,215.67,,,0.0,redraft-only; keeper ignored
-1359546418284494848,1,True,8395,Dane Belton,DB,NYJ,False,,not keeper eligible,30.5,,,0.0,redraft-only; keeper ignored
 1359546418284494848,2,False,10927,Jordan Battle,DB,CIN,False,,not keeper eligible,38.5,,,0.0,redraft-only; keeper ignored
 1359546418284494848,2,False,11533,Brandon Aubrey,K,DAL,False,,not keeper eligible,189.83,,,0.0,redraft-only; keeper ignored
-1359546418284494848,2,False,12617,Demetrius Knight Jr.,LB,CIN,False,,not keeper eligible,40.0,,,0.0,redraft-only; keeper ignored
 1359546418284494848,2,False,5041,Fred Warner,LB,SF,False,,not keeper eligible,10.5,,,0.0,redraft-only; keeper ignored
 1359546418284494848,2,False,8343,Boye Mafe,DL,CIN,False,,not keeper eligible,109.0,,,0.0,redraft-only; keeper ignored
 1359546418284494848,3,False,11667,Dallas Turner,LB,MIN,False,,not keeper eligible,87.0,,,0.0,redraft-only; keeper ignored
@@ -168,7 +166,6 @@ league_id,roster_id,is_my_roster,player_id,player,position,nfl_team,keeper_eligi
 1359546418284494848,3,False,4081,Budda Baker,DB,ARI,False,,not keeper eligible,36.5,,,0.0,redraft-only; keeper ignored
 1359546418284494848,3,False,7839,Evan McPherson,K,CIN,False,,not keeper eligible,212.67,,,0.0,redraft-only; keeper ignored
 1359546418284494848,4,False,11786,Cam Little,K,JAX,False,,not keeper eligible,195.17,,,0.0,redraft-only; keeper ignored
-1359546418284494848,4,False,12605,Jacob Parrish,DB,TB,False,,not keeper eligible,,,,0.0,redraft-only; keeper ignored
 1359546418284494848,4,False,13377,Arvell Reese,LB,NYG,False,,not keeper eligible,51.5,,,0.0,redraft-only; keeper ignored
 1359546418284494848,4,False,5332,Foyesade Oluokun,LB,JAX,False,,not keeper eligible,21.0,,,0.0,redraft-only; keeper ignored
 1359546418284494848,4,False,7627,Greg Rousseau,DE,BUF,False,,not keeper eligible,97.0,,,0.0,redraft-only; keeper ignored
@@ -178,6 +175,7 @@ league_id,roster_id,is_my_roster,player_id,player,position,nfl_team,keeper_eligi
 1359546418284494848,5,False,5847,Dexter Lawrence II,DT,CIN,False,,not keeper eligible,114.0,,,0.0,redraft-only; keeper ignored
 1359546418284494848,5,False,8329,Devin Lloyd,LB,CAR,False,,not keeper eligible,13.0,,,0.0,redraft-only; keeper ignored
 1359546418284494848,6,False,11539,Jake Bates,K,DET,False,,not keeper eligible,219.67,,,0.0,redraft-only; keeper ignored
+1359546418284494848,6,False,4224,Chuck Clark,DB,DET,False,,not keeper eligible,73.0,,,0.0,redraft-only; keeper ignored
 1359546418284494848,6,False,5991,Maxx Crosby,DE,LV,False,,not keeper eligible,89.5,,,0.0,redraft-only; keeper ignored
 1359546418284494848,6,False,6896,Amik Robertson,CB,WAS,False,,not keeper eligible,77.0,,,0.0,redraft-only; keeper ignored
 1359546418284494848,6,False,8267,Nakobe Dean,LB,LV,False,,not keeper eligible,7.0,,,0.0,redraft-only; keeper ignored
